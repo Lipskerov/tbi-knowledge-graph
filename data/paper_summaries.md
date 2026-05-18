@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
 *Generated: 2026-05-18*
-*Total papers: 2679*
+*Total papers: 2487*
 
 
 ## Cluster: exosomal_rna
@@ -79,7 +79,7 @@
 **Authors:** Pryzmont M, Kosciuczuk U, Maciejczyk M  
 **Journal:** Frontiers in medicine (2025)  
 **PMID:** 40529152  **DOI:** 10.3389/fmed.2025.1539159
-**Entities:** UPS, TBI  
+**Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) is a significant medical problem because of its high early mortality rate in intensive care and high risk of severe neurological complications in long-term follow-ups. Cra...
 
 ### Extracellular vesicles as a biomarkers in traumatic brain injury: a systematic review of animal and clinical studies.
@@ -877,7 +877,7 @@
 **Authors:** Zhang L, Li Z, Mao L, Wang H  
 **Journal:** Frontiers in molecular neuroscience (2022)  
 **PMID:** 35392276  **DOI:** 10.3389/fnmol.2022.816182
-**Entities:** autophagy, BBB, TBI  
+**Entities:** BBB, TBI  
 **Abstract:** Acute central nervous system (CNS) injuries, including ischemic stroke, traumatic brain injury (TBI), spinal cord injury (SCI) and subarachnoid hemorrhage (SAH), are the most common cause of death and...
 
 ### MicroRNA-31 inhibits traumatic brain injury-triggered neuronal cell apoptosis by regulating hypoxia-inducible factor-1A/vascular endothelial growth factor A axis.
@@ -947,7 +947,7 @@
 **Authors:** Zhao J, Wang Y, Wang D, Yan W, Zhang S et al.  
 **Journal:** Histology and histopathology (2022)  
 **PMID:** 34897628  **DOI:** 10.14670/HH-18-406
-**Entities:** p62, LC3, beclin-1, autophagy, BBB  
+**Entities:** BBB, TBI  
 **Abstract:** Traumatic brain injury (TBI) can cause the pathological disruption of the blood-brain barrier (BBB) and associated neurological injury. Reducing the severity of such barrier disruption following TBI c...
 
 ### Remote blast-related mild traumatic brain injury is associated with differential expression of exosomal microRNAs identified in neurodegenerative and immunological processes.
@@ -1017,7 +1017,7 @@
 **Authors:** Guedes VA, Mithani S, Williams C, Sass D, Smith EG et al.  
 **Journal:** Neurotrauma reports (2022)  
 **PMID:** 36636744  **DOI:** 10.1089/neur.2022.0058
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** Moderate/severe traumatic brain injury (TBI) causes injury patterns with heterogeneous pathology producing varying outcomes for recovery. Extracellular vesicles (EVs) are particles containing a myriad...
 
 ### Bioinformatics Analysis of miRNAs and mRNAs Network-Xuefu Zhuyu Decoction Exerts Neuroprotection of Traumatic Brain Injury Mice in the Subacute Phase.
@@ -1801,7 +1801,7 @@
 **Authors:** Sun L, Zhao M, Wang Y, Liu A, Lv M et al.  
 **Journal:** Biochemical and biophysical research communications (2017)  
 **PMID:** 27919684  **DOI:** 10.1016/j.bbrc.2016.12.001
-**Entities:** autophagy, TBI  
+**Entities:** TBI  
 **Abstract:** MicroRNA-27a (miR-27a) has been reported to be a brain-specific miRNA and aberrantly expressed in the brain suffered from traumatic brain injury (TBI). The present study is designed to investigate the...
 
 ### MicroRNAs as Novel Biomarkers for the Diagnosis and Prognosis of Mild and Severe Traumatic Brain Injury.
@@ -1993,28 +1993,28 @@
 **Authors:** Roberts NB, Xie T, Falk H, Bapuraj J, Demski D et al.  
 **Journal:** Annals of emergency medicine (2026)  
 **PMID:** 41071136  **DOI:** 10.1016/j.annemergmed.2025.09.012
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI, i-STAT TBI  
+**Entities:** GFAP, UCH-L1, TBI, i-STAT TBI  
 **Abstract:** STUDY OBJECTIVE: To determine the diagnostic accuracy of glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) for detecting clinically significant acute traumatic intr...
 
 ### [Diagnostic significance of ubiquitin C-terminal hydrolase L1 in patients with mine-blast traumatic brain injury].
 **Authors:** Balakin EI, Yurku KA, Butkova TV, Malsagova KA, Kaysheva AL et al.  
 **Journal:** Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova (2026)  
 **PMID:** 42133426  **DOI:** 10.17116/jnevro2026126041135
-**Entities:** GFAP, UCH-L1, tau, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, tau, TBI, NSE  
 **Abstract:** OBJECTIVE: To assess the diagnostic significance of the UCHL1 protein in mine-blast traumatic brain injury (TBI), to determine its correlation with the severity of brain damage, and to compare its use...
 
 ### Association Between Plasma Glial Fibrillary Acidic Protein, Ubiquitin Carboxy-Terminal Hydrolase-L1, S100B, and High-Sensitivity C-Reactive Protein Levels, Clinical Findings, and Imaging Abnormalities in Children with Traumatic Brain Injury: A Transforming Research and Clinical Knowledge in Traumatic Brain Injury Study.
 **Authors:** Godfrey D, Bambrick M, Hotz G, Jain S, Yuh EL et al.  
 **Journal:** Journal of neurotrauma (2026)  
 **PMID:** 42093199  **DOI:** 10.1177/08977151251384319
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI, NSE  
 **Abstract:** Blood-based biomarkers have shown utility in discriminating adult patients with and without traumatic brain injury (TBI). Biomarker levels vary with severity, time since injury, and imaging findings (...
 
 ### Orthopedic trauma is associated with higher serum concentrations of glial fibrillary acidic protein and ubiquitin C-terminal hydrolase L1 in mild traumatic brain injury with negative head computed tomography.
 **Authors:** Osmić-Husni A, Jadrić R  
 **Journal:** Biochemia medica (2026)  
 **PMID:** 41710251  **DOI:** 10.11613/BM.2026.010707
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** INTRODUCTION: Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) are increasingly used biomarkers in the evaluation of mild traumatic brain injury (mTBI), primarily ...
 
 ### Predicting Traumatic Brain Injury Post-Trauma Using Temporal Attention on Sleep-Wake Data.
@@ -2028,14 +2028,14 @@
 **Authors:** Dark HE, Kenney K, de Souza NL, Esopenko C, Edwards KA et al.  
 **Journal:** JAMA network open (2026)  
 **PMID:** 41739474  **DOI:** 10.1001/jamanetworkopen.2025.59596
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** IMPORTANCE: Repetitive mild traumatic brain injury (mTBI) may result in neurobiological changes that contribute to persistent symptoms of cognitive dysfunction. Elevations in plasma biomarkers (glial ...
 
 ### The role of two brain injury biomarkers, GFAP and UCH-L1, for the management of mTBI in the Emergency Department: an observational study.
 **Authors:** Campagna D, Cucuzza F, Martines GF, Amico L, Pennisi M et al.  
 **Journal:** Internal and emergency medicine (2026)  
 **PMID:** 40465052  **DOI:** 10.1007/s11739-025-04000-7
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** The management of the Emergency Department (ED) of patients with mild traumatic brain injury (mTBI) is currently challenging due to its clinical heterogeneity. The most rapid method to assess brain da...
 
 ### A patent review on traumatic brain injuries (2020-2025).
@@ -2056,7 +2056,7 @@
 **Authors:** Boegh Andersen I, Christiansen AL, Fruekilde MB, Rosenberg L  
 **Journal:** The journal of applied laboratory medicine (2026)  
 **PMID:** 41825621  **DOI:** 10.1093/jalm/jfag021
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** BACKGROUND: Ubiquitin C-terminal hydrolase-L1 (UCH-L1) and glial fibrillary acidic protein (GFAP) have been evaluated as an alternative to S100 calcium binding protein B (S100B), which is mentioned in...
 
 ### Association of acute blood biomarkers with diffusion tensor imaging and outcome in patients with traumatic brain injury presenting with GCS of 13-15.
@@ -2077,14 +2077,14 @@
 **Authors:** Wetmore GC, Becker ER, Baucom MR, Price AD, Shondel RC et al.  
 **Journal:** The Journal of surgical research (2026)  
 **PMID:** 41456471  **DOI:** 10.1016/j.jss.2025.12.003
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** INTRODUCTION: Ubiquitin carboxyl-terminal hydrolase L1 (UCHL1) is used as a biomarker of traumatic brain injury (TBI). However, there is limited data on the use in critically injured or polytrauma pat...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
 **Journal:** Current opinion in anaesthesiology (2025)  
 **PMID:** 39936885  **DOI:** 10.1097/ACO.0000000000001468
-**Entities:** GFAP, NfL, ubiquitin, TBI  
+**Entities:** GFAP, NfL, TBI  
 **Abstract:** PURPOSE OF REVIEW: This review aims to summarize recent developments for the management of severe traumatic brain injury (TBI) in the ICU. Recent advancements in TBI ICU management emphasize a progres...
 
 ### High-dimensional proteomic analysis for pathophysiological classification of traumatic brain injury.
@@ -2105,42 +2105,42 @@
 **Authors:** Mondello S, Amrein K, Czeiter E, Citerio G, Diaz-Arrastia R et al.  
 **Journal:** Journal of neurotrauma (2025)  
 **PMID:** 40432557  **DOI:** 10.1089/neu.2024.0620
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** Circulating biomarkers might improve the prediction of outcomes in patients with traumatic brain injury (TBI) beyond current approaches. Robust and up-to-date evidence is required to support their cli...
 
 ### Systematic review and meta-analysis of observational studies evaluating glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCHL1) as blood biomarkers of mild acute traumatic brain injury (mTBI) or sport-related concussion (SRC) in adult subjects.
 **Authors:** Mastandrea P, Mengozzi S, Bernardini S  
 **Journal:** Diagnosis (Berlin, Germany) (2025)  
 **PMID:** 39167371  **DOI:** 10.1515/dx-2024-0078
-**Entities:** GFAP, UCH-L1, tau, p-tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, tau, p-tau, mTBI  
 **Abstract:** INTRODUCTION: Neurotrauma is the leading cause of death in individuals <45 years old. Many of the published articles on UCHL1 and GFAP lack rigorous methods and reporting. CONTENT: Due to the high het...
 
 ### Extracellular Vesicle Glial Fibrillary Acidic Protein as a Circulating Biomarker of Traumatic Brain Injury Severity.
 **Authors:** Babaee A, Wichmann TO, Rasmussen MM, Brink O, Olsen DA et al.  
 **Journal:** Journal of molecular neuroscience : MN (2025)  
 **PMID:** 40410624  **DOI:** 10.1007/s12031-025-02360-5
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** Traumatic brain injury (TBI) remains a major global health challenge with a need for improved diagnostic and prognostic biomarkers. This study aimed to evaluate the biomarker potential of extracellula...
 
 ### Exclusion of intracranial lesions in mild traumatic brain injury using glial fibrillary acidic protein and ubiquitin C-terminal hydrolase-L1: a European multicenter study.
 **Authors:** Milevoj Kopcinovic L, Nikolac Gabaj N, Lapić I, Rogić D, Oprea OR et al.  
 **Journal:** European journal of emergency medicine : official journal of the European Society for Emergency Medicine (2025)  
 **PMID:** 40214300  **DOI:** 10.1097/MEJ.0000000000001234
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND: Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (UCH-L1) are blood biomarkers that able to aid in the assessment of mild traumatic brain injury (mTBI) patients...
 
 ### Effect of blood alcohol on the diagnostic accuracy of glial fibrillary acidic protein and ubiquitin carboxy-terminal hydrolase L1 for traumatic intracranial hemorrhage: A TRACK-TBI study.
 **Authors:** Harris M, Yue JK, Jain S, Sun X, Puccio AM et al.  
 **Journal:** Academic emergency medicine : official journal of the Society for Academic Emergency Medicine (2025)  
 **PMID:** 39967286  **DOI:** 10.1111/acem.15109
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI, i-STAT TBI  
+**Entities:** GFAP, UCH-L1, TBI, i-STAT TBI  
 **Abstract:** BACKGROUND: Acute intoxication is common in patients evaluated for traumatic brain injury (TBI). However, the effect of elevated blood alcohol levels (BALs) on the diagnostic accuracy of FDA-cleared b...
 
 ### Brain injury biomarkers and applications in neurological diseases.
 **Authors:** Zhang H, Wang J, Qu Y, Yang Y, Guo ZN  
 **Journal:** Chinese medical journal (2025)  
 **PMID:** 38915214  **DOI:** 10.1097/CM9.0000000000003061
-**Entities:** GFAP, S100B, tau, ubiquitin, TBI  
+**Entities:** GFAP, S100B, tau, TBI, Alzheimer  
 **Abstract:** Neurological diseases are a major health concern, and brain injury is a typical pathological process in various neurological disorders. Different biomarkers in the blood or the cerebrospinal fluid are...
 
 ### Traumatic brain injury, changes in plasma amyloid, tau, and neurodegenerative biomarkers, and dementia risk.
@@ -2168,7 +2168,7 @@
 **Authors:** Jalali R, Bałuch M, Malinowska J, Zwiernik J, Kern A et al.  
 **Journal:** Medical science monitor : international medical journal of experimental and clinical research (2025)  
 **PMID:** 40498681  **DOI:** 10.12659/MSM.948353
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND Traumatic brain injury (TBI) is a major cause of mortality and disability in Western countries. The diagnosis of TBI mainly involves computed tomography (CT), and Glasgow Coma Scale assessm...
 
 ### Prediction of functional outcome after traumatic brain injury: a narrative review.
@@ -2189,14 +2189,14 @@
 **Authors:** Godeiro Coelho LM, Teixeira FJP, Koru-Sengul T, Manolovitz B, Taylor RR et al.  
 **Journal:** Neurology (2025)  
 **PMID:** 40811753  **DOI:** 10.1212/WNL.0000000000213997
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI, NSE  
 **Abstract:** BACKGROUND AND OBJECTIVES: Outcome prediction in traumatic brain injury (TBI) guides treatment decisions. Biomarkers such as S100 calcium-binding protein B (S100B), glial fibrillary acidic protein (GF...
 
 ### Ubiquitin C-terminal hydrolase-L1 and glial fibrillary acidic protein tandem brain biomarker test in the prediction of CT evident brain injury: A prospective evaluation in the emergency department.
 **Authors:** Curran JM, Onions K, Watts J, Rana A, Hughes E et al.  
 **Journal:** Annals of clinical biochemistry (2025)  
 **PMID:** 40022482  **DOI:** 10.1177/00045632251326483
-**Entities:** GFAP, ubiquitin, TBI  
+**Entities:** GFAP, TBI  
 **Abstract:** 
 
 ### Exploiting blood-based biomarkers to align preclinical models with human traumatic brain injury.
@@ -2231,7 +2231,7 @@
 **Authors:** Kaniuk JK, Kumar D, Mazurek C, Khavari S, Sollenberger C et al.  
 **Journal:** International journal of molecular sciences (2025)  
 **PMID:** 40806328  **DOI:** 10.3390/ijms26157191
-**Entities:** GFAP, UCH-L1, NfL, ubiquitin, neuroinflammation  
+**Entities:** GFAP, UCH-L1, NfL, neuroinflammation, TBI  
 **Abstract:** Traumatic brain injury (TBI) initiates a complex cascade of pathophysiological events that have far-reaching consequences beyond the initial injury. This review examines the current state of the liter...
 
 ### The Diagnostic and Prognostic Role of Biomarkers in Mild Traumatic Brain Injury: An Umbrella Meta-Analysis.
@@ -2245,14 +2245,14 @@
 **Authors:** Kamil R, Atef AbdelAlim Y, Patel S, Sweeney P, Feng H et al.  
 **Journal:** Journal of clinical medicine (2025)  
 **PMID:** 41227122  **DOI:** 10.3390/jcm14217727
-**Entities:** GFAP, UCH-L1, S100B, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, S100B, tau, mTBI  
 **Abstract:** Concussions, classified as a type of mild traumatic brain injury (mTBI), are frequently underdiagnosed due to the subjective nature of symptoms and limitations in existing diagnostic methodologies. Cu...
 
 ### Age-Adjusted Cut-Off Values for Glial Fibrillary Acidic Protein and Ubiquitin Carboxy-Terminal Hydrolase L1 Improve the Diagnostic Accuracy of the Abbott Mild Traumatic Brain Injury Assay.
 **Authors:** Lapić I, Rogić D, Bingula M, Miklić L, Gornik I  
 **Journal:** Diagnostics (Basel, Switzerland) (2025)  
 **PMID:** 40361911  **DOI:** 10.3390/diagnostics15091093
-**Entities:** GFAP, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, mTBI, TBI  
 **Abstract:** 
 
 ### Blood biomarkers for brain injury in chronic subdural hematomas: postoperative dynamics and relation to long-term outcome.
@@ -2301,21 +2301,21 @@
 **Authors:** Cheong S, Gupta R, Kadaba Sridhar S, Hall AJ, Frankel M et al.  
 **Journal:** Critical care explorations (2025)  
 **PMID:** 40911759  **DOI:** 10.1097/CCE.0000000000001306
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** OBJECTIVE: This post hoc study of the Progesterone for Traumatic Brain Injury, Experimental Clinical Treatment (ProTECT) III trial investigates whether improving traumatic brain injury (TBI) classific...
 
 ### Integration of proteomics and bioinformatics in traumatic brain injury biomarker discovery.
 **Authors:** Mohamed MM, El-Absawy EA, Ahmed HM, Hasan ME  
 **Journal:** Biotechnologia (2025)  
 **PMID:** 40703711  **DOI:** 10.5114/bta/202470
-**Entities:** ROS, GFAP, UCH-L1, ubiquitin, neuroinflammation  
+**Entities:** ROS, GFAP, UCH-L1, neuroinflammation, oxidative stress  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) is a significant medical crisis with no FDA-approved therapies to improve functional outcomes. Key biomarkers, such as glial fibrillary acidic protein (GFAP), ...
 
 ### A head-to-head comparison of S100B and GFAP/UCH-L1 for detection of traumatic intracranial lesions in a Scandinavian trauma cohort.
 **Authors:** Wichmann TO, Babaee A, Duch K, Rasmussen MM, Lesbo M et al.  
 **Journal:** Scandinavian journal of trauma, resuscitation and emergency medicine (2025)  
 **PMID:** 40133945  **DOI:** 10.1186/s13049-025-01364-9
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** BACKGROUND: Few countries recommend glial fibrillary protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (UCH-L1) as a substitute for S100 astroglial calcium-binding protein B (S100B) in early detect...
 
 ### Association of Blood-Based Biomarkers and 6-Month Patient-Reported Outcomes in Patients With Mild TBI: A CENTER-TBI Analysis.
@@ -2378,7 +2378,7 @@
 **Authors:** Bilgin Y, Sari FM, Gunay M, Hayme S, Kantar Y et al.  
 **Journal:** BMC emergency medicine (2025)  
 **PMID:** 41257604  **DOI:** 10.1186/s12873-025-01398-3
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** BACKGROUND: Early and accurate identification of intracranial hemorrhage (ICH) following traumatic brain injury (TBI) is crucial, yet conventional imaging techniques like CT have limitations including...
 
 ### Blood Biomarkers as Optimization Tools for Computed Tomography in Mild Traumatic Brain Injury Management in Emergency Departments: A Systematic Review.
@@ -2406,21 +2406,21 @@
 **Authors:** Lagares A, de la Cruz J, Terrisse H, Mejan O, Pavlov V et al.  
 **Journal:** EBioMedicine (2024)  
 **PMID:** 39612652  **DOI:** 10.1016/j.ebiom.2024.105477
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** BACKGROUND: Following mild traumatic brain injury (mTBI), elevated concentrations of brain-specific blood proteins glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (UCH-L1)...
 
 ### Plasma Biomarkers of Traumatic Brain Injury in Adolescents With Sport-Related Concussion.
 **Authors:** Tabor JB, Penner LC, Galarneau JM, Josafatow N, Cooper J et al.  
 **Journal:** JAMA network open (2024)  
 **PMID:** 39235809  **DOI:** 10.1001/jamanetworkopen.2024.31959
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** IMPORTANCE: Blood-based biomarkers may clarify underlying neuropathology and potentially assist in clinical management of adolescents with sport-related concussion (SRC). OBJECTIVE: To investigate the...
 
 ### Performance of glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) biomarkers in predicting CT scan results and neurological outcomes in children with traumatic brain injury (BRAINI-2 paediatric study): protocol of a European prospective multicentre study.
 **Authors:** Lorton F, Lagares A, de la Cruz J, Méjan O, Pavlov V et al.  
 **Journal:** BMJ open (2024)  
 **PMID:** 38754888  **DOI:** 10.1136/bmjopen-2023-083531
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** INTRODUCTION: In light of the burden of traumatic brain injury (TBI) in children and the excessive number of unnecessary CT scans still being performed, new strategies are needed to limit their use wh...
 
 ### Plasma biomarkers in chronic single moderate-severe traumatic brain injury.
@@ -2441,14 +2441,14 @@
 **Authors:** Lapić I, Rogić D, Lončar Vrančić A, Gornik I  
 **Journal:** Laboratory medicine (2024)  
 **PMID:** 38363974  **DOI:** 10.1093/labmed/lmad116
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND: Diagnostic accuracy of glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) in identification of intracranial abnormalities detected by computed tomography...
 
 ### Screening Performance of S100 Calcium-Binding Protein B, Glial Fibrillary Acidic Protein, and Ubiquitin C-Terminal Hydrolase L1 for Intracranial Injury Within Six Hours of Injury and Beyond.
 **Authors:** Trivedi D, Forssten MP, Cao Y, Ismail AM, Czeiter E et al.  
 **Journal:** Journal of neurotrauma (2024)  
 **PMID:** 38115670  **DOI:** 10.1089/neu.2023.0322
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI  
 **Abstract:** The Scandinavian NeuroTrauma Committee (SNC) guidelines recommend S100 calcium-binding protein B (S100B) as a screening tool for early detection of Traumatic brain injury (TBI) in patients presenting ...
 
 ### Innovative Insights into Traumatic Brain Injuries: Biomarkers and New Pharmacological Targets.
@@ -2462,14 +2462,14 @@
 **Authors:** Olde Heuvel F, Li Z, Riedel D, Halbgebauer S, Oeckl P et al.  
 **Journal:** Journal of neurology, neurosurgery, and psychiatry (2024)  
 **PMID:** 38825349  **DOI:** 10.1136/jnnp-2024-333413
-**Entities:** GFAP, UCH-L1, NfL, IL-6, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, IL-6, TBI  
 **Abstract:** BACKGROUND: Biomarkers of neuronal, glial cells and inflammation in traumatic brain injury (TBI) are available but they do not specifically reflect the damage to synapses, which represent the bulk vol...
 
 ### Evaluation of Glial Fibrillary Acidic Protein and Ubiquitin C-Terminal Hydrolase-L1 Using a Rapid Point of Care Test for Predicting Head Computed Tomography Lesions After Mild Traumatic Brain Injury in a Dutch Multi-Center Cohort.
 **Authors:** Chayoua W, Visser K, de Koning ME, Beishuizen A, IJmker R et al.  
 **Journal:** Journal of neurotrauma (2024)  
 **PMID:** 38326742  **DOI:** 10.1089/neu.2023.0491
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI, i-STAT TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) is a common condition seen in emergency departments worldwide. Blood-based biomarkers glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (U...
 
 ### Blood biomarkers for traumatic brain injury: A narrative review of current evidence.
@@ -2490,7 +2490,7 @@
 **Authors:** Kobeissy F, Arja RD, Munoz JC, Shear DA, Gilsdorf J et al.  
 **Journal:** Expert review of molecular diagnostics (2024)  
 **PMID:** 38275158  **DOI:** 10.1080/14737159.2024.2306876
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** INTRODUCTION: Major organ-based in vitro diagnostic (IVD) tests like ALT/AST for the liver and cardiac troponins for the heart are established, but an approved IVD blood test for the brain has been mi...
 
 ### Clinical descriptors of disease trajectories in patients with traumatic brain injury in the intensive care unit (CENTER-TBI): a multicentre observational cohort study.
@@ -2504,7 +2504,7 @@
 **Authors:** Wilson L, Newcombe VFJ, Whitehouse DP, Mondello S, Maas AIR et al.  
 **Journal:** EBioMedicine (2024)  
 **PMID:** 39191173  **DOI:** 10.1016/j.ebiom.2024.105298
-**Entities:** GFAP, UCH-L1, NfL, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, NfL, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury is conventionally categorised as mild, moderate, or severe on the Glasgow Coma Scale (GCS). Recently developed biomarkers can provide more objective and nuanced meas...
 
 ### S100B vs. "GFAP and UCH-L1" assays in the management of mTBI patients.
@@ -2518,7 +2518,7 @@
 **Authors:** Puccio AM, Yue JK, Korley FK, Okonkwo DO, Diaz-Arrastia R et al.  
 **Journal:** Journal of neurotrauma (2024)  
 **PMID:** 38251868  **DOI:** 10.1089/neu.2023.0186
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI, NSE  
 **Abstract:** Blood levels of glial fibrillary acidic protein (GFAP) and ubiquitin carboxyl-terminal hydrolase-L1 (UCH-L1) within 12h of suspected traumatic brain injury (TBI) have been approved by the Food and Dru...
 
 ### Distinct Serum Glial Fibrillary Acidic Protein and Neurofilament Light Time-Courses After Rapid Head Rotations.
@@ -2532,14 +2532,14 @@
 **Authors:** Barton DJ, Coppler PJ, Talia NN, Charalambides A, Stancil B et al.  
 **Journal:** Prehospital emergency care (2024)  
 **PMID:** 36857200  **DOI:** 10.1080/10903127.2023.2185333
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** OBJECTIVE: Early recognition of traumatic brain injury (TBI) is important to facilitate time-sensitive care. Electroencephalography (EEG) can identify TBI, but feasibility of EEG has not been evaluate...
 
 ### Diagnostic Performance of GFAP, UCH-L1, and MAP-2 Within 30 and 60 Minutes of Traumatic Brain Injury.
 **Authors:** Papa L, McKinley WI, Valadka AB, Newman ZC, Nordgren RK et al.  
 **Journal:** JAMA network open (2024)  
 **PMID:** 39230905  **DOI:** 10.1001/jamanetworkopen.2024.31115
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** IMPORTANCE: Data on the performance of traumatic brain injury (TBI) biomarkers within minutes of injury are lacking. OBJECTIVES: To examine the performance of glial fibrillary acidic protein (GFAP), u...
 
 ### Prognostic and Diagnostic Utility of Serum Biomarkers in Pediatric Traumatic Brain Injury.
@@ -2560,21 +2560,21 @@
 **Authors:** Oris C, Kahouadji S, Bouvier D, Sapin V  
 **Journal:** Clinical chemistry (2024)  
 **PMID:** 38656380  **DOI:** 10.1093/clinchem/hvae049
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** BACKGROUND: Despite the use of validated guidelines in the management of mild traumatic brain injury (mTBI), processes to limit unnecessary brain scans are still not sufficient and need to be improved...
 
 ### mTBI Biological Biomarkers as Predictors of Postconcussion Syndrome-Review.
 **Authors:** Stępniewska E, Kałas M, Świderska J, Siemiński M  
 **Journal:** Brain sciences (2024)  
 **PMID:** 38790491  **DOI:** 10.3390/brainsci14050513
-**Entities:** GFAP, UCH-L1, S100B, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, S100B, tau, mTBI  
 **Abstract:** Postconcussion syndrome (PCS) is one of the leading complications that may appear in patients after mild head trauma. Every day, thousands of people, regardless of age, gender, and race, are diagnosed...
 
 ### Age-Dependent Differences in Blood Levels of Glial Fibrillary Acidic Protein but Not Ubiquitin Carboxy-Terminal Hydrolase L1 in Children.
 **Authors:** Mannix R, Borglund E, Monashefsky A, Master C, Corwin D et al.  
 **Journal:** Neurology (2024)  
 **PMID:** 38986044  **DOI:** 10.1212/WNL.0000000000209651
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** OBJECTIVES: Despite the growing evidence of the clinical utility of blood-brain biomarkers in adults with traumatic brain injury (TBI), less is known about the performance of these biomarkers in child...
 
 ### Integrated Microfluidic-Transistor Sensing System for Multiplexed Detection of Traumatic Brain Injury Biomarkers.
@@ -2630,7 +2630,7 @@
 **Authors:** Legramante JM, Minieri M, Belli M, Giovannelli A, Agnoli A et al.  
 **Journal:** International journal of emergency medicine (2024)  
 **PMID:** 39448905  **DOI:** 10.1186/s12245-024-00708-z
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** INTRODUCTION: Mild traumatic brain injury (mTBI) represents a major public health concern and affects millions of people worldwide every year. Diagnosis mainly relies on clinical criteria and computed...
 
 ### A Narrative Review of Existing and Developing Biomarkers in Acute Traumatic Brain Injury for Potential Military Deployed Use.
@@ -2658,7 +2658,7 @@
 **Authors:** Kaaber IA, Lesbo M, Wichmann TO, Olsen DA, Rasmussen MM et al.  
 **Journal:** Scientific reports (2024)  
 **PMID:** 38898030  **DOI:** 10.1038/s41598-024-64125-1
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** Elevated levels of CNS-derived serum proteins are associated with poor outcome in traumatic brain injury (TBI), but the value of adding acute serum biomarker levels to common clinical outcome predicto...
 
 ### Systemic Inflammatory Effect of Hypobaria During Aeromedical Evacuation after Porcine Traumatic Brain Injury.
@@ -2686,14 +2686,14 @@
 **Authors:** Graham N, Zimmerman K, Heslegrave AJ, Keshavan A, Moro F et al.  
 **Journal:** Journal of neurology, neurosurgery, and psychiatry (2024)  
 **PMID:** 37833041  **DOI:** 10.1136/jnnp-2023-331854
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) is associated with the tauopathies Alzheimer's disease and chronic traumatic encephalopathy. Advanced immunoassays show significant elevations in plasma total ...
 
 ### Enhancing hospital course and outcome prediction in patients with traumatic brain injury: A machine learning study.
 **Authors:** Zhu G, Ozkara BB, Chen H, Zhou B, Jiang B et al.  
 **Journal:** The neuroradiology journal (2024)  
 **PMID:** 37921691  **DOI:** 10.1177/19714009231212364
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** PURPOSE: We aimed to use machine learning (ML) algorithms with clinical, lab, and imaging data as input to predict various outcomes in traumatic brain injury (TBI) patients. METHODS: In this retrospec...
 
 ### A systematic review and meta-analysis of major blood protein biomarkers that predict unfavorable outcomes in severe traumatic brain injury.
@@ -2707,7 +2707,7 @@
 **Authors:** Calluy E, Beaudart C, Alokail MS, Al-Daghri NM, Bruyère O et al.  
 **Journal:** Clinical chemistry and laboratory medicine (2024)  
 **PMID:** 38643415  **DOI:** 10.1515/cclm-2024-0194
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI  
 **Abstract:** OBJECTIVES: To evaluate some confounding factors that influence the concentrations of S100 calcium binding protein B (S100B), glial fibrillary acidic protein (GFAP), and ubiquitin carboxyl-terminal hy...
 
 ### On-Field Rule Out of Mild Traumatic Brain Injury: Can Blood-Based Biomarker Testing Change Outcome of Major Sporting Events?
@@ -2721,21 +2721,21 @@
 **Authors:** Mathew D, Purohit P, Gadwal A, Anil A, Sharma RK et al.  
 **Journal:** International journal of legal medicine (2024)  
 **PMID:** 38977505  **DOI:** 10.1007/s00414-024-03287-z
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** OBJECTIVES: This study aimed to explore the potential of glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (UCH-L1) as biomarkers for diagnosis and prognosis in mild and sev...
 
 ### Blood Markers in Relation to a History of Traumatic Brain Injury Across Stages of Cognitive Impairment in a Diverse Cohort.
 **Authors:** LoBue C, Stopschinski BE, Saez Calveras N, Douglas PM, Huebinger R et al.  
 **Journal:** Journal of Alzheimer's disease : JAD (2024)  
 **PMID:** 38143366  **DOI:** 10.3233/JAD-231027
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) has been linked to multiple pathophysiological processes that could increase risk for Alzheimer's disease and related dementias (ADRD). However, the impact of ...
 
 ### Association of Biomarkers of Neuronal Injury and Inflammation With Insomnia Trajectories After Traumatic Brain Injury: A TRACK-TBI Study.
 **Authors:** Werner JK, Albrecht J, Capaldi VF, Jain S, Sun X et al.  
 **Journal:** Neurology (2024)  
 **PMID:** 38547447  **DOI:** 10.1212/WNL.0000000000209269
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, neuroinflammation  
+**Entities:** GFAP, UCH-L1, S100B, neuroinflammation, TBI  
 **Abstract:** BACKGROUND AND OBJECTIVES: Insomnia affects about one-third of patients with traumatic brain injury and is associated with worsened outcomes after injury. We hypothesized that higher levels of plasma ...
 
 ### Acute-Phase Neurofilament Light and Glial Fibrillary Acidic Proteins in Cerebrospinal Fluid Predict Long-Term Outcome After Severe Traumatic Brain Injury.
@@ -2756,7 +2756,7 @@
 **Authors:** Menacho Román M, Penedo Alonso JR, Morales Rodríguez A, Pecharromán de Las Heras I, Vicente Bartulos A et al.  
 **Journal:** International journal of technology assessment in health care (2024)  
 **PMID:** 39653609  **DOI:** 10.1017/S026646232400477X
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND: The assessment of technology in hospital settings is a crucial step towards ensuring the delivery of efficient, effective, and safe healthcare. OBJECTIVE: This study conducts a Hospital-Ba...
 
 ### Identification of novel blood-based extracellular vesicles biomarker candidates with potential specificity for traumatic brain injury in polytrauma patients.
@@ -2770,14 +2770,14 @@
 **Authors:** Oris C, Khatib-Chahidi C, Pereira B, Bailly Defrance V, Bouvier D et al.  
 **Journal:** International journal of molecular sciences (2024)  
 **PMID:** 38674124  **DOI:** 10.3390/ijms25084539
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** The measurement of blood glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) may assist in the management of mild traumatic brain injury (mTBI). This study aims...
 
 ### Association of early dexmedetomidine exposure with brain injury biomarker levels following moderate - Severe traumatic brain injury: A TRACK-TBI study.
 **Authors:** Wongsripuemtet P, Ohnuma T, Temkin N, Barber J, Komisarow J et al.  
 **Journal:** Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia (2024)  
 **PMID:** 39029302  **DOI:** 10.1016/j.jocn.2024.07.003
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI, NSE  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) triggers autonomic dysfunction and inflammatory response that can result in secondary brain injuries. Dexmedetomidine is an alpha-2 agonist that may modulate a...
 
 ### Chronic immunosuppression across 12 months and high ability of acute and subacute CNS-injury biomarker concentrations to identify individuals with complicated mTBI on acute CT and MRI.
@@ -2791,7 +2791,7 @@
 **Authors:** Lange RT, Lippa S, Brickell TA, Gill J, French LM  
 **Journal:** Journal of neurotrauma (2023)  
 **PMID:** 36170576  **DOI:** 10.1089/neu.2022.0249
-**Entities:** GFAP, NfL, tau, ubiquitin, mTBI  
+**Entities:** GFAP, NfL, tau, mTBI, TBI  
 **Abstract:** The purpose of this study was to examine the association of serum tau, neurofilament light chain (NFL), glial fibrillary acidic protein (GFAP), and ubiquitin carboxy-terminal hydrolase L1 (UCHL-1) con...
 
 ### The diagnostic and prognostic value of glial fibrillary acidic protein in traumatic brain injury: a systematic review and meta-analysis.
@@ -2805,7 +2805,7 @@
 **Authors:** Lagares A, Payen JF, Biberthaler P, Poca MA, Méjan O et al.  
 **Journal:** BMJ open (2023)  
 **PMID:** 37460257  **DOI:** 10.1136/bmjopen-2022-071467
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** INTRODUCTION: Two blood brain-derived biomarkers, glial fibrillar acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1), can rule out intracranial lesions in patients with mild tr...
 
 ### Nanoporous Carbon Immunosensor for Highly Accurate and Sensitive Clinical Detection of Glial Fibrillary Acidic Protein in Traumatic Brain Injury, Stroke, and Spinal Cord Injury.
@@ -2833,7 +2833,7 @@
 **Authors:** Rauchman SH, Pinkhasov A, Gulkarov S, Placantonakis DG, De Leon J et al.  
 **Journal:** Diagnostics (Basel, Switzerland) (2023)  
 **PMID:** 37958226  **DOI:** 10.3390/diagnostics13213330
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI, i-STAT TBI  
 **Abstract:** Mild traumatic brain injury (TBI) and concussion can have serious consequences that develop over time with unpredictable levels of recovery. Millions of concussions occur yearly, and a substantial num...
 
 ### Clinical complications after a traumatic brain injury and its relation with brain biomarkers.
@@ -2847,21 +2847,21 @@
 **Authors:** Papa L, Brophy GM, Alvarez W, Hirschl R, Cress M et al.  
 **Journal:** Scientific reports (2023)  
 **PMID:** 37481589  **DOI:** 10.1038/s41598-023-38804-4
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** Glial Fibrillary Acidic Protein (GFAP) and Ubiquitin C-terminal hydrolase (UCH-L1) have been FDA-approved for clinical use in mild and moderate traumatic brain injury (TBI). Understanding sex differen...
 
 ### Plasma ubiquitin C-terminal hydrolase-L1 (UCH-L1) level as a blood biomarker of neurological damage after allogeneic hematopoietic cell transplantation.
 **Authors:** Okada Y, Nakasone H, Yoshimura K, Tamaki M, Kusuda M et al.  
 **Journal:** International journal of hematology (2023)  
 **PMID:** 37480445  **DOI:** 10.1007/s12185-023-03642-7
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** Several biofluid-based biomarkers for traumatic brain injury show promise for use in diagnosis and outcome prediction. In contrast, few studies have investigated biomarkers for non-traumatic brain inj...
 
 ### Biomedical research brings mTBI biomarkers a step closer to the bedside - implementation in clinical practice.
 **Authors:** Martinikova M, Ruzinak R, Kurca E, Grey MT, Sivak S  
 **Journal:** General physiology and biophysics (2023)  
 **PMID:** 37449317  **DOI:** 10.4149/gpb_2023013
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** Research in the field of TBI (traumatic brain injury) has long been focused on severe brain injury, while the number of mild injuries far overweigh severe injuries. Mild head injuries constitute up to...
 
 ### Blood biomarkers and neurodegeneration in individuals exposed to repetitive head impacts.
@@ -2889,7 +2889,7 @@
 **Authors:** Toro C, Jain S, Sun S, Temkin N, Barber J et al.  
 **Journal:** Journal of neurosurgical anesthesiology (2023)  
 **PMID:** 34967764  **DOI:** 10.1097/ANA.0000000000000828
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI, NSE  
 **Abstract:** INTRODUCTION: Early circulatory shock following traumatic brain injury (TBI) is a multifactorial process; however, the impact of brain injury biomarkers on the risk of shock has not been evaluated. We...
 
 ### Utility of Acute and Subacute Blood Biomarkers to Assist Diagnosis in CT-Negative Isolated Mild Traumatic Brain Injury.
@@ -2910,14 +2910,14 @@
 **Authors:** Zimmer L, McDade C, Beyhaghi H, Purser M, Textoris J et al.  
 **Journal:** Journal of neurotrauma (2023)  
 **PMID:** 36267001  **DOI:** 10.1089/neu.2022.0270
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** Two blood-based brain biomarker tests such as the combination of glial fibrillary acidic protein and ubiquitin C-terminal hydrolase-L1 (GFAP+UCH-L1) or S100B have potential to reduce the need for head...
 
 ### Serum assessment of traumatic axonal injury: the correlation of GFAP, t-Tau, UCH-L1, and NfL levels with diffusion tensor imaging metrics and its prognosis utility.
 **Authors:** Castaño-Leon AM, Sánchez Carabias C, Hilario A, Ramos A, Navarro-Main B et al.  
 **Journal:** Journal of neurosurgery (2023)  
 **PMID:** 35901687  **DOI:** 10.3171/2022.5.JNS22638
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** OBJECTIVE: Diagnosis of traumatic axonal injury (TAI) is challenging because of its underestimation by conventional MRI and the technical requirements associated with the processing of diffusion tenso...
 
 ### Imaging of White Matter Injury Correlates with Plasma and Tissue Biomarkers in Pediatric Porcine Model of Traumatic Brain Injury.
@@ -2952,21 +2952,21 @@
 **Authors:** Abdelhak A, Foschi M, Abu-Rumeileh S, Yue JK, D'Anna L et al.  
 **Journal:** Nature reviews. Neurology (2022)  
 **PMID:** 35115728  **DOI:** 10.1038/s41582-021-00616-3
-**Entities:** GFAP, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, mTBI, TBI  
 **Abstract:** Blood-derived biomarkers for brain and spinal cord diseases are urgently needed. The introduction of highly sensitive immunoassays led to a rapid increase in the number of potential blood-derived biom...
 
 ### Prognostic value of day-of-injury plasma GFAP and UCH-L1 concentrations for predicting functional recovery after traumatic brain injury in patients from the US TRACK-TBI cohort: an observational cohort study.
 **Authors:** Korley FK, Jain S, Sun X, Puccio AM, Yue JK et al.  
 **Journal:** The Lancet. Neurology (2022)  
 **PMID:** 35963263  **DOI:** 10.1016/S1474-4422(22)00256-3
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** BACKGROUND: The prognostic value of glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) as day-of-injury predictors of functional outcome after traumatic brain injury...
 
 ### Advances in Traumatic Brain Injury Biomarkers.
 **Authors:** Nishimura K, Cordeiro JG, Ahmed AI, Yokobori S, Gajavelli S  
 **Journal:** Cureus (2022)  
 **PMID:** 35392277  **DOI:** 10.7759/cureus.23804
-**Entities:** GFAP, ubiquitin, TBI  
+**Entities:** GFAP, TBI  
 **Abstract:** Traumatic brain injury (TBI) is increasingly a major cause of disability across the globe. The current methods of diagnosis are inadequate at classifying patients and prognosis. TBI is a diagnostic an...
 
 ### Highlights mild traumatic brain injury 2021.
@@ -2987,7 +2987,7 @@
 **Authors:** Posti JP, Tenovuo O  
 **Journal:** Acta neurologica Scandinavica (2022)  
 **PMID:** 35383879  **DOI:** 10.1111/ane.13620
-**Entities:** GFAP, NfL, tau, ubiquitin, BBB  
+**Entities:** GFAP, NfL, tau, BBB, TBI  
 **Abstract:** Blood-based biomarkers are promising tools to complement clinical variables and imaging findings in the diagnosis, monitoring and outcome prediction of traumatic brain injury (TBI). Several promising ...
 
 ### Traumatic brain injury biomarkers in pediatric patients: a systematic review.
@@ -3001,14 +3001,14 @@
 **Authors:** Zhang M, Chen MY, Wang SL, Ding XM, Yang R et al.  
 **Journal:** European review for medical and pharmacological sciences (2022)  
 **PMID:** 35647847  **DOI:** 10.26355/eurrev_202205_28861
-**Entities:** UCH-L1, ubiquitin, TBI, Alzheimer  
+**Entities:** UCH-L1, TBI, Alzheimer  
 **Abstract:** OBJECTIVE: In recent years, many researchers have taken serum ubiquitin c-terminal hydrolase (Uch-L1) as an indicator of post-traumatic brain injury and associated it with cognitive impairment. Alzhei...
 
 ### S100B, GFAP, UCH-L1 and NSE as predictors of abnormalities on CT imaging following mild traumatic brain injury: a systematic review and meta-analysis of diagnostic test accuracy.
 **Authors:** Amoo M, Henry J, O'Halloran PJ, Brennan P, Husien MB et al.  
 **Journal:** Neurosurgical review (2022)  
 **PMID:** 34709508  **DOI:** 10.1007/s10143-021-01678-z
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** Biomarkers such as calcium channel binding protein S100 subunit beta (S100B), glial fibrillary acidic protein (GFAP), ubiquitin c-terminal hydrolase L1 (UCH-L1) and neuron-specific enolase (NSE) have ...
 
 ### Post-acute blood biomarkers and disease progression in traumatic brain injury.
@@ -3036,7 +3036,7 @@
 **Authors:** Tokic D, Mikacic M, Kumric M, Ticinovic Kurir T, Rancic I et al.  
 **Journal:** Microorganisms (2022)  
 **PMID:** 36363686  **DOI:** 10.3390/microorganisms10112095
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** Accumulating data suggest that various neurologic manifestations are reported in critically-ill COVID-19 patients. Although low testosterone levels were associated with poor outcomes, the relationship...
 
 ### Plasmon-enhanced near-infrared fluorescence detection of traumatic brain injury biomarker glial fibrillary acidic protein in blood plasma.
@@ -3092,7 +3092,7 @@
 **Authors:** Lippa SM, Gill J, Brickell TA, Guedes VA, French LM et al.  
 **Journal:** Current Alzheimer research (2022)  
 **PMID:** 35362372  **DOI:** 10.2174/1567205019666220330144432
-**Entities:** GFAP, NfL, tau, ubiquitin, mTBI  
+**Entities:** GFAP, NfL, tau, mTBI, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) has been associated with an increased likelihood of late-life dementia; however, the mechanisms driving this relationship are elusive. Bloodbased biomarkers ma...
 
 ### The Cerebrospinal Fluid Proteomic Response to Traumatic and Nontraumatic Acute Brain Injury: A Prospective Study.
@@ -3106,7 +3106,7 @@
 **Authors:** Lee J, Kane BJ, Khanwalker M, Sode K  
 **Journal:** Biosensors & bioelectronics (2022)  
 **PMID:** 35390718  **DOI:** 10.1016/j.bios.2022.114232
-**Entities:** UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** UCH-L1, mTBI, TBI  
 **Abstract:** Year over year, the incidence of traumatic brain injury (TBI) in the population is dramatically increasing; thus, timely diagnosis is crucial for improving patient outcomes in the clinic. Ubiquitin C-...
 
 ### Heterogeneity in Blood Biomarker Trajectories After Mild TBI Revealed by Unsupervised Learning.
@@ -3134,14 +3134,14 @@
 **Authors:** Papa L, Walter AE, Wilkes JR, Clonts HS, Johnson B et al.  
 **Journal:** Journal of neurotrauma (2022)  
 **PMID:** 35615873  **DOI:** 10.1089/neu.2022.0083
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** This prospective cohort study examined the relationship between a panel of four serum proteomic biomarkers (glial fibrillary acidic protein [GFAP], ubiquitin C-terminal hydrolase-L1 [UCH-L1], total Ta...
 
 ### Association between Blood and Computed Tomographic Imaging Biomarkers in a Cohort of Mild Traumatic Brain Injury Patients.
 **Authors:** Chen H, Ding VY, Zhu G, Jiang B, Li Y et al.  
 **Journal:** Journal of neurotrauma (2022)  
 **PMID:** 35546284  **DOI:** 10.1089/neu.2021.0390
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** The objective of this work was to analyze the relationships between traumatic brain injury (TBI) on computed tomographic (CT) imaging and blood concentration of glial fibrillary acidic protein (GFAP),...
 
 ### Diagnostic biomarker kinetics: how brain-derived biomarkers distribute through the human body, and how this affects their diagnostic significance: the case of S100B.
@@ -3155,7 +3155,7 @@
 **Authors:** Supraja P, Tripathy S, Krishna Vanjari SR, Singh SG  
 **Journal:** Biosensors & bioelectronics (2022)  
 **PMID:** 35973277  **DOI:** 10.1016/j.bios.2022.114631
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** Traumatic Brain Injury (TBI), a major cause of mortality and neurological disability affecting people of all ages worldwide, remains a diagnostic and therapeutic challenge to date. Rapid, ultra-sensit...
 
 ### Neurochemical Monitoring of Traumatic Brain Injury by the Combined Analysis of Plasma Beta-Synuclein, NfL, and GFAP in Polytraumatized Patients.
@@ -3169,7 +3169,7 @@
 **Authors:** Papa L, Ladde JG, O'Brien JF, Thundiyil JG, Tesar J et al.  
 **Journal:** JAMA network open (2022)  
 **PMID:** 35285924  **DOI:** 10.1001/jamanetworkopen.2022.1302
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** IMPORTANCE: In 2018, the combination of glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase (UCH-L1) levels became the first US Food and Drug Administration-approved blood test t...
 
 ### Systematic review and cumulative meta-analysis of the diagnostic accuracy of glial fibrillary acidic protein vs. S100 calcium binding protein B as blood biomarkers in observational studies of patients with mild or moderate acute traumatic brain injury.
@@ -3183,7 +3183,7 @@
 **Authors:** Wang KKW, Kobeissy FH, Shakkour Z, Tyndall JA  
 **Journal:** Acute medicine & surgery (2021)  
 **PMID:** 33510896  **DOI:** 10.1002/ams2.622
-**Entities:** GFAP, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, mTBI, TBI  
 **Abstract:** Traumatic brain injury (TBI) is a major cause of mortality and morbidity affecting all ages. It remains to be a diagnostic and therapeutic challenge, in which, to date, there is no Food and Drug Admin...
 
 ### Blood biomarkers of mild traumatic brain injury: State of art.
@@ -3211,7 +3211,7 @@
 **Authors:** Bazarian JJ, Welch RD, Caudle K, Jeffrey CA, Chen JY et al.  
 **Journal:** Academic emergency medicine : official journal of the Society for Academic Emergency Medicine (2021)  
 **PMID:** 34358399  **DOI:** 10.1111/acem.14366
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** OBJECTIVE: The objective was to determine the accuracy of a new, rapid blood test combining measurements of both glial fibrillary acidic protein (GFAP) and ubiquitin carboxyl-terminal hydrolase L1 (UC...
 
 ### Blood Biomarkers for Detection of Brain Injury in COVID-19 Patients.
@@ -3225,7 +3225,7 @@
 **Authors:** Biberthaler P, Musaelyan K, Krieg S, Meyer B, Stimmer H et al.  
 **Journal:** Neurotrauma reports (2021)  
 **PMID:** 35018363  **DOI:** 10.1089/neur.2021.0048
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI, i-STAT TBI  
 **Abstract:** This pilot study aimed to evaluate the association of plasma ubiquitin C-terminal hydrolase-L1 (UCH-L1), glial fibrillary acidic protein (GFAP), and S100 calcium-binding protein B (S100B) with intracr...
 
 ### The Diagnostic Competence of Glial Fibrillary Acidic Protein in Mild Traumatic Brain Injury and Its Prognostic Value in Patient Recovery.
@@ -3246,7 +3246,7 @@
 **Authors:** Stukas S, Gill J, Cooper J, Belanger L, Ritchie L et al.  
 **Journal:** Journal of neurotrauma (2021)  
 **PMID:** 33504255  **DOI:** 10.1089/neu.2020.7352
-**Entities:** UCH-L1, ubiquitin, TBI, Simoa, Quanterix  
+**Entities:** UCH-L1, TBI, Simoa, Quanterix  
 **Abstract:** A major obstacle for translational research in acute spinal cord injury (SCI) is the lack of biomarkers that can objectively stratify injury severity and predict outcome. Ubiquitin C-terminal hydrolas...
 
 ### Development of a novel, sensitive translational immunoassay to detect plasma glial fibrillary acidic protein (GFAP) after murine traumatic brain injury.
@@ -3260,7 +3260,7 @@
 **Authors:** Bramblett GT, Harris JN, Scott LL, Holt AW  
 **Journal:** Journal of neurotrauma (2021)  
 **PMID:** 33096971  **DOI:** 10.1089/neu.2020.7039
-**Entities:** GFAP, UCH-L1, NfL, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, NfL, TBI  
 **Abstract:** A diagnosis of traumatic brain injury (TBI) is typically based on patient medical history, a clinical examination, and imaging tests. Elevated plasma levels of glial fibrillary acidic protein (GFAP), ...
 
 ### Assessing Protein Biomarkers to Detect Lethal Acute Traumatic Brain Injuries in Cerebrospinal Fluid.
@@ -3274,7 +3274,7 @@
 **Authors:** McDonald SJ, Shultz SR, Agoston DV  
 **Journal:** Journal of neurotrauma (2021)  
 **PMID:** 33906422  **DOI:** 10.1089/neu.2021.0011
-**Entities:** GFAP, NfL, tau, p-tau, ubiquitin  
+**Entities:** GFAP, NfL, tau, p-tau, BBB  
 **Abstract:** Blood-based protein biomarkers have revolutionized several fields of medicine by enabling molecular level diagnosis, as well as monitoring disease progression and treatment efficacy. Traumatic brain i...
 
 ### Plasma extracellular vesicles as a source of biomarkers in traumatic brain injury.
@@ -3288,7 +3288,7 @@
 **Authors:** Mondello S, Sorinola A, Czeiter E, Vámos Z, Amrein K et al.  
 **Journal:** Journal of neurotrauma (2021)  
 **PMID:** 29020853  **DOI:** 10.1089/neu.2017.5182
-**Entities:** GFAP, UCH-L1, S100B, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, S100B, tau, mTBI  
 **Abstract:** Accurate diagnosis of traumatic brain injury (TBI) is critical to effective management and intervention, but can be challenging in patients with mild TBI. A substantial number of studies have reported...
 
 ### Role of Salivary Biomarkers in Predicting Significant Traumatic Brain Injury: An Exploratory Study.
@@ -3330,14 +3330,14 @@
 **Authors:** Reece JT, Milone M, Wang P, Herman D, Petrov D et al.  
 **Journal:** The journal of applied laboratory medicine (2020)  
 **PMID:** 32445345  **DOI:** 10.1093/jalm.2019.031187
-**Entities:** GFAP, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, mTBI, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) is a significant cause of morbidity, mortality, and disability in the US, with >2.8 million patients presenting to the emergency department (ED) annually. Howe...
 
 ### Acute Effects of Sport-Related Concussion on Serum Glial Fibrillary Acidic Protein, Ubiquitin C-Terminal Hydrolase L1, Total Tau, and Neurofilament Light Measured by a Multiplex Assay.
 **Authors:** Asken BM, Yang Z, Xu H, Weber AG, Hayes RL et al.  
 **Journal:** Journal of neurotrauma (2020)  
 **PMID:** 32024456  **DOI:** 10.1089/neu.2019.6831
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** We prospectively evaluated serum concentrations of glial fibrillary acidic protein (GFAP), ubiquitin c-terminal hydrolase L1 (UCH-L1), total tau (T-Tau), and neurofilament light (NF-L) from collegiate...
 
 ### Ferroptosis-relevant mechanisms and biomarkers for therapeutic interventions in traumatic brain injury.
@@ -3365,14 +3365,14 @@
 **Authors:** Ward MD, Weber A, Merrill VD, Welch RD, Bazarian JJ et al.  
 **Journal:** The journal of applied laboratory medicine (2020)  
 **PMID:** 32445344  **DOI:** 10.1093/jalm.2019.031393
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND: Serum glial fibrillary acidic protein (GFAP) and ubiquitin carboxyl-terminal esterase L1 (UCH-L1) have recently received US Food and Drug Administration approval for prediction of abnormal...
 
 ### Current Trends in Biomarkers for Traumatic Brain Injury.
 **Authors:** Mehta T, Fayyaz M, Giler GE, Kaur H, Raikwar SP et al.  
 **Journal:** Open access journal of neurology & neurosurgery (2020)  
 **PMID:** 32775958  
-**Entities:** GFAP, UCH-L1, S100B, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, S100B, tau, TBI  
 **Abstract:** Neurotrauma, especially Traumatic Brain Injury (TBI) is a major health concern not only for the civilian population but also for the military personnel. Currently there are no precision and regenerati...
 
 ### The Role of Blood Biomarkers for Magnetic Resonance Imaging Diagnosis of Traumatic Brain Injury.
@@ -3393,14 +3393,14 @@
 **Authors:** Dolmans RGF, Hulsbergen AFC, Gormley WB, Broekman MLD  
 **Journal:** World neurosurgery (2020)  
 **PMID:** 31655234  **DOI:** 10.1016/j.wneu.2019.10.086
-**Entities:** GFAP, tau, ubiquitin, TBI  
+**Entities:** GFAP, tau, TBI  
 **Abstract:** OBJECTIVE: Outcome prediction in severe traumatic brain injury (sTBI) has been studied using clinical and radiographic measurements and by using biomarkers such as glial fibrillary acidic protein, ubi...
 
 ### Biomarkers May Predict Unfavorable Neurological Outcome after Mild Traumatic Brain Injury.
 **Authors:** Lewis LM, Papa L, Bazarian JJ, Weber A, Howard R et al.  
 **Journal:** Journal of neurotrauma (2020)  
 **PMID:** 32821007  **DOI:** 10.1089/neu.2020.7071
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** The objective of this study was to determine if initial or repeat measurements of serum concentrations of glial fibrillary acidic protein (GFAP) or ubiquitin C-terminal hydrolase L1 (UCH-L1) are predi...
 
 ### Plasma osteopontin may predict neuroinflammation and the severity of pediatric traumatic brain injury.
@@ -3421,7 +3421,7 @@
 **Authors:** Tschiffely AE, Statz JK, Edwards KA, Goforth C, Ahlers ST et al.  
 **Journal:** Journal of neurotrauma (2020)  
 **PMID:** 31642374  **DOI:** 10.1089/neu.2019.6512
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) is a risk for military personnel due to blast overpressures, which may result from a variety of sources, including artillery and improvised explosive devices. Much r...
 
 ### Immunohistochemical analysis for acetylcholinesterase and choline acetyltransferase in mouse cerebral cortex after traumatic brain injury.
@@ -3435,14 +3435,14 @@
 **Authors:** Shahim P, Politis A, van der Merwe A, Moore B, Ekanayake V et al.  
 **Journal:** Neurology (2020)  
 **PMID:** 32641529  **DOI:** 10.1212/WNL.0000000000009985
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** OBJECTIVE: To determine whether neurofilament light (NfL), glial fibrillary acidic protein (GFAP), tau, and ubiquitin C-terminal hydrolase-L1 (UCH-L1) measured in serum relate to traumatic brain injur...
 
 ### Circulating Brain Injury Exosomal Proteins following Moderate-To-Severe Traumatic Brain Injury: Temporal Profile, Outcome Prediction and Therapy Implications.
 **Authors:** Mondello S, Guedes VA, Lai C, Czeiter E, Amrein K et al.  
 **Journal:** Cells (2020)  
 **PMID:** 32326450  **DOI:** 10.3390/cells9040977
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** Brain injury exosomal proteins are promising blood biomarker candidates in traumatic brain injury (TBI). A better understanding of their role in the diagnosis, characterization, and management of TBI ...
 
 ### Multi-Biomarker Detection Following Traumatic Brain Injury.
@@ -3463,7 +3463,7 @@
 **Authors:** Mahan MY, Thorpe M, Ahmadi A, Abdallah T, Casey H et al.  
 **Journal:** World neurosurgery (2019)  
 **PMID:** 31051301  **DOI:** 10.1016/j.wneu.2019.04.170
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI  
 **Abstract:** OBJECTIVE: Traumatic brain injuries (TBIs) are largely underdiagnosed and may have persistent refractory consequences. Current assessments for acute TBI are limited to physical examination and imaging...
 
 ### Cost-Effectiveness of Biomarker Screening for Traumatic Brain Injury.
@@ -3477,28 +3477,28 @@
 **Authors:** Frankel M, Fan L, Yeatts SD, Jeromin A, Vos PE et al.  
 **Journal:** Journal of neurotrauma (2019)  
 **PMID:** 30794101  **DOI:** 10.1089/neu.2018.5809
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI  
 **Abstract:** Rapid risk-stratification of patients with acute traumatic brain injury (TBI) would inform management decisions and prognostication. The objective of this serum biomarker study (Biomarkers of Injury a...
 
 ### Stability of Blood Biomarkers of Traumatic Brain Injury.
 **Authors:** Rezaii PG, Grant GA, Zeineh MM, Richardson KJ, Coburn ML et al.  
 **Journal:** Journal of neurotrauma (2019)  
 **PMID:** 30968744  **DOI:** 10.1089/neu.2018.6053
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI  
 **Abstract:** Blood biomarker tests were recently approved for clinical diagnosis of traumatic brain injury (TBI), yet there are still fundamental questions that need attention. One such question is the stability o...
 
 ### UCH-L1 is a Poor Serum Biomarker of Murine Traumatic Brain Injury After Polytrauma.
 **Authors:** Morris MC, Bercz A, Niziolek GM, Kassam F, Veile R et al.  
 **Journal:** The Journal of surgical research (2019)  
 **PMID:** 31279265  **DOI:** 10.1016/j.jss.2019.06.023
-**Entities:** UCH-L1, ubiquitin, mTBI, TBI, NSE  
+**Entities:** UCH-L1, mTBI, TBI, NSE  
 **Abstract:** BACKGROUND: Several serum biomarkers have been studied to diagnose incidence and severity of traumatic brain injury (TBI), but a reliable biomarker in TBI has yet to be identified. Ubiquitin carboxy-t...
 
 ### The anatomy of concussion and chronic traumatic encephalopathy: A comprehensive review.
 **Authors:** Singla A, Leineweber B, Monteith S, Oskouian RJ, Tubbs RS  
 **Journal:** Clinical anatomy (New York, N.Y.) (2019)  
 **PMID:** 30421819  **DOI:** 10.1002/ca.23313
-**Entities:** NfL, ubiquitin, mTBI, TBI, CTE  
+**Entities:** NfL, mTBI, TBI, CTE  
 **Abstract:** Concussion is defined as a complex pathophysiological process that affects the brain as a result of traumatic biomechanical forces. Repeated unrecovered concussions can result in chronic brain injury ...
 
 ### Early Levels of Glial Fibrillary Acidic Protein and Neurofilament Light Protein in Predicting the Outcome of Mild Traumatic Brain Injury.
@@ -3519,7 +3519,7 @@
 **Authors:** Gorgoraptis N, Li LM, Whittington A, Zimmerman KA, Maclean LM et al.  
 **Journal:** Science translational medicine (2019)  
 **PMID:** 31484787  **DOI:** 10.1126/scitranslmed.aaw1993
-**Entities:** tau, p-tau, ubiquitin, TBI, Alzheimer  
+**Entities:** tau, p-tau, TBI, Alzheimer  
 **Abstract:** Traumatic brain injury (TBI) can trigger progressive neurodegeneration, with tau pathology seen years after a single moderate-severe TBI. Identifying this type of posttraumatic pathology in vivo might...
 
 ### An update on diagnostic and prognostic biomarkers for traumatic brain injury.
@@ -3533,21 +3533,21 @@
 **Authors:** Bazarian JJ, Biberthaler P, Welch RD, Lewis LM, Barzo P et al.  
 **Journal:** The Lancet. Neurology (2018)  
 **PMID:** 30054151  **DOI:** 10.1016/S1474-4422(18)30231-X
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** BACKGROUND: More than 50 million people worldwide sustain a traumatic brain injury (TBI) annually. Detection of intracranial injuries relies on head CT, which is overused and resource intensive. Blood...
 
 ### Blood and cerebrospinal fluid biomarkers.
 **Authors:** Kawata K, Tierney R, Langford D  
 **Journal:** Handbook of clinical neurology (2018)  
 **PMID:** 30482350  **DOI:** 10.1016/B978-0-444-63954-7.00022-7
-**Entities:** GFAP, S100B, tau, ubiquitin, mTBI  
+**Entities:** GFAP, S100B, tau, mTBI, TBI  
 **Abstract:** Sports-related traumatic brain injuries (TBIs) range in severity from severe to subconcussive. Although technologies exist for clinical diagnosis of more severe injuries, methods for diagnosis of mild...
 
 ### The diagnostic values of UCH-L1 in traumatic brain injury: A meta-analysis.
 **Authors:** Shahjouei S, Sadeghi-Naini M, Yang Z, Kobeissy F, Rathore D et al.  
 **Journal:** Brain injury (2018)  
 **PMID:** 29087740  **DOI:** 10.1080/02699052.2017.1382717
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** Traumatic brain injury (TBI) is a major health concern. The purpose of this study is to identify the diagnostic accuracy of ubiquitin C-terminal hydrolase-L1 (UCH-L1)-a protein biomarker-in comparison...
 
 ### Blood biomarkers in paediatric mild traumatic brain injury: a systematic review.
@@ -3568,7 +3568,7 @@
 **Authors:** Di Pietro V, Yakoub KM, Scarpa U, Di Pietro C, Belli A  
 **Journal:** Frontiers in neurology (2018)  
 **PMID:** 29963002  **DOI:** 10.3389/fneur.2018.00429
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, miR-21  
 **Abstract:** Traumatic brain injury (TBI) is a serious problem that causes high morbidity and mortality around the world. Currently, no reliable biomarkers are used to assess the severity and predict the recovery....
 
 ### Operation Brain Trauma Therapy: 2016 Update.
@@ -3582,7 +3582,7 @@
 **Authors:** Gill J, Latour L, Diaz-Arrastia R, Motamedi V, Turtzo C et al.  
 **Journal:** Neurology (2018)  
 **PMID:** 30209234  **DOI:** 10.1212/WNL.0000000000006321
-**Entities:** GFAP, NfL, tau, ubiquitin, mTBI  
+**Entities:** GFAP, NfL, tau, mTBI, TBI  
 **Abstract:** OBJECTIVES: To determine whether a panel of blood-based biomarkers can discriminate between patients with suspected mild traumatic brain injury (mTBI) with and without neuroimaging findings (CT and MR...
 
 ### The current state of biomarkers of mild traumatic brain injury.
@@ -3603,7 +3603,7 @@
 **Authors:** Metzger RR, Sheng X, Niedzwecki CM, Bennett KS, Morita DC et al.  
 **Journal:** Journal of neurosurgery. Pediatrics (2018)  
 **PMID:** 29957142  **DOI:** 10.3171/2018.4.PEDS17593
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** OBJECTIVE: Traumatic brain injury (TBI) is the leading cause of acquired disability among children. Brain injury biomarkers may serve as useful diagnostic and prognostic indicators for TBI. Levels of ...
 
 ### Valproic Acid Treatment Decreases Serum Glial Fibrillary Acidic Protein and Neurofilament Light Chain Levels in Swine Subjected to Traumatic Brain Injury.
@@ -3617,7 +3617,7 @@
 **Authors:** Dickens AM, Posti JP, Takala RSK, Ala-Seppälä H, Mattila I et al.  
 **Journal:** Journal of neurotrauma (2018)  
 **PMID:** 29947291  **DOI:** 10.1089/neu.2017.5272
-**Entities:** GFAP, ubiquitin, TBI  
+**Entities:** GFAP, TBI  
 **Abstract:** There is a need to rapidly detect patients with traumatic brain injury (TBI) who require head computed tomography (CT). Given the energy crisis in the brain following TBI, we hypothesized that serum m...
 
 ### Brain-originated peptides as possible biochemical markers of traumatic brain injury in cerebrospinal fluid post-mortem examination.
@@ -3638,7 +3638,7 @@
 **Authors:** Wang KK, Yang Z, Sarkis G, Torres I, Raghavan V  
 **Journal:** Expert opinion on therapeutic targets (2017)  
 **PMID:** 28434268  **DOI:** 10.1080/14728222.2017.1321635
-**Entities:** UCH-L1, ubiquitin, TBI, Alzheimer  
+**Entities:** UCH-L1, TBI, Alzheimer  
 **Abstract:** Since its discovery as a major CNS-abundant protein 25 years ago, Ubiquitin C-terminal hydrolase-L1 (UCH-L1) has emerged as an important enzyme in regulating brain protein metabolism, by coupling to t...
 
 ### [Pathophysiology of intracranial injuries].
@@ -3652,21 +3652,21 @@
 **Authors:** Posti JP, Hossain I, Takala RSK, Liedes H, Newcombe V et al.  
 **Journal:** Journal of neurotrauma (2017)  
 **PMID:** 27841729  **DOI:** 10.1089/neu.2016.4442
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (UCH-L1) have been studied as potential biomarkers of mild traumatic brain injury (mTBI). We report the levels of GFAP and ...
 
 ### Modeling the Kinetics of Serum Glial Fibrillary Acidic Protein, Ubiquitin Carboxyl-Terminal Hydrolase-L1, and S100B Concentrations in Patients with Traumatic Brain Injury.
 **Authors:** Welch RD, Ellis M, Lewis LM, Ayaz SI, Mika VH et al.  
 **Journal:** Journal of neurotrauma (2017)  
 **PMID:** 28031000  **DOI:** 10.1089/neu.2016.4772
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI  
 **Abstract:** Glial fibrillary acidic protein (GFAP), ubiquitin carboxyl-terminal hydrolase-L1 (UCH-L1), and S100B have been shown to be predictive of patients with brain injury. Kinetics of these biomarkers in inj...
 
 ### Neuronal Biomarker Ubiquitin C-Terminal Hydrolase Detects Traumatic Intracranial Lesions on Computed Tomography in Children and Youth with Mild Traumatic Brain Injury.
 **Authors:** Papa L, Mittal MK, Ramirez J, Silvestri S, Giordano P et al.  
 **Journal:** Journal of neurotrauma (2017)  
 **PMID:** 28158951  **DOI:** 10.1089/neu.2016.4806
-**Entities:** UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** UCH-L1, mTBI, TBI  
 **Abstract:** This study examined the performance of serum ubiquitin C-terminal hydrolase (UCH-L1) in detecting traumatic intracranial lesions on computed tomography (CT) scan (+CT) in children and youth with mild ...
 
 ### New astroglial injury-defined biomarkers for neurotrauma assessment.
@@ -3680,7 +3680,7 @@
 **Authors:** Dey S, Gangadharan J, Deepika A, Kumar JK, Christopher R et al.  
 **Journal:** Neurology India (2017)  
 **PMID:** 28681747  **DOI:** 10.4103/neuroindia.NI_884_15
-**Entities:** UCH-L1, S100B, ubiquitin, mTBI, TBI  
+**Entities:** UCH-L1, S100B, mTBI, TBI  
 **Abstract:** OBJECTIVE: To study the acute phase serum biomarkers in patients with mild traumatic brain injury (mTBI) and to correlate them with short term cognitive deficits. MATERIALS AND METHODS: This is a pros...
 
 ### Increases of Plasma Levels of Glial Fibrillary Acidic Protein, Tau, and Amyloid β up to 90 Days after Traumatic Brain Injury.
@@ -3701,14 +3701,14 @@
 **Authors:** Papa L, Brophy GM, Welch RD, Lewis LM, Braga CF et al.  
 **Journal:** JAMA neurology (2016)  
 **PMID:** 27018834  **DOI:** 10.1001/jamaneurol.2016.0039
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** IMPORTANCE: Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) have been widely studied and show promise for clinical usefulness in suspected traumatic brain injury ...
 
 ### Glial Fibrillary Acidic Protein and Ubiquitin C-Terminal Hydrolase-L1 as Outcome Predictors in Traumatic Brain Injury.
 **Authors:** Takala RS, Posti JP, Runtti H, Newcombe VF, Outtrim J et al.  
 **Journal:** World neurosurgery (2016)  
 **PMID:** 26547005  **DOI:** 10.1016/j.wneu.2015.10.066
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** OBJECTIVE: Biomarkers ubiquitin C-terminal hydrolase-L1 (UCH-L1) and glial fibrillary acidic protein (GFAP) may help detect brain injury, assess its severity, and improve outcome prediction. This stud...
 
 ### Biomarkers in traumatic brain injury: a review.
@@ -3729,28 +3729,28 @@
 **Authors:** Welch RD, Ayaz SI, Lewis LM, Unden J, Chen JY et al.  
 **Journal:** Journal of neurotrauma (2016)  
 **PMID:** 26467555  **DOI:** 10.1089/neu.2015.4149
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI  
 **Abstract:** Head computed tomography (CT) imaging is still a commonly obtained diagnostic test for patients with minor head injury despite availability of clinical decision rules to guide imaging use and recommen...
 
 ### Serum Concentrations of Ubiquitin C-Terminal Hydrolase-L1 and Glial Fibrillary Acidic Protein after Pediatric Traumatic Brain Injury.
 **Authors:** Mondello S, Kobeissy F, Vestri A, Hayes RL, Kochanek PM et al.  
 **Journal:** Scientific reports (2016)  
 **PMID:** 27319802  **DOI:** 10.1038/srep28203
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI, MBP  
 **Abstract:** Objective reliable markers to assess traumatic brain injury (TBI) and predict outcome soon after injury are a highly needed tool for optimizing management of pediatric TBI. We assessed serum concentra...
 
 ### Finding effective biomarkers for pediatric traumatic brain injury.
 **Authors:** Glushakova OY, Glushakov AV, Hayes RL  
 **Journal:** Brain circulation (2016)  
 **PMID:** 30276288  **DOI:** 10.4103/2394-8108.192518
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, S100B, TBI, MBP  
 **Abstract:** As traumatic brain injury (TBI) continues to affect children and young adults worldwide, research on reliable biomarkers grows as a possible aid in determining the severity of injury. However, many st...
 
 ### The Levels of Glial Fibrillary Acidic Protein and Ubiquitin C-Terminal Hydrolase-L1 During the First Week After a Traumatic Brain Injury: Correlations With Clinical and Imaging Findings.
 **Authors:** Posti JP, Takala RS, Runtti H, Newcombe VF, Outtrim J et al.  
 **Journal:** Neurosurgery (2016)  
 **PMID:** 26963330  **DOI:** 10.1227/NEU.0000000000001226
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** BACKGROUND: Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (UCH-L1) are promising biomarkers of traumatic brain injury (TBI). OBJECTIVE: We investigated the relation of t...
 
 ### Sports-related brain injuries: connecting pathology to diagnosis.
@@ -3764,21 +3764,21 @@
 **Authors:** Dixon CE, Bramlett HM, Dietrich WD, Shear DA, Yan HQ et al.  
 **Journal:** Journal of neurotrauma (2016)  
 **PMID:** 26671075  **DOI:** 10.1089/neu.2015.4122
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** Operation Brain Trauma Therapy (OBTT) is a consortium of investigators using multiple pre-clinical models of traumatic brain injury (TBI) to bring acute therapies to clinical trials. To screen therapi...
 
 ### Erythropoietin Treatment in Traumatic Brain Injury: Operation Brain Trauma Therapy.
 **Authors:** Bramlett HM, Dietrich WD, Dixon CE, Shear DA, Schmid KE et al.  
 **Journal:** Journal of neurotrauma (2016)  
 **PMID:** 26670694  **DOI:** 10.1089/neu.2015.4116
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** Experimental studies targeting traumatic brain injury (TBI) have reported that erythropoietin (EPO) is an endogenous neuroprotectant in multiple models. In addition to its neuroprotective effects, it ...
 
 ### Levetiracetam Treatment in Traumatic Brain Injury: Operation Brain Trauma Therapy.
 **Authors:** Browning M, Shear DA, Bramlett HM, Dixon CE, Mondello S et al.  
 **Journal:** Journal of neurotrauma (2016)  
 **PMID:** 26671550  **DOI:** 10.1089/neu.2015.4131
-**Entities:** GFAP, ubiquitin, TBI  
+**Entities:** GFAP, TBI  
 **Abstract:** Levetiracetam (LEV) is an antiepileptic agent targeting novel pathways. Coupled with a favorable safety profile and increasing empirical clinical use, it was the fifth drug tested by Operation Brain T...
 
 ### Simvastatin Treatment in Traumatic Brain Injury: Operation Brain Trauma Therapy.
@@ -3792,7 +3792,7 @@
 **Authors:** Shear DA, Dixon CE, Bramlett HM, Mondello S, Dietrich WD et al.  
 **Journal:** Journal of neurotrauma (2016)  
 **PMID:** 26670792  **DOI:** 10.1089/neu.2015.4115
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** Nicotinamide (vitamin B3) was the first drug selected for cross-model testing by the Operation Brain Trauma Therapy (OBTT) consortium based on a compelling record of positive results in pre-clinical m...
 
 ### In Children and Youth with Mild and Moderate Traumatic Brain Injury, Glial Fibrillary Acidic Protein Out-Performs S100β in Detecting Traumatic Intracranial Lesions on Computed Tomography.
@@ -3806,7 +3806,7 @@
 **Authors:** Rhine T, Babcock L, Zhang N, Leach J, Wade SL  
 **Journal:** Brain injury (2016)  
 **PMID:** 27416022  **DOI:** 10.1080/02699052.2016.1178396
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** OBJECTIVES: To compare serum biomarker levels between children with mild traumatic brain injury (mTBI) and orthopaedic injury (OI), acutely following injury. Secondarily, to explore the association be...
 
 ### Phage display for identification of serum biomarkers of traumatic brain injury.
@@ -3820,7 +3820,7 @@
 **Authors:** Li J, Yu C, Sun Y, Li Y  
 **Journal:** The American journal of emergency medicine (2015)  
 **PMID:** 26087705  **DOI:** 10.1016/j.ajem.2015.05.023
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** OBJECTIVE: Serum ubiquitin C-terminal hydrolase L1 (UCH-L1) has been proposed as a biomarker of traumatic brain injury (TBI). However, previous studies on levels of UCH-L1 in serum remain inconsistent...
 
 ### Glial fibrillary acidic protein as a biomarker in severe traumatic brain injury patients: a prospective cohort study.
@@ -3876,7 +3876,7 @@
 **Authors:** Diaz-Arrastia R, Wang KK, Papa L, Sorani MD, Yue JK et al.  
 **Journal:** Journal of neurotrauma (2014)  
 **PMID:** 23865516  **DOI:** 10.1089/neu.2013.3040
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
+**Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** Biomarkers are important for accurate diagnosis of complex disorders such as traumatic brain injury (TBI). For a complex and multifaceted condition such as TBI, it is likely that a single biomarker wi...
 
 ### Clinimetric measurement in traumatic brain injuries.
@@ -3897,7 +3897,7 @@
 **Authors:** Pang L, Wu Y, Dong N, Xu DH, Wang DW et al.  
 **Journal:** Clinical biochemistry (2014)  
 **PMID:** 24080464  **DOI:** 10.1016/j.clinbiochem.2013.09.015
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** OBJECTIVE: Ubiquitin C-terminal hydrolase-L1 (UCH-L1) has been established as a reliable and potential biomarker of neuronal damage after acute neurologic insults, such as ischemic stroke, subarachnoi...
 
 ### The expression of CAP1 after traumatic brain injury and its role in astrocyte proliferation.
@@ -3918,7 +3918,7 @@
 **Authors:** Yokobori S, Hosein K, Burks S, Sharma I, Gajavelli S et al.  
 **Journal:** CNS neuroscience & therapeutics (2013)  
 **PMID:** 23710877  **DOI:** 10.1111/cns.12127
-**Entities:** GFAP, UCH-L1, S100B, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, S100B, tau, TBI  
 **Abstract:** Rapid triage and decision-making in the treatment of traumatic brain injury (TBI) present challenging dilemma in "resource poor" environments such as the battlefield and developing areas of the world....
 
 ### Different functions of HIPK2 and CtBP2 in traumatic brain injury.
@@ -3932,7 +3932,7 @@
 **Authors:** Li Y, Wang Z, Zhang B, Zhe X, Wang M et al.  
 **Journal:** Epilepsy research (2013)  
 **PMID:** 22920679  **DOI:** 10.1016/j.eplepsyres.2012.08.001
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** BACKGROUND: Ubiquitin carboxy-terminal hydrolase (UCH-L1) has been established as a reliable and potential biomarker of neuronal damage after acute neurologic insults such as ischemic stroke, subarach...
 
 ### A literature review of the feasibility of glial fibrillary acidic protein as a biomarker for stroke and traumatic brain injury.
@@ -3946,21 +3946,21 @@
 **Authors:** Giacoppo S, Bramanti P, Barresi M, Celi D, Foti Cuzzola V et al.  
 **Journal:** Neurocritical care (2012)  
 **PMID:** 22528282  **DOI:** 10.1007/s12028-012-9707-z
-**Entities:** GFAP, BDNF, ubiquitin, BBB, TBI  
+**Entities:** GFAP, BDNF, BBB, TBI, NSE  
 **Abstract:** Recent advances in medicine, intensive care and diagnostic imaging modalities have led to a pronounced reduction in deaths and disability resulting from traumatic brain injury. However, there are not ...
 
 ### Clinical utility of serum levels of ubiquitin C-terminal hydrolase as a biomarker for severe traumatic brain injury.
 **Authors:** Mondello S, Linnet A, Buki A, Robicsek S, Gabrielli A et al.  
 **Journal:** Neurosurgery (2012)  
 **PMID:** 21937927  **DOI:** 10.1227/NEU.0b013e318236a809
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** BACKGROUND: Brain damage markers released in cerebrospinal fluid (CSF) and blood may provide valuable information about diagnosis and outcome prediction after traumatic brain injury (TBI). OBJECTIVE: ...
 
 ### Serum levels of ubiquitin C-terminal hydrolase distinguish mild traumatic brain injury from trauma controls and are elevated in mild and moderate traumatic brain injury patients with intracranial lesions and neurosurgical intervention.
 **Authors:** Papa L, Lewis LM, Silvestri S, Falk JL, Giordano P et al.  
 **Journal:** The journal of trauma and acute care surgery (2012)  
 **PMID:** 22673263  **DOI:** 10.1097/TA.0b013e3182491e3d
-**Entities:** UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND: This study compared early serum levels of ubiquitin C-terminal hydrolase (UCH-L1) from patients with mild and moderate traumatic brain injury (TBI) with uninjured and injured controls and ...
 
 ### Multiple indicators model of long-term mortality in traumatic brain injury.
@@ -3981,7 +3981,7 @@
 **Authors:** Brophy GM, Mondello S, Papa L, Robicsek SA, Gabrielli A et al.  
 **Journal:** Journal of neurotrauma (2011)  
 **PMID:** 21309726  **DOI:** 10.1089/neu.2010.1564
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** Ubiquitin C-terminal hydrolase-L1 (UCH-L1) is a neuron-specific enzyme that has been identified as a potential biomarker of traumatic brain injury (TBI). The study objectives were to determine UCH-L1 ...
 
 ### Neuron-specific enolase, S100B, and glial fibrillary acidic protein levels as outcome predictors in patients with severe traumatic brain injury.
@@ -4002,14 +4002,14 @@
 **Authors:** Liu MC, Akinyi L, Scharf D, Mo J, Larner SF et al.  
 **Journal:** The European journal of neuroscience (2010)  
 **PMID:** 20384815  **DOI:** 10.1111/j.1460-9568.2010.07097.x
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** Ubiquitin C-terminal hydrolase-L1 (UCH-L1), also called neuronal-specific protein gene product 9.5, is a highly abundant protein in the neuronal cell body and has been identified as a possible biomark...
 
 ### Ubiquitin C-terminal hydrolase is a novel biomarker in humans for severe traumatic brain injury.
 **Authors:** Papa L, Akinyi L, Liu MC, Pineda JA, Tepas JJ et al.  
 **Journal:** Critical care medicine (2010)  
 **PMID:** 19726976  **DOI:** 10.1097/CCM.0b013e3181b788ab
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** OBJECTIVE: Ubiquitin C-terminal hydrolase (UCH-L1), also called neuronal-specific protein gene product (PGP 9.3), is highly abundant in neurons. To assess the reliability of UCH-L1 as a potential biom...
 
 ### Serum glial fibrillary acidic protein is a highly specific biomarker for traumatic brain injury in humans compared with S-100B and neuron-specific enolase.
@@ -4086,7 +4086,7 @@
 **Authors:** Lange RT, Gill JM, Lippa SM, Hungerford L, Walker T et al.  
 **Journal:** The Journal of head trauma rehabilitation (—)  
 **PMID:** 37335195  **DOI:** 10.1097/HTR.0000000000000877
-**Entities:** GFAP, NfL, tau, ubiquitin, mTBI  
+**Entities:** GFAP, NfL, tau, mTBI, TBI  
 **Abstract:** OBJECTIVE: Blood-based biomarkers have received considerable attention for their diagnostic and prognostic value in the acute and postacute period following traumatic brain injury (TBI). The purpose o...
 
 
@@ -4152,7 +4152,7 @@
 **Authors:** Penner LC, Tabor JB, Burma JS, Godfrey H, Galarneau JM et al.  
 **Journal:** Journal of science and medicine in sport (2025)  
 **PMID:** 40617733  **DOI:** 10.1016/j.jsams.2025.06.008
-**Entities:** GFAP, NfL, tau, ubiquitin, mTBI  
+**Entities:** GFAP, NfL, tau, mTBI  
 **Abstract:** OBJECTIVES: Preliminary investigation of exercise and diurnal effects on neurofilament light, glial fibrillary acidic protein, ubiquitin carboxy-terminal hydrolase L1 and total tau. METHODS: Plasma bi...
 
 ### Effects of Selective Head-and-Neck Cooling on Brain Injury-Related Biomarker Levels and Symptom Rating Following a Boxing Bout: Protocol for an Exploratory Randomized Trial.
@@ -4180,7 +4180,7 @@
 **Authors:** Kurup MJ, Agrawal A, Temple SR, Galwankar S  
 **Journal:** Journal of emergencies, trauma, and shock (2025)  
 **PMID:** 40666393  **DOI:** 10.4103/jets.jets_76_24
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** As traumatic brain injuries (TBIs) continue to rise annually, scientists are continuing to improve point-of-care (POC) testing, involved in TBI diagnosis. TBIs, having various levels of severity, are ...
 
 ### TRANSCENDENT (Transforming Research by Assessing Neuroinformatics across the Spectrum of Concussion by Embedding iNterdisciplinary Data-collection to Enable Novel Treatments): protocol for a prospective observational cohort study of concussion patients with embedded comparative effectiveness research within a network of learning health system concussion clinics in Canada.
@@ -4250,7 +4250,7 @@
 **Authors:** Jia X, Li X, Ji Q, Yin B, Pan Y et al.  
 **Journal:** Cerebral cortex (New York, N.Y. : 1991) (2024)  
 **PMID:** 37997466  **DOI:** 10.1093/cercor/bhad405
-**Entities:** NfL, ubiquitin, neuroinflammation, mTBI, TBI  
+**Entities:** NfL, neuroinflammation, mTBI, TBI  
 **Abstract:** Blood proteins are emerging as potential biomarkers for mild traumatic brain injury (mTBI). Molecular pathology of mTBI underscores the critical roles of neuronal injury, neuroinflammation, and vascul...
 
 ### Tau Imaging in Late Traumatic Brain Injury: A [18F]MK-6240 Positron Emission Tomography Study.
@@ -4292,7 +4292,7 @@
 **Authors:** D'Lauro C, Register-Mihalik JK, Meier TB, Kerr ZY, Knight K et al.  
 **Journal:** The American journal of sports medicine (2024)  
 **PMID:** 38340366  **DOI:** 10.1177/03635465231221782
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** BACKGROUND: Timely and appropriate medical care after concussion presents a difficult public health problem. Concussion identification and treatment rely heavily on self-report, but more than half of ...
 
 ### Subsequent musculoskeletal injury after concussion in National Football League players.
@@ -4341,14 +4341,14 @@
 **Authors:** Meier TB, Huber DL, Goeckner BD, Gill JM, Pasquina P et al.  
 **Journal:** Neurology (2024)  
 **PMID:** 38165315  **DOI:** 10.1212/WNL.0000000000207991
-**Entities:** GFAP, NfL, tau, IL-6, ubiquitin  
+**Entities:** GFAP, NfL, tau, IL-6, mTBI  
 **Abstract:** BACKGROUND AND OBJECTIVES: The objective was to characterize the acute effects of concussion (a subset of mild traumatic brain injury) on serum interleukin (IL)-6 and IL-1 receptor antagonist (RA) and...
 
 ### Treatment of chronic symptoms following mild traumatic brain injury with transcranial LED: a sham run-in pilot study of photobiomodulation therapy.
 **Authors:** Karr JE, Iverson GL, Boudreau N, Zafonte R  
 **Journal:** Brain injury (2024)  
 **PMID:** 38329020  **DOI:** 10.1080/02699052.2024.2309258
-**Entities:** UPS, mTBI, TBI, PPCS  
+**Entities:** mTBI, TBI, PPCS  
 **Abstract:** PRIMARY OBJECTIVE: We evaluated whether photobiomodulation with red/near infrared light applied transcranially via light emitting diodes (LED) was associated with reduced symptoms and improved cogniti...
 
 ### Optimizing Concussion Care Seeking: Using Machine Learning to Predict Delayed Concussion Reporting.
@@ -4369,7 +4369,7 @@
 **Authors:** O'Connell GC, Smothers CG, Wang J, Ruksakulpiwat S, Armentrout BL  
 **Journal:** Neuroscience (2024)  
 **PMID:** 38762083  **DOI:** 10.1016/j.neuroscience.2024.05.017
-**Entities:** UCH-L1, NfL, ubiquitin, NSE  
+**Entities:** UCH-L1, NfL, NSE  
 **Abstract:** It is increasingly evident that blood biomarkers have potential to improve the diagnosis and management of both acute and chronic neurological conditions. The most well-studied candidates, and arguabl...
 
 ### Repetitive head trauma and apoE4 induce chronic cerebrovascular alterations that impair tau elimination from the brain.
@@ -4635,7 +4635,7 @@
 **Authors:** Wu YC, Wen Q, Thukral R, Yang HC, Gill JM et al.  
 **Journal:** Neurology (2023)  
 **PMID:** 37328299  **DOI:** 10.1212/WNL.0000000000207389
-**Entities:** GFAP, NfL, tau, ubiquitin, mTBI  
+**Entities:** GFAP, NfL, tau, mTBI, TBI  
 **Abstract:** BACKGROUND AND OBJECTIVES: To study longitudinal associations between blood-based neural biomarkers (including total tau, neurofilament light [NfL], glial fibrillary acidic protein [GFAP], and ubiquit...
 
 ### Association of Posttraumatic Headache With Symptom Burden After Concussion in Children.
@@ -4733,14 +4733,14 @@
 **Authors:** Bazarian JJ, Abar B, Merchant-Borna K, Pham DL, Rozen E et al.  
 **Journal:** Journal of neurotrauma (2023)  
 **PMID:** 36200628  **DOI:** 10.1089/neu.2022.0267
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** Blood-based brain biomarkers (BBM) such as glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) have potential to aid in the diagnosis of concussion. Recently de...
 
 ### Interdisciplinary rehabilitation for persisting post-concussion symptoms after mTBI: N=15 single case experimental design.
 **Authors:** Nguyen JVK, McKay A, Ponsford J, Davies K, Makdissi M et al.  
 **Journal:** Annals of physical and rehabilitation medicine (2023)  
 **PMID:** 37890339  **DOI:** 10.1016/j.rehab.2023.101777
-**Entities:** tau, UPS, mTBI, TBI, PPCS  
+**Entities:** tau, mTBI, TBI, PPCS  
 **Abstract:** BACKGROUND: Despite clinical guidelines recommending an interdisciplinary approach to persisting post-concussion symptom (PPCS) management, evaluations of interdisciplinary interventions remain scant....
 
 ### Neuropsychological test performance of former American football players.
@@ -4761,7 +4761,7 @@
 **Authors:** Zuidema TR, Bazarian JJ, Kercher KA, Mannix R, Kraft RH et al.  
 **Journal:** JAMA network open (2023)  
 **PMID:** 37252737  **DOI:** 10.1001/jamanetworkopen.2023.16601
-**Entities:** GFAP, UCH-L1, NfL, ubiquitin, neuroinflammation  
+**Entities:** GFAP, UCH-L1, NfL, neuroinflammation, cAMP  
 **Abstract:** IMPORTANCE: Consequences of subconcussive head impacts have been recognized, yet most studies to date have included small samples from a single site, used a unimodal approach, and lacked repeated test...
 
 ### Incorporation of concussion history as part of the LIfestyle for BRAin Health (LIBRA) modifiable factors risk score and associations with cognition in older former National Football League players.
@@ -4796,7 +4796,7 @@
 **Authors:** DAS AK, Agrawal M, Babal R, Purohit DK  
 **Journal:** Turkish neurosurgery (2022)  
 **PMID:** 35929029  **DOI:** 10.5137/1019-5149.JTN.35745-21.3
-**Entities:** UCH-L1, NfL, tau, IL-6, ubiquitin  
+**Entities:** UCH-L1, NfL, tau, IL-6, mTBI  
 **Abstract:** AIM: To evaluate all serum biomarkers in sports-related concussion injury (SRC) to determine diagnostic validity, changes with symptom severity, and return to play, as well as detect early changes in ...
 
 ### Neurofilament light chain in patients with a concussion or head impacts: a systematic review and meta-analysis.
@@ -4971,7 +4971,7 @@
 **Authors:** McDonald SJ, O'Brien WT, Symons GF, Chen Z, Bain J et al.  
 **Journal:** Biomarker research (2021)  
 **PMID:** 33422120  **DOI:** 10.1186/s40364-020-00256-7
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** BACKGROUND: Biomarkers that can objectively guide the diagnosis of sports-related concussion, and consequent return-to-play decisions, are urgently needed. In this study, we aimed to determine the tem...
 
 ### Instantaneous Whole-Brain Strain Estimation in Dynamic Head Impact.
@@ -5034,7 +5034,7 @@
 **Authors:** Lippa SM, Gill J, Brickell TA, French LM, Lange RT  
 **Journal:** Journal of the International Neuropsychological Society : JINS (2021)  
 **PMID:** 33161932  **DOI:** 10.1017/S1355617720001071
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** OBJECTIVE: This study examines the relationship of serum total tau, neurofilament light (NFL), ubiquitin carboxyl-terminal hydrolase L1 (UCH-L1), and glial fibrillary acidic protein (GFAP) with neuroc...
 
 ### Selected issues in sport-related concussion (SRC|mild traumatic brain injury) for the team physician: a consensus statement.
@@ -5230,7 +5230,7 @@
 **Authors:** Zhang ZY, Li J, Ye Q, Dong Y, Bao GM et al.  
 **Journal:** Clinica chimica acta; international journal of clinical chemistry (2019)  
 **PMID:** 31279693  **DOI:** 10.1016/j.cca.2019.07.008
-**Entities:** S100B, tau, IL-6, TNF-α, ubiquitin  
+**Entities:** S100B, tau, IL-6, TNF-α, TBI  
 **Abstract:** BACKGROUND: Interleukin-33 is recently identified as a brain injury biomarker. We determined whether serum interlerukin-33 concentrations are associated with inflammation, severity and prognosis after...
 
 ### Concurrent Mild Traumatic Brain Injury and Posttraumatic Stress Disorder Is Associated With Elevated Tau Concentrations in Peripheral Blood Plasma.
@@ -5300,7 +5300,7 @@
 **Authors:** Asken BM, Bauer RM, DeKosky ST, Svingos AM, Hromas G et al.  
 **Journal:** Neurology (2018)  
 **PMID:** 30404786  **DOI:** 10.1212/WNL.0000000000006617
-**Entities:** GFAP, S100B, tau, Aβ42, ubiquitin  
+**Entities:** GFAP, S100B, tau, Aβ42, mTBI  
 **Abstract:** OBJECTIVE: To evaluate changes in serum biomarker concentrations (β-amyloid peptide 42 [Aβ42], total tau, ubiquitin carboxy-terminal hydrolyzing enzyme L1, S100 calcium binding protein B [S100B], glia...
 
 ### Concussion BASICS II: Baseline serum biomarkers, head impact exposure, and clinical measures.
@@ -5800,7 +5800,7 @@
 **Authors:** Janda E, Boutin JA, De Lorenzo C, Arbitrio M  
 **Journal:** Genes (2024)  
 **PMID:** 38254976  **DOI:** 10.3390/genes15010087
-**Entities:** NQO2, ROS, autophagy, oxidative stress, Alzheimer  
+**Entities:** NQO2, ROS, oxidative stress, Alzheimer, NRH  
 **Abstract:** The flavoenzyme N-ribosyldihydronicotinamide (NRH):quinone oxidoreductase 2 (NQO2) catalyzes two-electron reductions of quinones. NQO2 contributes to the metabolism of biogenic and xenobiotic quinones...
 
 ### Discovery of Potent Benzothiazole Inhibitors of Oxidoreductase NQO2, a Target for Inflammation and Cancer.
@@ -5877,14 +5877,14 @@
 **Authors:** Ran LY, Xiang J, Zeng XX, He WW, Dong YT et al.  
 **Journal:** CNS neuroscience & therapeutics (2023)  
 **PMID:** 36650666  **DOI:** 10.1111/cns.14090
-**Entities:** NQO2, ROS, p62, LC3, autophagy  
+**Entities:** NQO2, ROS, oxidative stress, TBI, NRH  
 **Abstract:** INTRODUCTION: For investigating the mechanism of brain injury caused by chronic fluorosis, this study was designed to determine whether NRH:quinone oxidoreductase 2 (NQO2) can influence autophagic dis...
 
 ### Autophagy and neuroprotection in astrocytes exposed to 6-hydroxydopamine is negatively regulated by NQO2: relevance to Parkinson's disease.
 **Authors:** Janda E, Parafati M, Martino C, Crupi F, George William JN et al.  
 **Journal:** Scientific reports (2023)  
 **PMID:** 38062122  **DOI:** 10.1038/s41598-023-44666-7
-**Entities:** NQO2, ROS, autophagy, oxidative stress, BBB  
+**Entities:** NQO2, ROS, oxidative stress, BBB, NRH  
 **Abstract:** Dopaminergic degeneration is a central feature of Parkinson's disease (PD), but glial dysfunction may accelerate or trigger neuronal death. In fact, astrocytes play a key role in the maintenance of th...
 
 ### 3-Arylidene-2-oxindoles as Potent NRH:Quinone Oxidoreductase 2 Inhibitors.
@@ -6024,7 +6024,7 @@
 **Authors:** Zhao J, Zhao Z, Hou W, Jiang Y, Liu G et al.  
 **Journal:** Molecules (Basel, Switzerland) (2022)  
 **PMID:** 36014414  **DOI:** 10.3390/molecules27165175
-**Entities:** NQO2, autophagy  
+**Entities:** NQO2  
 **Abstract:** Hydroxychloroquine (HCQ) is an autophagy inhibitor that has been used for the treatment of many diseases, such as malaria, rheumatoid arthritis, systemic lupus erythematosus, and cancer. Despite the t...
 
 ### Synthesis and biological evaluation of thiosemicarbazone derivatives.
@@ -6136,7 +6136,7 @@
 **Authors:** Janda E, Martino C, Riillo C, Parafati M, Lascala A et al.  
 **Journal:** Antioxidants (Basel, Switzerland) (2021)  
 **PMID:** 34068281  **DOI:** 10.3390/antiox10050776
-**Entities:** NQO2, ROS, LC3, autophagy, oxidative stress  
+**Entities:** NQO2, ROS, oxidative stress, NRH  
 **Abstract:** Dietary flavonoids stimulate autophagy and prevent liver dysfunction, but the upstream signaling pathways triggered by these compounds are not well understood. Certain polyphenols bind directly to NRH...
 
 ### Association of NQO2 With UDP-Glucuronosyltransferases Reduces Menadione Toxicity in Neuroblastoma Cells.
@@ -6283,7 +6283,7 @@
 **Authors:** Ciotti S, Iuliano L, Cefalù S, Comelli M, Mavelli I et al.  
 **Journal:** Cell death & disease (2020)  
 **PMID:** 31919413  **DOI:** 10.1038/s41419-019-2202-0
-**Entities:** NQO2, NQO1, ROS, UPS, Nrf2  
+**Entities:** NQO2, NQO1, ROS, Nrf2, glutathione  
 **Abstract:** Signaling pathways controlling necrosis are still mysterious and debated. We applied a shRNA-based viability screen to identify critical elements of the necrotic response. We took advantage from a sma...
 
 ### Virucidal Action Against Avian Influenza H5N1 Virus and Immunomodulatory Effects of Nanoformulations Consisting of Mesoporous Silica Nanoparticles Loaded with Natural Prodrugs.
@@ -6458,7 +6458,7 @@
 **Authors:** Katayama K, Noguchi K, Sugimoto Y  
 **Journal:** Oncotarget (2018)  
 **PMID:** 30344940  **DOI:** 10.18632/oncotarget.26045
-**Entities:** NQO2, NQO1, autophagy  
+**Entities:** NQO2, NQO1  
 **Abstract:** Internal tandem duplication (ITD) in Fms-like tyrosine kinase 3 (FLT3) is frequently observed in acute myeloid leukemia (AML). Quizartinib, gilteritinib, and midostaurin are inhibitors against FLT3-IT...
 
 ### Green light inhibits GnRH-I expression by stimulating the melatonin-GnIH pathway in the chick brain.
@@ -6472,7 +6472,7 @@
 **Authors:** Chen D, Li X, Liu X, Liu X, Jiang X et al.  
 **Journal:** Biology of reproduction (2017)  
 **PMID:** 29025057  **DOI:** 10.1093/biolre/iox098
-**Entities:** NQO2, ROS, autophagy, NRH, S29434  
+**Entities:** NQO2, ROS, NRH, S29434, glutathione  
 **Abstract:** NRH: quinone oxidoreductase 2 (NQO2) is a cytosolic and ubiquitously expressed flavoprotein that catalyzes the two-electron reduction of quinone to hydroquinones. Herein, we assessed the protein expre...
 
 ### The ontogeny and population variability of human hepatic dihydronicotinamide riboside:quinone oxidoreductase (NQO2).
@@ -6626,7 +6626,7 @@
 **Authors:** Janda E, Lascala A, Carresi C, Parafati M, Aprigliano S et al.  
 **Journal:** Autophagy (2015)  
 **PMID:** 26046590  **DOI:** 10.1080/15548627.2015.1058683
-**Entities:** NQO2, ROS, p62, LC3, beclin-1  
+**Entities:** NQO2, ROS, oxidative stress, dopamine, Nrf2  
 **Abstract:** Oxidative stress (OS) stimulates autophagy in different cellular systems, but it remains controversial if this rule can be generalized. We have analyzed the effect of chronic OS induced by the parkins...
 
 ### Binding of DNA-Intercalating Agents to Oxidized and Reduced Quinone Reductase 2.
@@ -7620,7 +7620,7 @@
 **Authors:** Gong X, Kole L, Iskander K, Jaiswal AK  
 **Journal:** Cancer research (2007)  
 **PMID:** 17545619  
-**Entities:** NQO2, NQO1, ubiquitin, UPS, NRH  
+**Entities:** NQO2, NQO1, NRH  
 **Abstract:** Tumor suppressor p53 is either lost or mutated in several types of cancer. MDM2 interaction with p53 results in ubiquitination and 26S proteasomal degradation of p53. Chronic DNA damage leads to inact...
 
 ### Cellular knock-down of quinone reductase 2: a laborious road to successful inhibition by RNA interference.
@@ -7669,7 +7669,7 @@
 **Authors:** Burchiel SW, Thompson TA, Lauer FT, Oprea TI  
 **Journal:** Toxicology and applied pharmacology (2007)  
 **PMID:** 17466351  
-**Entities:** NQO2, NQO1, ROS, p62, oxidative stress  
+**Entities:** NQO2, NQO1, ROS, oxidative stress, HO-1  
 **Abstract:** Benzo(a)pyrene (BaP) is a known human carcinogen and a suspected breast cancer complete carcinogen. BaP is metabolized by several metabolic pathways, some having bioactivation and others detoxificatio...
 
 ### BALT development and augmentation of hyperoxic lung injury in mice deficient in NQO1 and NQO2.
@@ -9177,7 +9177,7 @@
 **Authors:** Hanas JS, Hocker JRS, Lerner MR, Couch JR  
 **Journal:** PloS one (2019)  
 **PMID:** 31026304  **DOI:** 10.1371/journal.pone.0215762
-**Entities:** autophagy, mTBI, TBI, PPCS, Alzheimer  
+**Entities:** mTBI, TBI, PPCS, Alzheimer  
 **Abstract:** Traumatic Brain Injury (TBI) and persistent post-concussion syndrome (PCS) including chronic migraine (CM) are major health issues for civilians and the military. It is important to understand underly...
 
 ### Pediatric Head Trauma: A Review and Update.
@@ -9212,14 +9212,14 @@
 **Authors:** Cushman DM, Borowski L, Hansen C, Hendrick J, Bushman T et al.  
 **Journal:** Headache (2019)  
 **PMID:** 30451286  **DOI:** 10.1111/head.13451
-**Entities:** UPS, mTBI  
+**Entities:** mTBI  
 **Abstract:** OBJECTIVE: To examine the association of commonly prescribed post-concussive medications, namely gabapentin and tricyclic antidepressants (TCAs), with symptom reduction after concussion. BACKGROUND: C...
 
 ### A Pilot Randomised Double-Blind Study of the Tolerability and efficacy of repetitive Transcranial Magnetic Stimulation on Persistent Post-Concussion Syndrome.
 **Authors:** Moussavi Z, Suleiman A, Rutherford G, Ranjbar Pouya O, Dastgheib Z et al.  
 **Journal:** Scientific reports (2019)  
 **PMID:** 30940870  **DOI:** 10.1038/s41598-019-41923-6
-**Entities:** UPS, mTBI, PPCS  
+**Entities:** mTBI, PPCS  
 **Abstract:** This study investigates the effect of Repetitive Transcranial Magnetic Stimulation (rTMS) on persistent post-concussion syndrome (PCS). The study design was a randomized (coin toss), placebo controlle...
 
 ### The utility of the Convergence Insufficiency Symptom Survey (CISS) post-concussion.
@@ -9485,7 +9485,7 @@
 **Authors:** Mercier E, Tardif PA, Emond M, Ouellet MC, de Guise É et al.  
 **Journal:** BMJ open (2017)  
 **PMID:** 28963310  **DOI:** 10.1136/bmjopen-2017-017848
-**Entities:** UPS, mTBI, TBI, PPCS  
+**Entities:** mTBI, TBI, PPCS  
 **Abstract:** OBJECTIVE: Mild traumatic brain injury (mTBI) has been insufficiently researched, and its definition remains elusive. Investigators are confronted by heterogeneity in patients, mechanism of injury and...
 
 ### Mild Traumatic Brain Injury: Longitudinal Study of Cognition, Functional Status, and Post-Traumatic Symptoms.
@@ -10217,1353 +10217,6 @@
 **Abstract:** To date, several Department of Defense (DoD) and civilian studies have evaluated hyperbaric oxygen for mild forms of traumatic brain injury. Prior to the DoD-sponsored "Brain Injury and Mechanisms of ...
 
 
-## Cluster: proteostasis
-
-### Duloxetine ameliorates cerebral ischemic injury by inhibiting autophagy.
-**Authors:** Viotti A, Molinaro C, Perego J, Fossaghi A, Parravicini C et al.  
-**Journal:** Autophagy (2026)  
-**PMID:** 41787744  **DOI:** 10.1080/15548627.2026.2641616
-**Entities:** autophagy  
-**Abstract:** Ischemic stroke is a severe medical condition characterized by diminished blood flow to the brain, resulting in a shortage of oxygen and nutrients. During ischemia, neurons surrounding the cerebral in...
-
-### BNIP3-mediated mitophagy alleviates traumatic brain injury by inhibiting neuronal apoptosis and oxidative stress.
-**Authors:** Yin H, Wei Y, Han Z, Li Z, Liu K et al.  
-**Journal:** International immunopharmacology (2026)  
-**PMID:** 41197270  **DOI:** 10.1016/j.intimp.2025.115793
-**Entities:** ROS, p62, LC3, autophagy, oxidative stress  
-**Abstract:** Traumatic brain injury (TBI) significantly influences neurological outcomes, and its pathogenesis is primarily attributed to neuronal apoptosis and oxidative stress. However, the precise role of Bcl2/...
-
-### Can the Association of the Biomarkers GFAP and UCH-L1 Predict Intracranial Injury After Mild Traumatic Brain Injury in Adults? A Systematic Review and Meta-Analysis.
-**Authors:** Puravet A, Oris C, Pereira B, Kahouadji S, Dwamena BA et al.  
-**Journal:** Annals of emergency medicine (2026)  
-**PMID:** 40272329  **DOI:** 10.1016/j.annemergmed.2025.03.018
-**Entities:** GFAP, UCH-L1, S100B, NfL, tau  
-**Abstract:** STUDY OBJECTIVES: Brain biomarkers have been used to predict intracranial injury in both adults and children following mild traumatic brain injury (mTBI). Several biomarkers have been evaluated, inclu...
-
-### Rubicon modulates neuroimmune responses following traumatic brain injury.
-**Authors:** Thapa S, Mehrabani-Tabari A, Pettyjohn-Robin O, Nguyen DP, Weldemariam MM et al.  
-**Journal:** bioRxiv : the preprint server for biology (2026)  
-**PMID:** 41867877  **DOI:** 10.64898/2026.03.04.709622
-**Entities:** ROS, neuroinflammation, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) elicits robust neuroinflammation and oxidative stress, coupled with an acute inhibition of macro-autophagy (autophagy) in neurons and microglia. Rubicon (
-
-### Hydroxychloroquine Prevents High-altitude Cerebral Edema by Inhibiting Endothelial Claudin-5 Autophagic Degradation.
-**Authors:** Xue Y, Wan B, Wang Z, Wang Z, Wang D et al.  
-**Journal:** Current neuropharmacology (2026)  
-**PMID:** 40353467  **DOI:** 10.2174/011570159X371235250417051313
-**Entities:** autophagy, BBB, TBI  
-**Abstract:** BACKGROUND: High-altitude cerebral edema (HACE) is a serious condition caused by prolonged hypobaric hypoxia (HH). Autophagic degradation of Claudin-5 plays a crucial role in HHinduced blood-brain bar...
-
-### Parkin protects against traumatic brain injury through regulating mitochondrial quality control.
-**Authors:** Wu X, Lv W, Chen H, Fu Y, Fei X et al.  
-**Journal:** Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics (2026)  
-**PMID:** 41651694  **DOI:** 10.1016/j.neurot.2026.e00846
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) is a critical neurological condition, with neuronal damage being its fundamental pathological basis. However, molecular targets for the prevention and treatment of neurona...
-
-### Integrated miRNA-proteomic profiling identifies chronic vesicle-trafficking and proteostasis disruptions after mild traumatic brain injury.
-**Authors:** Yadikar H, Ansari MA  
-**Journal:** Experimental neurology (2026)  
-**PMID:** 41605412  **DOI:** 10.1016/j.expneurol.2026.115652
-**Entities:** mTBI, TBI  
-**Abstract:** BACKGROUND: Mild traumatic brain injury (mTBI) often produces persistent deficits, yet the molecular mechanisms driving chronic pathology remain undefined. OBJECTIVE: We aimed to identify mechanistic ...
-
-### Prognostic value of GFAP and UCHL-1 biomarkers in high-risk mild traumatic brain injury: A prospective longitudinal study of short- and long-term outcomes.
-**Authors:** Spaziani G, Rozzi G, Baroni S, Napoli G, De Ninno G et al.  
-**Journal:** The American journal of emergency medicine (2026)  
-**PMID:** 41455435  **DOI:** 10.1016/j.ajem.2025.12.021
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
-**Abstract:** BACKGROUND: Blood biomarkers such as glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) have been shown to rise after mild traumatic brain injury, improving ea...
-
-### Tufm lactylation regulates neuronal apoptosis by modulating mitophagy in traumatic brain injury.
-**Authors:** Weng W, He Z, Ma Z, Huang J, Han Y et al.  
-**Journal:** Cell death and differentiation (2025)  
-**PMID:** 39496783  **DOI:** 10.1038/s41418-024-01408-0
-**Entities:** autophagy, TBI  
-**Abstract:** Lactates accumulation following traumatic brain injury (TBI) is detrimental. However, whether lactylation is triggered and involved in the deterioration of TBI remains unknown. Here, we first report t...
-
-### Histone lactylation stimulated upregulation of PSMD14 alleviates neuron PANoptosis through deubiquitinating PKM2 to activate PINK1-mediated mitophagy after traumatic brain injury.
-**Authors:** Xu L, Ye Y, Gu W, Xu X, Chen N et al.  
-**Journal:** Autophagy (2025)  
-**PMID:** 40000916  **DOI:** 10.1080/15548627.2025.2471633
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Alleviating the multiple types of programmed neuronal death caused by mechanical injury has been an impetus for designing neuro-therapeutical approaches after traumatic brain injury (TBI). The aim of ...
-
-### Allicin alleviates traumatic brain injury-induced neuroinflammation by enhancing PKC-δ-mediated mitophagy.
-**Authors:** Cheng Y, Gu W, Wu X, Tian W, Mu Z et al.  
-**Journal:** Phytomedicine : international journal of phytotherapy and phytopharmacology (2025)  
-**PMID:** 39986225  **DOI:** 10.1016/j.phymed.2025.156500
-**Entities:** ROS, IL-6, TNF-α, IL-1β, LC3  
-**Abstract:** BACKGROUND: Traumatic brain injury (TBI) leads to neuroinflammation, which is a key contributor to the negative prognosis in TBI patients. Recent evidence indicates that allicin can prevent neuronal i...
-
-### Copper aggravated synaptic damage after traumatic brain injury by downregulating BNIP3-mediated mitophagy.
-**Authors:** Chang H, Zhang W, Xu L, Li Z, Lin C et al.  
-**Journal:** Autophagy (2025)  
-**PMID:** 39415457  **DOI:** 10.1080/15548627.2024.2409613
-**Entities:** autophagy, TBI  
-**Abstract:** Synaptic damage is a crucial pathological process in traumatic brain injury. However, the mechanisms driving this process remain poorly understood. In this report, we demonstrate that the accumulation...
-
-### Amlexanox Ameliorates Traumatic Brain Injury by Restoring Autophagy-Lysosomal Function via cAMP Signaling Modulation.
-**Authors:** Woo SY, Park MK, Kho AR, Yang HW, Jung HH et al.  
-**Journal:** International journal of biological sciences (2025)  
-**PMID:** 40765831  **DOI:** 10.7150/ijbs.111216
-**Entities:** ROS, neuroinflammation, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) disrupts cellular homeostasis through lysosomal dysfunction, oxidative stress, and impaired autophagy, contributing to neuronal degeneration. Despite advances in our under...
-
-### Traumatic brain injury and autophagy: a pilot study about the immunohistochemical expression of LC3B, Beclin 1, p62, and LAMP2A in human autoptic samples.
-**Authors:** Livieri T, Alfieri L, Giacomello E, Alempijević D, Petrovic T et al.  
-**Journal:** Frontiers in molecular neuroscience (2025)  
-**PMID:** 40356869  **DOI:** 10.3389/fnmol.2025.1562954
-**Entities:** p62, LC3, beclin-1, autophagy, TBI  
-**Abstract:** INTRODUCTION: Autophagy is a cellular stress response that has been shown in the literature to be active in cerebral cells after a traumatic brain injury (TBI). The aim of this study is to investigate...
-
-### Astrocytic SIRT1 ameliorates cognitive deficits after traumatic brain injury via autophagy-mediated MEGF10 phagocytosis.
-**Authors:** Ji Q, Zhang Y, Zhang Z, Cui K, Zhao L et al.  
-**Journal:** Journal of neuroinflammation (2025)  
-**PMID:** 41469684  **DOI:** 10.1186/s12974-025-03633-x
-**Entities:** autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) frequently causes cognitive dysfunction, with astrocytes playing a pivotal role in its pathogenesis. ​Specifically,​​ TBI triggers excessive astrocyte reactivity, ​leading...
-
-### Interleukin 13 alleviates traumatic brain injury by promoting pericyte autophagy.
-**Authors:** Ya D, Guo B, Jiang Y, Deng J, Tian N et al.  
-**Journal:** Free radical biology & medicine (2025)  
-**PMID:** 41016417  **DOI:** 10.1016/j.freeradbiomed.2025.09.050
-**Entities:** neuroinflammation, autophagy, TBI  
-**Abstract:** Interleukin 13 (IL13), as a cytokine belonging to the chemokine family, exhibits multiple complex physiological effects. Previous studies have consistently observed its significant role in various typ...
-
-### O-GlcNAcylation Suppressed Apoptosis and Ferroptosis in Traumatic Brain Injury by Enhancing Mitophagy.
-**Authors:** Zhang L, Fei M, Peng Y, Li T, Ji X et al.  
-**Journal:** Neurochemical research (2025)  
-**PMID:** 40802111  **DOI:** 10.1007/s11064-025-04519-3
-**Entities:** autophagy, BBB, TBI  
-**Abstract:** O-linked-N-acetylglucosaminylation (O-GlcNAcylation), a distinctive post-translational modification (PTM), is ubiquitously present in numerous nuclear and mitochondrial proteins. The emerging role of ...
-
-### Astrocyte-derived Exosomal GJA1-20 k Targets Pink1-mediated Mitophagy to Attenuate Traumatic Brain Injury.
-**Authors:** Li Y, Chen W, Feng J  
-**Journal:** Translational stroke research (2025)  
-**PMID:** 40810873  **DOI:** 10.1007/s12975-025-01374-w
-**Entities:** IL-1β, neuroinflammation, autophagy, TBI  
-**Abstract:** Connexin 43 (Cx43), particularly its truncated isoform GJA1-20 k, has shown promise in mitigating neuronal injury through mitochondrial regulation. This study aimed to investigate the therapeutic pote...
-
-### CD300f enables microglial damage sensing, efferocytosis, and apoptotic cell metabolization after brain injury.
-**Authors:** Negro-Demontel L, Evans F, Cawen FA, Fitzpatrick Z, Mason HD et al.  
-**Journal:** Brain, behavior, and immunity (2025)  
-**PMID:** 40935207  **DOI:** 10.1016/j.bbi.2025.106105
-**Entities:** TBI  
-**Abstract:** Microglia, the resident phagocytes of the central nervous system (CNS), continuously survey the parenchyma and its borders, acting as first responders to brain injury. Their ability to detect and reac...
-
-### Microglial Autophagic Dysregulation in Traumatic Brain Injury: Molecular Insights and Therapeutic Avenues.
-**Authors:** Bano N, Khan S, Ahamad S, Dar NJ, Alanazi HH et al.  
-**Journal:** ACS chemical neuroscience (2025)  
-**PMID:** 39920904  **DOI:** 10.1021/acschemneuro.4c00617
-**Entities:** neuroinflammation, autophagy, TBI, Alzheimer  
-**Abstract:** Traumatic brain injury (TBI) is a complex and multifaceted condition that can result in cognitive and behavioral impairments. One aspect of TBI that has received increasing attention in recent years i...
-
-### Advances in ERK Signaling Pathway in Traumatic Brain Injury: Mechanisms and Therapeutic Potential.
-**Authors:** Wang X, Wang Q, Hou L, Wei G, He C et al.  
-**Journal:** Neurochemical research (2025)  
-**PMID:** 40489029  **DOI:** 10.1007/s11064-025-04449-0
-**Entities:** ROS, neuroinflammation, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) stands as one of the leading global causes of disability and mortality. Its pathological progression involves intricate secondary injury mechanisms, including oxidative st...
-
-### Treadmill exercise alleviates STING-mediated microglia pyroptosis and polarization via activating mitophagy post-TBI.
-**Authors:** Chen J, Zhu T, Yang X, Yang Z, Shen M et al.  
-**Journal:** Free radical biology & medicine (2025)  
-**PMID:** 40714154  **DOI:** 10.1016/j.freeradbiomed.2025.07.034
-**Entities:** autophagy, TBI  
-**Abstract:** Moderate-intensity treadmill exercise has emerged as a promising therapeutic intervention for traumatic brain injury (TBI), yet its precise mechanisms remain unclear. Emerging evidence suggests that S...
-
-### Irisin suppressed the progression of TBI via modulating AMPK/MerTK/autophagy and SYK/ROS/inflammatory signaling.
-**Authors:** Zhang K, Du Y, Yang S, Sun G  
-**Journal:** Scientific reports (2025)  
-**PMID:** 40320408  **DOI:** 10.1038/s41598-025-00066-7
-**Entities:** ROS, beclin-1, autophagy, oxidative stress, TBI  
-**Abstract:** Irisin is a hormone-like peptide secreted by muscle tissues and generated by hydrolysis of type III fibronectin domain-containing protein 5 by proteolytic hydrolases. Whether Irisin has a potential pr...
-
-### Activation of AMPK/OPA1 pathway alleviates traumatic brain damage by regulating mitophagy.
-**Authors:** Wei H, Liao J, Gao W, He X  
-**Journal:** Acta cirurgica brasileira (2025)  
-**PMID:** 40990732  **DOI:** 10.1590/acb406925
-**Entities:** autophagy, TBI  
-**Abstract:** PURPOSE: Mitophagy is an important process in brain damage, and the precise impact on a traumatic brain injury (TBI) model remains unclear. AMP-activated protein kinase (AMPK) regulates mitochondrial ...
-
-### Accuracy of GFAP and UCH-L1 in predicting brain abnormalities on CT scans after mild traumatic brain injury: a systematic review and meta-analysis.
-**Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Rohatgi S et al.  
-**Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2025)  
-**PMID:** 39856327  **DOI:** 10.1007/s00068-024-02697-3
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
-**Abstract:** PURPOSE: Traumatic brain injury (TBI) is a leading cause of death and disability worldwide. In recent years, blood biomarkers including glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-ter...
-
-### iPLA2β/p38 MAPK alleviates the blood brain barrier disruption and brain injury in rats after TBI by inhibiting autophagy and tight junction damage: In vitro and in vivo studies.
-**Authors:** Bi Y, Duan P, Luo L, Li X, Zhao X et al.  
-**Journal:** Experimental neurology (2025)  
-**PMID:** 40185358  **DOI:** 10.1016/j.expneurol.2025.115228
-**Entities:** autophagy, BBB, TBI  
-**Abstract:** Traumatic brain injury (TBI) is one of the major causes of morbidity and mortality among adults. Blood brain barrier (BBB) damage is one of the main factors of secondary injury following TBI. However,...
-
-### Association of Marshall CT Scores with GFAP, UCH-L1, Tau, NfL, and p-Tau231 After Traumatic Brain Injury.
-**Authors:** Edwards KA, Alice J, Day M, Yun J, Yun S et al.  
-**Journal:** International journal of molecular sciences (2025)  
-**PMID:** 41465199  **DOI:** 10.3390/ijms262411765
-**Entities:** GFAP, UCH-L1, NfL, tau, p-tau  
-**Abstract:** This study identifies a significant association among blood-based biomarkers of traumatic brain injury (TBI) and the Marshall CT classification of TBI (MCTC) scores, but not with Glasgow Coma Scale (G...
-
-### Ferroptosis in eye diseases: a systematic review.
-**Authors:** Wei S, Li J, Zhang Y, Li Y, Wang Y  
-**Journal:** Eye (London, England) (2025)  
-**PMID:** 39379520  **DOI:** 10.1038/s41433-024-03371-z
-**Entities:** p62, autophagy, TBI, Nrf2, glutathione  
-**Abstract:** Ferroptosis is a type of iron-dependent cell death that differs from apoptosis, necroptosis, autophagy, and other forms of cell death. It is mainly characterized by the accumulation of intracellular l...
-
-### TDP-43 dysfunction leads to impaired proteostasis and predisposes mice to worse neurological outcomes after brain injury.
-**Authors:** Rotunno MS, Fowler-Magaw M, Zhong J, O'Hara K, Wiggin EA et al.  
-**Journal:** bioRxiv : the preprint server for biology (2025)  
-**PMID:** 41280089  **DOI:** 10.1101/2025.10.20.683438
-**Entities:** ubiquitin, TBI, Alzheimer  
-**Abstract:** BACKGROUND: Pathological TAR DNA-binding protein 43 (TDP-43) dysfunction is associated with multiple neurodegenerative disorders. However, the mechanistic link between TDP-43 dysfunction and neurodege...
-
-### Budget Impact Analysis of the Use of Specific Biomarkers GFAP and UCH-L1 in the Management of Mild Traumatic Brain Injury in Spain.
-**Authors:** Moya Torrecilla F, Álvarez-Corral G, Gutiérrez Pérez E, Morell-Garcia D, Ortega Pérez J et al.  
-**Journal:** Journal of clinical medicine (2025)  
-**PMID:** 40565840  **DOI:** 10.3390/jcm14124095
-**Entities:** GFAP, UCH-L1, mTBI, TBI  
-**Abstract:** 
-
-### From injury to inference: Neuropsychological reasoning across divergent mild traumatic brain injury (mTBI) criteria.
-**Authors:** English J  
-**Journal:** Applied neuropsychology. Adult (2025)  
-**PMID:** 41359710  **DOI:** 10.1080/23279095.2025.2593573
-**Entities:** GFAP, UCH-L1, S100B, NfL, mTBI  
-**Abstract:** Neuropsychologists are frequently asked to evaluate individuals following presumed mild traumatic brain injury (mTBI) and to communicate findings across clinical and forensic settings that rely on div...
-
-### OSBP Participates in Neural Damage Repair by Regulating Lysosome Transport Under Oxidative Stress.
-**Authors:** Fei M, Luo S, Gao C, Huang X, Wang L et al.  
-**Journal:** Molecular neurobiology (2025)  
-**PMID:** 39915357  **DOI:** 10.1007/s12035-025-04698-8
-**Entities:** ROS, oxidative stress, TBI  
-**Abstract:** Oxidative stress is a major pathological factor in acute brain injury, such as traumatic brain injury (TBI). As highly branched cells, the transport of lysosomes plays a crucial role in neuronal homeo...
-
-### Bisdemethoxycurcumin mitigates traumatic brain injury in rats by modulating autophagy and oxidative stress via heat shock protein 90 alpha family class A member 1-mediated nuclear translocation of transcription factor EB.
-**Authors:** Xu Y, Peng LS, Xiao CQ, Zhou Y, Wang QS et al.  
-**Journal:** Brain research bulletin (2025)  
-**PMID:** 39855313  **DOI:** 10.1016/j.brainresbull.2025.111221
-**Entities:** ROS, p62, LC3, beclin-1, autophagy  
-**Abstract:** BACKGROUND: Bisdemethoxycurcumin (BDMC), the primary active compound found in turmeric, exhibits diverse pharmacological properties. The study aimed to investigate the mechanisms underlying the protec...
-
-### Early beta-blocker exposure and association with brain injury biomarkers following moderate to severe traumatic brain injury: A TRACK-TBI study.
-**Authors:** Wongsripuemtet P, Ohnuma T, Temkin N, Barber J, Komisarow J et al.  
-**Journal:** Journal of the Intensive Care Society (2025)  
-**PMID:** 40600218  **DOI:** 10.1177/17511437251349680
-**Entities:** GFAP, UCH-L1, S100B, ubiquitin, TBI  
-**Abstract:** BACKGROUND: Beta-blockers have been studied for potential benefits in traumatic brain injury (TBI). This study aimed to investigate the association between early beta-blocker exposure and brain injury...
-
-### A high-performance core laboratory GFAP/UCH-L1 test for the prediction of intracranial injury after mild traumatic brain injury.
-**Authors:** Welch RD, Bazarian JJ, Chen JY, Chandran R, Datwyler SA et al.  
-**Journal:** The American journal of emergency medicine (2025)  
-**PMID:** 39708460  **DOI:** 10.1016/j.ajem.2024.12.005
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
-**Abstract:** BACKGROUND: A glial fibrillary acidic protein (GFAP) and ubiquitin carboxyl-terminal hydrolase L1 (UCH-L1) blood biomarker panel can reliably eliminate the need to perform a head computed tomography (...
-
-### Combination Therapy of Estrogen and Progesterone Attenuates Behavioral Impairments and Autophagy via circLrp1b/miR-27a-3p/Dram2 Pathway After Traumatic Brain Injury.
-**Authors:** Amirkhosravi L, Khaksari M, Rajizadeh MA, Akhgarandouz F, Hadadi M et al.  
-**Journal:** Molecular neurobiology (2025)  
-**PMID:** 40442535  **DOI:** 10.1007/s12035-025-05090-2
-**Entities:** autophagy, mTBI, TBI  
-**Abstract:** In the present investigation, the influences of progesterone (P4) and 17β-estradiol (estradiol or E2), alone and in combination, on spatial and non-spatial cognition and anxiety-like behaviors were as...
-
-### Neuronal BAG3 attenuates tau hyperphosphorylation, synaptic dysfunction, and cognitive deficits induced by traumatic brain injury via the regulation of autophagy-lysosome pathway.
-**Authors:** Sweeney N, Kim TY, Morrison CT, Li L, Acosta D et al.  
-**Journal:** Acta neuropathologica (2024)  
-**PMID:** 39394356  **DOI:** 10.1007/s00401-024-02810-1
-**Entities:** tau, autophagy, TBI, Alzheimer  
-**Abstract:** Growing evidence supports that early- or middle-life traumatic brain injury (TBI) is a risk factor for developing Alzheimer's disease (AD) and AD-related dementia (ADRD). Nevertheless, the molecular m...
-
-### Atox1 protects hippocampal neurons after traumatic brain injury via DJ-1 mediated anti-oxidative stress and mitophagy.
-**Authors:** Zhao P, Shi W, Ye Y, Xu K, Hu J et al.  
-**Journal:** Redox biology (2024)  
-**PMID:** 38640584  **DOI:** 10.1016/j.redox.2024.103156
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Regulation of the oxidative stress response is crucial for the management and prognosis of traumatic brain injury (TBI). The copper chaperone Antioxidant 1 (Atox1) plays a crucial role in regulating i...
-
-### Traumatic brain injury heterogeneity affects cell death and autophagy.
-**Authors:** McDonald BZ, Tarudji AW, Zhang H, Ryu S, Eskridge KM et al.  
-**Journal:** Experimental brain research (2024)  
-**PMID:** 38789796  **DOI:** 10.1007/s00221-024-06856-1
-**Entities:** autophagy, mTBI, TBI  
-**Abstract:** Traumatic brain injury (TBI) mechanism and severity are heterogenous clinically, resulting in a multitude of physical, cognitive, and behavioral deficits. Impact variability influences the origin, spr...
-
-### Chaperone-Mediated Autophagy in Brain Injury: A Double-Edged Sword with Therapeutic Potentials.
-**Authors:** Zhang H, Tian Y, Ma S, Ji Y, Wang Z et al.  
-**Journal:** Molecular neurobiology (2024)  
-**PMID:** 38775879  **DOI:** 10.1007/s12035-024-04230-4
-**Entities:** autophagy, TBI, Alzheimer  
-**Abstract:** Autophagy is an intracellular recycling process that maintains cellular homeostasis by degrading excess or defective macromolecules and organelles. Chaperone-mediated autophagy (CMA) is a highly selec...
-
-### UCH-L1 and GFAP: Efficient biomarkers for diagnosing traumatic brain injury.
-**Authors:** Lakshmipriya T, Gopinath SCB  
-**Journal:** Brain & spine (2024)  
-**PMID:** 39229482  **DOI:** 10.1016/j.bas.2024.102913
-**Entities:** —  
-**Abstract:** 
-
-### Deferoxamine Induces Autophagy Following Traumatic Brain Injury via TREM2 on Microglia.
-**Authors:** Zhang C, Xu C, Jing Y, Cao H, Wang X et al.  
-**Journal:** Molecular neurobiology (2024)  
-**PMID:** 38110648  **DOI:** 10.1007/s12035-023-03875-x
-**Entities:** neuroinflammation, autophagy, TBI  
-**Abstract:** Previous studies have indicated that iron disorder, inflammation, and autophagy play an important role in traumatic brain injury (TBI). The triggering receptor expressed on myeloid cells 2 (TREM2), an...
-
-### Endoplasmic reticulum stress and the unfolded protein response: emerging regulators in progression of traumatic brain injury.
-**Authors:** Yang Y, Lu D, Wang M, Liu G, Feng Y et al.  
-**Journal:** Cell death & disease (2024)  
-**PMID:** 38378666  **DOI:** 10.1038/s41419-024-06515-x
-**Entities:** ROS, neuroinflammation, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) is a common trauma with high mortality and disability rates worldwide. However, the current management of this disease is still unsatisfactory. Therefore, it is necessary ...
-
-### P7C3-A20 treats traumatic brain injury in rats by inhibiting excessive autophagy and apoptosis.
-**Authors:** Yang Z, Wang Z, Deng X, Zhu L, Song Z et al.  
-**Journal:** Neural regeneration research (2024)  
-**PMID:** 37862211  **DOI:** 10.4103/1673-5374.380910
-**Entities:** p62, LC3, ubiquitin, autophagy, TBI  
-**Abstract:** Traumatic brain injury is a severe health problem leading to autophagy and apoptosis in the brain. 3,6-Dibromo-beta-fluoro-N-(3-methoxyphenyl)-9H-carbazole-9-propanamine (P7C3-A20) can be neuroprotect...
-
-### DNALI1 Promotes Neurodegeneration after Traumatic Brain Injury via Inhibition of Autophagosome-Lysosome Fusion.
-**Authors:** Ding X, Cao S, Wang Q, Du B, Lu K et al.  
-**Journal:** Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2024)  
-**PMID:** 38348540  **DOI:** 10.1002/advs.202306399
-**Entities:** autophagy, TBI, CTE, Alzheimer  
-**Abstract:** Traumatic brain injury (TBI) leads to progressive neurodegeneration that may be caused by chronic traumatic encephalopathy (CTE). However, the precise mechanism remains unclear. Herein, the study iden...
-
-### Systemic treatment with ubiquitin carboxy terminal hydrolase L1 TAT protein ameliorates axonal injury and reduces functional deficits after traumatic brain injury in mice.
-**Authors:** Mi Z, Ma J, Zeh DJ, Rose ME, Henchir JJ et al.  
-**Journal:** Experimental neurology (2024)  
-**PMID:** 38092186  **DOI:** 10.1016/j.expneurol.2023.114650
-**Entities:** UCH-L1, beclin-1, ubiquitin, autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) is often associated with axonal injury that leads to significant motor and cognitive deficits. Ubiquitin carboxy terminal hydrolase L1 (UCHL1) is highly expressed in neuro...
-
-### Early GFAP and UCH-L1 point-of-care biomarker measurements for the prediction of traumatic brain injury and progression in patients with polytrauma and hemorrhagic shock.
-**Authors:** Sperry JL, Luther JF, Okonkwo DO, Vincent LE, Agarwal V et al.  
-**Journal:** Journal of neurosurgery (2024)  
-**PMID:** 39076152  **DOI:** 10.3171/2024.1.JNS232569
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
-**Abstract:** OBJECTIVE: Traumatic brain injury (TBI) and hemorrhage are responsible for the largest proportion of all trauma-related deaths. In polytrauma patients at risk of hemorrhage and TBI, the diagnosis, pro...
-
-### Dopamine enhances recovery after traumatic brain injury through ubiquitylation and autophagic degradation of RIPK1.
-**Authors:** Luo H, Liu N, Lin C  
-**Journal:** Cell communication and signaling : CCS (2024)  
-**PMID:** 38374093  **DOI:** 10.1186/s12964-024-01515-y
-**Entities:** ubiquitin, neuroinflammation, autophagy, TBI, dopamine  
-**Abstract:** BACKGROUND: Although the neurotransmitter dopamine (DA) plays a crucial pathophysiologic role after traumatic brain injury (TBI), its function and specific underlying mechanisms of action remain uncle...
-
-### MiR-3571 modulates traumatic brain injury by regulating the PI3K/AKT signaling pathway via Fbxo31.
-**Authors:** Zhang Y, He Z, Hu Q, Liu H, Wen R et al.  
-**Journal:** Cell biochemistry and biophysics (2024)  
-**PMID:** 39080190  **DOI:** 10.1007/s12013-024-01452-0
-**Entities:** autophagy, TBI  
-**Abstract:** To investigate the effect of miR-3571 on traumatic brain injury (TBI) via the regulation of neuronal apoptosis through F-box-only protein 31/phosphoinositide 3-kinase/protein kinase B (Fbxo31/PI3K/AKT...
-
-### Impaired autophagic flux in the human brain after traumatic brain injury.
-**Authors:** Lang J, Sun B, Feng S, Sun G  
-**Journal:** Neuroreport (2024)  
-**PMID:** 38526944  **DOI:** 10.1097/WNR.0000000000002020
-**Entities:** p62, LC3, autophagy, TBI  
-**Abstract:** Emerging evidence indicates that dysfunctional autophagic flux significantly contributes to the pathology of experimental traumatic brain injury (TBI). The current study aims to clarify its role post-...
-
-### Traumatic brain injury-induced peripheral damage: The dynamics of the inflammatory and autophagy pathway from acute to chronic stages.
-**Authors:** Doğanyiğit Z, Taheri S, Okan A, Yılmaz Z, Üner AK et al.  
-**Journal:** Folia neuropathologica (2024)  
-**PMID:** 39165216  **DOI:** 10.5114/fn.2024.140788
-**Entities:** TNF-α, p62, beclin-1, autophagy, mTBI  
-**Abstract:** INTRODUCTION: Traumatic brain injury (TBI) is one of the major causes of death and disability worldwide, and brings a huge burden on the quality of life of patients with TBI and the country's healthca...
-
-### Neuron-specific deficiency of autophagy increases neuronal loss in traumatic brain injury.
-**Authors:** Pei C, Li B, Wen S, Zhao K, Yu S et al.  
-**Journal:** PNAS nexus (2024)  
-**PMID:** 39474507  **DOI:** 10.1093/pnasnexus/pgae457
-**Entities:** autophagy, TBI  
-**Abstract:** The involvement of neuronal autophagy in traumatic brain injury (TBI) remains elusive. Previous investigations, as far as our knowledge extends, have modulated autophagy either through systemic admini...
-
-### Autophagy in neuroinflammation after traumatic brain injury.
-**Authors:** Sarkar C, Lipinski MM  
-**Journal:** Neural regeneration research (2024)  
-**PMID:** 37862184  **DOI:** 10.4103/1673-5374.382247
-**Entities:** —  
-**Abstract:** 
-
-### The role of mitochondrial uncoupling in the regulation of mitostasis after traumatic brain injury.
-**Authors:** Hubbard WB, Velmurugan GV, Sullivan PG  
-**Journal:** Neurochemistry international (2024)  
-**PMID:** 38311216  **DOI:** 10.1016/j.neuint.2024.105680
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Mitostasis, the maintenance of healthy mitochondria, plays a critical role in brain health. The brain's high energy demands and reliance on mitochondria for energy production make mitostasis vital for...
-
-### Crocetin protects mouse brain from apoptosis in traumatic brain injury model through activation of autophagy.
-**Authors:** Chen S, Luo X, Yang L, Luo L, Hu Z et al.  
-**Journal:** Brain injury (2024)  
-**PMID:** 38433503  **DOI:** 10.1080/02699052.2024.2324022
-**Entities:** neuroinflammation, autophagy, TBI  
-**Abstract:** BACKGROUND: Autophagy is recognized as a promising therapeutic target for traumatic brain injury (TBI). Crocetin is an aglycone of crocin naturally occurring in saffron and has been found to alleviate...
-
-### HMGB1 Promotes Accelerated Fracture Healing in Traumatic Brain Injury through PINK1/Parkin-Mediated Mitochondrial Autophagy.
-**Authors:** Chen S, Zhou A, Yan W  
-**Journal:** Biological & pharmaceutical bulletin (2024)  
-**PMID:** 39710383  **DOI:** 10.1248/bpb.b24-00203
-**Entities:** autophagy, TBI  
-**Abstract:** We aimed to investigate the mechanism of high mobility group box 1 (HMGB1) in the accelerated fracture healing process during Traumatic brain injury (TBI). The lateral ventricles of mice in the TBI mo...
-
-### Development and Analytical Validation of a Surface-Enhanced Raman Scattering Paper Lateral Flow Immunoassay for Detection of the Ubiquitin C-Terminal Hydrolase-L1 Traumatic Brain Injury Biomarker.
-**Authors:** Tan W, Hang Y, Wang A, Wang J, Wigginton JG et al.  
-**Journal:** ACS omega (2024)  
-**PMID:** 39281897  **DOI:** 10.1021/acsomega.4c04685
-**Entities:** UCH-L1, ubiquitin, TBI  
-**Abstract:** Paper lateral flow immunoassays combined with surface-enhanced Raman scattering (SERS) technology have gained increasing attention due to their high sensitivity characteristics resulting from the ampl...
-
-### Hydrogen mitigates brain injury by prompting NEDD4-CX43- mediated mitophagy in traumatic brain injury.
-**Authors:** Wu F, Liang T, Liu Y, Sun Y, Wang B  
-**Journal:** Experimental neurology (2024)  
-**PMID:** 38942265  **DOI:** 10.1016/j.expneurol.2024.114876
-**Entities:** ubiquitin, autophagy, TBI  
-**Abstract:** BACKGROUND: Hydrogen (H2) has emerged as a potential therapeutic intervention for traumatic brain injury (TBI). However, the precise mechanism underlying H2's neuroprotective effects in TBI remain inc...
-
-### ISRIB improves white matter injury following TBI by inhibiting NCOA4-mediated ferritinophagy.
-**Authors:** Zhou W, Liang Y, Liao X, Tong L, Du W et al.  
-**Journal:** Neurochemistry international (2024)  
-**PMID:** 38663454  **DOI:** 10.1016/j.neuint.2024.105744
-**Entities:** eIF2α, LC3, ISR, TBI, glutathione  
-**Abstract:** Traumatic brain injury (TBI) often results in persistent neurological dysfunction, which is closely associated with white matter injury. The mechanisms underlying white matter injury after TBI remain ...
-
-### Therapeutic Effect of Donepezil on Neuroinflammation and Cognitive Impairment after Moderate Traumatic Brain Injury.
-**Authors:** Youn DH, Lee Y, Han SW, Kim JT, Jung H et al.  
-**Journal:** Life (Basel, Switzerland) (2024)  
-**PMID:** 39063593  **DOI:** 10.3390/life14070839
-**Entities:** ROS, IL-1β, p62, LC3, beclin-1  
-**Abstract:** BACKGROUND: Despite the important clinical issue of cognitive impairment after moderate traumatic brain injury (TBI), there is currently no suitable treatment. Here, we used in vitro and in vivo model...
-
-### Curcumin in the treatment of inflammation and oxidative stress responses in traumatic brain injury: a systematic review and meta-analysis.
-**Authors:** Guo J, Li Z, Yao Y, Fang L, Yu M et al.  
-**Journal:** Frontiers in neurology (2024)  
-**PMID:** 38798711  **DOI:** 10.3389/fneur.2024.1380353
-**Entities:** ROS, BDNF, IL-6, TNF-α, IL-1β  
-**Abstract:** BACKGROUND AND AIM: Traumatic brain injury (TBI), a leading cause of high morbidity and mortality, represents a significant global public health challenge. Currently, no effective treatment for TBI ex...
-
-### RACK1 promotes autophagy via the PERK signaling pathway to protect against traumatic brain injury in rats.
-**Authors:** Ni H, Kan X, Rui Q, Zhang Y, Zhai W et al.  
-**Journal:** CNS neuroscience & therapeutics (2024)  
-**PMID:** 38532543  **DOI:** 10.1111/cns.14691
-**Entities:** autophagy, TBI, PERK  
-**Abstract:** AIMS: Neuronal cell death is a primary factor that determines the outcome after traumatic brain injury (TBI). We previously revealed the importance of receptor for activated C kinase (RACK1), a multif...
-
-### Intricate Role of the Cyclic Guanosine Monophosphate Adenosine Monophosphate Synthase-Stimulator of Interferon Genes (cGAS-STING) Pathway in Traumatic Brain Injury-Generated Neuroinflammation and Neuronal Death.
-**Authors:** Kumari D, Kaur S, Dandekar MP  
-**Journal:** ACS pharmacology & translational science (2024)  
-**PMID:** 39416963  **DOI:** 10.1021/acsptsci.4c00310
-**Entities:** neuroinflammation, autophagy, TBI, Alzheimer  
-**Abstract:** The secondary insult in the aftermath of traumatic brain injury (TBI) causes detrimental and self-perpetuating alteration in cells, resulting in aberrant function and the death of neuronal cells. The ...
-
-### Antisecretory Factor 16 (AF16): A Promising Avenue for the Treatment of Traumatic Brain Injury-An In Vitro Model Approach.
-**Authors:** Vahrmeijer N, Kriel J, Harrington BM, van Staden ADP, Vlok AJ et al.  
-**Journal:** Journal of molecular neuroscience : MN (2024)  
-**PMID:** 39505761  **DOI:** 10.1007/s12031-024-02268-6
-**Entities:** autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) is caused by an external mechanical force to the head, resulting in abnormal brain functioning and clinical manifestations. Antisecretory factor (AF16) is a potential ther...
-
-### Inhibition of autophagy in microglia and macrophages exacerbates innate immune responses and worsens brain injury outcomes.
-**Authors:** Hegdekar N, Sarkar C, Bustos S, Ritzel RM, Hanscom M et al.  
-**Journal:** Autophagy (2023)  
-**PMID:** 36652438  **DOI:** 10.1080/15548627.2023.2167689
-**Entities:** neuroinflammation, autophagy, TBI  
-**Abstract:** Excessive and prolonged neuroinflammation following traumatic brain injury (TBI) contributes to long-term tissue damage and poor functional outcomes. However, the mechanisms contributing to exacerbate...
-
-### Mitophagy and Traumatic Brain Injury: Regulatory Mechanisms and Therapeutic Potentials.
-**Authors:** Luan Y, Jiang L, Luan Y, Xie Y, Yang Y et al.  
-**Journal:** Oxidative medicine and cellular longevity (2023)  
-**PMID:** 36846712  **DOI:** 10.1155/2023/1649842
-**Entities:** autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI), a kind of external trauma-induced brain function alteration, has posed a financial burden on the public health system. TBI pathogenesis involves a complicated set of even...
-
-### Activation of autophagy after blast-induced traumatic brain injury in mice.
-**Authors:** Zhou Y, Song Y, Zhu L  
-**Journal:** Neuroreport (2023)  
-**PMID:** 37695596  **DOI:** 10.1097/WNR.0000000000001951
-**Entities:** p62, LC3, autophagy, TBI, Nrf2  
-**Abstract:** Injury mechanism and treatment of blast-induced traumatic brain injury (bTBI) has not made a breakthrough so far. Previous reports demonstrate autophagy is involved in regulating the pathophysiologica...
-
-### Targeting autophagy process in center nervous trauma.
-**Authors:** Wei S, Leng B, Yan G  
-**Journal:** Frontiers in neuroscience (2023)  
-**PMID:** 36950126  **DOI:** 10.3389/fnins.2023.1128087
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** The central nervous system (CNS) is the primary regulator of physiological activity, and when CNS is compromised, its physical functions are affected. Spinal cord injury (SCI) and traumatic brain inju...
-
-### Increased Risk of Aging-Related Neurodegenerative Disease after Traumatic Brain Injury.
-**Authors:** Barker S, Paul BD, Pieper AA  
-**Journal:** Biomedicines (2023)  
-**PMID:** 37189772  **DOI:** 10.3390/biomedicines11041154
-**Entities:** ROS, tau, neuroinflammation, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) survivors frequently suffer from chronically progressive complications, including significantly increased risk of developing aging-related neurodegenerative disease. As ad...
-
-### Intranasal Insulin Alleviates Traumatic Brain Injury by Inhibiting Autophagy and Endoplasmic Reticulum Stress-mediated Apoptosis Through the PI3K/Akt/mTOR Signaling Pathway.
-**Authors:** Ding X, Zhang L, Zhang X, Qin Y, Yu K et al.  
-**Journal:** Neuroscience (2023)  
-**PMID:** 37572876  **DOI:** 10.1016/j.neuroscience.2023.08.009
-**Entities:** Iba1, TNF-α, IL-1β, autophagy, TBI  
-**Abstract:** Intranasal insulin reduces lesion size and enhances memory capacity in traumatic brain injury (TBI) models, but the molecular mechanisms behind this neuroprotective action not yet understood. Here we ...
-
-### Electroacupuncture alleviates traumatic brain injury by inhibiting autophagy via increasing IL-10 production and blocking the AMPK/mTOR signaling pathway in rats.
-**Authors:** Wu T, Kou J, Li X, Diwu Y, Li Y et al.  
-**Journal:** Metabolic brain disease (2023)  
-**PMID:** 36517637  **DOI:** 10.1007/s11011-022-01133-y
-**Entities:** autophagy, TBI  
-**Abstract:** Autophagy, switched by the AMPK/mTOR signaling, has been revealed to contribute greatly to traumatic brain injury (TBI). Electroacupuncture (EA) is a promising therapeutic method for TBI, however, the...
-
-### NCOA4-mediated ferritinophagy aggravate intestinal oxidative stress and ferroptosis after traumatic brain injury.
-**Authors:** Zhang H, Gao Y, Wang C, Huang X, Li T et al.  
-**Journal:** Biochemical and biophysical research communications (2023)  
-**PMID:** 37979398  **DOI:** 10.1016/j.bbrc.2023.09.093
-**Entities:** ROS, p62, oxidative stress, TBI, glutathione  
-**Abstract:** Intestinal injury caused by traumatic brain injury (TBI) seriously affects patient prognosis; however, the underlying mechanisms are unknown. Recent studies have demonstrated that ferritinophagy-media...
-
-### Functions and mechanisms of cytosolic phospholipase A2 in central nervous system trauma.
-**Authors:** Zhang HJ, Chen YT, Hu XL, Cai WT, Wang XY et al.  
-**Journal:** Neural regeneration research (2023)  
-**PMID:** 35900400  **DOI:** 10.4103/1673-5374.346460
-**Entities:** neuroinflammation, TBI  
-**Abstract:** Central nervous system (CNS) trauma, including traumatic brain injury and spinal cord injury, has a high rate of disability and mortality, and effective treatment is currently lacking. Previous studie...
-
-### HSPB2 facilitates neural regeneration through autophagy for sensorimotor recovery after traumatic brain injury.
-**Authors:** Huang Y, Meng S, Wu B, Shi H, Wang Y et al.  
-**Journal:** JCI insight (2023)  
-**PMID:** 37606039  **DOI:** 10.1172/jci.insight.168919
-**Entities:** p62, autophagy, TBI  
-**Abstract:** Autophagy is a promising target for promoting neural regeneration, which is essential for sensorimotor recovery following traumatic brain injury (TBI). Whether neuronal heat shock protein B2 (HSPB2), ...
-
-### Esketamine is neuroprotective against traumatic brain injury through its modulation of autophagy and oxidative stress via AMPK/mTOR-dependent TFEB nuclear translocation.
-**Authors:** Tang Y, Liu Y, Zhou H, Lu H, Zhang Y et al.  
-**Journal:** Experimental neurology (2023)  
-**PMID:** 37187276  **DOI:** 10.1016/j.expneurol.2023.114436
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Recent clinical studies highlight the neuroprotective effects of esketamine, but its benefits following traumatic brain injury (TBI) have not been defined. Here, we investigated the effects of esketam...
-
-### Neuroinflammation-Modulating Agent SB1617 Enhances LC3-Associated Phagocytosis to Mitigate Tau Pathology.
-**Authors:** Cho H, Choi BY, Shin YH, Suh SW, Park SB  
-**Journal:** ACS chemical neuroscience (2023)  
-**PMID:** 38014902  **DOI:** 10.1021/acschemneuro.3c00508
-**Entities:** tau, LC3, neuroinflammation  
-**Abstract:** Tau protein aggregation and propagation in neurons and surrounding microglia are well-known risk factors for neurodegenerative diseases. Therefore, emerging therapeutic strategies that target neuroinf...
-
-### USP30 impairs mitochondrial quality control and aggravates oxidative damage after traumatic brain injury.
-**Authors:** Wu Y, Hu Q, Cheng H, Yu J, Gao L et al.  
-**Journal:** Biochemical and biophysical research communications (2023)  
-**PMID:** 37300943  **DOI:** 10.1016/j.bbrc.2023.05.069
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Clinical progress in the treatment of traumatic brain injury (TBI) is hindered by the poor understanding of the molecular mechanisms that underlie secondary brain injury (SBI). USP30, a mitochondrial ...
-
-### Acupuncture promotes nerve repair through the benign regulation of mTOR-mediated neuronal autophagy in traumatic brain injury rats.
-**Authors:** Zhao S, Wang S, Cao L, Zeng H, Lin S et al.  
-**Journal:** CNS neuroscience & therapeutics (2023)  
-**PMID:** 36422883  **DOI:** 10.1111/cns.14018
-**Entities:** p62, LC3, autophagy, TBI  
-**Abstract:** AIMS: Recent investigations have already proved the neuroprotective efficacy of acupuncture in clinical practice in the treatment of neurological diseases, such as traumatic brain injury (TBI). Since ...
-
-### Hydroxysafflor yellow a confers neuroprotection against acute traumatic brain injury by modulating neuronal autophagy to inhibit NLRP3 inflammasomes.
-**Authors:** Lai Z, Li C, Ma H, Hua S, Liu Z et al.  
-**Journal:** Journal of ethnopharmacology (2023)  
-**PMID:** 36842723  **DOI:** 10.1016/j.jep.2023.116268
-**Entities:** p62, LC3, neuroinflammation, autophagy, TBI  
-**Abstract:** ETHNOPHARMACOLOGICAL RELEVANCE: Hydroxysafflor yellow A (HSYA) is the principal bioactive compound isolated from the plant Carthamus tinctorius L. and has been reported to exert neuroprotective effect...
-
-### TAK-242, a toll-like receptor 4 antagonist, against brain injury by alleviates autophagy and inflammation in rats.
-**Authors:** Feng Y, Ju Y, Wu Q, Sun G, Yan Z  
-**Journal:** Open life sciences (2023)  
-**PMID:** 37528888  **DOI:** 10.1515/biol-2022-0662
-**Entities:** TNF-α, IL-1β, LC3, neuroinflammation, autophagy  
-**Abstract:** Inhibition of Toll-like receptor 4 (TLR4)-mediated inflammatory pathways exerts a critical effect on neuronal death; therefore, it is a possible new therapeutic approach for traumatic brain injury (TB...
-
-### Human umbilical cord mesenchymal stem cell-derived exosome suppresses programmed cell death in traumatic brain injury via PINK1/Parkin-mediated mitophagy.
-**Authors:** Zhang L, Lin Y, Bai W, Sun L, Tian M  
-**Journal:** CNS neuroscience & therapeutics (2023)  
-**PMID:** 36890626  **DOI:** 10.1111/cns.14159
-**Entities:** ubiquitin, autophagy, TBI  
-**Abstract:** AIMS: Recently, human umbilical cord mesenchymal stem cell (HucMSC)-derived exosome is a new focus of research in neurological diseases. The present study was aimed to investigate the protective effec...
-
-### Regulation of PRKN-independent mitophagy.
-**Authors:** Terešak P, Lapao A, Subic N, Boya P, Elazar Z et al.  
-**Journal:** Autophagy (2022)  
-**PMID:** 33570005  **DOI:** 10.1080/15548627.2021.1888244
-**Entities:** autophagy  
-**Abstract:** Mitochondria are dynamic, multifunctional cellular organelles that play a fundamental role in maintaining cellular homeostasis. Keeping the quality of mitochondria in check is of essential importance ...
-
-### Emerging role of STING signalling in CNS injury: inflammation, autophagy, necroptosis, ferroptosis and pyroptosis.
-**Authors:** Hu X, Zhang H, Zhang Q, Yao X, Ni W et al.  
-**Journal:** Journal of neuroinflammation (2022)  
-**PMID:** 36195926  **DOI:** 10.1186/s12974-022-02602-y
-**Entities:** autophagy, TBI  
-**Abstract:** Stimulator of interferons genes (STING), which is crucial for the secretion of type I interferons and proinflammatory cytokines in response to cytosolic nucleic acids, plays a key role in the innate i...
-
-### Role of autophagy and transcriptome regulation in acute brain injury.
-**Authors:** Arruri V, Vemuganti R  
-**Journal:** Experimental neurology (2022)  
-**PMID:** 35259350  **DOI:** 10.1016/j.expneurol.2022.114032
-**Entities:** autophagy, TBI  
-**Abstract:** Autophagy is an evolutionarily conserved intracellular system that routes distinct cytoplasmic cargo to lysosomes for degradation and recycling. Accumulating evidence highlight the mechanisms of autop...
-
-### Traumatic Brain Injury Biomarkers, Simulations and Kinetics.
-**Authors:** Hicks C, Dhiman A, Barrymore C, Goswami T  
-**Journal:** Bioengineering (Basel, Switzerland) (2022)  
-**PMID:** 36354523  **DOI:** 10.3390/bioengineering9110612
-**Entities:** GFAP, UCH-L1, S100B, NfL, tau  
-**Abstract:** This paper reviews the predictive capabilities of blood-based biomarkers to quantify traumatic brain injury (TBI). Biomarkers for concussive conditions also known as mild, to moderate and severe TBI i...
-
-### Old and Promising Markers Related to Autophagy in Traumatic Brain Injury.
-**Authors:** Livieri T, Cuttaia C, Vetrini R, Concato M, Peruch M et al.  
-**Journal:** International journal of molecular sciences (2022)  
-**PMID:** 36613513  **DOI:** 10.3390/ijms24010072
-**Entities:** autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) is one of the first causes of death and disability in the world. Because of the lack of macroscopical or histologic evidence of the damage, the forensic diagnosis of TBI c...
-
-### Mitophagy in Traumatic Brain Injury: A New Target for Therapeutic Intervention.
-**Authors:** Zhu M, Huang X, Shan H, Zhang M  
-**Journal:** Oxidative medicine and cellular longevity (2022)  
-**PMID:** 35126814  **DOI:** 10.1155/2022/4906434
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) contributes to death, and disability worldwide more than any other traumatic insult and damage to cellular components including mitochondria leads to the impairment of cel...
-
-### Tetrandrine Ameliorates Traumatic Brain Injury by Regulating Autophagy to Reduce Ferroptosis.
-**Authors:** Liu H, He S, Wang J, Li C, Liao Y et al.  
-**Journal:** Neurochemical research (2022)  
-**PMID:** 35266084  **DOI:** 10.1007/s11064-022-03553-9
-**Entities:** p62, LC3, beclin-1, autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) is the leading cause of death and disability in trauma patients. However, the effects and mechanism of autophagy after TBI remain unclear. This study aimed to investigate ...
-
-### The contribution of altered neuronal autophagy to neurodegeneration.
-**Authors:** Filippone A, Esposito E, Mannino D, Lyssenko N, Praticò D  
-**Journal:** Pharmacology & therapeutics (2022)  
-**PMID:** 35351465  **DOI:** 10.1016/j.pharmthera.2022.108178
-**Entities:** autophagy, TBI, Alzheimer  
-**Abstract:** Defects in cellular functions related to altered protein homeostasis and associated progressive accumulation of pathological intracellular material is a critical process involved in the pathogenesis o...
-
-### Predicting Clinical Outcomes 7-10 Years after Severe Traumatic Brain Injury: Exploring the Prognostic Utility of the IMPACT Lab Model and Cerebrospinal Fluid UCH-L1 and MAP-2.
-**Authors:** Svingos AM, Robicsek SA, Hayes RL, Wang KK, Robertson CS et al.  
-**Journal:** Neurocritical care (2022)  
-**PMID:** 35229233  **DOI:** 10.1007/s12028-022-01461-y
-**Entities:** UCH-L1, ubiquitin, TBI  
-**Abstract:** BACKGROUND: Severe traumatic brain injury (TBI) is a major contributor to disability and mortality in the industrialized world. Outcomes of severe TBI are profoundly heterogeneous, complicating outcom...
-
-### GFAP and S100B: What You Always Wanted to Know and Never Dared to Ask.
-**Authors:** Janigro D, Mondello S, Posti JP, Unden J  
-**Journal:** Frontiers in neurology (2022)  
-**PMID:** 35386417  **DOI:** 10.3389/fneur.2022.835597
-**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
-**Abstract:** Traumatic brain injury (TBI) is a major global health issue, with outcomes spanning from intracranial bleeding, debilitating sequelae, and invalidity with consequences for individuals, families, and h...
-
-### Resveratrol attenuates autophagy and inflammation after traumatic brain injury by activation of PI3K/Akt/mTOR pathway in rats.
-**Authors:** Feng Y, Ju Y, Yan Z, Ji M, Li J et al.  
-**Journal:** Folia neuropathologica (2022)  
-**PMID:** 35950468  **DOI:** 10.5114/fn.2022.118184
-**Entities:** TNF-α, p62, LC3, beclin-1, autophagy  
-**Abstract:** AIM OF THE STUDY: Accumulating studies have demonstrated that neuronal autophagy and inflammation are crucial for hippocampus development in rats subjected to traumatic brain injury (TBI). Therefore, ...
-
-### Chaperone-Mediated Autophagy in Neurodegenerative Diseases and Acute Neurological Insults in the Central Nervous System.
-**Authors:** Kanno H, Handa K, Murakami T, Aizawa T, Ozawa H  
-**Journal:** Cells (2022)  
-**PMID:** 35406769  **DOI:** 10.3390/cells11071205
-**Entities:** autophagy, TBI, Alzheimer  
-**Abstract:** Autophagy is an important function that mediates the degradation of intracellular proteins and organelles. Chaperone-mediated autophagy (CMA) degrades selected proteins and has a crucial role in cellu...
-
-### Astrocytic IGF-1 and IGF-1R Orchestrate Mitophagy in Traumatic Brain Injury via Exosomal miR-let-7e.
-**Authors:** Dabin R, Wei C, Liang S, Ke C, Zhihan W et al.  
-**Journal:** Oxidative medicine and cellular longevity (2022)  
-**PMID:** 36062186  **DOI:** 10.1155/2022/3504279
-**Entities:** autophagy, TBI, Alzheimer  
-**Abstract:** Defective brain hormonal signaling and autophagy have been associated with neurodegeneration after brain insults, characterized by neuronal loss and cognitive dysfunction. However, few studies have li...
-
-### The Role of Apoptosis and Autophagy in the Hypothalamic-Pituitary-Adrenal (HPA) Axis after Traumatic Brain Injury (TBI).
-**Authors:** Taheri S, Karaca Z, Mehmetbeyoglu E, Hamurcu Z, Yilmaz Z et al.  
-**Journal:** International journal of molecular sciences (2022)  
-**PMID:** 36555341  **DOI:** 10.3390/ijms232415699
-**Entities:** autophagy, mTBI, TBI  
-**Abstract:** Traumatic brain injury (TBI) is a major health problem affecting millions of people worldwide and leading to death or permanent damage. TBI affects the hypothalamic-pituitary-adrenal (HPA) axis either...
-
-### Sirt1 attenuates astrocyte activation via modulating Dnajb1 and chaperone-mediated autophagy after closed head injury.
-**Authors:** Zhang Z, Zhang X, Wu X, Zhang Y, Lu J et al.  
-**Journal:** Cerebral cortex (New York, N.Y. : 1991) (2022)  
-**PMID:** 35106540  **DOI:** 10.1093/cercor/bhac007
-**Entities:** LC3, neuroinflammation, autophagy, TBI  
-**Abstract:** Our previous study indicates that Silent information regulator 1 (Sirt1) is involved in macroautophagy by upregulating light chain 3 (LC3) expression in astrocyte to exert a neuroprotective effect. Ch...
-
-### Platelet derived growth factor promotes the recovery of traumatic brain injury by inhibiting endoplasmic reticulum stress and autophagy-mediated pyroptosis.
-**Authors:** Wu F, Zhang R, Meng W, Liu L, Tang Y et al.  
-**Journal:** Frontiers in pharmacology (2022)  
-**PMID:** 36339541  **DOI:** 10.3389/fphar.2022.862324
-**Entities:** autophagy, TBI  
-**Abstract:** Autophagy and endoplasmic reticulum stress (ER stress) are important in numerous pathological processes in traumatic brain injury (TBI). Growing evidence has indicated that pyroptosis-associated infla...
-
-### Restraint Stress Delays the Recovery of Neurological Impairments and Exacerbates Brain Damages through Activating Endoplasmic Reticulum Stress-mediated Neurodegeneration/Autophagy/Apopotosis post Moderate Traumatic Brain Injury.
-**Authors:** Gao C, Chen X, Xu H, Guo H, Zheng L et al.  
-**Journal:** Molecular neurobiology (2022)  
-**PMID:** 35001355  **DOI:** 10.1007/s12035-022-02735-4
-**Entities:** tau, p-tau, autophagy, BBB, TBI  
-**Abstract:** Based on accumulating evidence, patients recovering from mild and moderate traumatic brain injury (TBI) often experience increased sensitivity to stressful events. However, few studies have assessed o...
-
-### Long-Term Stability of Blood Serum Biomarkers in Traumatic Brain Injury: A Feasibility Study.
-**Authors:** van der Horn HJ, Visser K, Bijzet J, Vos P, van der Naalt J et al.  
-**Journal:** Frontiers in neurology (2022)  
-**PMID:** 35665051  **DOI:** 10.3389/fneur.2022.877050
-**Entities:** mTBI, TBI  
-**Abstract:** Few studies on traumatic brain injury (TBI) have investigated the stability of blood serum biomarkers after long-term storage at low temperatures. In the current feasibility study we analyzed acute ph...
-
-### The Role of Hydrogen Sulfide Targeting Autophagy in the Pathological Processes of the Nervous System.
-**Authors:** Zhao H, Yang Y, Liu H, Wang H  
-**Journal:** Metabolites (2022)  
-**PMID:** 36144282  **DOI:** 10.3390/metabo12090879
-**Entities:** autophagy  
-**Abstract:** Autophagy is an important cellular process, involving the transportation of cytoplasmic contents in the double membrane vesicles to lysosomes for degradation. Autophagy disorder contributes to many di...
-
-### Brain Extract of Subacute Traumatic Brain Injury Promotes the Neuronal Differentiation of Human Neural Stem Cells via Autophagy.
-**Authors:** He Z, Lang L, Hui J, Ma Y, Yang C et al.  
-**Journal:** Journal of clinical medicine (2022)  
-**PMID:** 35628836  **DOI:** 10.3390/jcm11102709
-**Entities:** autophagy, TBI  
-**Abstract:** BACKGROUND: After a traumatic brain injury (TBI), the cell environment is dramatically changed, which has various influences on grafted neural stem cells (NSCs). At present, these influences on NSCs h...
-
-### UCH-L1 and GFAP Testing (i-STAT TBI Plasma) for the Detection of Intracranial Injury Following Mild Traumatic Brain Injury.
-**Authors:** Middleton J  
-**Journal:** American family physician (2022)  
-**PMID:** 35289582  
-**Entities:** —  
-**Abstract:** 
-
-### Repetitive Mild Closed Head Injury in Adolescent Mice Is Associated with Impaired Proteostasis, Neuroinflammation, and Tauopathy.
-**Authors:** Wu L, Kalish BT, Finander B, Cao T, Jin G et al.  
-**Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (2022)  
-**PMID:** 35105673  **DOI:** 10.1523/JNEUROSCI.0682-21.2021
-**Entities:** tau, IL-1β, neuroinflammation, mTBI, TBI  
-**Abstract:** Repetitive mild traumatic brain injury (mTBI) in children and adolescents leads to acute and chronic neurologic sequelae and is linked to later life neurodegenerative disease. However, the biological ...
-
-### Urolithin A alleviates blood-brain barrier disruption and attenuates neuronal apoptosis following traumatic brain injury in mice.
-**Authors:** Gong QY, Cai L, Jing Y, Wang W, Yang DX et al.  
-**Journal:** Neural regeneration research (2022)  
-**PMID:** 35142690  **DOI:** 10.4103/1673-5374.335163
-**Entities:** p62, LC3, neuroinflammation, autophagy, BBB  
-**Abstract:** Urolithin A (UA) is a natural metabolite produced from polyphenolics in foods such as pomegranates, berries, and nuts. UA is neuroprotective against Parkinson's disease, Alzheimer's disease, and cereb...
-
-### Involvement of Autophagy in the Protective Effects of Ginsenoside Rb1 in a Rat Model of Traumatic Brain Injury.
-**Authors:** Zou S, Chen W, Ding H, Qi Y, Wang Z et al.  
-**Journal:** European journal of drug metabolism and pharmacokinetics (2022)  
-**PMID:** 36197653  **DOI:** 10.1007/s13318-022-00799-0
-**Entities:** p62, beclin-1, autophagy, TBI  
-**Abstract:** BACKGROUND AND OBJECTIVES: No treatment modalities have been identified to prevent neuron damage induced by traumatic brain injury (TBI). The objective of this study was to investigate whether ginseno...
-
-### Mitophagy in neurological disorders.
-**Authors:** Zhang L, Dai L, Li D  
-**Journal:** Journal of neuroinflammation (2021)  
-**PMID:** 34937577  **DOI:** 10.1186/s12974-021-02334-5
-**Entities:** autophagy, TBI, Alzheimer  
-**Abstract:** Selective autophagy is an evolutionarily conserved mechanism that removes excess protein aggregates and damaged intracellular components. Most eukaryotic cells, including neurons, rely on proficient m...
-
-### Rescuing mitochondria in traumatic brain injury and intracerebral hemorrhages - A potential therapeutic approach.
-**Authors:** Ahluwalia M, Kumar M, Ahluwalia P, Rahimi S, Vender JR et al.  
-**Journal:** Neurochemistry international (2021)  
-**PMID:** 34560175  **DOI:** 10.1016/j.neuint.2021.105192
-**Entities:** ROS, autophagy, oxidative stress, TBI, Alzheimer  
-**Abstract:** Mitochondria are dynamic organelles responsible for cellular energy production. Besides, regulating energy homeostasis, mitochondria are responsible for calcium homeostasis, signal transmission, and t...
-
-### Role of hydrogen in traumatic brain injury: a narrative review.
-**Authors:** Hu HW, Chen ZG, Liu JG, Chen G  
-**Journal:** Medical gas research (2021)  
-**PMID:** 33942782  **DOI:** 10.4103/2045-9912.314331
-**Entities:** TBI  
-**Abstract:** Traumatic brain injury (TBI) is a serious global public health problem. Survivors of TBI often suffer from long-term disability, which puts a heavy burden on society and families. Unfortunately, up to...
-
-### Blood biomarkers for mild traumatic brain injury: a selective review of unresolved issues.
-**Authors:** Hier DB, Obafemi-Ajayi T, Thimgan MS, Olbricht GR, Azizi S et al.  
-**Journal:** Biomarker research (2021)  
-**PMID:** 34530937  **DOI:** 10.1186/s40364-021-00325-5
-**Entities:** S100B, NfL, tau, ubiquitin, mTBI  
-**Abstract:** BACKGROUND: The use of blood biomarkers after mild traumatic brain injury (mTBI) has been widely studied. We have identified eight unresolved issues related to the use of five commonly investigated bl...
-
-### Mutation of a Ubiquitin Carboxy Terminal Hydrolase L1 Lipid Binding Site Alleviates Cell Death, Axonal Injury, and Behavioral Deficits After Traumatic Brain Injury in Mice.
-**Authors:** Mi Z, Liu H, Rose ME, Ma J, Reay DP et al.  
-**Journal:** Neuroscience (2021)  
-**PMID:** 34508847  **DOI:** 10.1016/j.neuroscience.2021.09.001
-**Entities:** UCH-L1, LC3, beclin-1, ubiquitin, autophagy  
-**Abstract:** Ubiquitin carboxy terminal hydrolase L1 (UCHL1) is a protein highly expressed in neurons that may play important roles in the ubiquitin proteasome pathway (UPP) in neurons, axonal integrity, and motor...
-
-### Omega-3 Fatty Acids and Vitamin D Decrease Plasma T-Tau, GFAP, and UCH-L1 in Experimental Traumatic Brain Injury.
-**Authors:** Scrimgeour AG, Condlin ML, Loban A, DeMar JC  
-**Journal:** Frontiers in nutrition (2021)  
-**PMID:** 34150829  **DOI:** 10.3389/fnut.2021.685220
-**Entities:** GFAP, UCH-L1, tau, neuroinflammation, mTBI  
-**Abstract:** Traumatic brain injury (TBI) results in neuronal, axonal and glial damage. Interventions targeting neuroinflammation to enhance recovery from TBI are needed. Exercise is known to improve cognitive fun...
-
-### Study protocol for investigating the performance of an automated blood test measuring GFAP and UCH-L1 in a prospective observational cohort of patients with mild traumatic brain injury: European BRAINI study.
-**Authors:** Richard M, Lagares A, Bondanese V, de la Cruz J, Mejan O et al.  
-**Journal:** BMJ open (2021)  
-**PMID:** 33632753  **DOI:** 10.1136/bmjopen-2020-043635
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
-**Abstract:** INTRODUCTION: Mild traumatic brain injury (mTBI) is a common cause of clinical consultation in the emergency department. Patients with mTBI may undergo brain CT scans based on clinical criteria. Howev...
-
-### Traumatic brain injury in the presence of Aβ pathology affects neuronal survival, glial activation and autophagy.
-**Authors:** Streubel-Gallasch L, Zyśk M, Beretta C, Erlandsson A  
-**Journal:** Scientific reports (2021)  
-**PMID:** 34837024  **DOI:** 10.1038/s41598-021-02371-3
-**Entities:** neuroinflammation, autophagy, TBI, Alzheimer  
-**Abstract:** Traumatic brain injury (TBI) presents a widespread health problem in the elderly population. In addition to the acute injury, epidemiological studies have observed an increased probability and earlier...
-
-### Mechanisms of Neurodegeneration in Various Forms of Parkinsonism-Similarities and Differences.
-**Authors:** Koziorowski D, Figura M, Milanowski ŁM, Szlufik S, Alster P et al.  
-**Journal:** Cells (2021)  
-**PMID:** 33809527  **DOI:** 10.3390/cells10030656
-**Entities:** tau, Alzheimer  
-**Abstract:** Parkinson's disease (PD), dementia with Lewy body (DLB), progressive supranuclear palsy (PSP), corticobasal degeneration (CBD) and multiple system atrophy (MSA) belong to a group of neurodegenerative ...
-
-### Reduction of Autophagosome Overload Attenuates Neuronal Cell Death After Traumatic Brain Injury.
-**Authors:** Quan X, Song L, Zheng X, Liu S, Ding H et al.  
-**Journal:** Neuroscience (2021)  
-**PMID:** 33600885  **DOI:** 10.1016/j.neuroscience.2021.02.007
-**Entities:** p62, LC3, beclin-1, autophagy, TBI  
-**Abstract:** Previous studies have shown that alterations in autophagy-related proteins exist extensively after traumatic brain injury (TBI). However, whether autophagy is enhanced or suppressed by TBI remains con...
-
-### Dexmedetomidine alleviates early brain injury following traumatic brain injury by inhibiting autophagy and neuroinflammation through the ROS/Nrf2 signaling pathway.
-**Authors:** Feng X, Ma W, Zhu J, Jiao W, Wang Y  
-**Journal:** Molecular medicine reports (2021)  
-**PMID:** 34278508  **DOI:** 10.3892/mmr.2021.12300
-**Entities:** ROS, TNF-α, LC3, neuroinflammation, autophagy  
-**Abstract:** Traumatic brain injury (TBI) is a major public health problem and a major cause of mortality and disability that imposes a substantial economic burden worldwide. Dexmedetomidine (DEX), a highly select...
-
-### Deficiency in Androgen Receptor Aggravates Traumatic Brain Injury-Induced Pathophysiology and Motor Deficits in Mice.
-**Authors:** Chen YH, Chen YC, Hwang LL, Yang LY, Lu DY  
-**Journal:** Molecules (Basel, Switzerland) (2021)  
-**PMID:** 34684832  **DOI:** 10.3390/molecules26206250
-**Entities:** GFAP, beclin-1, autophagy, TBI  
-**Abstract:** Androgens have been shown to have a beneficial effect on brain injury and lower reactive astrocyte expression after TBI. Androgen receptors (ARs) are known to mediate the neuroprotective effects of an...
-
-### A Kinetic Model for Blood Biomarker Levels After Mild Traumatic Brain Injury.
-**Authors:** Azizi S, Hier DB, Allen B, Obafemi-Ajayi T, Olbricht GR et al.  
-**Journal:** Frontiers in neurology (2021)  
-**PMID:** 34295300  **DOI:** 10.3389/fneur.2021.668606
-**Entities:** GFAP, UCH-L1, S100B, NfL, tau  
-**Abstract:** Traumatic brain injury (TBI) imposes a significant economic and social burden. The diagnosis and prognosis of mild TBI, also called concussion, is challenging. Concussions are common among contact spo...
-
-### Calcitriol confers neuroprotective effects in traumatic brain injury by activating Nrf2 signaling through an autophagy-mediated mechanism.
-**Authors:** Cui C, Wang C, Jin F, Yang M, Kong L et al.  
-**Journal:** Molecular medicine (Cambridge, Mass.) (2021)  
-**PMID:** 34556021  **DOI:** 10.1186/s10020-021-00377-1
-**Entities:** ROS, autophagy, oxidative stress, TBI, Nrf2  
-**Abstract:** BACKGROUND: The present study aimed to further explore the potential interaction between oxidative stress and autophagy in the progression of traumatic brain injury (TBI) and therapeutic mechanism of ...
-
-### Blood-based traumatic brain injury biomarkers - Clinical utilities and regulatory pathways in the United States, Europe and Canada.
-**Authors:** Wang KK, Munoz Pareja JC, Mondello S, Diaz-Arrastia R, Wellington C et al.  
-**Journal:** Expert review of molecular diagnostics (2021)  
-**PMID:** 34783274  **DOI:** 10.1080/14737159.2021.2005583
-**Entities:** GFAP, UCH-L1, mTBI, TBI  
-**Abstract:** INTRODUCTION: Traumatic brain injury (TBI) is a major global health issue, resulting in debilitating consequences to families, communities, and health-care systems. Prior research has found that bioma...
-
-### PLA2G4A/cPLA2-mediated lysosomal membrane damage leads to inhibition of autophagy and neurodegeneration after brain trauma.
-**Authors:** Sarkar C, Jones JW, Hegdekar N, Thayer JA, Kumar A et al.  
-**Journal:** Autophagy (2020)  
-**PMID:** 31238788  **DOI:** 10.1080/15548627.2019.1628538
-**Entities:** autophagy, Alzheimer  
-**Abstract:** Lysosomal membrane permeabilization (LMP) is observed under many pathological conditions, leading to cellular dysfunction and death. However, the mechanisms by which lysosomal membranes become leaky
-
-### Autophagy in Myelinating Glia.
-**Authors:** Belgrad J, De Pace R, Fields RD  
-**Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (2020)  
-**PMID:** 31744863  **DOI:** 10.1523/JNEUROSCI.1066-19.2019
-**Entities:** autophagy, TBI, Alzheimer, MBP  
-**Abstract:** Autophagy is the cellular process involved in transportation and degradation of membrane, proteins, pathogens, and organelles. This fundamental cellular process is vital in development, plasticity, an...
-
-### The Function and Mechanisms of Autophagy in Traumatic Brain Injury.
-**Authors:** Luo C, Tao L  
-**Journal:** Advances in experimental medicine and biology (2020)  
-**PMID:** 32671781  **DOI:** 10.1007/978-981-15-4272-5_46
-**Entities:** autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) is one of the most common causes of long-term disability and death worldwide. Autophagy is activated and autophagic flux is impaired following TBI. But the controversial r...
-
-### Modulation of autophagy in traumatic brain injury.
-**Authors:** Zeng Z, Zhang Y, Jiang W, He L, Qu H  
-**Journal:** Journal of cellular physiology (2020)  
-**PMID:** 31512236  **DOI:** 10.1002/jcp.29173
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) is defined as a traumatically induced structural injury or physiological disruption of brain function as a result of external forces, leading to adult disability and death...
-
-### Neuroprotective effects of curcumin through autophagy modulation.
-**Authors:** Forouzanfar F, Read MI, Barreto GE, Sahebkar A  
-**Journal:** IUBMB life (2020)  
-**PMID:** 31804772  **DOI:** 10.1002/iub.2209
-**Entities:** autophagy, TBI, Alzheimer  
-**Abstract:** Autophagy is a highly conserved cellular degradation process involving lysosomal degradation for the turnover of proteins, protein complexes, and organelles. Defects in autophagy produces impaired int...
-
-### Impact of Curcumin on Traumatic Brain Injury and Involved Molecular Signaling Pathways.
-**Authors:** Farkhondeh T, Samarghandian S, Roshanravan B, Peivasteh-Roudsari L  
-**Journal:** Recent patents on food, nutrition & agriculture (2020)  
-**PMID:** 31288732  **DOI:** 10.2174/2212798410666190617161523
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic Brain Injury (TBI) is one of the main causes of mortality and morbidity worldwide with no suitable treatment. The present study was designed to review the present literature about the protec...
-
-### Exogenous CGRP Regulates Apoptosis and Autophagy to Alleviate Traumatic Brain Injury Through Akt/mTOR Signalling Pathway.
-**Authors:** Tian J, Yang L, Wang P, Yang L, Fan Z  
-**Journal:** Neurochemical research (2020)  
-**PMID:** 33063244  **DOI:** 10.1007/s11064-020-03141-9
-**Entities:** autophagy, BBB, TBI  
-**Abstract:** With millions of traumatic brain injury (TBI) patients every year, TBI is regarded as one of the leading causes of human death and disability. Calcitonin gene-related peptide (CGRP) has been domenstra...
-
-### FTY720 in CNS injuries: Molecular mechanisms and therapeutic potential.
-**Authors:** Zhang L, Wang H  
-**Journal:** Brain research bulletin (2020)  
-**PMID:** 32846199  **DOI:** 10.1016/j.brainresbull.2020.08.013
-**Entities:** ROS, oxidative stress, TBI  
-**Abstract:** Central nervous system (CNS) injuries, such as traumatic brain injury (TBI), subarachnoid hemorrhage (SAH) and intracerebral hemorrhage (ICH), are important causes of disability and death worldwide. F...
-
-### Dl-3n-butylphthalide improves traumatic brain injury recovery via inhibiting autophagy-induced blood-brain barrier disruption and cell apoptosis.
-**Authors:** Wu F, Xu K, Xu K, Teng C, Zhang M et al.  
-**Journal:** Journal of cellular and molecular medicine (2020)  
-**PMID:** 31840938  **DOI:** 10.1111/jcmm.14691
-**Entities:** autophagy, BBB, TBI  
-**Abstract:** Blood-brain barrier (BBB) disruption and neuronal apoptosis are important pathophysiological processes after traumatic brain injury (TBI). In clinical stroke, Dl-3n-butylphthalide (Dl-NBP) has a neuro...
-
-### Autophagy: a potential key contributor to the therapeutic action of mesenchymal stem cells.
-**Authors:** Ceccariglia S, Cargnoni A, Silini AR, Parolini O  
-**Journal:** Autophagy (2020)  
-**PMID:** 31185790  **DOI:** 10.1080/15548627.2019.1630223
-**Entities:** autophagy  
-**Abstract:** Macroautophagy/autophagy occurs at basal levels in all eukaryotic cells and plays an important role in maintaining bio-energetic homeostasis through the control of molecule degradation and organelle t...
-
-### Functional suppression of Ripk1 blocks the NF-κB signaling pathway and induces neuron autophagy after traumatic brain injury.
-**Authors:** Liu J, Zhu Z, Wang L, Du J, Zhang B et al.  
-**Journal:** Molecular and cellular biochemistry (2020)  
-**PMID:** 32666312  **DOI:** 10.1007/s11010-020-03789-5
-**Entities:** IL-6, TNF-α, IL-1β, autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI), known as intracranial injury, has been a serious threat to human health. Evidence exists indicating that autophagy and inflammatory responses contribute to secondary brai...
-
-### Dexmedetomidine inhibits inflammatory response and autophagy through the circLrp1b/miR-27a-3p/Dram2 pathway in a rat model of traumatic brain injury.
-**Authors:** Li H, Lu C, Yao W, Xu L, Zhou J et al.  
-**Journal:** Aging (2020)  
-**PMID:** 33147167  **DOI:** 10.18632/aging.103975
-**Entities:** autophagy, TBI  
-**Abstract:** Circular RNAs (circRNAs) have a regulatory function on inflammation and autophagy, of which rno-circRNA_010705 (circLrp1b) appears to be significantly up-regulated following traumatic brain injury (TB...
-
-### Hydrogen improves cell viability partly through inhibition of autophagy and activation of PI3K/Akt/GSK3β signal pathway in a microvascular endothelial cell model of traumatic brain injury.
-**Authors:** Wang Y, Wang L, Hu T, Wang F, Han Z et al.  
-**Journal:** Neurological research (2020)  
-**PMID:** 32292127  **DOI:** 10.1080/01616412.2020.1747717
-**Entities:** autophagy, TBI  
-**Abstract:** 
-
-### Autophagy in Neurotrauma: Good, Bad, or Dysregulated.
-**Authors:** Wu J, Lipinski MM  
-**Journal:** Cells (2019)  
-**PMID:** 31295858  **DOI:** 10.3390/cells8070693
-**Entities:** autophagy, TBI  
-**Abstract:** Autophagy is a physiological process that helps maintain a balance between the manufacture of cellular components and breakdown of damaged organelles and other toxic cellular constituents. Changes in ...
-
-### The role of autophagy in acute brain injury: A state of flux?
-**Authors:** Wolf MS, Bayır H, Kochanek PM, Clark RSB  
-**Journal:** Neurobiology of disease (2019)  
-**PMID:** 29704549  **DOI:** 10.1016/j.nbd.2018.04.018
-**Entities:** autophagy, TBI  
-**Abstract:** It is established that increased autophagy is readily detectable after various types of acute brain injury, including trauma, focal and global cerebral ischemia. What remains controversial, however, i...
-
-### Traumatic brain injury induces long-lasting changes in immune and regenerative signaling.
-**Authors:** Boone DR, Weisz HA, Willey HE, Torres KEO, Falduto MT et al.  
-**Journal:** PloS one (2019)  
-**PMID:** 30943276  **DOI:** 10.1371/journal.pone.0214741
-**Entities:** neuroinflammation, TBI, Alzheimer  
-**Abstract:** There are no existing treatments for the long-term degenerative effects of traumatic brain injury (TBI). This is due, in part, to our limited understanding of chronic TBI and uncertainty about which p...
-
-### Cardiolipin-Dependent Mitophagy Guides Outcome after Traumatic Brain Injury.
-**Authors:** Chao H, Lin C, Zuo Q, Liu Y, Xiao M et al.  
-**Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (2019)  
-**PMID:** 30626699  **DOI:** 10.1523/JNEUROSCI.3415-17.2018
-**Entities:** ROS, autophagy, TBI  
-**Abstract:** Mitochondrial energy production is essential for normal brain function. Traumatic brain injury (TBI) increases brain energy demands, results in the activation of mitochondrial respiration, associated ...
-
-### Proteasome and Autophagy-Mediated Impairment of Late Long-Term Potentiation (l-LTP) after Traumatic Brain Injury in the Somatosensory Cortex of Mice.
-**Authors:** Feldmann LK, Le Prieult F, Felzen V, Thal SC, Engelhard K et al.  
-**Journal:** International journal of molecular sciences (2019)  
-**PMID:** 31234472  **DOI:** 10.3390/ijms20123048
-**Entities:** autophagy, TBI, CaMKII  
-**Abstract:** Traumatic brain injury (TBI) can lead to impaired cognition and memory consolidation. The acute phase (24-48 h) after TBI is often characterized by neural dysfunction in the vicinity of the lesion, bu...
-
-### Senescence-associated-β-galactosidase staining following traumatic brain injury in the mouse cerebrum.
-**Authors:** Tominaga T, Shimada R, Okada Y, Kawamata T, Kibayashi K  
-**Journal:** PloS one (2019)  
-**PMID:** 30856215  **DOI:** 10.1371/journal.pone.0213673
-**Entities:** autophagy, TBI  
-**Abstract:** Primary and secondary traumatic brain injury (TBI) can cause tissue damage by inducing cell death pathways including apoptosis, necroptosis, and autophagy. However, similar pathways can also lead to s...
-
-### Cerebral Expression of Glial Fibrillary Acidic Protein, Ubiquitin Carboxy-Terminal Hydrolase-L1, and Matrix Metalloproteinase 9 After Traumatic Brain Injury and Secondary Brain Insults in Rats.
-**Authors:** Mrozek S, Delamarre L, Capilla F, Al-Saati T, Fourcade O et al.  
-**Journal:** Biomarker insights (2019)  
-**PMID:** 31210728  **DOI:** 10.1177/1177271919851515
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
-**Abstract:** Glial fibrillary acidic protein (GFAP), ubiquitin carboxy-terminal hydrolase-L1 (UCH-L1), and matrix metalloproteinase 9 (MMP-9) are potential biomarkers of traumatic brain injury (TBI) but also of se...
-
-### Potential Roles of NIX/BNIP3L Pathway in Rat Traumatic Brain Injury.
-**Authors:** Ma J, Ni H, Rui Q, Liu H, Jiang F et al.  
-**Journal:** Cell transplantation (2019)  
-**PMID:** 30961359  **DOI:** 10.1177/0963689719840353
-**Entities:** autophagy, TBI  
-**Abstract:** NIX/BNIP3L is known as a proapoptotic protein that is also related to mitophagy. Previous reports have shown that NIX could be involved in neuronal apoptosis after intracerebral hemorrhage, but it als...
-
-### Sirt1 improves functional recovery by regulating autophagy of astrocyte and neuron after brain injury.
-**Authors:** Zhang Z, Li D, Xu L, Li HP  
-**Journal:** Brain research bulletin (2019)  
-**PMID:** 31102754  **DOI:** 10.1016/j.brainresbull.2019.05.005
-**Entities:** LC3, neuroinflammation, autophagy, TBI, resveratrol  
-**Abstract:** Traumatic brain injury (TBI) triggers neuronal death mechanisms that significantly induce neuronal loss and neurological dysfunction. Our previous study revealed that Sirt1 could improve the neuroprot...
-
-### NLRX1 Is a Multifaceted and Enigmatic Regulator of Immune System Function.
-**Authors:** Nagai-Singer MA, Morrison HA, Allen IC  
-**Journal:** Frontiers in immunology (2019)  
-**PMID:** 31681307  **DOI:** 10.3389/fimmu.2019.02419
-**Entities:** ROS, autophagy, TBI  
-**Abstract:** Over the last decade, significant progress has been achieved in defining mechanisms underlying NLR regulation of immune system function. However, several NLR family members continue to defy our best a...
-
-### EPPS treatment attenuates traumatic brain injury in mice by reducing Aβ burden and ameliorating neuronal autophagic flux.
-**Authors:** Anthony Jalin AMA, Jin R, Wang M, Li G  
-**Journal:** Experimental neurology (2019)  
-**PMID:** 30639321  **DOI:** 10.1016/j.expneurol.2019.01.002
-**Entities:** p62, LC3, autophagy, TBI, Alzheimer  
-**Abstract:** Beta-amyloid (Aβ) burden and impaired neuronal autophagy contribute to secondary brain injury after traumatic brain injury (TBI). 4-(2-hydroxyethyl)-1-piperazinepropanesulphonic acid (EPPS) treatment ...
-
-### Salubrinal offers neuroprotection through suppressing endoplasmic reticulum stress, autophagy and apoptosis in a mouse traumatic brain injury model.
-**Authors:** Wang ZF, Gao C, Chen W, Gao Y, Wang HC et al.  
-**Journal:** Neurobiology of learning and memory (2019)  
-**PMID:** 30851432  **DOI:** 10.1016/j.nlm.2019.03.002
-**Entities:** eIF2α, GFAP, Iba1, LC3, autophagy  
-**Abstract:** Traumatic brain injury (TBI) is a complex injury that can cause severe disabilities and even death. TBI can induce secondary injury cascades, including but not limited to endoplasmic reticulum (ER) st...
-
-### Morin post-treatment confers neuroprotection in a novel rat model of mild repetitive traumatic brain injury by targeting dementia markers, APOE, autophagy and Wnt/β-catenin signaling pathway.
-**Authors:** El-Gazar AA, Soubh AA, Mohamed EA, Awad AS, El-Abhar HS  
-**Journal:** Brain research (2019)  
-**PMID:** 31002817  **DOI:** 10.1016/j.brainres.2019.04.003
-**Entities:** autophagy, mTBI, TBI, Alzheimer  
-**Abstract:** Exposure to repetitive brain trauma has gained attention for its similarity to sport-related trauma. The traumatic brain injury (TBI) is strongly associated with neurodegenerative pathology that affec...
-
-### Ubiquitin C-Terminal Hydrolase-L1 (UCH-L1) in Prediction of Computed Tomography Findings in Traumatic Brain Injury; a Meta-Analysis.
-**Authors:** Ramezani F, Bahrami-Amiri A, Babahajian A, Shahsavari Nia K, Yousefifard M  
-**Journal:** Emergency (Tehran, Iran) (2018)  
-**PMID:** 30788389  
-**Entities:** UCH-L1, ubiquitin, mTBI, TBI  
-**Abstract:** INTRODUCTION: Ubiquitin C-terminal hydrolase-L1 (UCH-L1) is one of the promising candidates, with an acceptable diagnostic value for predicting head computed tomography (CT) scan findings. However, th...
-
-### Autophagy in Traumatic Brain Injury: A New Target for Therapeutic Intervention.
-**Authors:** Zhang L, Wang H  
-**Journal:** Frontiers in molecular neuroscience (2018)  
-**PMID:** 29922127  **DOI:** 10.3389/fnmol.2018.00190
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Traumatic brain injury (TBI) is one of the most devastating forms of brain injury. Many pathological mechanisms such as oxidative stress, apoptosis and inflammation all contribute to the secondary bra...
-
-### Effects of DHA on Hippocampal Autophagy and Lysosome Function After Traumatic Brain Injury.
-**Authors:** Yin Y, Li E, Sun G, Yan HQ, Foley LM et al.  
-**Journal:** Molecular neurobiology (2018)  
-**PMID:** 28365875  **DOI:** 10.1007/s12035-017-0504-8
-**Entities:** p62, autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) triggers endoplasmic reticulum (ER) stress and impairs autophagic clearance of damaged organelles and toxic macromolecules. In this study, we investigated the effects of t...
-
-### ERK1/2/mTOR/Stat3 pathway-mediated autophagy alleviates traumatic brain injury-induced acute lung injury.
-**Authors:** Xu X, Zhi T, Chao H, Jiang K, Liu Y et al.  
-**Journal:** Biochimica et biophysica acta. Molecular basis of disease (2018)  
-**PMID:** 29466698  **DOI:** 10.1016/j.bbadis.2018.02.011
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** Acute lung injury (ALI) is one of several complications in patients with traumatic brain injury (TBI). Autophagy is a primary homeostatic process that promotes cell survival under stress. Accumulating...
-
-### Traumatic injury induces stress granule formation and enhances motor dysfunctions in ALS/FTD models.
-**Authors:** Anderson EN, Gochenaur L, Singh A, Grant R, Patel K et al.  
-**Journal:** Human molecular genetics (2018)  
-**PMID:** 29432563  **DOI:** 10.1093/hmg/ddy047
-**Entities:** p62, ubiquitin, autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) has been predicted to be a predisposing factor for amyotrophic lateral sclerosis (ALS) and other neurological disorders. Despite the importance of TBI in ALS progression, ...
-
-### miR-23b improves cognitive impairments in traumatic brain injury by targeting ATG12-mediated neuronal autophagy.
-**Authors:** Sun L, Liu A, Zhang J, Ji W, Li Y et al.  
-**Journal:** Behavioural brain research (2018)  
-**PMID:** 27630106  **DOI:** 10.1016/j.bbr.2016.09.020
-**Entities:** autophagy, TBI  
-**Abstract:** Dysregulated microRNAs (miRNAs) have been reported to involve in the pathophysiological process of traumatic brain injury (TBI), and modulate autophagy-related genes (ATGs) expression. Our previous st...
-
-### Valproic Acid Attenuates Traumatic Brain Injury-Induced Inflammation in Vivo: Involvement of Autophagy and the Nrf2/ARE Signaling Pathway.
-**Authors:** Chen X, Wang H, Zhou M, Li X, Fang Z et al.  
-**Journal:** Frontiers in molecular neuroscience (2018)  
-**PMID:** 29719500  **DOI:** 10.3389/fnmol.2018.00117
-**Entities:** ROS, neuroinflammation, autophagy, oxidative stress, TBI  
-**Abstract:** Microglial activation and the inflammatory response in the central nervous system (CNS) play important roles in secondary damage after traumatic brain injury (TBI). Transcriptional activation of genes...
-
-### Moderate hypothermia inhibits microglial activation after traumatic brain injury by modulating autophagy/apoptosis and the MyD88-dependent TLR4 signaling pathway.
-**Authors:** Zhang F, Dong H, Lv T, Jin K, Jin Y et al.  
-**Journal:** Journal of neuroinflammation (2018)  
-**PMID:** 30236124  **DOI:** 10.1186/s12974-018-1315-1
-**Entities:** neuroinflammation, autophagy, TBI  
-**Abstract:** BACKGROUND: Complex mechanisms participate in microglial activation after a traumatic brain injury (TBI). TBI can induce autophagy and apoptosis in neurons and glial cells, and moderate hypothermia pl...
-
-### ER stress and impaired autophagy flux in neuronal degeneration and brain injury.
-**Authors:** Yin Y, Sun G, Li E, Kiselyov K, Sun D  
-**Journal:** Ageing research reviews (2017)  
-**PMID:** 27594375  **DOI:** 10.1016/j.arr.2016.08.008
-**Entities:** ROS, autophagy, oxidative stress, TBI, Alzheimer  
-**Abstract:** Autophagy is a highly controlled lysosome-mediated function in eukaryotic cells to eliminate damaged or aged long-lived proteins and organelles. It is required for restoring cellular homeostasis in ce...
-
-### Autophagy Biomarkers Beclin 1 and p62 are Increased in Cerebrospinal Fluid after Traumatic Brain Injury.
-**Authors:** Au AK, Aneja RK, Bayır H, Bell MJ, Janesko-Feldman K et al.  
-**Journal:** Neurocritical care (2017)  
-**PMID:** 28000126  **DOI:** 10.1007/s12028-016-0351-x
-**Entities:** p62, beclin-1, autophagy, TBI  
-**Abstract:** BACKGROUND: Autophagy is a process that recycles damaged proteins and organelles. Beclin 1 is involved in the nucleation phase, while p62 is consumed during the elongation phase. We hypothesized that ...
-
-### Biomarkers Associated with the Outcome of Traumatic Brain Injury Patients.
-**Authors:** Lorente L  
-**Journal:** Brain sciences (2017)  
-**PMID:** 29076989  **DOI:** 10.3390/brainsci7110142
-**Entities:** GFAP, UCH-L1, S100B, tau, BDNF  
-**Abstract:** This review focuses on biomarkers associated with the outcome of traumatic brain injury (TBI) patients, such as caspase-3; total antioxidant capacity; melatonin; S100B protein; glial fibrillary acidic...
-
-### The Effect of Pyrroloquinoline Quinone on Apoptosis and Autophagy in Traumatic Brain Injury.
-**Authors:** Zhang P, Ye Y, Qian Y, Yin B, Zhao J et al.  
-**Journal:** CNS & neurological disorders drug targets (2017)  
-**PMID:** 28124619  **DOI:** 10.2174/1871527316666170124164306
-**Entities:** autophagy, TBI  
-**Abstract:** BACKGROUND: Pyrroloquinoline quinone is an anionic, water-soluble compound with antioxidant characteristic. The role of pyrroloquinoline quinone in pharmacology and nutrition has attracted wide attent...
-
-### Fucoxanthin provides neuroprotection in models of traumatic brain injury via the Nrf2-ARE and Nrf2-autophagy pathways.
-**Authors:** Zhang L, Wang H, Fan Y, Gao Y, Li X et al.  
-**Journal:** Scientific reports (2017)  
-**PMID:** 28429775  **DOI:** 10.1038/srep46763
-**Entities:** ROS, autophagy, TBI, Nrf2, glutathione  
-**Abstract:** Fucoxanthin is abundant in seaweed and is considered as a powerful antioxidant. It has been proposed to possess anti-cancer, anti-obesity and anti-diabetes effects. However, its roles in brain injury ...
-
-### Nrf2-ARE signaling provides neuroprotection in traumatic brain injury via modulation of the ubiquitin proteasome system.
-**Authors:** Ding H, Wang X, Wang H, Zhu L, Wang Q et al.  
-**Journal:** Neurochemistry international (2017)  
-**PMID:** 28465088  **DOI:** 10.1016/j.neuint.2017.04.016
-**Entities:** ROS, ubiquitin, UPS, TBI, Nrf2  
-**Abstract:** The nuclear factor erythroid 2-related factor 2 (Nrf2)-antioxidant response element (ARE) pathway exhibits protective effects in a variety of neurological diseases. However, the role of this pathway i...
-
-### Role of Microglia Autophagy in Microglia Activation After Traumatic Brain Injury.
-**Authors:** Jin Y, Wang R, Yang S, Zhang X, Dai J  
-**Journal:** World neurosurgery (2017)  
-**PMID:** 28108422  **DOI:** 10.1016/j.wneu.2017.01.033
-**Entities:** TNF-α, beclin-1, autophagy, TBI  
-**Abstract:** OBJECTIVE: We evaluated the role of microglia autophagy in microglia activation after traumatic brain injury (TBI) in rats. METHODS: TBI was induced by a fluid percussion TBI device. All rats were kil...
-
-### Dynamin-related protein 1 (Drp1) mediating mitophagy contributes to the pathophysiology of nervous system diseases and brain injury.
-**Authors:** Wu Q, Luo CL, Tao LY  
-**Journal:** Histology and histopathology (2017)  
-**PMID:** 27830583  **DOI:** 10.14670/HH-11-841
-**Entities:** autophagy, TBI, Alzheimer  
-**Abstract:** As the main source of energy (celluar ATP) in eukaryotic cells, mitochondria are involved in cellular physiology and pathology. The balance of mitochondrial dynamic, fission and fusion regulated by qu...
-
-### Fusion or Fission: The Destiny of Mitochondria In Traumatic Brain Injury of Different Severities.
-**Authors:** Di Pietro V, Lazzarino G, Amorini AM, Signoretti S, Hill LJ et al.  
-**Journal:** Scientific reports (2017)  
-**PMID:** 28835707  **DOI:** 10.1038/s41598-017-09587-2
-**Entities:** mTBI, TBI  
-**Abstract:** Mitochondrial dynamics are regulated by a complex system of proteins representing the mitochondrial quality control (MQC). MQC balances antagonistic forces of fusion and fission determining mitochondr...
-
-### Neuroprotective Effects of Resatorvid Against Traumatic Brain Injury in Rat: Involvement of Neuronal Autophagy and TLR4 Signaling Pathway.
-**Authors:** Feng Y, Gao J, Cui Y, Li M, Li R et al.  
-**Journal:** Cellular and molecular neurobiology (2017)  
-**PMID:** 26961544  **DOI:** 10.1007/s10571-016-0356-1
-**Entities:** TNF-α, IL-1β, p62, LC3, beclin-1  
-**Abstract:** Accumulating evidence indicates that autophagy and inflammatory responses contributes to secondary brain injury after traumatic brain injury (TBI), and toll-like receptor 4 (TLR4) is considered to inv...
-
-### In vivo transduction of neurons with TAT-UCH-L1 protects brain against controlled cortical impact injury.
-**Authors:** Liu H, Rose ME, Ma X, Culver S, Dixon CE et al.  
-**Journal:** PloS one (2017)  
-**PMID:** 28542502  **DOI:** 10.1371/journal.pone.0178049
-**Entities:** UCH-L1, beclin-1, ubiquitin, autophagy, TBI  
-**Abstract:** Many mechanisms or pathways are involved in secondary post-traumatic brain injury, such as the ubiquitin-proteasome pathway (UPP), axonal degeneration and neuronal cell apoptosis. UCH-L1 is a protein ...
-
-### Upregulation of 3-MST Relates to Neuronal Autophagy After Traumatic Brain Injury in Mice.
-**Authors:** Zhang M, Shan H, Chang P, Ma L, Chu Y et al.  
-**Journal:** Cellular and molecular neurobiology (2017)  
-**PMID:** 27038311  **DOI:** 10.1007/s10571-016-0369-9
-**Entities:** autophagy, TBI  
-**Abstract:** 3-mercaptopyruvate sulfurtransferase (3-MST) was a novel hydrogen sulfide (H
-
-### Melatonin attenuates traumatic brain injury-induced inflammation: a possible role for mitophagy.
-**Authors:** Lin C, Chao H, Li Z, Xu X, Liu Y et al.  
-**Journal:** Journal of pineal research (2016)  
-**PMID:** 27117839  **DOI:** 10.1111/jpi.12337
-**Entities:** ROS, IL-1β, neuroinflammation, autophagy, TBI  
-**Abstract:** Melatonin functions as a crucial mediator of sterile neuroinflammation; however, the underlying mechanisms remain poorly understood. Dysfunctional mitochondria, a main source of reactive oxygen specie...
-
-### Traumatic Brain Injury-Induced Neuronal Apoptosis is Reduced Through Modulation of PI3K and Autophagy Pathways in Mouse by FTY720.
-**Authors:** Zhang L, Ding K, Wang H, Wu Y, Xu J  
-**Journal:** Cellular and molecular neurobiology (2016)  
-**PMID:** 26099903  **DOI:** 10.1007/s10571-015-0227-1
-**Entities:** LC3, beclin-1, autophagy, TBI  
-**Abstract:** FTY720 is a synthetic compound produced by modification of metabolite from Isaria sinclairii. It is a novel type of immunosuppressive agent inhibiting lymphocyte egress from secondary lymphoid tissues...
-
-### Methylene blue exerts a neuroprotective effect against traumatic brain injury by promoting autophagy and inhibiting microglial activation.
-**Authors:** Zhao M, Liang F, Xu H, Yan W, Zhang J  
-**Journal:** Molecular medicine reports (2016)  
-**PMID:** 26572258  **DOI:** 10.3892/mmr.2015.4551
-**Entities:** LC3, beclin-1, neuroinflammation, autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) leads to permanent neurological impairment, and methylene blue (MB) exerts central nervous system neuroprotective effects. However, only one previous study has investigate...
-
-### Brain trauma and autophagy: What flies and mice can teach us about conserved responses.
-**Authors:** Ratliff EP, Barekat A, Lipinski MM, Finley KD  
-**Journal:** Autophagy (2016)  
-**PMID:** 27560096  
-**Entities:** autophagy, mTBI, TBI  
-**Abstract:** Drosophila models have been successfully used to identify many genetic components that affect neurodegenerative disorders. Recently, there has been a growing interest in identifying innate and environ...
-
-### Tetrahydrocurcumin provides neuroprotection in rats after traumatic brain injury: autophagy and the PI3K/AKT pathways as a potential mechanism.
-**Authors:** Gao Y, Li J, Wu L, Zhou C, Wang Q et al.  
-**Journal:** The Journal of surgical research (2016)  
-**PMID:** 27916377  **DOI:** 10.1016/j.jss.2016.07.014
-**Entities:** ROS, autophagy, oxidative stress, TBI  
-**Abstract:** BACKGROUND: Tetrahydrocurcumin provides neuroprotection in multiple neurologic disorders by modulating oxidative stress, inflammatory responses, and autophagy. However, in traumatic brain injury (TBI)...
-
-### Neuroprotective Effects of Co-UltraPEALut on Secondary Inflammatory Process and Autophagy Involved in Traumatic Brain Injury.
-**Authors:** Cordaro M, Impellizzeri D, Paterniti I, Bruschetta G, Siracusa R et al.  
-**Journal:** Journal of neurotrauma (2016)  
-**PMID:** 25046306  **DOI:** 10.1089/neu.2014.3460
-**Entities:** ROS, neuroinflammation, autophagy, TBI, Alzheimer  
-**Abstract:** Traumatic brain injury (TBI) initiates a neuroinflammatory cascade that contributes to neuronal damage and behavioral impairment. In the present study, we performed a widely used model of TBI to deter...
-
-### Neuroprotective effects of resveratrol against traumatic brain injury in rats: Involvement of synaptic proteins and neuronal autophagy.
-**Authors:** Feng Y, Cui Y, Gao JL, Li R, Jiang XH et al.  
-**Journal:** Molecular medicine reports (2016)  
-**PMID:** 27122047  **DOI:** 10.3892/mmr.2016.5201
-**Entities:** autophagy, TBI, resveratrol  
-**Abstract:** Traumatic brain injury (TBI) involves primary and secondary injury cascades that underlie delayed neuronal dysfunction and death, leading to long‑term cognitive deficits, and effective therapeutic str...
-
-### ROS and Autophagy: Interactions and Molecular Regulatory Mechanisms.
-**Authors:** Li L, Tan J, Miao Y, Lei P, Zhang Q  
-**Journal:** Cellular and molecular neurobiology (2015)  
-**PMID:** 25722131  **DOI:** 10.1007/s10571-015-0166-x
-**Entities:** ROS, p62, LC3, autophagy, oxidative stress  
-**Abstract:** Reactive oxygen species (ROS) and antioxidant ingredients are a series of crucial signaling molecules in oxidative stress response. Under some pathological conditions such as traumatic brain injury, i...
-
-### Function and Mechanisms of Autophagy in Brain and Spinal Cord Trauma.
-**Authors:** Lipinski MM, Wu J, Faden AI, Sarkar C  
-**Journal:** Antioxidants & redox signaling (2015)  
-**PMID:** 25808205  **DOI:** 10.1089/ars.2015.6306
-**Entities:** autophagy, TBI  
-**Abstract:** SIGNIFICANCE: Traumatic brain injury (TBI) and spinal cord injury (SCI) are major causes of death and long-term disability worldwide. Despite important pathophysiological differences between these dis...
-
-### Chaperone-Mediated Autophagy after Traumatic Brain Injury.
-**Authors:** Park Y, Liu C, Luo T, Dietrich WD, Bramlett H et al.  
-**Journal:** Journal of neurotrauma (2015)  
-**PMID:** 25891649  **DOI:** 10.1089/neu.2014.3694
-**Entities:** ubiquitin, autophagy, UPS, TBI  
-**Abstract:** Chaperone-mediated autophagy (CMA) and the ubiquitin-proteasomal system (UPS) are two major protein degradation systems responsible for maintaining cellular homeostasis, but how these two systems are ...
-
-### Apelin-13 attenuates traumatic brain injury-induced damage by suppressing autophagy.
-**Authors:** Bao HJ, Zhang L, Han WC, Dai DK  
-**Journal:** Neurochemical research (2015)  
-**PMID:** 25362565  **DOI:** 10.1007/s11064-014-1469-x
-**Entities:** p62, LC3, beclin-1, autophagy, TBI  
-**Abstract:** The adipocytokine apelin is a peptide, Apelin and its receptor are abundantly expressed in the nervous and cardiovascular systems. Previous studies had found apelin-13 reduces brain injuries and posti...
-
-### Development of prognostic models for patients with traumatic brain injury: a systematic review.
-**Authors:** Gao J, Zheng Z  
-**Journal:** International journal of clinical and experimental medicine (2015)  
-**PMID:** 26884899  
-**Entities:** GFAP, UCH-L1, tau, IL-6, TNF-α  
-**Abstract:** Outcome prediction following traumatic brain injury (TBI) is a widely investigated field of research. Several outcome prediction models have been developed for prognosis after TBI. There are two main ...
-
-### Acute Temporal Profiles of Serum Levels of UCH-L1 and GFAP and Relationships to Neuronal and Astroglial Pathology following Traumatic Brain Injury in Rats.
-**Authors:** Huang XJ, Glushakova O, Mondello S, Van K, Hayes RL et al.  
-**Journal:** Journal of neurotrauma (2015)  
-**PMID:** 25763798  **DOI:** 10.1089/neu.2015.3873
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI  
-**Abstract:** A number of potential traumatic brain injury (TBI) biomarkers have been proposed and evaluated in the laboratory and clinic. This study investigated the temporal profile of circulating biomarkers of a...
-
-### Chloroquine exerts neuroprotection following traumatic brain injury via suppression of inflammation and neuronal autophagic death.
-**Authors:** Cui CM, Gao JL, Cui Y, Sun LQ, Wang YC et al.  
-**Journal:** Molecular medicine reports (2015)  
-**PMID:** 25872478  **DOI:** 10.3892/mmr.2015.3611
-**Entities:** TNF-α, IL-1β, LC3, autophagy, TBI  
-**Abstract:** The antimalarial drug, chloroquine (CQ), has been reported as an autophagy inhibitor in a variety of disorders, including Alzheimer's disease and brain ischemia. To the best of our knowledge, no studi...
-
-### Necroptosis: who knew there were so many interesting ways to die?
-**Authors:** Fayaz SM, Suvanish Kumar VS, Rajanikant GK  
-**Journal:** CNS & neurological disorders drug targets (2014)  
-**PMID:** 24152329  
-**Entities:** autophagy, TBI, Alzheimer  
-**Abstract:** Conventional knowledge considered apoptosis as the sole form of programmed cell death during development, homeostasis and diseases, whereas necrosis was regarded as an unregulated and uncontrollable p...
-
-### Posttraumatic administration of luteolin protects mice from traumatic brain injury: implication of autophagy and inflammation.
-**Authors:** Xu J, Wang H, Lu X, Ding K, Zhang L et al.  
-**Journal:** Brain research (2014)  
-**PMID:** 25093609  **DOI:** 10.1016/j.brainres.2014.07.042
-**Entities:** ROS, TNF-α, autophagy, oxidative stress, BBB  
-**Abstract:** Secondary brain insult induced by traumatic brain injury (TBI), including excitotoxicity, oxidative stress, inflammatory response, and neuronal degeneration, is sensitive to therapeutic interventions;...
-
-### Resveratrol protects astrocytes against traumatic brain injury through inhibiting apoptotic and autophagic cell death.
-**Authors:** Lin CJ, Chen TH, Yang LY, Shih CM  
-**Journal:** Cell death & disease (2014)  
-**PMID:** 24675465  **DOI:** 10.1038/cddis.2014.123
-**Entities:** ROS, autophagy, TBI, resveratrol  
-**Abstract:** Traumatic brain injury (TBI) is often caused by accidents that damage the brain. TBI can induce glutamate excitotoxicity and lead to neuronal and glial cell death. In this study, we investigated the m...
-
-### Impaired autophagy flux is associated with neuronal cell death after traumatic brain injury.
-**Authors:** Sarkar C, Zhao Z, Aungst S, Sabirzhanov B, Faden AI et al.  
-**Journal:** Autophagy (2014)  
-**PMID:** 25484084  **DOI:** 10.4161/15548627.2014.981787
-**Entities:** p62, LC3, ubiquitin, autophagy, TBI  
-**Abstract:** Dysregulation of autophagy contributes to neuronal cell death in several neurodegenerative and lysosomal storage diseases. Markers of autophagy are also increased after traumatic brain injury (TBI), b...
-
-### Necrostatin-1 suppresses autophagy and apoptosis in mice traumatic brain injury model.
-**Authors:** Wang YQ, Wang L, Zhang MY, Wang T, Bao HJ et al.  
-**Journal:** Neurochemical research (2012)  
-**PMID:** 22736198  **DOI:** 10.1007/s11064-012-0791-4
-**Entities:** p62, LC3, beclin-1, autophagy, TBI  
-**Abstract:** Traumatic brain injury (TBI) results in neuronal apoptosis, autophagic cell death and necroptosis. Necroptosis is a newly discovered caspases-independent programmed necrosis pathway which can be trigg...
-
-### Autophagy is involved in traumatic brain injury-induced cell death and contributes to functional outcome deficits in mice.
-**Authors:** Luo CL, Li BX, Li QQ, Chen XP, Sun YX et al.  
-**Journal:** Neuroscience (2011)  
-**PMID:** 21463664  **DOI:** 10.1016/j.neuroscience.2011.03.021
-**Entities:** p62, LC3, beclin-1, autophagy, TBI  
-**Abstract:** Previous data demonstrate that traumatic brain injury (TBI) activates autophagy, and increases microtubule-associated protein 1 light chain 3 (LC3) immunostaining mainly in neurons. However, the role ...
-
-### Substance P immunoreactivity increases following human traumatic brain injury.
-**Authors:** Zacest AC, Vink R, Manavis J, Sarvestani GT, Blumbergs PC  
-**Journal:** Acta neurochirurgica. Supplement (2010)  
-**PMID:** 19812951  **DOI:** 10.1007/978-3-211-98811-4_39
-**Entities:** TBI  
-**Abstract:** Recent experimental evidence suggests that neuropeptides, and in particular substance P (SP), are released following traumatic brain injury (TBI) and may play a significant role in the aetiology of ce...
-
-### Changes in autophagy after traumatic brain injury.
-**Authors:** Liu CL, Chen S, Dietrich D, Hu BR  
-**Journal:** Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism (2008)  
-**PMID:** 18059433  
-**Entities:** LC3, autophagy, TBI  
-**Abstract:** Autophagy is the chief machinery for bulk degradation of superfluous or aberrant cytoplasmic components. This study used the rat moderate fluid percussion injury model to investigate whether the autop...
-
-### Autophagy is activated and might protect neurons from degeneration after traumatic brain injury.
-**Authors:** Zhang YB, Li SX, Chen XP, Yang L, Zhang YG et al.  
-**Journal:** Neuroscience bulletin (2008)  
-**PMID:** 18500386  **DOI:** 10.1007/s12264-008-1108-0
-**Entities:** LC3, beclin-1, autophagy, TBI  
-**Abstract:** OBJECTIVE: To investigate changes of autophagy after traumatic brain injury (TBI) and its possible role. METHODS: Rat TBI model was established by controlled cortical injury system. Autophagic double ...
-
-### Autophagy is increased after traumatic brain injury in mice and is partially inhibited by the antioxidant gamma-glutamylcysteinyl ethyl ester.
-**Authors:** Lai Y, Hickey RW, Chen Y, Bayir H, Sullivan ML et al.  
-**Journal:** Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism (2008)  
-**PMID:** 17786151  
-**Entities:** ROS, LC3, autophagy, oxidative stress, TBI  
-**Abstract:** Autophagy is a homeostatic process for recycling of proteins and organelles, induced by nutrient deprivation and regulated by oxygen radicals. Whether autophagy is induced after traumatic brain injury...
-
-### Autophagy is increased in mice after traumatic brain injury and is detectable in human brain after trauma and critical illness.
-**Authors:** Clark RS, Bayir H, Chu CT, Alber SM, Kochanek PM et al.  
-**Journal:** Autophagy (2008)  
-**PMID:** 17957135  
-**Entities:** ROS, LC3, autophagy, oxidative stress, TBI  
-**Abstract:** Autophagy is a homeostatic process for recycling of proteins and organelles, that increases during times of nutrient deprivation and is regulated by reactive oxygen species. We reported that autophagy...
-
-### Rapamycin is a neuroprotective treatment for traumatic brain injury.
-**Authors:** Erlich S, Alexandrovich A, Shohami E, Pinkas-Kramarski R  
-**Journal:** Neurobiology of disease (2007)  
-**PMID:** 17270455  
-**Entities:** autophagy, TBI  
-**Abstract:** The mammalian target of rapamycin, commonly known as mTOR, is a serine/threonine kinase that regulates translation and cell division. mTOR integrates input from multiple upstream signals, including gr...
-
-
 ## Cluster: tbi_mild_blood
 
 ### Pathophysiological pathways in mild traumatic brain injury.
@@ -11640,7 +10293,7 @@
 **Authors:** Osmić-Husni A, Jadrić R, Jović-Lacković S, Žabić A, Čamdžić-Smajić S  
 **Journal:** Medicinski glasnik : official publication of the Medical Association of Zenica-Doboj Canton, Bosnia and Herzegovina (2026)  
 **PMID:** 42047078  **DOI:** 10.17392/2045-23-01
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** AIM: Mild traumatic brain injury (mTBI) presents diagnostic challenges, with head computed tomography (head CT) often overutilized in emergency settings. Blood biomarkers such as glial fibrillary acid...
 
 ### Development of a neurologic deterioration risk score in pediatric mild traumatic brain injury and intracranial injuries.
@@ -11696,7 +10349,7 @@
 **Authors:** Elkhodair S, Lalor J, Altaher M, Limbad C, Pradhan-Bhatt S et al.  
 **Journal:** The American journal of emergency medicine (2026)  
 **PMID:** 41707328  **DOI:** 10.1016/j.ajem.2026.02.013
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** INTRODUCTION: Computed tomography (CT) is the standard imaging modality for evaluating mild traumatic brain injury (mTBI) in emergency settings. However, most CT scans reveal no intracranial injury, r...
 
 ### Asymptomatic arachnoid cysts turning symptomatic after sports-related concussion injury: a report of two cases.
@@ -11941,7 +10594,7 @@
 **Authors:** Kohlhase K, Vollmann V, Bohmann FO, Grefkes C, Heuser A et al.  
 **Journal:** Molecular neurobiology (2025)  
 **PMID:** 41420097  **DOI:** 10.1007/s12035-025-05507-y
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau  
 **Abstract:** Neuronal and glial biomarkers like glial fibrillary acidic protein (GFAP), ubiquitin C-terminal hydrolase-L1 (UCH-L1), tau protein, and neurofilament light chain (NfL) in serum are reported to be bene...
 
 ### Are isolated linear fractures over major dural venous sinuses a risk factor for sinus thrombosis in mild TBI?
@@ -12151,7 +10804,7 @@
 **Authors:** de Lima Filho NM, Fernandes SGG, Costa V, Araujo D, Godeiro C et al.  
 **Journal:** PeerJ (2024)  
 **PMID:** 39221265  **DOI:** 10.7717/peerj.17752
-**Entities:** GFAP, UCH-L1, BDNF, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, BDNF, mTBI  
 **Abstract:** BACKGROUND: Concussion and the damage resulting from this event related to brain function have been widely studied; however, little is known about subconcussive impacts, especially in Mixed Martial Ar...
 
 ### The relationship of cognitive functions with brain damage markers, myokines and neurotrophic factors in amateur soccer players.
@@ -12564,7 +11217,7 @@
 **Authors:** Papa L, Rosenthal K, Cook L, Caire M, Thundiyil JG et al.  
 **Journal:** Brain injury (2022)  
 **PMID:** 35904331  **DOI:** 10.1080/02699052.2022.2106383
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI  
+**Entities:** GFAP, UCH-L1, mTBI  
 **Abstract:** This prospective multicenter study evaluated differences in concussion severity and functional outcome using glial and neuronal biomarkers glial Fibrillary Acidic (GFAP) and Ubiquitin C-terminal Hydro...
 
 ### A Novel Decision-Support Tool (IniCT Score) for Repeat Head Computed Tomography in Pediatric Mild Traumatic Brain Injury.
@@ -12634,14 +11287,14 @@
 **Authors:** Wu Y, Abner EL, Conley C, Smoot MK, Hosey R et al.  
 **Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2022)  
 **PMID:** 36315821  **DOI:** 10.1097/JSM.0000000000001056
-**Entities:** ubiquitin, mTBI, TBI, VILIP-1  
+**Entities:** mTBI, TBI, VILIP-1  
 **Abstract:** OBJECTIVE: Visinin-like protein 1 (VILIP-1) is a neuron-specific calcium sensor protein rapidly released into blood after mild traumatic brain injury (mTBI) and may be a suitable biomarker for identif...
 
 ### Ubiquitin carboxyl-terminal esterase L1 is not elevated in the serum of concussed rugby players: an observational cross-sectional study.
 **Authors:** Harrell JO, Morgan JE, Beck SD, Scobercea IC, Baker JS et al.  
 **Journal:** Scientific reports (2022)  
 **PMID:** 35851288  **DOI:** 10.1038/s41598-022-16447-1
-**Entities:** UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** UCH-L1, mTBI, TBI  
 **Abstract:** Concussion diagnosis is complicated by a lack of objective measures. Ubiquitin carboxyl-terminal esterase L1 (UCHL1) is a biomarker that has been shown to increase following traumatic brain injury but...
 
 ### Assessing the efficacy of mild traumatic brain injury management.
@@ -12774,7 +11427,7 @@
 **Authors:** Giza CC, McCrea M, Huber D, Cameron KL, Houston MN et al.  
 **Journal:** JAMA network open (2021)  
 **PMID:** 33616662  **DOI:** 10.1001/jamanetworkopen.2020.37731
-**Entities:** GFAP, NfL, tau, ubiquitin, mTBI  
+**Entities:** GFAP, NfL, tau, mTBI, Simoa  
 **Abstract:** IMPORTANCE: Validation of protein biomarkers for concussion diagnosis and management in military combative training is important, as these injuries occur outside of traditional health care settings an...
 
 ### Poor sleep correlates with biomarkers of neurodegeneration in mild traumatic brain injury patients: a CENC study.
@@ -12809,7 +11462,7 @@
 **Authors:** Sun Y, Wang S, Gan S, Niu X, Yin B et al.  
 **Journal:** Journal of neurotrauma (2021)  
 **PMID:** 33687275  **DOI:** 10.1089/neu.2020.7372
-**Entities:** ubiquitin, mTBI, TBI, NSE  
+**Entities:** mTBI, TBI, NSE  
 **Abstract:** Mild traumatic brain injury (mTBI) is the most prevalent neurological insult and leads to long-lasting cognitive impairment. Neuroimaging studies have discovered abnormalities in brain network connect...
 
 ### Diagnostic accuracy of prehospital serum S100B and GFAP in patients with mild traumatic brain injury: a prospective observational multicenter cohort study - "the PreTBI I study".
@@ -13019,7 +11672,7 @@
 **Authors:** Meier TB, Huber DL, Bohorquez-Montoya L, Nitta ME, Savitz J et al.  
 **Journal:** Annals of neurology (2020)  
 **PMID:** 32215965  **DOI:** 10.1002/ana.25725
-**Entities:** GFAP, IL-6, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, IL-6, mTBI, TBI  
 **Abstract:** OBJECTIVE: Prospectively characterize changes in serum proteins following sport-related concussion and determine whether candidate biomarkers discriminate concussed athletes from controls and are asso...
 
 ### Cerebral Blood Flow and Its Connectivity Deficits in Mild Traumatic Brain Injury at the Acute Stage.
@@ -13180,7 +11833,7 @@
 **Authors:** McCrea M, Broglio SP, McAllister TW, Gill J, Giza CC et al.  
 **Journal:** JAMA network open (2020)  
 **PMID:** 31977061  **DOI:** 10.1001/jamanetworkopen.2019.19771
-**Entities:** GFAP, UCH-L1, NfL, tau, ubiquitin  
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** IMPORTANCE: There is potential scientific and clinical value in validation of objective biomarkers for sport-related concussion (SRC). OBJECTIVE: To investigate the association of acute-phase blood bi...
 
 ### Functional magnetic resonance imaging study of working memory several years after pediatric concussion.
@@ -13446,7 +12099,7 @@
 **Authors:** Goetzl EJ, Elahi FM, Mustapic M, Kapogiannis D, Pryhoda M et al.  
 **Journal:** FASEB journal : official publication of the Federation of American Societies for Experimental Biology (2019)  
 **PMID:** 30605353  **DOI:** 10.1096/fj.201802319R
-**Entities:** UCH-L1, tau, IL-6, ubiquitin, mTBI  
+**Entities:** UCH-L1, tau, IL-6, mTBI, TBI  
 **Abstract:** Neuron-derived exosomes (NDEs) were enriched by anti-L1CAM antibody immunoabsorption from plasmas of subjects ages 18-26 yr within 1 wk after a sports-related mild traumatic brain injury (acute mTBI) ...
 
 ### NRGN, S100B and GFAP levels are significantly increased in patients with structural lesions resulting from mild traumatic brain injuries.
@@ -13852,7 +12505,7 @@
 **Authors:** Studerus-Germann AM, Gautschi OP, Bontempi P, Thiran JP, Daducci A et al.  
 **Journal:** Neurologia i neurochirurgia polska (2018)  
 **PMID:** 30245171  **DOI:** 10.1016/j.pjnns.2018.08.011
-**Entities:** UPS, mTBI, TBI, PPCS  
+**Entities:** mTBI, TBI, PPCS  
 **Abstract:** INTRODUCTION: Several imaging modalities are under investigation to unravel the pathophysiological mystery of delayed performance deficits in patients after mild traumatic brain injury (mTBI). Althoug...
 
 ### Comprehensive assessment of shockwave intensity: Transcriptomic biomarker discovery for primary blast-induced mild traumatic brain injury using the mammalian hair follicle.
@@ -14562,7 +13215,7 @@
 **Authors:** Korley FK, Datwyler SA, Jain S, Sun X, Beligere G et al.  
 **Journal:** Neurotrauma reports (2021)  
 **PMID:** 33937911  **DOI:** 10.1089/neur.2020.0037
-**Entities:** GFAP, UCH-L1, ubiquitin, TBI, i-STAT TBI  
+**Entities:** GFAP, UCH-L1, TBI, i-STAT TBI  
 **Abstract:** Glial fibrillary acidic protein (GFAP) and ubiquitin carboxyl-terminal hydrolase L1 (UCH-L1) may aid in the evaluation of traumatic brain injury (TBI). The objective of this analysis was to compare GF...
 
 ### Diagnosing skull fracture in children with closed head injury using point-of-care ultrasound vs. computed tomography scan.
@@ -14940,7 +13593,7 @@
 **Authors:** Jones A, Jarvis P  
 **Journal:** Clinical and experimental emergency medicine (2017)  
 **PMID:** 29026884  **DOI:** 10.15441/ceem.17.226
-**Entities:** GFAP, UCH-L1, ubiquitin, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** Head injury is a common presenting complaint amongst emergency department patients. To date, there has been no widespread utilization of neuro-biomarkers to aid the diagnosis of traumatic brain injury...
 
 ### Paper-Based Surface-Enhanced Raman Scattering Lateral Flow Strip for Detection of Neuron-Specific Enolase in Blood Plasma.
@@ -15178,7 +13831,7 @@
 **Authors:** Zhang ZY, Zhang LX, Dong XQ, Yu WH, Du Q et al.  
 **Journal:** Peptides (2014)  
 **PMID:** 25076464  **DOI:** 10.1016/j.peptides.2014.07.016
-**Entities:** S100B, tau, ubiquitin, TBI, NSE  
+**Entities:** S100B, tau, TBI, NSE, MBP  
 **Abstract:** Enhanced blood levels of copeptin correlate with poor clinical outcomes after acute critical illness. This study aimed to compare the prognostic performances of plasma concentrations of copeptin and o...
 
 ### Optic nerve sheath diameter on computed tomography is correlated with simultaneously measured intracranial pressure in patients with severe traumatic brain injury.
@@ -15538,7 +14191,7 @@
 **Authors:** Qiu Y, Chen Y, Hu M, Zhu W, Guo X et al.  
 **Journal:** Journal of ethnopharmacology (2026)  
 **PMID:** 42119634  **DOI:** 10.1016/j.jep.2026.121852
-**Entities:** beclin-1, autophagy, TBI  
+**Entities:** TBI  
 **Abstract:** ETHNOPHARMACOLOGICAL RELEVANCE: Traumatic brain injury (TBI) is a major cause of death and long-term disability in humans. Xuefu Zhuyu Decoction (XFZYD) has potential therapeutic effects on TBI, but i...
 
 ### Inflammatory-neurodegenerative crosstalk in pediatric severe traumatic brain injury: a multi-domain plasma proteomic study.
@@ -15727,7 +14380,7 @@
 **Authors:** Liu W, He T, Zhou D, Guo L, Liang J  
 **Journal:** Molecular neurobiology (2026)  
 **PMID:** 41888430  **DOI:** 10.1007/s12035-026-05822-y
-**Entities:** GFAP, ubiquitin, TBI  
+**Entities:** GFAP, TBI  
 **Abstract:** Severe traumatic brain injury (sTBI) is a major global health issue associated with significant morbidity and socioeconomic burden. Although proteomic approaches have identified potential sTBI biomark...
 
 ### Peptide-nanoparticle platforms for antisense therapeutics: A coarse-grained modeling approach to brain delivery.
@@ -15790,7 +14443,7 @@
 **Authors:** Jiang X, Xia C, Zhao R, Xiong C, Duan X et al.  
 **Journal:** Current neurovascular research (2026)  
 **PMID:** 41588594  **DOI:** 10.2174/0115672026430179251224095358
-**Entities:** ROS, autophagy, oxidative stress, TBI  
+**Entities:** ROS, oxidative stress, TBI  
 **Abstract:** Brain injury is a leading cause of mortality and long-term disability worldwide, characterized by energy metabolism dysfunction, oxidative stress, inflammatory responses, and programmed cell death, wi...
 
 ### Neural Stem Cell-Derived Extracellular Vesicles: The Next Frontier in Neurological and Neurodegenerative Diseases.
@@ -16525,7 +15178,7 @@
 **Authors:** Puhakka N, Das Gupta S, Leskinen S, Heiskanen M, Nättinen J et al.  
 **Journal:** Neurotrauma reports (2023)  
 **PMID:** 37284699  **DOI:** 10.1089/neur.2023.0008
-**Entities:** autophagy, TBI  
+**Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) damages the glymphatic-lymphatic system. We hypothesized that brain injury associated with trauma results in the enrichment of brain-relevant proteins in deep cervical lym...
 
 ### The proteomic and metabolomic signatures of isolated and polytrauma traumatic brain injury.
@@ -16819,7 +15472,7 @@
 **Authors:** Gier EC, Pulliam AN, Gaul DA, Moore SG, LaPlaca MC et al.  
 **Journal:** Metabolites (2022)  
 **PMID:** 35208224  **DOI:** 10.3390/metabo12020150
-**Entities:** autophagy, mTBI, TBI  
+**Entities:** mTBI, TBI  
 **Abstract:** Traumatic brain injury (TBI) poses a major health challenge, with tens of millions of new cases reported globally every year. Brain damage resulting from TBI can vary significantly due to factors incl...
 
 ### Serum metabolome associated with severity of acute traumatic brain injury.
@@ -17141,7 +15794,7 @@
 **Authors:** Wu J, Vodovotz Y, Abdelhamid S, Guyette FX, Yaffe MB et al.  
 **Journal:** Cell reports. Medicine (2021)  
 **PMID:** 35028617  **DOI:** 10.1016/j.xcrm.2021.100478
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** Trauma is a leading cause of death and morbidity worldwide. Here, we present the analysis of a longitudinal multi-omic dataset comprising clinical, cytokine, endotheliopathy biomarker, lipidome, metab...
 
 ### Fluid proteomics of CSF and serum reveal important neuroinflammatory proteins in blood-brain barrier disruption and outcome prediction following severe traumatic brain injury: a prospective, observational study.
@@ -17232,7 +15885,7 @@
 **Authors:** Bsat S, Chanbour H, Bsat A, Alomari S, Moussalem C et al.  
 **Journal:** Journal of integrative neuroscience (2021)  
 **PMID:** 34258951  **DOI:** 10.31083/j.jin2002052
-**Entities:** ubiquitin, TBI  
+**Entities:** TBI  
 **Abstract:** Most of the debilitating conditions following aneurysmal subarachnoid hemorrhage result from symptomatic cerebral vasospasm and delayed cerebral ischemia. Several scales are being used, but they still...
 
 ### Near Infrared Spectroscopy for High-Temporal Resolution Cerebral Physiome Characterization in TBI: A Narrative Review of Techniques, Applications, and Future Directions.
@@ -17540,7 +16193,7 @@
 **Authors:** Song H, Chen M, Chen C, Cui J, Johnson CE et al.  
 **Journal:** Journal of neurotrauma (2019)  
 **PMID:** 30484371  **DOI:** 10.1089/neu.2018.6114
-**Entities:** ROS, autophagy, oxidative stress, mTBI, TBI  
+**Entities:** ROS, oxidative stress, mTBI, TBI, Alzheimer  
 **Abstract:** Service members during military actions or combat training are frequently exposed to primary blasts by weaponry. Most studies have investigated moderate or severe brain injuries from blasts generating...
 
 ### Detection and Structural Characterization of Ether Glycerophosphoethanolamine from Cortical Lysosomes Following Traumatic Brain Injury Using UPLC-HDMSE.
@@ -17778,7 +16431,7 @@
 **Authors:** Song H, Fang S, Gao J, Wang J, Cao Z et al.  
 **Journal:** Journal of proteome research (2018)  
 **PMID:** 29215295  **DOI:** 10.1021/acs.jproteome.7b00618
-**Entities:** autophagy, mTBI, TBI, cAMP  
+**Entities:** mTBI, TBI, cAMP  
 **Abstract:** Traumatic brain injury (TBI), as a neurological injury, becomes a leading cause of disability and mortality due to lacking effective therapy. About 75% of TBI is mild traumatic brain injury (mTBI). Ho...
 
 ### Cross-talk between monocyte invasion and astrocyte proliferation regulates scarring in brain injury.
@@ -18373,7 +17026,7 @@
 **Authors:** Boutté AM, Yao C, Kobeissy F, May Lu XC, Zhang Z et al.  
 **Journal:** Electrophoresis (2012)  
 **PMID:** 23161467  **DOI:** 10.1002/elps.201200196
-**Entities:** UCH-L1, ubiquitin, TBI  
+**Entities:** UCH-L1, TBI  
 **Abstract:** Proteomics and systems biology have significantly contributed to biomarker discovery in the field of brain injury. This study utilized 2D-DIGE-PMF-MS as a preliminary screen to detect biomarkers in a ...
 
 ### Identification of plasma biomarkers of TBI outcome using proteomic approaches in an APOE mouse model.

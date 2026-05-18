@@ -116,13 +116,6 @@ ENTITY_SEEDS = [
     ("IL-1β",        "protein",  ["IL-1β", "IL-1beta", "interleukin-1 beta"]),
     ("Aβ42",         "protein",  ["Aβ42", "amyloid beta 42", "amyloid-β42", "Abeta42", "amyloid β"]),
 
-    # Proteostasis / p62 axis
-    ("p62",          "protein",  ["p62", "SQSTM1", "sequestosome-1", "sequestosome 1",
-                                   "ubiquitin-binding protein p62"]),
-    ("LC3",          "protein",  ["LC3", "LC3B", "MAP1LC3", "autophagosome marker"]),
-    ("beclin-1",     "protein",  ["beclin-1", "BECN1", "beclin 1"]),
-    ("ubiquitin",    "protein",  ["ubiquitin", "polyubiquitin", "ubiquitinated"]),
-
     # RNA biomarkers in TBI
     ("VLDLR-AS1",    "rna",      ["VLDLR-AS1", "VLDLR antisense", "VLDR-AS1"]),
     ("MALAT1",       "rna",      ["MALAT1", "NEAT2", "nuclear-enriched abundant transcript 2"]),
@@ -134,9 +127,6 @@ ENTITY_SEEDS = [
     # Pathways / processes
     ("neuroinflammation", "pathway", ["neuroinflammation", "neuroinflammatory", "microglial activation",
                                        "astrocyte activation", "glial activation"]),
-    ("autophagy",    "pathway",  ["autophagy", "autophagic flux", "autophagosome", "mitophagy"]),
-    ("UPS",          "pathway",  ["ubiquitin-proteasome system", "UPS", "proteasome degradation",
-                                   "proteasomal", "26S proteasome"]),
     ("oxidative stress", "pathway", ["oxidative stress", "ROS production", "oxidative damage",
                                       "redox stress", "redox imbalance", "oxidative burden"]),
     ("ISR",          "pathway",  ["integrated stress response", "ISR", "stress response pathway"]),
