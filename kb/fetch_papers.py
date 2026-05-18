@@ -36,10 +36,6 @@ CLUSTERS = {
         'AND (exosome OR "extracellular vesicle" OR miRNA OR lncRNA OR "non-coding RNA") '
         'AND (biomarker OR diagnostic OR detection)'
     ),
-    "proteostasis": (
-        '(p62 OR SQSTM1 OR proteostasis OR "ubiquitin proteasome" OR autophagy OR UCH-L1) '
-        'AND "traumatic brain injury"'
-    ),
     "ppcs_prognosis": (
         '"post-concussion syndrome" '
         'AND (biomarker OR prognosis OR prediction OR outcome OR diagnosis)'

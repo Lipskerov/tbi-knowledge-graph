@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 2679,
+  "n_papers": 2487,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -99,7 +99,7 @@
         "authors": "Balakin EI, Yurku KA, Butkova TV, Malsagova KA, Kaysheva AL et al.",
         "year": 2026,
         "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
-        "entities": "GFAP, UCH-L1, tau, ubiquitin, TBI, NSE"
+        "entities": "GFAP, UCH-L1, tau, TBI, NSE"
       },
       {
         "pmid": "42093199",
@@ -107,7 +107,7 @@
         "authors": "Godfrey D, Bambrick M, Hotz G, Jain S, Yuh EL et al.",
         "year": 2026,
         "journal": "Journal of neurotrauma",
-        "entities": "GFAP, UCH-L1, S100B, ubiquitin, TBI, NSE"
+        "entities": "GFAP, UCH-L1, S100B, TBI, NSE"
       },
       {
         "pmid": "41825621",
@@ -115,7 +115,7 @@
         "authors": "Boegh Andersen I, Christiansen AL, Fruekilde MB, Rosenberg L",
         "year": 2026,
         "journal": "The journal of applied laboratory medicine",
-        "entities": "GFAP, UCH-L1, S100B, ubiquitin, mTBI, TBI"
+        "entities": "GFAP, UCH-L1, S100B, mTBI, TBI"
       },
       {
         "pmid": "41739474",
@@ -123,7 +123,7 @@
         "authors": "Dark HE, Kenney K, de Souza NL, Esopenko C, Edwards KA et al.",
         "year": 2026,
         "journal": "JAMA network open",
-        "entities": "GFAP, UCH-L1, NfL, tau, ubiquitin, mTBI, TBI, Simoa, Quanterix"
+        "entities": "GFAP, UCH-L1, NfL, tau, mTBI, TBI, Simoa, Quanterix"
       },
       {
         "pmid": "41710251",
@@ -131,7 +131,7 @@
         "authors": "Osmi\u0107-Husni A, Jadri\u0107 R",
         "year": 2026,
         "journal": "Biochemia medica",
-        "entities": "GFAP, UCH-L1, ubiquitin, mTBI, TBI"
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
       },
       {
         "pmid": "41572479",
@@ -139,7 +139,7 @@
         "authors": "Sharma K, Agrawal D, Gabrani R",
         "year": 2026,
         "journal": "The International journal of neuroscience",
-        "entities": "GFAP, UCH-L1, NfL, tau, p-tau, ubiquitin, BBB, TBI"
+        "entities": "GFAP, UCH-L1, NfL, tau, p-tau, BBB, TBI"
       },
       {
         "pmid": "41496386",
@@ -155,7 +155,7 @@
         "authors": "Wetmore GC, Becker ER, Baucom MR, Price AD, Shondel RC et al.",
         "year": 2026,
         "journal": "The Journal of surgical research",
-        "entities": "UCH-L1, ubiquitin, TBI"
+        "entities": "UCH-L1, TBI"
       },
       {
         "pmid": "41071136",
@@ -163,7 +163,7 @@
         "authors": "Roberts NB, Xie T, Falk H, Bapuraj J, Demski D et al.",
         "year": 2026,
         "journal": "Annals of emergency medicine",
-        "entities": "GFAP, UCH-L1, ubiquitin, TBI, i-STAT TBI"
+        "entities": "GFAP, UCH-L1, TBI, i-STAT TBI"
       },
       {
         "pmid": "41060705",
@@ -221,7 +221,7 @@
         "authors": "Kurup MJ, Agrawal A, Temple SR, Galwankar S",
         "year": 2025,
         "journal": "Journal of emergencies, trauma, and shock",
-        "entities": "GFAP, UCH-L1, NfL, tau, ubiquitin, mTBI, TBI"
+        "entities": "GFAP, UCH-L1, NfL, tau, mTBI, TBI"
       },
       {
         "pmid": "40617733",
@@ -229,7 +229,7 @@
         "authors": "Penner LC, Tabor JB, Burma JS, Godfrey H, Galarneau JM et al.",
         "year": 2025,
         "journal": "Journal of science and medicine in sport",
-        "entities": "GFAP, NfL, tau, ubiquitin, mTBI"
+        "entities": "GFAP, NfL, tau, mTBI"
       },
       {
         "pmid": "40609399",
@@ -420,88 +420,6 @@
         "entities": "mTBI, TBI, PPCS"
       }
     ],
-    "proteostasis": [
-      {
-        "pmid": "41867877",
-        "title": "Rubicon modulates neuroimmune responses following traumatic brain injury.",
-        "authors": "Thapa S, Mehrabani-Tabari A, Pettyjohn-Robin O, Nguyen DP, Weldemariam MM et al.",
-        "year": 2026,
-        "journal": "bioRxiv : the preprint server for biology",
-        "entities": "ROS, neuroinflammation, autophagy, oxidative stress, TBI"
-      },
-      {
-        "pmid": "41787744",
-        "title": "Duloxetine ameliorates cerebral ischemic injury by inhibiting autophagy.",
-        "authors": "Viotti A, Molinaro C, Perego J, Fossaghi A, Parravicini C et al.",
-        "year": 2026,
-        "journal": "Autophagy",
-        "entities": "autophagy"
-      },
-      {
-        "pmid": "41651694",
-        "title": "Parkin protects against traumatic brain injury through regulating mitochondrial quality control.",
-        "authors": "Wu X, Lv W, Chen H, Fu Y, Fei X et al.",
-        "year": 2026,
-        "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
-        "entities": "ROS, autophagy, oxidative stress, TBI"
-      },
-      {
-        "pmid": "41605412",
-        "title": "Integrated miRNA-proteomic profiling identifies chronic vesicle-trafficking and proteostasis disruptions after mild traumatic brain injury.",
-        "authors": "Yadikar H, Ansari MA",
-        "year": 2026,
-        "journal": "Experimental neurology",
-        "entities": "mTBI, TBI"
-      },
-      {
-        "pmid": "41455435",
-        "title": "Prognostic value of GFAP and UCHL-1 biomarkers in high-risk mild traumatic brain injury: A prospective longitudinal study of short- and long-term outcomes.",
-        "authors": "Spaziani G, Rozzi G, Baroni S, Napoli G, De Ninno G et al.",
-        "year": 2026,
-        "journal": "The American journal of emergency medicine",
-        "entities": "GFAP, UCH-L1, ubiquitin, mTBI, TBI, PPCS"
-      },
-      {
-        "pmid": "41197270",
-        "title": "BNIP3-mediated mitophagy alleviates traumatic brain injury by inhibiting neuronal apoptosis and oxidative stress.",
-        "authors": "Yin H, Wei Y, Han Z, Li Z, Liu K et al.",
-        "year": 2026,
-        "journal": "International immunopharmacology",
-        "entities": "ROS, p62, LC3, autophagy, oxidative stress, TBI, SOD"
-      },
-      {
-        "pmid": "40353467",
-        "title": "Hydroxychloroquine Prevents High-altitude Cerebral Edema by Inhibiting Endothelial Claudin-5 Autophagic Degradation.",
-        "authors": "Xue Y, Wan B, Wang Z, Wang Z, Wang D et al.",
-        "year": 2026,
-        "journal": "Current neuropharmacology",
-        "entities": "autophagy, BBB, TBI"
-      },
-      {
-        "pmid": "40272329",
-        "title": "Can the Association of the Biomarkers GFAP and UCH-L1 Predict Intracranial Injury After Mild Traumatic Brain Injury in Adults? A Systematic Review and Meta-Analysis.",
-        "authors": "Puravet A, Oris C, Pereira B, Kahouadji S, Dwamena BA et al.",
-        "year": 2026,
-        "journal": "Annals of emergency medicine",
-        "entities": "GFAP, UCH-L1, S100B, NfL, tau, ubiquitin, mTBI, TBI"
-      },
-      {
-        "pmid": "41469684",
-        "title": "Astrocytic SIRT1 ameliorates cognitive deficits after traumatic brain injury via autophagy-mediated MEGF10 phagocytosis.",
-        "authors": "Ji Q, Zhang Y, Zhang Z, Cui K, Zhao L et al.",
-        "year": 2025,
-        "journal": "Journal of neuroinflammation",
-        "entities": "autophagy, TBI"
-      },
-      {
-        "pmid": "41465199",
-        "title": "Association of Marshall CT Scores with GFAP, UCH-L1, Tau, NfL, and p-Tau231 After Traumatic Brain Injury.",
-        "authors": "Edwards KA, Alice J, Day M, Yun J, Yun S et al.",
-        "year": 2025,
-        "journal": "International journal of molecular sciences",
-        "entities": "GFAP, UCH-L1, NfL, tau, p-tau, ubiquitin, TBI"
-      }
-    ],
     "tbi_mild_blood": [
       {
         "pmid": "42047078",
@@ -509,7 +427,7 @@
         "authors": "Osmi\u0107-Husni A, Jadri\u0107 R, Jovi\u0107-Lackovi\u0107 S, \u017dabi\u0107 A, \u010camd\u017ei\u0107-Smaji\u0107 S",
         "year": 2026,
         "journal": "Medicinski glasnik : official publication of the Medical Association of Zenica-Doboj Canton, Bosnia and Herzegovina",
-        "entities": "GFAP, UCH-L1, ubiquitin, mTBI, TBI"
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
       },
       {
         "pmid": "41962995",
@@ -549,7 +467,7 @@
         "authors": "Elkhodair S, Lalor J, Altaher M, Limbad C, Pradhan-Bhatt S et al.",
         "year": 2026,
         "journal": "The American journal of emergency medicine",
-        "entities": "GFAP, UCH-L1, ubiquitin, mTBI, TBI"
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
       },
       {
         "pmid": "41706196",
@@ -689,7 +607,7 @@
         "authors": "Qiu Y, Chen Y, Hu M, Zhu W, Guo X et al.",
         "year": 2026,
         "journal": "Journal of ethnopharmacology",
-        "entities": "beclin-1, autophagy, TBI"
+        "entities": "TBI"
       },
       {
         "pmid": "42092015",
@@ -753,17 +671,17 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1882
+      "paper_count": 1700
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1019
+      "paper_count": 996
     },
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 381
+      "paper_count": 360
     },
     {
       "name": "NQO2",
@@ -773,57 +691,47 @@
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 247
+      "paper_count": 233
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 235
-    },
-    {
-      "name": "ubiquitin",
-      "type": "protein",
-      "paper_count": 218
-    },
-    {
-      "name": "UCH-L1",
-      "type": "protein",
-      "paper_count": 213
+      "paper_count": 207
     },
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 209
+      "paper_count": 203
     },
     {
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 201
+      "paper_count": 199
     },
     {
-      "name": "ROS",
-      "type": "metabolite",
-      "paper_count": 181
-    },
-    {
-      "name": "neuroinflammation",
-      "type": "pathway",
-      "paper_count": 180
-    },
-    {
-      "name": "autophagy",
-      "type": "pathway",
-      "paper_count": 167
+      "name": "UCH-L1",
+      "type": "protein",
+      "paper_count": 188
     },
     {
       "name": "S100B",
       "type": "protein",
-      "paper_count": 162
+      "paper_count": 154
+    },
+    {
+      "name": "neuroinflammation",
+      "type": "pathway",
+      "paper_count": 147
+    },
+    {
+      "name": "ROS",
+      "type": "metabolite",
+      "paper_count": 138
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 158
+      "paper_count": 124
     },
     {
       "name": "NQO1",
@@ -833,7 +741,7 @@
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 110
+      "paper_count": 101
     },
     {
       "name": "NRH",
@@ -843,45 +751,30 @@
     {
       "name": "NSE",
       "type": "protein",
-      "paper_count": 90
+      "paper_count": 87
     },
     {
       "name": "CTE",
       "type": "disease",
-      "paper_count": 80
+      "paper_count": 78
     },
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 65
-    },
-    {
-      "name": "TNF-\u03b1",
-      "type": "protein",
-      "paper_count": 57
+      "paper_count": 61
     },
     {
       "name": "p-tau",
       "type": "protein",
-      "paper_count": 55
+      "paper_count": 53
     },
     {
-      "name": "glutathione",
-      "type": "metabolite",
-      "paper_count": 43
+      "name": "TNF-\u03b1",
+      "type": "protein",
+      "paper_count": 44
     },
     {
       "name": "MBP",
-      "type": "protein",
-      "paper_count": 42
-    },
-    {
-      "name": "resveratrol",
-      "type": "drug",
-      "paper_count": 41
-    },
-    {
-      "name": "LC3",
       "type": "protein",
       "paper_count": 40
     },
@@ -891,121 +784,121 @@
       "paper_count": 38
     },
     {
+      "name": "resveratrol",
+      "type": "drug",
+      "paper_count": 37
+    },
+    {
+      "name": "glutathione",
+      "type": "metabolite",
+      "paper_count": 35
+    },
+    {
       "name": "dopamine",
       "type": "metabolite",
-      "paper_count": 36
+      "paper_count": 33
     },
     {
       "name": "IL-1\u03b2",
       "type": "protein",
-      "paper_count": 35
+      "paper_count": 24
+    },
+    {
+      "name": "Nrf2",
+      "type": "protein",
+      "paper_count": 22
+    },
+    {
+      "name": "BDNF",
+      "type": "protein",
+      "paper_count": 21
+    },
+    {
+      "name": "A\u03b242",
+      "type": "protein",
+      "paper_count": 21
     }
   ],
   "top_cooccurrences": [
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 746.0
+      "weight": 723.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 350.0
+      "weight": 329.0
     },
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 200.0
-    },
-    {
-      "source": "ubiquitin",
-      "target": "TBI",
-      "weight": 197.0
-    },
-    {
-      "source": "UCH-L1",
-      "target": "TBI",
-      "weight": 195.0
+      "weight": 198.0
     },
     {
       "source": "tau",
       "target": "TBI",
-      "weight": 187.0
+      "weight": 175.0
     },
     {
-      "source": "TBI",
-      "target": "Alzheimer",
-      "weight": 183.0
+      "source": "UCH-L1",
+      "target": "TBI",
+      "weight": 170.0
+    },
+    {
+      "source": "GFAP",
+      "target": "mTBI",
+      "weight": 160.0
     },
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 179.0
+      "weight": 160.0
     },
     {
-      "source": "UCH-L1",
-      "target": "ubiquitin",
-      "weight": 172.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "TBI",
-      "weight": 172.0
-    },
-    {
-      "source": "GFAP",
-      "target": "mTBI",
-      "weight": 171.0
-    },
-    {
-      "source": "GFAP",
-      "target": "ubiquitin",
-      "weight": 167.0
+      "source": "TBI",
+      "target": "Alzheimer",
+      "weight": 157.0
     },
     {
       "source": "NfL",
       "target": "TBI",
-      "weight": 156.0
-    },
-    {
-      "source": "autophagy",
-      "target": "TBI",
-      "weight": 155.0
+      "weight": 150.0
     },
     {
       "source": "S100B",
       "target": "TBI",
-      "weight": 148.0
+      "weight": 140.0
     },
     {
-      "source": "ROS",
-      "target": "oxidative stress",
-      "weight": 144.0
+      "source": "neuroinflammation",
+      "target": "TBI",
+      "weight": 140.0
     },
     {
       "source": "TBI",
       "target": "PPCS",
-      "weight": 137.0
+      "weight": 135.0
     },
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 134.0
+      "weight": 129.0
     },
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 128.0
+      "weight": 123.0
     },
     {
       "source": "GFAP",
       "target": "tau",
-      "weight": 127.0
+      "weight": 120.0
     },
     {
       "source": "NfL",
       "target": "mTBI",
-      "weight": 120.0
+      "weight": 116.0
     },
     {
       "source": "NQO2",
@@ -1013,44 +906,24 @@
       "weight": 113.0
     },
     {
+      "source": "ROS",
+      "target": "oxidative stress",
+      "weight": 110.0
+    },
+    {
       "source": "GFAP",
       "target": "S100B",
-      "weight": 110.0
+      "weight": 103.0
     },
     {
       "source": "NfL",
       "target": "tau",
-      "weight": 108.0
+      "weight": 103.0
     },
     {
       "source": "BBB",
       "target": "TBI",
-      "weight": 105.0
-    },
-    {
-      "source": "ROS",
-      "target": "TBI",
-      "weight": 101.0
-    },
-    {
-      "source": "UCH-L1",
-      "target": "mTBI",
-      "weight": 99.0
-    },
-    {
-      "source": "ubiquitin",
-      "target": "mTBI",
-      "weight": 99.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "TBI",
       "weight": 96.0
-    },
-    {
-      "source": "S100B",
-      "target": "mTBI",
-      "weight": 90.0
     },
     {
       "source": "NQO2",
@@ -1058,32 +931,22 @@
       "weight": 87.0
     },
     {
+      "source": "UCH-L1",
+      "target": "mTBI",
+      "weight": 87.0
+    },
+    {
+      "source": "S100B",
+      "target": "mTBI",
+      "weight": 85.0
+    },
+    {
       "source": "TBI",
       "target": "NSE",
-      "weight": 82.0
+      "weight": 79.0
     },
     {
       "source": "tau",
-      "target": "Alzheimer",
-      "weight": 78.0
-    },
-    {
-      "source": "UCH-L1",
-      "target": "S100B",
-      "weight": 75.0
-    },
-    {
-      "source": "UCH-L1",
-      "target": "tau",
-      "weight": 75.0
-    },
-    {
-      "source": "tau",
-      "target": "ubiquitin",
-      "weight": 75.0
-    },
-    {
-      "source": "mTBI",
       "target": "Alzheimer",
       "weight": 73.0
     },
@@ -1093,34 +956,39 @@
       "weight": 72.0
     },
     {
-      "source": "GFAP",
-      "target": "NSE",
-      "weight": 66.0
+      "source": "mTBI",
+      "target": "Alzheimer",
+      "weight": 71.0
     },
     {
-      "source": "NfL",
-      "target": "ubiquitin",
-      "weight": 64.0
+      "source": "UCH-L1",
+      "target": "S100B",
+      "weight": 68.0
+    },
+    {
+      "source": "UCH-L1",
+      "target": "tau",
+      "weight": 68.0
+    },
+    {
+      "source": "GFAP",
+      "target": "NSE",
+      "weight": 63.0
+    },
+    {
+      "source": "oxidative stress",
+      "target": "TBI",
+      "weight": 62.0
+    },
+    {
+      "source": "ROS",
+      "target": "TBI",
+      "weight": 58.0
     },
     {
       "source": "UCH-L1",
       "target": "NfL",
-      "weight": 63.0
-    },
-    {
-      "source": "IL-6",
-      "target": "TBI",
-      "weight": 59.0
-    },
-    {
-      "source": "S100B",
-      "target": "NSE",
-      "weight": 57.0
-    },
-    {
-      "source": "S100B",
-      "target": "ubiquitin",
-      "weight": 57.0
+      "weight": 58.0
     },
     {
       "source": "NQO2",
@@ -1128,14 +996,24 @@
       "weight": 55.0
     },
     {
+      "source": "S100B",
+      "target": "NSE",
+      "weight": 55.0
+    },
+    {
+      "source": "IL-6",
+      "target": "TBI",
+      "weight": 55.0
+    },
+    {
       "source": "tau",
       "target": "p-tau",
-      "weight": 55.0
+      "weight": 53.0
     },
     {
       "source": "S100B",
       "target": "tau",
-      "weight": 55.0
+      "weight": 50.0
     },
     {
       "source": "mTBI",
@@ -1143,14 +1021,54 @@
       "weight": 49.0
     },
     {
-      "source": "TNF-\u03b1",
-      "target": "TBI",
-      "weight": 48.0
+      "source": "NQO1",
+      "target": "NRH",
+      "weight": 46.0
     },
     {
       "source": "TBI",
       "target": "CTE",
-      "weight": 47.0
+      "weight": 45.0
+    },
+    {
+      "source": "tau",
+      "target": "NSE",
+      "weight": 44.0
+    },
+    {
+      "source": "tau",
+      "target": "CTE",
+      "weight": 41.0
+    },
+    {
+      "source": "p-tau",
+      "target": "TBI",
+      "weight": 41.0
+    },
+    {
+      "source": "CTE",
+      "target": "Alzheimer",
+      "weight": 39.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "mTBI",
+      "weight": 39.0
+    },
+    {
+      "source": "TBI",
+      "target": "MBP",
+      "weight": 38.0
+    },
+    {
+      "source": "UCH-L1",
+      "target": "NSE",
+      "weight": 38.0
+    },
+    {
+      "source": "GFAP",
+      "target": "Alzheimer",
+      "weight": 37.0
     }
   ]
 }
