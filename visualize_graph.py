@@ -325,6 +325,31 @@ def _controls_html(node_meta: dict, min_papers_default: int, min_edge_default: i
     <b id="stat-edges">—</b> edges visible
   </div>
 
+  <!-- Rotation -->
+  <div class="section" style="border-top:1px solid #2a2d3a;padding-top:12px;margin-top:12px">
+    <div class="section-title">⟳ Rotation</div>
+    <button class="toggle-btn" id="rotate-btn" onclick="toggleAutoRotate()">
+      ↻  Auto-rotate
+    </button>
+    <div style="margin-top:9px">
+      <div class="section-title" style="margin-bottom:3px">Speed</div>
+      <input type="range" id="rot-speed" min="1" max="10" value="3"
+             oninput="rotSpeed=parseInt(this.value);document.getElementById('rot-speed-val').textContent=this.value">
+      <div class="slider-row"><span>slow</span><span id="rot-speed-val">3</span><span>fast</span></div>
+    </div>
+    <div style="margin-top:9px">
+      <div class="section-title" style="margin-bottom:3px">Manual angle</div>
+      <input type="range" id="rot-angle" min="0" max="360" value="0"
+             oninput="setManualRotation(parseFloat(this.value))">
+      <div class="slider-row"><span>0°</span><span id="rot-angle-val">0°</span><span>360°</span></div>
+    </div>
+    <button onclick="captureBasePositions()" style="width:100%;padding:5px;margin-top:8px;
+            border-radius:5px;border:1px solid #333;background:#1e2130;color:#777;
+            font-size:11px;cursor:pointer;text-align:left;">
+      📍 Refreeze layout
+    </button>
+  </div>
+
   <!-- Legend -->
   <div class="section" style="margin-top:16px;border-top:1px solid #2a2d3a;padding-top:12px">
     <div class="section-title">Legend</div>
@@ -431,9 +456,80 @@ document.addEventListener('DOMContentLoaded', function() {{
   document.querySelectorAll('.type-cb').forEach(cb =>
     cb.addEventListener('change', applyFilters)
   );
-  // Run once to set initial stats
-  setTimeout(applyFilters, 800);  // wait for vis.js to finish rendering
+  setTimeout(applyFilters, 800);
 }});
+
+// ── Rotation ───────────────────────────────────────────────────────────────
+let rotAngle      = 0;
+let rotSpeed      = 3;
+let autoRotating  = false;
+let rafId         = null;
+let basePositions = null;
+let rotCenter     = {{x: 0, y: 0}};
+
+function captureBasePositions() {{
+  network.setOptions({{physics: {{enabled: false}}}});
+  const pos = network.getPositions();
+  const ids  = Object.keys(pos);
+  if (!ids.length) return;
+  basePositions = pos;
+  rotCenter.x   = ids.reduce((s, id) => s + pos[id].x, 0) / ids.length;
+  rotCenter.y   = ids.reduce((s, id) => s + pos[id].y, 0) / ids.length;
+  rotAngle = 0;
+  document.getElementById('rot-angle').value           = 0;
+  document.getElementById('rot-angle-val').textContent = '0°';
+}}
+
+function applyRotation(angle) {{
+  if (!basePositions) return;
+  const cos = Math.cos(angle), sin = Math.sin(angle);
+  const cx  = rotCenter.x,    cy  = rotCenter.y;
+  const updates = Object.entries(basePositions).map(([id, p]) => {{
+    const dx = p.x - cx, dy = p.y - cy;
+    return {{ id: parseInt(id), x: cx + dx*cos - dy*sin, y: cy + dx*sin + dy*cos }};
+  }});
+  nodes.update(updates);
+}}
+
+function toggleAutoRotate() {{
+  autoRotating = !autoRotating;
+  document.getElementById('rotate-btn').classList.toggle('active', autoRotating);
+  if (autoRotating) {{
+    if (!basePositions) captureBasePositions();
+    let last = null;
+    function frame(ts) {{
+      if (last !== null) {{
+        rotAngle += rotSpeed * 0.0007 * (ts - last);
+        applyRotation(rotAngle);
+        const deg = ((rotAngle * 180 / Math.PI) % 360 + 360) % 360;
+        document.getElementById('rot-angle').value           = deg;
+        document.getElementById('rot-angle-val').textContent = Math.round(deg) + '°';
+      }}
+      last = ts;
+      if (autoRotating) rafId = requestAnimationFrame(frame);
+    }}
+    rafId = requestAnimationFrame(frame);
+  }} else {{
+    if (rafId) {{ cancelAnimationFrame(rafId); rafId = null; }}
+  }}
+}}
+
+function setManualRotation(deg) {{
+  document.getElementById('rot-angle-val').textContent = Math.round(deg) + '°';
+  if (!basePositions) captureBasePositions();
+  // stop auto-rotate if running
+  if (autoRotating) {{
+    autoRotating = false;
+    document.getElementById('rotate-btn').classList.remove('active');
+    if (rafId) {{ cancelAnimationFrame(rafId); rafId = null; }}
+  }}
+  rotAngle = deg * Math.PI / 180;
+  applyRotation(rotAngle);
+}}
+
+// Freeze layout once physics stabilises so rotation has clean base positions
+network.once('stabilized', captureBasePositions);
+setTimeout(function() {{ if (!basePositions) captureBasePositions(); }}, 4000);
 </script>
 """
 
