@@ -1,0 +1,52 @@
+name: Daily PubMed sync
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 7 AM UTC every day
+  workflow_dispatch:        # allow manual trigger from GitHub UI → Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests networkx
+
+      - name: Count papers before sync
+        id: before
+        run: |
+          echo "count=$(python3 -c "import sqlite3; c=sqlite3.connect('data/tbi_papers.db'); print(c.execute('SELECT COUNT(*) FROM papers').fetchone()[0])")" >> $GITHUB_OUTPUT
+
+      - name: Fetch new papers and rebuild graph
+        run: |
+          if [ -n "$NCBI_API_KEY" ]; then
+            python build_kb.py --api-key "$NCBI_API_KEY"
+          else
+            python build_kb.py
+          fi
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+
+      - name: Count papers after sync
+        id: after
+        run: |
+          echo "count=$(python3 -c "import sqlite3; c=sqlite3.connect('data/tbi_papers.db'); print(c.execute('SELECT COUNT(*) FROM papers').fetchone()[0])")" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if new papers found
+        if: steps.before.outputs.count != steps.after.outputs.count
+        run: |
+          NEW=$(( ${{ steps.after.outputs.count }} - ${{ steps.before.outputs.count }} ))
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tbi_papers.db data/knowledge_graph.json data/paper_summaries.md data/claude_context.json
+          git commit -m "Daily sync $(date -u +'%Y-%m-%d'): +${NEW} papers (total: ${{ steps.after.outputs.count }})"
+          git push
