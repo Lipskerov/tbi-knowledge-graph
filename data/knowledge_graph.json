@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T17:32:29.132008",
-  "n_papers": 2512,
+  "generated_at": "2026-05-22T10:28:24.965036",
+  "n_papers": 2513,
   "n_entities": 68,
   "n_edges": 391,
   "cluster_stats": {
     "exosomal_rna": 284,
-    "gfap_uchl1": 302,
+    "gfap_uchl1": 303,
     "nfl_tau": 221,
     "nqo2": 370,
     "ppcs_prognosis": 288,
@@ -18,7 +18,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1723,
+      "paper_count": 1724,
       "centrality": 0.6269
     },
     {
@@ -32,7 +32,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 374,
+      "paper_count": 375,
       "centrality": 0.4179
     },
     {
@@ -501,8 +501,8 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 342.0,
-      "n_papers": 342.0
+      "weight": 343.0,
+      "n_papers": 343.0
     },
     {
       "source": "mTBI",
