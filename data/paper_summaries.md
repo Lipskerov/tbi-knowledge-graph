@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-05-20*
-*Total papers: 2512*
+*Generated: 2026-05-22*
+*Total papers: 2513*
 
 
 ## Cluster: exosomal_rna
@@ -4067,6 +4067,13 @@
 **PMID:** 19035622  
 **Entities:** GFAP, S100B, mTBI, TBI, NSE  
 **Abstract:** Traumatic brain injury (TBI) is the leading cause of death and disability among young adults. Numerous safety improvements in the workplace, the addition of airbags to vehicles, and the enforcement of...
+
+### Differential hippocampal protection when blocking intracellular sodium and calcium entry during traumatic brain injury in rats.
+**Authors:** Zhao X, Gorin FA, Berman RF, Lyeth BG  
+**Journal:** Journal of neurotrauma (2008)  
+**PMID:** 18847376  **DOI:** 10.1089/neu.2008.0635
+**Entities:** GFAP, TBI  
+**Abstract:** This study investigated the contributions of the reverse mode of the sodium-calcium exchanger (NCX) and the type 1 sodium-proton antiporter (NHE-1) to acute astrocyte and neuronal pathology in the hip...
 
 ### Neuronal and glial apoptosis in human traumatic brain injury.
 **Authors:** Dressler J, Hanisch U, Kuhlisch E, Geiger KD  
