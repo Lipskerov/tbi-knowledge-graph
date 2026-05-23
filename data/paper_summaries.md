@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-05-22*
-*Total papers: 2513*
+*Generated: 2026-05-23*
+*Total papers: 2514*
 
 
 ## Cluster: exosomal_rna
@@ -14606,6 +14606,13 @@
 **PMID:** 41605412  **DOI:** 10.1016/j.expneurol.2026.115652
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: Mild traumatic brain injury (mTBI) often produces persistent deficits, yet the molecular mechanisms driving chronic pathology remain undefined. OBJECTIVE: We aimed to identify mechanistic ...
+
+### Retraction: Comparing calpain- and caspase-3-mediated degradation patterns in traumatic brain injury by differential proteome analysis.
+**Authors:** Wang KKW, Liu MC, Akle V, Zheng W, Dave JR et al.  
+**Journal:** The Biochemical journal (2026)  
+**PMID:** 42171014  **DOI:** 10.1042/BCJ20050905_RET
+**Entities:** —  
+**Abstract:** 
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

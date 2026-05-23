@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 2513,
+  "n_papers": 2514,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -586,6 +586,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42171014",
+        "title": "Retraction: Comparing calpain- and caspase-3-mediated degradation patterns in traumatic brain injury by differential proteome analysis.",
+        "authors": "Wang KKW, Liu MC, Akle V, Zheng W, Dave JR et al.",
+        "year": 2026,
+        "journal": "The Biochemical journal",
+        "entities": null
+      },
+      {
         "pmid": "42135641",
         "title": "Inflammatory-neurodegenerative crosstalk in pediatric severe traumatic brain injury: a multi-domain plasma proteomic study.",
         "authors": "Cela E, Van Nynatten LR, Tweddell D, Daley M, Morello M et al.",
@@ -656,14 +664,6 @@
         "year": 2026,
         "journal": "bioRxiv : the preprint server for biology",
         "entities": "TBI"
-      },
-      {
-        "pmid": "41959010",
-        "title": "Ceramide-rich extracellular vesicles as pathogenic biomarkers in traumatic brain injury.",
-        "authors": "Quadri Z, Zhu Z, Ren X, Crivelli SM, Zhang L et al.",
-        "year": 2026,
-        "journal": "bioRxiv : the preprint server for biology",
-        "entities": "GFAP, BBB, TBI"
       }
     ]
   },
