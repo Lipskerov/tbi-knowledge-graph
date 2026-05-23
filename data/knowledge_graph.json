@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T10:28:24.965036",
-  "n_papers": 2513,
+  "generated_at": "2026-05-23T09:08:16.910767",
+  "n_papers": 2514,
   "n_entities": 68,
   "n_edges": 391,
   "cluster_stats": {
@@ -11,7 +11,7 @@
     "ppcs_prognosis": 288,
     "tbi_mild_blood": 340,
     "tbi_panel_poc": 229,
-    "tbi_proteomics": 478
+    "tbi_proteomics": 479
   },
   "nodes": [
     {
