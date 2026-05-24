@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 2514,
+  "n_papers": 2517,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -192,6 +192,14 @@
         "entities": "BBB, mTBI, TBI, Alzheimer"
       },
       {
+        "pmid": "41692230",
+        "title": "Pre-Participation Reaction Time and Concussion Risk among Middle School Female Soccer Players.",
+        "authors": "Smulligan KL, Lempke LB, Mannix RC, Whitney KE, Berkner PD et al.",
+        "year": 2026,
+        "journal": "The Journal of pediatrics",
+        "entities": "mTBI"
+      },
+      {
         "pmid": "41218808",
         "title": "Diffusion Alterations at the Gray Matter/White Matter Boundary in Traumatic Encephalopathy Syndrome.",
         "authors": "Wiegand TLT, Pankatz L, Arciniega H, Jung LB, Tuz-Zahra F et al.",
@@ -246,14 +254,6 @@
         "year": 2025,
         "journal": "Journal of science and medicine in sport",
         "entities": "GFAP, NfL, tau, mTBI"
-      },
-      {
-        "pmid": "40609399",
-        "title": "Linked alterations in structure and autoimmunity biomarkers in remote mild-to-moderate TBI: A multi-modal brain imaging study.",
-        "authors": "Waters AB, Penhale SH, Sarkar S, Datta S, Lamb DG et al.",
-        "year": 2025,
-        "journal": "NeuroImage. Clinical",
-        "entities": "GFAP, UCH-L1, NfL, tau, TBI"
       }
     ],
     "nqo2": [
@@ -586,6 +586,22 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42176875",
+        "title": "Transcranial direct current stimulation promotes functional recovery in rats with traumatic brain injury by inhibiting SLC7A11-mediated Disulfidptosis and Neuroinflammation.",
+        "authors": "You H, Zou Q, Zhu T, Li S, Hou Y et al.",
+        "year": 2026,
+        "journal": "Experimental neurology",
+        "entities": "NQO1, ROS, Iba1, IL-6, TNF-\u03b1, IL-1\u03b2, neuroinflammation, oxidative stress, TBI, SOD"
+      },
+      {
+        "pmid": "42173231",
+        "title": "Plasma transfusion therapy enhances recovery from traumatic brain injury plasma transfusion enhances TBI recovery.",
+        "authors": "Chang WC, Chen WC, Wu KY, Deng SM, Chiang MH et al.",
+        "year": 2026,
+        "journal": "Experimental neurology",
+        "entities": "TBI"
+      },
+      {
         "pmid": "42171014",
         "title": "Retraction: Comparing calpain- and caspase-3-mediated degradation patterns in traumatic brain injury by differential proteome analysis.",
         "authors": "Wang KKW, Liu MC, Akle V, Zheng W, Dave JR et al.",
@@ -648,22 +664,6 @@
         "year": 2026,
         "journal": "Molecular psychiatry",
         "entities": "neuroinflammation, TBI"
-      },
-      {
-        "pmid": "41975604",
-        "title": "Differences in ferroptosis sensitivity among neural cells after traumatic brain injury.",
-        "authors": "Li X, Zhao Y, Chen X, Xu Y, Wu Y et al.",
-        "year": 2026,
-        "journal": "Neural regeneration research",
-        "entities": "oxidative stress, TBI, Nrf2, MBP"
-      },
-      {
-        "pmid": "41959485",
-        "title": "OmicGlaze: Spatial Multi-Omic Mapping of Traumatic Brain Injury.",
-        "authors": "Li Y, Neuffer SJ, Wider J, Ma S, Zhao N et al.",
-        "year": 2026,
-        "journal": "bioRxiv : the preprint server for biology",
-        "entities": "TBI"
       }
     ]
   },
@@ -671,12 +671,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1724
+      "paper_count": 1726
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1007
+      "paper_count": 1008
     },
     {
       "name": "GFAP",
@@ -721,22 +721,22 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 150
+      "paper_count": 151
     },
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 140
+      "paper_count": 141
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 126
+      "paper_count": 127
     },
     {
       "name": "NQO1",
       "type": "protein",
-      "paper_count": 117
+      "paper_count": 118
     },
     {
       "name": "BBB",
@@ -761,7 +761,7 @@
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 62
+      "paper_count": 63
     },
     {
       "name": "p-tau",
@@ -771,7 +771,7 @@
     {
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 45
+      "paper_count": 46
     },
     {
       "name": "MBP",
@@ -801,7 +801,7 @@
     {
       "name": "IL-1\u03b2",
       "type": "protein",
-      "paper_count": 24
+      "paper_count": 25
     },
     {
       "name": "Nrf2",
@@ -873,7 +873,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 143.0
+      "weight": 144.0
     },
     {
       "source": "TBI",
@@ -908,7 +908,7 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 112.0
+      "weight": 113.0
     },
     {
       "source": "NfL",
@@ -978,7 +978,12 @@
     {
       "source": "oxidative stress",
       "target": "TBI",
-      "weight": 64.0
+      "weight": 65.0
+    },
+    {
+      "source": "ROS",
+      "target": "TBI",
+      "weight": 61.0
     },
     {
       "source": "UCH-L1",
@@ -986,18 +991,13 @@
       "weight": 61.0
     },
     {
-      "source": "ROS",
+      "source": "IL-6",
       "target": "TBI",
-      "weight": 60.0
+      "weight": 57.0
     },
     {
       "source": "S100B",
       "target": "NSE",
-      "weight": 56.0
-    },
-    {
-      "source": "IL-6",
-      "target": "TBI",
       "weight": 56.0
     },
     {
