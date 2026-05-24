@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-23T09:08:16.910767",
-  "n_papers": 2514,
+  "generated_at": "2026-05-24T09:24:51.578568",
+  "n_papers": 2517,
   "n_entities": 68,
-  "n_edges": 391,
+  "n_edges": 399,
   "cluster_stats": {
     "exosomal_rna": 284,
     "gfap_uchl1": 303,
-    "nfl_tau": 221,
+    "nfl_tau": 222,
     "nqo2": 370,
     "ppcs_prognosis": 288,
     "tbi_mild_blood": 340,
     "tbi_panel_poc": 229,
-    "tbi_proteomics": 479
+    "tbi_proteomics": 481
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1724,
+      "paper_count": 1726,
       "centrality": 0.6269
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1007,
+      "paper_count": 1008,
       "centrality": 0.5224
     },
     {
@@ -88,29 +88,29 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 150,
+      "paper_count": 151,
       "centrality": 0.4328
     },
     {
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 140,
-      "centrality": 0.5373
+      "paper_count": 141,
+      "centrality": 0.5522
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 126,
-      "centrality": 0.5075
+      "paper_count": 127,
+      "centrality": 0.5224
     },
     {
       "id": 2,
       "name": "NQO1",
       "type": "protein",
-      "paper_count": 117,
-      "centrality": 0.2239
+      "paper_count": 118,
+      "centrality": 0.2836
     },
     {
       "id": 37,
@@ -144,8 +144,8 @@
       "id": 18,
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 62,
-      "centrality": 0.3731
+      "paper_count": 63,
+      "centrality": 0.3881
     },
     {
       "id": 15,
@@ -158,8 +158,8 @@
       "id": 19,
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 45,
-      "centrality": 0.2985
+      "paper_count": 46,
+      "centrality": 0.3433
     },
     {
       "id": 130,
@@ -200,8 +200,8 @@
       "id": 20,
       "name": "IL-1\u03b2",
       "type": "protein",
-      "paper_count": 24,
-      "centrality": 0.2239
+      "paper_count": 25,
+      "centrality": 0.2537
     },
     {
       "id": 111,
@@ -232,6 +232,13 @@
       "centrality": 0.1194
     },
     {
+      "id": 113,
+      "name": "SOD",
+      "type": "protein",
+      "paper_count": 15,
+      "centrality": 0.1343
+    },
+    {
       "id": 13,
       "name": "NfH",
       "type": "protein",
@@ -239,18 +246,11 @@
       "centrality": 0.194
     },
     {
-      "id": 113,
-      "name": "SOD",
-      "type": "protein",
-      "paper_count": 14,
-      "centrality": 0.1343
-    },
-    {
       "id": 17,
       "name": "Iba1",
       "type": "protein",
-      "paper_count": 11,
-      "centrality": 0.1045
+      "paper_count": 12,
+      "centrality": 0.1642
     },
     {
       "id": 108,
@@ -555,8 +555,8 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 143.0,
-      "n_papers": 143.0
+      "weight": 144.0,
+      "n_papers": 144.0
     },
     {
       "source": "TBI",
@@ -597,8 +597,8 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 112.0,
-      "n_papers": 112.0
+      "weight": 113.0,
+      "n_papers": 113.0
     },
     {
       "source": "NfL",
@@ -681,8 +681,14 @@
     {
       "source": "oxidative stress",
       "target": "TBI",
-      "weight": 64.0,
-      "n_papers": 64.0
+      "weight": 65.0,
+      "n_papers": 65.0
+    },
+    {
+      "source": "ROS",
+      "target": "TBI",
+      "weight": 61.0,
+      "n_papers": 61.0
     },
     {
       "source": "UCH-L1",
@@ -691,20 +697,14 @@
       "n_papers": 61.0
     },
     {
-      "source": "ROS",
+      "source": "IL-6",
       "target": "TBI",
-      "weight": 60.0,
-      "n_papers": 60.0
+      "weight": 57.0,
+      "n_papers": 57.0
     },
     {
       "source": "S100B",
       "target": "NSE",
-      "weight": 56.0,
-      "n_papers": 56.0
-    },
-    {
-      "source": "IL-6",
-      "target": "TBI",
       "weight": 56.0,
       "n_papers": 56.0
     },
@@ -799,28 +799,28 @@
       "n_papers": 37.0
     },
     {
+      "source": "TNF-\u03b1",
+      "target": "TBI",
+      "weight": 37.0,
+      "n_papers": 37.0
+    },
+    {
       "source": "NfL",
       "target": "Alzheimer",
       "weight": 36.0,
       "n_papers": 36.0
     },
     {
-      "source": "TNF-\u03b1",
-      "target": "TBI",
-      "weight": 36.0,
-      "n_papers": 36.0
+      "source": "NQO1",
+      "target": "ROS",
+      "weight": 34.0,
+      "n_papers": 34.0
     },
     {
       "source": "mTBI",
       "target": "NSE",
       "weight": 34.0,
       "n_papers": 34.0
-    },
-    {
-      "source": "NQO1",
-      "target": "ROS",
-      "weight": 33.0,
-      "n_papers": 33.0
     },
     {
       "source": "NQO2",
@@ -841,6 +841,12 @@
       "n_papers": 30.0
     },
     {
+      "source": "NQO1",
+      "target": "oxidative stress",
+      "weight": 29.0,
+      "n_papers": 29.0
+    },
+    {
       "source": "NfL",
       "target": "Simoa",
       "weight": 29.0,
@@ -851,12 +857,6 @@
       "target": "mTBI",
       "weight": 29.0,
       "n_papers": 29.0
-    },
-    {
-      "source": "NQO1",
-      "target": "oxidative stress",
-      "weight": 28.0,
-      "n_papers": 28.0
     },
     {
       "source": "IL-6",
@@ -902,13 +902,31 @@
     },
     {
       "source": "neuroinflammation",
-      "target": "Alzheimer",
+      "target": "oxidative stress",
       "weight": 24.0,
       "n_papers": 24.0
     },
     {
       "source": "neuroinflammation",
-      "target": "oxidative stress",
+      "target": "Alzheimer",
+      "weight": 24.0,
+      "n_papers": 24.0
+    },
+    {
+      "source": "ROS",
+      "target": "neuroinflammation",
+      "weight": 23.0,
+      "n_papers": 23.0
+    },
+    {
+      "source": "IL-6",
+      "target": "TNF-\u03b1",
+      "weight": 23.0,
+      "n_papers": 23.0
+    },
+    {
+      "source": "IL-1\u03b2",
+      "target": "TBI",
       "weight": 23.0,
       "n_papers": 23.0
     },
@@ -917,24 +935,6 @@
       "target": "BBB",
       "weight": 23.0,
       "n_papers": 23.0
-    },
-    {
-      "source": "ROS",
-      "target": "neuroinflammation",
-      "weight": 22.0,
-      "n_papers": 22.0
-    },
-    {
-      "source": "IL-6",
-      "target": "TNF-\u03b1",
-      "weight": 22.0,
-      "n_papers": 22.0
-    },
-    {
-      "source": "IL-1\u03b2",
-      "target": "TBI",
-      "weight": 22.0,
-      "n_papers": 22.0
     },
     {
       "source": "mTBI",
@@ -1021,6 +1021,12 @@
       "n_papers": 18.0
     },
     {
+      "source": "IL-6",
+      "target": "neuroinflammation",
+      "weight": 18.0,
+      "n_papers": 18.0
+    },
+    {
       "source": "miR-21",
       "target": "TBI",
       "weight": 18.0,
@@ -1047,12 +1053,6 @@
     {
       "source": "NfL",
       "target": "IL-6",
-      "weight": 17.0,
-      "n_papers": 17.0
-    },
-    {
-      "source": "IL-6",
-      "target": "neuroinflammation",
       "weight": 17.0,
       "n_papers": 17.0
     },
@@ -1099,6 +1099,12 @@
       "n_papers": 16.0
     },
     {
+      "source": "TNF-\u03b1",
+      "target": "neuroinflammation",
+      "weight": 16.0,
+      "n_papers": 16.0
+    },
+    {
       "source": "TBI",
       "target": "glutathione",
       "weight": 16.0,
@@ -1107,12 +1113,6 @@
     {
       "source": "tau",
       "target": "PPCS",
-      "weight": 15.0,
-      "n_papers": 15.0
-    },
-    {
-      "source": "TNF-\u03b1",
-      "target": "neuroinflammation",
       "weight": 15.0,
       "n_papers": 15.0
     },
@@ -1165,6 +1165,12 @@
       "n_papers": 14.0
     },
     {
+      "source": "IL-6",
+      "target": "IL-1\u03b2",
+      "weight": 14.0,
+      "n_papers": 14.0
+    },
+    {
       "source": "NQO1",
       "target": "glutathione",
       "weight": 13.0,
@@ -1179,12 +1185,6 @@
     {
       "source": "tau",
       "target": "BBB",
-      "weight": 13.0,
-      "n_papers": 13.0
-    },
-    {
-      "source": "IL-6",
-      "target": "IL-1\u03b2",
       "weight": 13.0,
       "n_papers": 13.0
     },
@@ -1219,6 +1219,12 @@
       "n_papers": 12.0
     },
     {
+      "source": "TNF-\u03b1",
+      "target": "IL-1\u03b2",
+      "weight": 12.0,
+      "n_papers": 12.0
+    },
+    {
       "source": "A\u03b242",
       "target": "TBI",
       "weight": 12.0,
@@ -1239,6 +1245,12 @@
     {
       "source": "ROS",
       "target": "dopamine",
+      "weight": 11.0,
+      "n_papers": 11.0
+    },
+    {
+      "source": "ROS",
+      "target": "SOD",
       "weight": 11.0,
       "n_papers": 11.0
     },
@@ -1279,8 +1291,14 @@
       "n_papers": 11.0
     },
     {
-      "source": "TNF-\u03b1",
-      "target": "IL-1\u03b2",
+      "source": "Iba1",
+      "target": "TBI",
+      "weight": 11.0,
+      "n_papers": 11.0
+    },
+    {
+      "source": "IL-1\u03b2",
+      "target": "neuroinflammation",
       "weight": 11.0,
       "n_papers": 11.0
     },
@@ -1304,12 +1322,6 @@
     },
     {
       "source": "ROS",
-      "target": "SOD",
-      "weight": 10.0,
-      "n_papers": 10.0
-    },
-    {
-      "source": "ROS",
       "target": "GFAP",
       "weight": 10.0,
       "n_papers": 10.0
@@ -1317,12 +1329,6 @@
     {
       "source": "GFAP",
       "target": "oxidative stress",
-      "weight": 10.0,
-      "n_papers": 10.0
-    },
-    {
-      "source": "Iba1",
-      "target": "TBI",
       "weight": 10.0,
       "n_papers": 10.0
     },
@@ -1335,12 +1341,6 @@
     {
       "source": "IL-6",
       "target": "Alzheimer",
-      "weight": 10.0,
-      "n_papers": 10.0
-    },
-    {
-      "source": "IL-1\u03b2",
-      "target": "neuroinflammation",
       "weight": 10.0,
       "n_papers": 10.0
     },
@@ -1383,6 +1383,12 @@
     {
       "source": "oxidative stress",
       "target": "dopamine",
+      "weight": 9.0,
+      "n_papers": 9.0
+    },
+    {
+      "source": "oxidative stress",
+      "target": "SOD",
       "weight": 9.0,
       "n_papers": 9.0
     },
@@ -1437,12 +1443,6 @@
     {
       "source": "IL-1\u03b2",
       "target": "mTBI",
-      "weight": 8.0,
-      "n_papers": 8.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "SOD",
       "weight": 8.0,
       "n_papers": 8.0
     },
@@ -1573,6 +1573,12 @@
       "n_papers": 7.0
     },
     {
+      "source": "TBI",
+      "target": "SOD",
+      "weight": 7.0,
+      "n_papers": 7.0
+    },
+    {
       "source": "PPCS",
       "target": "NSE",
       "weight": 7.0,
@@ -1611,6 +1617,12 @@
     {
       "source": "NQO1",
       "target": "resveratrol",
+      "weight": 6.0,
+      "n_papers": 6.0
+    },
+    {
+      "source": "NQO1",
+      "target": "SOD",
       "weight": 6.0,
       "n_papers": 6.0
     },
@@ -1730,12 +1742,6 @@
     },
     {
       "source": "TBI",
-      "target": "SOD",
-      "weight": 6.0,
-      "n_papers": 6.0
-    },
-    {
-      "source": "TBI",
       "target": "i-STAT TBI",
       "weight": 6.0,
       "n_papers": 6.0
@@ -1761,12 +1767,6 @@
     {
       "source": "NQO2",
       "target": "cAMP",
-      "weight": 5.0,
-      "n_papers": 5.0
-    },
-    {
-      "source": "NQO1",
-      "target": "SOD",
       "weight": 5.0,
       "n_papers": 5.0
     },
@@ -1808,6 +1808,12 @@
     },
     {
       "source": "p-tau",
+      "target": "neuroinflammation",
+      "weight": 5.0,
+      "n_papers": 5.0
+    },
+    {
+      "source": "Iba1",
       "target": "neuroinflammation",
       "weight": 5.0,
       "n_papers": 5.0
@@ -1868,6 +1874,12 @@
     },
     {
       "source": "ROS",
+      "target": "IL-1\u03b2",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
+      "source": "ROS",
       "target": "NSE",
       "weight": 4.0,
       "n_papers": 4.0
@@ -1923,12 +1935,6 @@
     {
       "source": "BDNF",
       "target": "IL-6",
-      "weight": 4.0,
-      "n_papers": 4.0
-    },
-    {
-      "source": "Iba1",
-      "target": "neuroinflammation",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -2054,7 +2060,13 @@
     },
     {
       "source": "ROS",
-      "target": "IL-1\u03b2",
+      "target": "IL-6",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "ROS",
+      "target": "TNF-\u03b1",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2168,13 +2180,31 @@
     },
     {
       "source": "Iba1",
+      "target": "IL-6",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "Iba1",
       "target": "mTBI",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
       "source": "IL-6",
+      "target": "oxidative stress",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "IL-6",
       "target": "CTE",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "IL-1\u03b2",
+      "target": "oxidative stress",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2205,6 +2235,12 @@
     {
       "source": "neuroinflammation",
       "target": "HO-1",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "SOD",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2341,6 +2377,30 @@
       "n_papers": 2.0
     },
     {
+      "source": "NQO1",
+      "target": "IL-6",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "NQO1",
+      "target": "IL-1\u03b2",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "NQO1",
+      "target": "TNF-\u03b1",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "NQO1",
+      "target": "Iba1",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
       "source": "miR-182",
       "target": "mTBI",
       "weight": 2.0,
@@ -2367,18 +2427,6 @@
     {
       "source": "miR-182",
       "target": "dopamine",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "ROS",
-      "target": "IL-6",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "ROS",
-      "target": "TNF-\u03b1",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2421,6 +2469,12 @@
     {
       "source": "ROS",
       "target": "miR-21",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "ROS",
+      "target": "Iba1",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2534,12 +2588,6 @@
     },
     {
       "source": "Iba1",
-      "target": "IL-6",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "Iba1",
       "target": "Alzheimer",
       "weight": 2.0,
       "n_papers": 2.0
@@ -2551,8 +2599,14 @@
       "n_papers": 2.0
     },
     {
-      "source": "IL-6",
-      "target": "oxidative stress",
+      "source": "Iba1",
+      "target": "TNF-\u03b1",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "Iba1",
+      "target": "IL-1\u03b2",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2588,6 +2642,12 @@
     },
     {
       "source": "TNF-\u03b1",
+      "target": "oxidative stress",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "TNF-\u03b1",
       "target": "quercetin",
       "weight": 2.0,
       "n_papers": 2.0
@@ -2595,12 +2655,6 @@
     {
       "source": "TNF-\u03b1",
       "target": "MBP",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "IL-1\u03b2",
-      "target": "oxidative stress",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2673,12 +2727,6 @@
     {
       "source": "neuroinflammation",
       "target": "cAMP",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "SOD",
       "weight": 2.0,
       "n_papers": 2.0
     },

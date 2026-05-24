@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-05-23*
-*Total papers: 2514*
+*Generated: 2026-05-24*
+*Total papers: 2517*
 
 
 ## Cluster: exosomal_rna
@@ -4140,6 +4140,13 @@
 **PMID:** 42135390  **DOI:** 10.1038/s41598-026-51123-8
 **Entities:** GFAP, NfL, tau, mTBI, Simoa  
 **Abstract:** Blood-based biomarkers like glial fibrillary acidic protein (GFAP), neurofilament light (NF-L), and total tau (T-tau) have shown promise for objective diagnosis of concussion and mTBI. However, differ...
+
+### Pre-Participation Reaction Time and Concussion Risk among Middle School Female Soccer Players.
+**Authors:** Smulligan KL, Lempke LB, Mannix RC, Whitney KE, Berkner PD et al.  
+**Journal:** The Journal of pediatrics (2026)  
+**PMID:** 41692230  **DOI:** 10.1016/j.jpeds.2026.115036
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To investigate whether slower reaction time (RT) was associated with higher concussion odds among middle school female soccer players. STUDY DESIGN: We performed a retrospective cohort stud...
 
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
@@ -14613,6 +14620,20 @@
 **PMID:** 42171014  **DOI:** 10.1042/BCJ20050905_RET
 **Entities:** —  
 **Abstract:** 
+
+### Plasma transfusion therapy enhances recovery from traumatic brain injury plasma transfusion enhances TBI recovery.
+**Authors:** Chang WC, Chen WC, Wu KY, Deng SM, Chiang MH et al.  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 42173231  **DOI:** 10.1016/j.expneurol.2026.115846
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) is a leading cause of disability and death worldwide. Despite its significant impact, effective treatments for TBI remain limited, and the resulting damage is largely irre...
+
+### Transcranial direct current stimulation promotes functional recovery in rats with traumatic brain injury by inhibiting SLC7A11-mediated Disulfidptosis and Neuroinflammation.
+**Authors:** You H, Zou Q, Zhu T, Li S, Hou Y et al.  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 42176875  **DOI:** 10.1016/j.expneurol.2026.115849
+**Entities:** NQO1, ROS, Iba1, IL-6, TNF-α  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) lacks effective pharmaceutical treatments. While transcranial direct current stimulation (tDCS) shows promise in neurorehabilitation, its potential to mitigate...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
