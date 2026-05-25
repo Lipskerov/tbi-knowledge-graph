@@ -25,6 +25,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests networkx
 
+      - name: Pull latest data before sync
+        run: git pull origin main
+
       - name: Count papers before sync
         id: before
         run: |
