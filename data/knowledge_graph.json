@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T09:24:51.578568",
-  "n_papers": 2517,
+  "generated_at": "2026-05-25T11:16:08.921926",
+  "n_papers": 2520,
   "n_entities": 68,
   "n_edges": 399,
   "cluster_stats": {
-    "exosomal_rna": 284,
-    "gfap_uchl1": 303,
+    "exosomal_rna": 286,
+    "gfap_uchl1": 304,
     "nfl_tau": 222,
     "nqo2": 370,
     "ppcs_prognosis": 288,
@@ -18,21 +18,21 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1726,
+      "paper_count": 1728,
       "centrality": 0.6269
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1008,
+      "paper_count": 1010,
       "centrality": 0.5224
     },
     {
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 375,
+      "paper_count": 376,
       "centrality": 0.4179
     },
     {
@@ -46,14 +46,14 @@
       "id": 14,
       "name": "tau",
       "type": "protein",
-      "paper_count": 239,
+      "paper_count": 240,
       "centrality": 0.403
     },
     {
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 210,
+      "paper_count": 211,
       "centrality": 0.4925
     },
     {
@@ -81,7 +81,7 @@
       "id": 11,
       "name": "S100B",
       "type": "protein",
-      "paper_count": 159,
+      "paper_count": 160,
       "centrality": 0.3284
     },
     {
@@ -137,21 +137,21 @@
       "id": 41,
       "name": "CTE",
       "type": "disease",
-      "paper_count": 78,
+      "paper_count": 79,
       "centrality": 0.2388
     },
     {
       "id": 18,
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 63,
+      "paper_count": 64,
       "centrality": 0.3881
     },
     {
       "id": 15,
       "name": "p-tau",
       "type": "protein",
-      "paper_count": 54,
+      "paper_count": 55,
       "centrality": 0.2687
     },
     {
@@ -204,6 +204,13 @@
       "centrality": 0.2537
     },
     {
+      "id": 21,
+      "name": "A\u03b242",
+      "type": "protein",
+      "paper_count": 22,
+      "centrality": 0.209
+    },
+    {
       "id": 111,
       "name": "Nrf2",
       "type": "protein",
@@ -216,13 +223,6 @@
       "type": "protein",
       "paper_count": 21,
       "centrality": 0.2239
-    },
-    {
-      "id": 21,
-      "name": "A\u03b242",
-      "type": "protein",
-      "paper_count": 21,
-      "centrality": 0.209
     },
     {
       "id": 30,
@@ -495,14 +495,14 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 733.0,
-      "n_papers": 733.0
+      "weight": 735.0,
+      "n_papers": 735.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 343.0,
-      "n_papers": 343.0
+      "weight": 344.0,
+      "n_papers": 344.0
     },
     {
       "source": "mTBI",
@@ -519,8 +519,8 @@
     {
       "source": "tau",
       "target": "TBI",
-      "weight": 180.0,
-      "n_papers": 180.0
+      "weight": 181.0,
+      "n_papers": 181.0
     },
     {
       "source": "GFAP",
@@ -531,14 +531,14 @@
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 169.0,
-      "n_papers": 169.0
+      "weight": 170.0,
+      "n_papers": 170.0
     },
     {
       "source": "TBI",
       "target": "Alzheimer",
-      "weight": 160.0,
-      "n_papers": 160.0
+      "weight": 161.0,
+      "n_papers": 161.0
     },
     {
       "source": "NfL",
@@ -549,8 +549,8 @@
     {
       "source": "S100B",
       "target": "TBI",
-      "weight": 145.0,
-      "n_papers": 145.0
+      "weight": 146.0,
+      "n_papers": 146.0
     },
     {
       "source": "neuroinflammation",
@@ -567,8 +567,8 @@
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 133.0,
-      "n_papers": 133.0
+      "weight": 134.0,
+      "n_papers": 134.0
     },
     {
       "source": "GFAP",
@@ -601,16 +601,16 @@
       "n_papers": 113.0
     },
     {
-      "source": "NfL",
-      "target": "tau",
+      "source": "GFAP",
+      "target": "S100B",
       "weight": 108.0,
       "n_papers": 108.0
     },
     {
-      "source": "GFAP",
-      "target": "S100B",
-      "weight": 107.0,
-      "n_papers": 107.0
+      "source": "NfL",
+      "target": "tau",
+      "weight": 108.0,
+      "n_papers": 108.0
     },
     {
       "source": "BBB",
@@ -627,8 +627,8 @@
     {
       "source": "S100B",
       "target": "mTBI",
-      "weight": 89.0,
-      "n_papers": 89.0
+      "weight": 90.0,
+      "n_papers": 90.0
     },
     {
       "source": "NQO2",
@@ -645,8 +645,8 @@
     {
       "source": "tau",
       "target": "Alzheimer",
-      "weight": 73.0,
-      "n_papers": 73.0
+      "weight": 74.0,
+      "n_papers": 74.0
     },
     {
       "source": "NQO2",
@@ -661,14 +661,14 @@
       "n_papers": 72.0
     },
     {
-      "source": "UCH-L1",
-      "target": "S100B",
-      "weight": 71.0,
-      "n_papers": 71.0
-    },
-    {
       "source": "mTBI",
       "target": "Alzheimer",
+      "weight": 72.0,
+      "n_papers": 72.0
+    },
+    {
+      "source": "UCH-L1",
+      "target": "S100B",
       "weight": 71.0,
       "n_papers": 71.0
     },
@@ -699,8 +699,8 @@
     {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 57.0,
-      "n_papers": 57.0
+      "weight": 58.0,
+      "n_papers": 58.0
     },
     {
       "source": "S100B",
@@ -717,8 +717,8 @@
     {
       "source": "tau",
       "target": "p-tau",
-      "weight": 54.0,
-      "n_papers": 54.0
+      "weight": 55.0,
+      "n_papers": 55.0
     },
     {
       "source": "S100B",
@@ -729,12 +729,18 @@
     {
       "source": "mTBI",
       "target": "CTE",
-      "weight": 49.0,
-      "n_papers": 49.0
+      "weight": 50.0,
+      "n_papers": 50.0
     },
     {
       "source": "NQO1",
       "target": "NRH",
+      "weight": 46.0,
+      "n_papers": 46.0
+    },
+    {
+      "source": "TBI",
+      "target": "CTE",
       "weight": 46.0,
       "n_papers": 46.0
     },
@@ -745,22 +751,22 @@
       "n_papers": 45.0
     },
     {
-      "source": "TBI",
-      "target": "CTE",
-      "weight": 45.0,
-      "n_papers": 45.0
-    },
-    {
       "source": "p-tau",
       "target": "TBI",
-      "weight": 42.0,
-      "n_papers": 42.0
+      "weight": 43.0,
+      "n_papers": 43.0
     },
     {
       "source": "tau",
       "target": "CTE",
-      "weight": 41.0,
-      "n_papers": 41.0
+      "weight": 42.0,
+      "n_papers": 42.0
+    },
+    {
+      "source": "CTE",
+      "target": "Alzheimer",
+      "weight": 40.0,
+      "n_papers": 40.0
     },
     {
       "source": "UCH-L1",
@@ -783,12 +789,6 @@
     {
       "source": "TBI",
       "target": "MBP",
-      "weight": 39.0,
-      "n_papers": 39.0
-    },
-    {
-      "source": "CTE",
-      "target": "Alzheimer",
       "weight": 39.0,
       "n_papers": 39.0
     },
@@ -829,6 +829,12 @@
       "n_papers": 32.0
     },
     {
+      "source": "p-tau",
+      "target": "mTBI",
+      "weight": 30.0,
+      "n_papers": 30.0
+    },
+    {
       "source": "BBB",
       "target": "mTBI",
       "weight": 30.0,
@@ -853,16 +859,10 @@
       "n_papers": 29.0
     },
     {
-      "source": "p-tau",
+      "source": "IL-6",
       "target": "mTBI",
       "weight": 29.0,
       "n_papers": 29.0
-    },
-    {
-      "source": "IL-6",
-      "target": "mTBI",
-      "weight": 28.0,
-      "n_papers": 28.0
     },
     {
       "source": "GFAP",
@@ -897,8 +897,8 @@
     {
       "source": "p-tau",
       "target": "Alzheimer",
-      "weight": 24.0,
-      "n_papers": 24.0
+      "weight": 25.0,
+      "n_papers": 25.0
     },
     {
       "source": "neuroinflammation",
@@ -955,6 +955,24 @@
       "n_papers": 21.0
     },
     {
+      "source": "tau",
+      "target": "IL-6",
+      "weight": 21.0,
+      "n_papers": 21.0
+    },
+    {
+      "source": "tau",
+      "target": "A\u03b242",
+      "weight": 21.0,
+      "n_papers": 21.0
+    },
+    {
+      "source": "p-tau",
+      "target": "CTE",
+      "weight": 21.0,
+      "n_papers": 21.0
+    },
+    {
       "source": "oxidative stress",
       "target": "glutathione",
       "weight": 21.0,
@@ -962,25 +980,7 @@
     },
     {
       "source": "tau",
-      "target": "IL-6",
-      "weight": 20.0,
-      "n_papers": 20.0
-    },
-    {
-      "source": "tau",
-      "target": "A\u03b242",
-      "weight": 20.0,
-      "n_papers": 20.0
-    },
-    {
-      "source": "tau",
       "target": "Simoa",
-      "weight": 20.0,
-      "n_papers": 20.0
-    },
-    {
-      "source": "p-tau",
-      "target": "CTE",
       "weight": 20.0,
       "n_papers": 20.0
     },
@@ -1189,6 +1189,12 @@
       "n_papers": 13.0
     },
     {
+      "source": "A\u03b242",
+      "target": "TBI",
+      "weight": 13.0,
+      "n_papers": 13.0
+    },
+    {
       "source": "NQO2",
       "target": "Alzheimer",
       "weight": 12.0,
@@ -1221,12 +1227,6 @@
     {
       "source": "TNF-\u03b1",
       "target": "IL-1\u03b2",
-      "weight": 12.0,
-      "n_papers": 12.0
-    },
-    {
-      "source": "A\u03b242",
-      "target": "TBI",
       "weight": 12.0,
       "n_papers": 12.0
     },
@@ -1297,8 +1297,20 @@
       "n_papers": 11.0
     },
     {
+      "source": "IL-6",
+      "target": "Alzheimer",
+      "weight": 11.0,
+      "n_papers": 11.0
+    },
+    {
       "source": "IL-1\u03b2",
       "target": "neuroinflammation",
+      "weight": 11.0,
+      "n_papers": 11.0
+    },
+    {
+      "source": "A\u03b242",
+      "target": "mTBI",
       "weight": 11.0,
       "n_papers": 11.0
     },
@@ -1339,14 +1351,8 @@
       "n_papers": 10.0
     },
     {
-      "source": "IL-6",
-      "target": "Alzheimer",
-      "weight": 10.0,
-      "n_papers": 10.0
-    },
-    {
       "source": "A\u03b242",
-      "target": "mTBI",
+      "target": "Alzheimer",
       "weight": 10.0,
       "n_papers": 10.0
     },
@@ -1371,12 +1377,6 @@
     {
       "source": "S100B",
       "target": "IL-6",
-      "weight": 9.0,
-      "n_papers": 9.0
-    },
-    {
-      "source": "A\u03b242",
-      "target": "Alzheimer",
       "weight": 9.0,
       "n_papers": 9.0
     },
@@ -1539,6 +1539,12 @@
     {
       "source": "tau",
       "target": "oxidative stress",
+      "weight": 7.0,
+      "n_papers": 7.0
+    },
+    {
+      "source": "p-tau",
+      "target": "A\u03b242",
       "weight": 7.0,
       "n_papers": 7.0
     },
@@ -1712,12 +1718,6 @@
     },
     {
       "source": "p-tau",
-      "target": "A\u03b242",
-      "weight": 6.0,
-      "n_papers": 6.0
-    },
-    {
-      "source": "p-tau",
       "target": "BBB",
       "weight": 6.0,
       "n_papers": 6.0
@@ -1808,6 +1808,12 @@
     },
     {
       "source": "p-tau",
+      "target": "IL-6",
+      "weight": 5.0,
+      "n_papers": 5.0
+    },
+    {
+      "source": "p-tau",
       "target": "neuroinflammation",
       "weight": 5.0,
       "n_papers": 5.0
@@ -1821,6 +1827,12 @@
     {
       "source": "TNF-\u03b1",
       "target": "NSE",
+      "weight": 5.0,
+      "n_papers": 5.0
+    },
+    {
+      "source": "A\u03b242",
+      "target": "CTE",
       "weight": 5.0,
       "n_papers": 5.0
     },
@@ -1927,12 +1939,6 @@
       "n_papers": 4.0
     },
     {
-      "source": "p-tau",
-      "target": "IL-6",
-      "weight": 4.0,
-      "n_papers": 4.0
-    },
-    {
       "source": "BDNF",
       "target": "IL-6",
       "weight": 4.0,
@@ -1945,14 +1951,14 @@
       "n_papers": 4.0
     },
     {
-      "source": "TNF-\u03b1",
-      "target": "PPCS",
+      "source": "IL-6",
+      "target": "CTE",
       "weight": 4.0,
       "n_papers": 4.0
     },
     {
-      "source": "A\u03b242",
-      "target": "CTE",
+      "source": "TNF-\u03b1",
+      "target": "PPCS",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -2198,7 +2204,7 @@
     },
     {
       "source": "IL-6",
-      "target": "CTE",
+      "target": "A\u03b242",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2607,12 +2613,6 @@
     {
       "source": "Iba1",
       "target": "IL-1\u03b2",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "IL-6",
-      "target": "A\u03b242",
       "weight": 2.0,
       "n_papers": 2.0
     },
