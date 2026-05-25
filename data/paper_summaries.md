@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-05-24*
-*Total papers: 2517*
+*Generated: 2026-05-25*
+*Total papers: 2520*
 
 
 ## Cluster: exosomal_rna
@@ -1230,6 +1230,13 @@
 **Entities:** neuroinflammation, TBI, Alzheimer  
 **Abstract:** Neurotrauma especially traumatic brain injury (TBI) is the leading cause of death and disability worldwide. To improve upon the early diagnosis and develop precision-targeted therapies for TBI, it is ...
 
+### Decreases in Dorsal Cervical Spinal Cord White Matter Tract Integrity Are Associated with Elevated Levels of Serum MicroRNA Biomarkers in NCAA Division I Collegiate Football Players.
+**Authors:** Papa L, Johnson B, Walter AE, Wilkes JR, Knollmann-Ritschel B et al.  
+**Journal:** Neurotrauma reports (2021)  
+**PMID:** 34901943  **DOI:** 10.1089/neur.2021.0036
+**Entities:** —  
+**Abstract:** This prospective, controlled, observational cohort study assessed the performance of a novel panel of serum microRNA (miRNA) biomarkers relative to findings on cervical spinal cord magnetic resonance ...
+
 ### Astrocyte-derived exosomes enriched with miR-873a-5p inhibit neuroinflammation via microglia phenotype modulation after traumatic brain injury.
 **Authors:** Long X, Yao X, Jiang Q, Yang Y, He X et al.  
 **Journal:** Journal of neuroinflammation (2020)  
@@ -1586,6 +1593,13 @@
 **PMID:** 30653462  **DOI:** 10.1515/hsz-2018-0340
 **Entities:** tau, GAS5, TBI  
 **Abstract:** The present study was designed to investigate the mechanism of the traditional Chinese medicine Changqin NO. 1 on the amelioration of traumatic brain injury (TBI). Adult male C57BL/6J mice and newborn...
+
+### Neuron-Derived Exosome Proteins May Contribute to Progression From Repetitive Mild Traumatic Brain Injuries to Chronic Traumatic Encephalopathy.
+**Authors:** Goetzl EJ, Ledreux A, Granholm AC, Elahi FM, Goetzl L et al.  
+**Journal:** Frontiers in neuroscience (2019)  
+**PMID:** 31133789  **DOI:** 10.3389/fnins.2019.00452
+**Entities:** tau, p-tau, IL-6, Aβ42, mTBI  
+**Abstract:** The recent recognition that Alzheimer disease-like pathology may be found in chronic traumatic encephalopathy (CTE) even after acute mild traumatic brain injury (mTBI) has increased the urgency of elu...
 
 ### Traumatic brain injury: classification, models, and markers.
 **Authors:** Najem D, Rennie K, Ribecco-Lutkiewicz M, Ly D, Haukenfrers J et al.  
@@ -3934,6 +3948,13 @@
 **PMID:** 25057113  **DOI:** 10.1007/s00115-014-4128-1
 **Entities:** GFAP, TBI  
 **Abstract:** Glial fibrillary acidic protein (GFAP) is a highly brain-specific protein that is expressed in large quantities in astrocytes and has important functions in terms of maintaining and stabilizing the cy...
+
+### GFAP out-performs S100β in detecting traumatic intracranial lesions on computed tomography in trauma patients with mild traumatic brain injury and those with extracranial lesions.
+**Authors:** Papa L, Silvestri S, Brophy GM, Giordano P, Falk JL et al.  
+**Journal:** Journal of neurotrauma (2014)  
+**PMID:** 24903744  **DOI:** 10.1089/neu.2013.3245
+**Entities:** GFAP, S100B, mTBI, TBI  
+**Abstract:** Both glial fibrillary acidic protein (GFAP) and S100β are found in glial cells and are released into serum following a traumatic brain injury (TBI), however, the clinical utility of S100β as a biomark...
 
 ### Biomarkers for the clinical differential diagnosis in traumatic brain injury--a systematic review.
 **Authors:** Yokobori S, Hosein K, Burks S, Sharma I, Gajavelli S et al.  
