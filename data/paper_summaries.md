@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-05-25*
-*Total papers: 2520*
+*Generated: 2026-05-27*
+*Total papers: 2527*
 
 
 ## Cluster: exosomal_rna
@@ -53,6 +53,20 @@
 **PMID:** 41675841  **DOI:** 10.1097/MS9.0000000000004642
 **Entities:** neuroinflammation, BBB, TBI, Alzheimer  
 **Abstract:** Traumatic brain injury (TBI) continues to be a major global cause of morbidity and mortality, with neuroinflammation recognized as a central mechanism influencing both acute and long-term outcomes. Fo...
+
+### Extracellular Vesicle and Plasma miRNAs as Candidate Biomarkers of Traumatic Brain Injury in the Context of Polytrauma.
+**Authors:** Schindler CR, Henrich D, Krämer L, Schaible I, Hörauf JA et al.  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 42196237  **DOI:** 10.3390/ijms27104248
+**Entities:** TBI  
+**Abstract:** Severe traumatic brain injury (TBI) is a leading cause of mortality and long-term disability in polytrauma (PT) patients, and its clinical outcome remains difficult to predict due to clinical heteroge...
+
+### Evolution of Concepts Regarding the Diagnostic and Prognostic Significance of Glial Fibrillary Acidic Protein (GFAP)-Positive Extracellular Vesicles.
+**Authors:** Yunusova N, Svarovsky D, Panfilova P, Ryabova A, Kaigorodova E et al.  
+**Journal:** Biomedicines (2026)  
+**PMID:** 42193441  **DOI:** 10.3390/biomedicines14051116
+**Entities:** GFAP, TBI  
+**Abstract:** This review demonstrates that the diagnostic and prognostic significance of glial fibrillary acidic protein (GFAP) is not limited to its use as a marker of astrocytic damage but should also be conside...
 
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
@@ -2107,6 +2121,20 @@
 **PMID:** 42135614  **DOI:** 10.1111/jcmm.71179
 **Entities:** GFAP, Iba1, neuroinflammation, TBI  
 **Abstract:** Medically intractable temporal lobe epilepsy is associated with potential neuronal and glial damage in key brain structures, including the hippocampus and amygdala. This study aimed to examine apoptos...
+
+### Fluid Biomarkers of Cognitive Impairments Following Traumatic Brain Injury: A Systematic Review and Meta Analysis.
+**Authors:** Liao Y, Zhao L, Zhu Y, Ye S, Huang J et al.  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 42196255  **DOI:** 10.3390/ijms27104274
+**Entities:** GFAP, UCH-L1, NfL, tau, BDNF  
+**Abstract:** Traumatic brain injury (TBI), a major cause of persistent cognitive impairment (CI), increases the long-term risk of developing dementia, including Alzheimer's disease (AD). To elucidate this associat...
+
+### Biomarkers for acute mild brain injury (BAMBI): optimising GFAP/UCH-L1 thresholds to support CT stewardship in a NICE-guided mild-traumatic-brain-injury cohort.
+**Authors:** O'Shea PM, Umana E, Broderick S, Byrne E, Samad NM et al.  
+**Journal:** British journal of neurosurgery (2026)  
+**PMID:** 42051194  **DOI:** 10.1080/02688697.2026.2663478
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** BACKGROUND: NICE head injury guidance prioritises sensitivity but results in high CT utilisation and low diagnostic yield, contributing to Emergency Department (ED) crowding, particularly among older ...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -5753,6 +5781,13 @@
 **PMID:** 41884841  **DOI:** 10.3389/fimmu.2026.1763258
 **Entities:** NQO2  
 **Abstract:** BACKGROUND: Persistently infected (PI) calves resulting from maternal Bovine viral diarrhea virus (BVDV) infection during early gestation are the main source of viral transmission and pose a serious t...
+
+### Regioselective triclocarban-catalyzed synthesis of spiroindeno- and spirooxindolo-pyrrolizidines with apoptosis induction in MCF-7 cells.
+**Authors:** Rukyanaik V, Pradhan S, Godugu C, Tothadi S, Krishna KR et al.  
+**Journal:** RSC medicinal chemistry (2026)  
+**PMID:** 42180593  **DOI:** 10.1039/d6md00132g
+**Entities:** —  
+**Abstract:** The design of new molecules from known structural motifs
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
@@ -10457,6 +10492,13 @@
 **Entities:** GFAP, UCH-L1, S100B, NfL, tau  
 **Abstract:** STUDY OBJECTIVES: Brain biomarkers have been used to predict intracranial injury in both adults and children following mild traumatic brain injury (mTBI). Several biomarkers have been evaluated, inclu...
 
+### A Regional Approach to Resource Management, Stewardship, and Outcomes Among Mild TBI Admissions: A Preliminary Report.
+**Authors:** Poudel S, Fernandez LG, Nalbach SV, Pero BN, Swindall RJ et al.  
+**Journal:** The American surgeon (2026)  
+**PMID:** 41618644  **DOI:** 10.1177/00031348261421660
+**Entities:** mTBI, TBI  
+**Abstract:** BackgroundThe Brain Injuries in Greater East Texas (BIGTEX) criteria were developed to identify patients with mild traumatic brain injury (mTBI) who may be managed at Level IV trauma centers (L4TCs). ...
+
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
 **Journal:** Neurocritical care (2025)  
@@ -14655,6 +14697,13 @@
 **PMID:** 42176875  **DOI:** 10.1016/j.expneurol.2026.115849
 **Entities:** NQO1, ROS, Iba1, IL-6, TNF-α  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) lacks effective pharmaceutical treatments. While transcranial direct current stimulation (tDCS) shows promise in neurorehabilitation, its potential to mitigate...
+
+### Activin A in the central nervous system: Mechanistic and therapeutic insights unveiled by emerging technologies.
+**Authors:** Zou Z, Zhang Y, Qie X, Xie D, Liu H  
+**Journal:** Neural regeneration research (2026)  
+**PMID:** 42199099  **DOI:** 10.4103/NRR.NRR-D-25-01570
+**Entities:** BBB, TBI  
+**Abstract:** Activin A exhibits both protective and pathological roles in the central nervous system, reflecting a functional duality that complicates its therapeutic development. To decipher the underlying mechan...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
