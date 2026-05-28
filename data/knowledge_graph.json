@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-05-27T11:00:14.905925",
-  "n_papers": 2527,
-  "n_entities": 68,
-  "n_edges": 399,
+  "generated_at": "2026-05-28T04:53:31.103900",
+  "n_papers": 3025,
+  "n_entities": 69,
+  "n_edges": 455,
   "cluster_stats": {
+    "aging_neuro": 498,
     "exosomal_rna": 288,
     "gfap_uchl1": 306,
     "nfl_tau": 222,
@@ -18,372 +19,379 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1734,
-      "centrality": 0.6269
+      "paper_count": 1747,
+      "centrality": 0.6324
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
       "paper_count": 1012,
-      "centrality": 0.5224
+      "centrality": 0.5294
+    },
+    {
+      "id": 42,
+      "name": "Alzheimer",
+      "type": "disease",
+      "paper_count": 495,
+      "centrality": 0.5441
+    },
+    {
+      "id": 710,
+      "name": "aging",
+      "type": "disease",
+      "paper_count": 427,
+      "centrality": 0.5147
     },
     {
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 379,
-      "centrality": 0.4179
+      "paper_count": 416,
+      "centrality": 0.4412
     },
     {
       "id": 1,
       "name": "NQO2",
       "type": "protein",
       "paper_count": 308,
-      "centrality": 0.3582
+      "centrality": 0.3676
     },
     {
       "id": 14,
       "name": "tau",
       "type": "protein",
-      "paper_count": 241,
-      "centrality": 0.403
-    },
-    {
-      "id": 42,
-      "name": "Alzheimer",
-      "type": "disease",
-      "paper_count": 212,
-      "centrality": 0.4925
-    },
-    {
-      "id": 12,
-      "name": "NfL",
-      "type": "protein",
-      "paper_count": 209,
-      "centrality": 0.4179
-    },
-    {
-      "id": 10,
-      "name": "UCH-L1",
-      "type": "protein",
-      "paper_count": 202,
-      "centrality": 0.3881
-    },
-    {
-      "id": 40,
-      "name": "PPCS",
-      "type": "disease",
-      "paper_count": 201,
-      "centrality": 0.2687
-    },
-    {
-      "id": 11,
-      "name": "S100B",
-      "type": "protein",
-      "paper_count": 160,
-      "centrality": 0.3284
+      "paper_count": 307,
+      "centrality": 0.4265
     },
     {
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 152,
-      "centrality": 0.4328
+      "paper_count": 257,
+      "centrality": 0.4853
+    },
+    {
+      "id": 12,
+      "name": "NfL",
+      "type": "protein",
+      "paper_count": 252,
+      "centrality": 0.4265
     },
     {
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 141,
-      "centrality": 0.5522
+      "paper_count": 231,
+      "centrality": 0.5735
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 127,
-      "centrality": 0.5224
+      "paper_count": 214,
+      "centrality": 0.5441
+    },
+    {
+      "id": 10,
+      "name": "UCH-L1",
+      "type": "protein",
+      "paper_count": 203,
+      "centrality": 0.3971
+    },
+    {
+      "id": 40,
+      "name": "PPCS",
+      "type": "disease",
+      "paper_count": 202,
+      "centrality": 0.2647
+    },
+    {
+      "id": 11,
+      "name": "S100B",
+      "type": "protein",
+      "paper_count": 166,
+      "centrality": 0.3382
+    },
+    {
+      "id": 37,
+      "name": "BBB",
+      "type": "process",
+      "paper_count": 123,
+      "centrality": 0.3529
     },
     {
       "id": 2,
       "name": "NQO1",
       "type": "protein",
       "paper_count": 118,
-      "centrality": 0.2836
-    },
-    {
-      "id": 37,
-      "name": "BBB",
-      "type": "process",
-      "paper_count": 102,
-      "centrality": 0.3134
+      "centrality": 0.2794
     },
     {
       "id": 101,
       "name": "NRH",
       "type": "metabolite",
       "paper_count": 92,
-      "centrality": 0.2239
+      "centrality": 0.2206
     },
     {
       "id": 129,
       "name": "NSE",
       "type": "protein",
-      "paper_count": 90,
-      "centrality": 0.2985
+      "paper_count": 92,
+      "centrality": 0.3235
+    },
+    {
+      "id": 15,
+      "name": "p-tau",
+      "type": "protein",
+      "paper_count": 83,
+      "centrality": 0.2794
+    },
+    {
+      "id": 18,
+      "name": "IL-6",
+      "type": "protein",
+      "paper_count": 79,
+      "centrality": 0.3971
     },
     {
       "id": 41,
       "name": "CTE",
       "type": "disease",
       "paper_count": 79,
-      "centrality": 0.2388
-    },
-    {
-      "id": 18,
-      "name": "IL-6",
-      "type": "protein",
-      "paper_count": 64,
-      "centrality": 0.3881
-    },
-    {
-      "id": 15,
-      "name": "p-tau",
-      "type": "protein",
-      "paper_count": 55,
-      "centrality": 0.2687
+      "centrality": 0.25
     },
     {
       "id": 19,
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 46,
-      "centrality": 0.3433
+      "paper_count": 56,
+      "centrality": 0.3529
     },
     {
       "id": 130,
       "name": "MBP",
       "type": "protein",
-      "paper_count": 41,
-      "centrality": 0.2687
+      "paper_count": 55,
+      "centrality": 0.2941
     },
     {
       "id": 44,
       "name": "Simoa",
       "type": "drug",
-      "paper_count": 39,
-      "centrality": 0.1791
-    },
-    {
-      "id": 110,
-      "name": "resveratrol",
-      "type": "drug",
-      "paper_count": 37,
-      "centrality": 0.1194
-    },
-    {
-      "id": 114,
-      "name": "glutathione",
-      "type": "metabolite",
-      "paper_count": 35,
-      "centrality": 0.2537
-    },
-    {
-      "id": 102,
-      "name": "dopamine",
-      "type": "metabolite",
-      "paper_count": 33,
-      "centrality": 0.209
-    },
-    {
-      "id": 20,
-      "name": "IL-1\u03b2",
-      "type": "protein",
-      "paper_count": 25,
-      "centrality": 0.2537
-    },
-    {
-      "id": 16,
-      "name": "BDNF",
-      "type": "protein",
-      "paper_count": 22,
-      "centrality": 0.2239
+      "paper_count": 48,
+      "centrality": 0.2059
     },
     {
       "id": 21,
       "name": "A\u03b242",
       "type": "protein",
-      "paper_count": 22,
-      "centrality": 0.209
+      "paper_count": 46,
+      "centrality": 0.25
+    },
+    {
+      "id": 114,
+      "name": "glutathione",
+      "type": "metabolite",
+      "paper_count": 44,
+      "centrality": 0.2794
+    },
+    {
+      "id": 102,
+      "name": "dopamine",
+      "type": "metabolite",
+      "paper_count": 40,
+      "centrality": 0.25
+    },
+    {
+      "id": 110,
+      "name": "resveratrol",
+      "type": "drug",
+      "paper_count": 38,
+      "centrality": 0.1324
+    },
+    {
+      "id": 20,
+      "name": "IL-1\u03b2",
+      "type": "protein",
+      "paper_count": 35,
+      "centrality": 0.3235
+    },
+    {
+      "id": 16,
+      "name": "BDNF",
+      "type": "protein",
+      "paper_count": 31,
+      "centrality": 0.2794
+    },
+    {
+      "id": 113,
+      "name": "SOD",
+      "type": "protein",
+      "paper_count": 28,
+      "centrality": 0.2353
     },
     {
       "id": 111,
       "name": "Nrf2",
       "type": "protein",
-      "paper_count": 22,
-      "centrality": 0.1642
+      "paper_count": 24,
+      "centrality": 0.1912
     },
     {
       "id": 30,
       "name": "miR-21",
       "type": "rna",
       "paper_count": 19,
-      "centrality": 0.1194
+      "centrality": 0.1176
     },
     {
-      "id": 113,
-      "name": "SOD",
+      "id": 17,
+      "name": "Iba1",
       "type": "protein",
       "paper_count": 15,
-      "centrality": 0.1343
+      "centrality": 0.2059
     },
     {
       "id": 13,
       "name": "NfH",
       "type": "protein",
       "paper_count": 14,
-      "centrality": 0.194
+      "centrality": 0.1912
     },
     {
-      "id": 17,
-      "name": "Iba1",
+      "id": 115,
+      "name": "catalase",
       "type": "protein",
-      "paper_count": 12,
-      "centrality": 0.1642
+      "paper_count": 14,
+      "centrality": 0.1324
+    },
+    {
+      "id": 46,
+      "name": "Quanterix",
+      "type": "drug",
+      "paper_count": 11,
+      "centrality": 0.1029
+    },
+    {
+      "id": 104,
+      "name": "cAMP",
+      "type": "metabolite",
+      "paper_count": 11,
+      "centrality": 0.1324
     },
     {
       "id": 108,
       "name": "S29434",
       "type": "drug",
       "paper_count": 11,
-      "centrality": 0.1343
-    },
-    {
-      "id": 46,
-      "name": "Quanterix",
-      "type": "drug",
-      "paper_count": 10,
-      "centrality": 0.1045
-    },
-    {
-      "id": 104,
-      "name": "cAMP",
-      "type": "metabolite",
-      "paper_count": 10,
-      "centrality": 0.1194
+      "centrality": 0.1324
     },
     {
       "id": 109,
       "name": "quercetin",
       "type": "drug",
       "paper_count": 10,
-      "centrality": 0.1045
+      "centrality": 0.1029
     },
     {
-      "id": 115,
-      "name": "catalase",
+      "id": 112,
+      "name": "HO-1",
       "type": "protein",
-      "paper_count": 9,
-      "centrality": 0.1045
+      "paper_count": 10,
+      "centrality": 0.1471
     },
     {
       "id": 45,
       "name": "Olink",
       "type": "drug",
       "paper_count": 8,
-      "centrality": 0.0448
+      "centrality": 0.0441
     },
     {
       "id": 47,
       "name": "QR2 inhibitor",
       "type": "drug",
       "paper_count": 7,
-      "centrality": 0.1194
+      "centrality": 0.1176
     },
     {
-      "id": 112,
-      "name": "HO-1",
+      "id": 116,
+      "name": "4-HNE",
+      "type": "metabolite",
+      "paper_count": 7,
+      "centrality": 0.0882
+    },
+    {
+      "id": 128,
+      "name": "NMDA receptor",
       "type": "protein",
       "paper_count": 7,
-      "centrality": 0.1045
+      "centrality": 0.0441
     },
     {
       "id": 43,
       "name": "i-STAT TBI",
       "type": "drug",
       "paper_count": 6,
-      "centrality": 0.0597
+      "centrality": 0.0588
+    },
+    {
+      "id": 131,
+      "name": "VILIP-1",
+      "type": "protein",
+      "paper_count": 6,
+      "centrality": 0.0735
     },
     {
       "id": 3,
       "name": "miR-182",
       "type": "rna",
       "paper_count": 5,
-      "centrality": 0.0896
-    },
-    {
-      "id": 131,
-      "name": "VILIP-1",
-      "type": "protein",
-      "paper_count": 5,
-      "centrality": 0.0746
+      "centrality": 0.1029
     },
     {
       "id": 5,
       "name": "Kv2.1",
       "type": "protein",
       "paper_count": 3,
-      "centrality": 0.0746
+      "centrality": 0.0882
     },
     {
       "id": 31,
       "name": "miR-let-7",
       "type": "rna",
       "paper_count": 3,
-      "centrality": 0.0299
-    },
-    {
-      "id": 116,
-      "name": "4-HNE",
-      "type": "metabolite",
-      "paper_count": 3,
-      "centrality": 0.0448
+      "centrality": 0.0294
     },
     {
       "id": 123,
       "name": "CHOP",
       "type": "protein",
       "paper_count": 3,
-      "centrality": 0.0299
+      "centrality": 0.0294
     },
     {
       "id": 126,
       "name": "Arc",
       "type": "protein",
       "paper_count": 3,
-      "centrality": 0.0299
-    },
-    {
-      "id": 128,
-      "name": "NMDA receptor",
-      "type": "protein",
-      "paper_count": 3,
-      "centrality": 0.0299
+      "centrality": 0.0294
     },
     {
       "id": 28,
       "name": "GAS5",
       "type": "rna",
       "paper_count": 2,
-      "centrality": 0.0149
+      "centrality": 0.0147
     },
     {
       "id": 29,
       "name": "NEAT1",
       "type": "rna",
       "paper_count": 2,
-      "centrality": 0.0149
+      "centrality": 0.0147
     },
     {
       "id": 119,
@@ -416,6 +424,13 @@
     {
       "id": 122,
       "name": "ATF4",
+      "type": "protein",
+      "paper_count": 1,
+      "centrality": 0.0
+    },
+    {
+      "id": 127,
+      "name": "AMPA receptor",
       "type": "protein",
       "paper_count": 1,
       "centrality": 0.0
@@ -482,13 +497,6 @@
       "type": "protein",
       "paper_count": 0,
       "centrality": 0.0
-    },
-    {
-      "id": 127,
-      "name": "AMPA receptor",
-      "type": "protein",
-      "paper_count": 0,
-      "centrality": 0.0
     }
   ],
   "edges": [
@@ -501,14 +509,26 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 347.0,
-      "n_papers": 347.0
+      "weight": 348.0,
+      "n_papers": 348.0
+    },
+    {
+      "source": "Alzheimer",
+      "target": "aging",
+      "weight": 230.0,
+      "n_papers": 230.0
     },
     {
       "source": "mTBI",
       "target": "PPCS",
       "weight": 200.0,
       "n_papers": 200.0
+    },
+    {
+      "source": "ROS",
+      "target": "oxidative stress",
+      "weight": 197.0,
+      "n_papers": 197.0
     },
     {
       "source": "UCH-L1",
@@ -525,8 +545,8 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 173.0,
-      "n_papers": 173.0
+      "weight": 174.0,
+      "n_papers": 174.0
     },
     {
       "source": "GFAP",
@@ -537,8 +557,8 @@
     {
       "source": "TBI",
       "target": "Alzheimer",
-      "weight": 162.0,
-      "n_papers": 162.0
+      "weight": 170.0,
+      "n_papers": 170.0
     },
     {
       "source": "NfL",
@@ -547,16 +567,34 @@
       "n_papers": 155.0
     },
     {
+      "source": "neuroinflammation",
+      "target": "TBI",
+      "weight": 150.0,
+      "n_papers": 150.0
+    },
+    {
+      "source": "GFAP",
+      "target": "NfL",
+      "weight": 147.0,
+      "n_papers": 147.0
+    },
+    {
       "source": "S100B",
       "target": "TBI",
       "weight": 146.0,
       "n_papers": 146.0
     },
     {
-      "source": "neuroinflammation",
-      "target": "TBI",
-      "weight": 145.0,
-      "n_papers": 145.0
+      "source": "GFAP",
+      "target": "tau",
+      "weight": 138.0,
+      "n_papers": 138.0
+    },
+    {
+      "source": "tau",
+      "target": "Alzheimer",
+      "weight": 137.0,
+      "n_papers": 137.0
     },
     {
       "source": "TBI",
@@ -571,16 +609,10 @@
       "n_papers": 134.0
     },
     {
-      "source": "GFAP",
-      "target": "NfL",
-      "weight": 128.0,
-      "n_papers": 128.0
-    },
-    {
-      "source": "GFAP",
+      "source": "NfL",
       "target": "tau",
-      "weight": 126.0,
-      "n_papers": 126.0
+      "weight": 132.0,
+      "n_papers": 132.0
     },
     {
       "source": "NfL",
@@ -595,22 +627,10 @@
       "n_papers": 113.0
     },
     {
-      "source": "ROS",
-      "target": "oxidative stress",
-      "weight": 113.0,
-      "n_papers": 113.0
-    },
-    {
-      "source": "NfL",
-      "target": "tau",
-      "weight": 109.0,
-      "n_papers": 109.0
-    },
-    {
       "source": "GFAP",
       "target": "S100B",
-      "weight": 108.0,
-      "n_papers": 108.0
+      "weight": 111.0,
+      "n_papers": 111.0
     },
     {
       "source": "BBB",
@@ -621,6 +641,12 @@
     {
       "source": "UCH-L1",
       "target": "mTBI",
+      "weight": 96.0,
+      "n_papers": 96.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "Alzheimer",
       "weight": 96.0,
       "n_papers": 96.0
     },
@@ -637,22 +663,46 @@
       "n_papers": 87.0
     },
     {
+      "source": "ROS",
+      "target": "aging",
+      "weight": 84.0,
+      "n_papers": 84.0
+    },
+    {
       "source": "TBI",
       "target": "NSE",
       "weight": 82.0,
       "n_papers": 82.0
     },
     {
+      "source": "neuroinflammation",
+      "target": "aging",
+      "weight": 81.0,
+      "n_papers": 81.0
+    },
+    {
       "source": "tau",
+      "target": "p-tau",
+      "weight": 80.0,
+      "n_papers": 80.0
+    },
+    {
+      "source": "oxidative stress",
+      "target": "aging",
+      "weight": 77.0,
+      "n_papers": 77.0
+    },
+    {
+      "source": "NfL",
       "target": "Alzheimer",
-      "weight": 75.0,
-      "n_papers": 75.0
+      "weight": 76.0,
+      "n_papers": 76.0
     },
     {
       "source": "UCH-L1",
       "target": "tau",
-      "weight": 73.0,
-      "n_papers": 73.0
+      "weight": 74.0,
+      "n_papers": 74.0
     },
     {
       "source": "NQO2",
@@ -673,28 +723,46 @@
       "n_papers": 71.0
     },
     {
+      "source": "oxidative stress",
+      "target": "TBI",
+      "weight": 68.0,
+      "n_papers": 68.0
+    },
+    {
+      "source": "ROS",
+      "target": "Alzheimer",
+      "weight": 67.0,
+      "n_papers": 67.0
+    },
+    {
       "source": "GFAP",
       "target": "NSE",
       "weight": 66.0,
       "n_papers": 66.0
     },
     {
-      "source": "oxidative stress",
+      "source": "ROS",
       "target": "TBI",
-      "weight": 65.0,
-      "n_papers": 65.0
+      "weight": 64.0,
+      "n_papers": 64.0
+    },
+    {
+      "source": "GFAP",
+      "target": "Alzheimer",
+      "weight": 64.0,
+      "n_papers": 64.0
     },
     {
       "source": "UCH-L1",
       "target": "NfL",
-      "weight": 62.0,
-      "n_papers": 62.0
+      "weight": 63.0,
+      "n_papers": 63.0
     },
     {
-      "source": "ROS",
-      "target": "TBI",
-      "weight": 61.0,
-      "n_papers": 61.0
+      "source": "oxidative stress",
+      "target": "Alzheimer",
+      "weight": 62.0,
+      "n_papers": 62.0
     },
     {
       "source": "IL-6",
@@ -715,16 +783,22 @@
       "n_papers": 55.0
     },
     {
-      "source": "tau",
-      "target": "p-tau",
-      "weight": 55.0,
-      "n_papers": 55.0
-    },
-    {
       "source": "S100B",
       "target": "tau",
-      "weight": 53.0,
-      "n_papers": 53.0
+      "weight": 54.0,
+      "n_papers": 54.0
+    },
+    {
+      "source": "tau",
+      "target": "aging",
+      "weight": 51.0,
+      "n_papers": 51.0
+    },
+    {
+      "source": "p-tau",
+      "target": "Alzheimer",
+      "weight": 51.0,
+      "n_papers": 51.0
     },
     {
       "source": "mTBI",
@@ -751,6 +825,24 @@
       "n_papers": 46.0
     },
     {
+      "source": "GFAP",
+      "target": "neuroinflammation",
+      "weight": 45.0,
+      "n_papers": 45.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "oxidative stress",
+      "weight": 45.0,
+      "n_papers": 45.0
+    },
+    {
+      "source": "ROS",
+      "target": "neuroinflammation",
+      "weight": 44.0,
+      "n_papers": 44.0
+    },
+    {
       "source": "p-tau",
       "target": "TBI",
       "weight": 43.0,
@@ -761,6 +853,12 @@
       "target": "CTE",
       "weight": 42.0,
       "n_papers": 42.0
+    },
+    {
+      "source": "S100B",
+      "target": "NfL",
+      "weight": 41.0,
+      "n_papers": 41.0
     },
     {
       "source": "UCH-L1",
@@ -775,14 +873,14 @@
       "n_papers": 40.0
     },
     {
-      "source": "S100B",
-      "target": "NfL",
+      "source": "neuroinflammation",
+      "target": "mTBI",
       "weight": 39.0,
       "n_papers": 39.0
     },
     {
       "source": "neuroinflammation",
-      "target": "mTBI",
+      "target": "BBB",
       "weight": 39.0,
       "n_papers": 39.0
     },
@@ -793,14 +891,8 @@
       "n_papers": 39.0
     },
     {
-      "source": "GFAP",
-      "target": "Alzheimer",
-      "weight": 38.0,
-      "n_papers": 38.0
-    },
-    {
       "source": "NfL",
-      "target": "Alzheimer",
+      "target": "Simoa",
       "weight": 37.0,
       "n_papers": 37.0
     },
@@ -811,8 +903,26 @@
       "n_papers": 37.0
     },
     {
+      "source": "tau",
+      "target": "A\u03b242",
+      "weight": 36.0,
+      "n_papers": 36.0
+    },
+    {
+      "source": "GFAP",
+      "target": "aging",
+      "weight": 35.0,
+      "n_papers": 35.0
+    },
+    {
       "source": "NQO1",
       "target": "ROS",
+      "weight": 34.0,
+      "n_papers": 34.0
+    },
+    {
+      "source": "tau",
+      "target": "neuroinflammation",
       "weight": 34.0,
       "n_papers": 34.0
     },
@@ -823,10 +933,52 @@
       "n_papers": 34.0
     },
     {
+      "source": "TBI",
+      "target": "aging",
+      "weight": 34.0,
+      "n_papers": 34.0
+    },
+    {
+      "source": "NfL",
+      "target": "p-tau",
+      "weight": 33.0,
+      "n_papers": 33.0
+    },
+    {
+      "source": "NfL",
+      "target": "aging",
+      "weight": 33.0,
+      "n_papers": 33.0
+    },
+    {
+      "source": "A\u03b242",
+      "target": "Alzheimer",
+      "weight": 33.0,
+      "n_papers": 33.0
+    },
+    {
       "source": "NQO2",
       "target": "resveratrol",
       "weight": 32.0,
       "n_papers": 32.0
+    },
+    {
+      "source": "NfL",
+      "target": "neuroinflammation",
+      "weight": 32.0,
+      "n_papers": 32.0
+    },
+    {
+      "source": "BBB",
+      "target": "Alzheimer",
+      "weight": 31.0,
+      "n_papers": 31.0
+    },
+    {
+      "source": "GFAP",
+      "target": "IL-6",
+      "weight": 30.0,
+      "n_papers": 30.0
     },
     {
       "source": "p-tau",
@@ -853,8 +1005,14 @@
       "n_papers": 29.0
     },
     {
-      "source": "NfL",
+      "source": "GFAP",
       "target": "Simoa",
+      "weight": 29.0,
+      "n_papers": 29.0
+    },
+    {
+      "source": "GFAP",
+      "target": "p-tau",
       "weight": 29.0,
       "n_papers": 29.0
     },
@@ -865,14 +1023,20 @@
       "n_papers": 29.0
     },
     {
-      "source": "GFAP",
-      "target": "IL-6",
+      "source": "ROS",
+      "target": "glutathione",
+      "weight": 28.0,
+      "n_papers": 28.0
+    },
+    {
+      "source": "IL-6",
+      "target": "TNF-\u03b1",
       "weight": 27.0,
       "n_papers": 27.0
     },
     {
-      "source": "GFAP",
-      "target": "neuroinflammation",
+      "source": "oxidative stress",
+      "target": "glutathione",
       "weight": 27.0,
       "n_papers": 27.0
     },
@@ -889,40 +1053,16 @@
       "n_papers": 26.0
     },
     {
-      "source": "GFAP",
+      "source": "tau",
       "target": "Simoa",
       "weight": 25.0,
       "n_papers": 25.0
     },
     {
-      "source": "p-tau",
-      "target": "Alzheimer",
-      "weight": 25.0,
-      "n_papers": 25.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "Alzheimer",
-      "weight": 25.0,
-      "n_papers": 25.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "oxidative stress",
+      "source": "ROS",
+      "target": "SOD",
       "weight": 24.0,
       "n_papers": 24.0
-    },
-    {
-      "source": "ROS",
-      "target": "neuroinflammation",
-      "weight": 23.0,
-      "n_papers": 23.0
-    },
-    {
-      "source": "IL-6",
-      "target": "TNF-\u03b1",
-      "weight": 23.0,
-      "n_papers": 23.0
     },
     {
       "source": "IL-1\u03b2",
@@ -931,10 +1071,16 @@
       "n_papers": 23.0
     },
     {
-      "source": "neuroinflammation",
-      "target": "BBB",
-      "weight": 23.0,
-      "n_papers": 23.0
+      "source": "NfL",
+      "target": "A\u03b242",
+      "weight": 22.0,
+      "n_papers": 22.0
+    },
+    {
+      "source": "IL-6",
+      "target": "neuroinflammation",
+      "weight": 22.0,
+      "n_papers": 22.0
     },
     {
       "source": "mTBI",
@@ -943,26 +1089,8 @@
       "n_papers": 22.0
     },
     {
-      "source": "ROS",
-      "target": "glutathione",
-      "weight": 21.0,
-      "n_papers": 21.0
-    },
-    {
-      "source": "GFAP",
-      "target": "p-tau",
-      "weight": 21.0,
-      "n_papers": 21.0
-    },
-    {
       "source": "tau",
       "target": "IL-6",
-      "weight": 21.0,
-      "n_papers": 21.0
-    },
-    {
-      "source": "tau",
-      "target": "A\u03b242",
       "weight": 21.0,
       "n_papers": 21.0
     },
@@ -973,14 +1101,14 @@
       "n_papers": 21.0
     },
     {
-      "source": "oxidative stress",
-      "target": "glutathione",
-      "weight": 21.0,
-      "n_papers": 21.0
+      "source": "GFAP",
+      "target": "MBP",
+      "weight": 20.0,
+      "n_papers": 20.0
     },
     {
-      "source": "tau",
-      "target": "Simoa",
+      "source": "TNF-\u03b1",
+      "target": "neuroinflammation",
       "weight": 20.0,
       "n_papers": 20.0
     },
@@ -998,13 +1126,19 @@
     },
     {
       "source": "GFAP",
-      "target": "MBP",
+      "target": "A\u03b242",
       "weight": 19.0,
       "n_papers": 19.0
     },
     {
       "source": "NfL",
-      "target": "neuroinflammation",
+      "target": "IL-6",
+      "weight": 19.0,
+      "n_papers": 19.0
+    },
+    {
+      "source": "p-tau",
+      "target": "aging",
       "weight": 19.0,
       "n_papers": 19.0
     },
@@ -1015,20 +1149,44 @@
       "n_papers": 19.0
     },
     {
+      "source": "IL-6",
+      "target": "Alzheimer",
+      "weight": 19.0,
+      "n_papers": 19.0
+    },
+    {
+      "source": "oxidative stress",
+      "target": "SOD",
+      "weight": 19.0,
+      "n_papers": 19.0
+    },
+    {
       "source": "S100B",
       "target": "MBP",
       "weight": 18.0,
       "n_papers": 18.0
     },
     {
-      "source": "IL-6",
-      "target": "neuroinflammation",
+      "source": "p-tau",
+      "target": "A\u03b242",
+      "weight": 18.0,
+      "n_papers": 18.0
+    },
+    {
+      "source": "A\u03b242",
+      "target": "aging",
       "weight": 18.0,
       "n_papers": 18.0
     },
     {
       "source": "miR-21",
       "target": "TBI",
+      "weight": 18.0,
+      "n_papers": 18.0
+    },
+    {
+      "source": "BBB",
+      "target": "aging",
       "weight": 18.0,
       "n_papers": 18.0
     },
@@ -1045,14 +1203,14 @@
       "n_papers": 17.0
     },
     {
-      "source": "ROS",
-      "target": "Alzheimer",
+      "source": "GFAP",
+      "target": "BBB",
       "weight": 17.0,
       "n_papers": 17.0
     },
     {
-      "source": "NfL",
-      "target": "IL-6",
+      "source": "tau",
+      "target": "BBB",
       "weight": 17.0,
       "n_papers": 17.0
     },
@@ -1063,14 +1221,32 @@
       "n_papers": 17.0
     },
     {
+      "source": "IL-1\u03b2",
+      "target": "neuroinflammation",
+      "weight": 17.0,
+      "n_papers": 17.0
+    },
+    {
+      "source": "oxidative stress",
+      "target": "BBB",
+      "weight": 17.0,
+      "n_papers": 17.0
+    },
+    {
       "source": "oxidative stress",
       "target": "mTBI",
       "weight": 17.0,
       "n_papers": 17.0
     },
     {
-      "source": "BBB",
-      "target": "Alzheimer",
+      "source": "mTBI",
+      "target": "aging",
+      "weight": 17.0,
+      "n_papers": 17.0
+    },
+    {
+      "source": "TBI",
+      "target": "glutathione",
       "weight": 17.0,
       "n_papers": 17.0
     },
@@ -1087,44 +1263,32 @@
       "n_papers": 16.0
     },
     {
-      "source": "NfL",
-      "target": "p-tau",
-      "weight": 16.0,
-      "n_papers": 16.0
-    },
-    {
       "source": "tau",
       "target": "MBP",
       "weight": 16.0,
       "n_papers": 16.0
     },
     {
-      "source": "TNF-\u03b1",
-      "target": "neuroinflammation",
+      "source": "IL-6",
+      "target": "IL-1\u03b2",
       "weight": 16.0,
       "n_papers": 16.0
     },
     {
-      "source": "TBI",
-      "target": "glutathione",
+      "source": "TNF-\u03b1",
+      "target": "IL-1\u03b2",
       "weight": 16.0,
       "n_papers": 16.0
+    },
+    {
+      "source": "ROS",
+      "target": "BBB",
+      "weight": 15.0,
+      "n_papers": 15.0
     },
     {
       "source": "tau",
       "target": "PPCS",
-      "weight": 15.0,
-      "n_papers": 15.0
-    },
-    {
-      "source": "tau",
-      "target": "neuroinflammation",
-      "weight": 15.0,
-      "n_papers": 15.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "Alzheimer",
       "weight": 15.0,
       "n_papers": 15.0
     },
@@ -1148,12 +1312,6 @@
     },
     {
       "source": "GFAP",
-      "target": "BBB",
-      "weight": 14.0,
-      "n_papers": 14.0
-    },
-    {
-      "source": "GFAP",
       "target": "TNF-\u03b1",
       "weight": 14.0,
       "n_papers": 14.0
@@ -1165,14 +1323,20 @@
       "n_papers": 14.0
     },
     {
-      "source": "IL-6",
-      "target": "IL-1\u03b2",
-      "weight": 14.0,
-      "n_papers": 14.0
-    },
-    {
       "source": "NQO1",
       "target": "glutathione",
+      "weight": 13.0,
+      "n_papers": 13.0
+    },
+    {
+      "source": "ROS",
+      "target": "dopamine",
+      "weight": 13.0,
+      "n_papers": 13.0
+    },
+    {
+      "source": "ROS",
+      "target": "tau",
       "weight": 13.0,
       "n_papers": 13.0
     },
@@ -1183,8 +1347,14 @@
       "n_papers": 13.0
     },
     {
-      "source": "tau",
-      "target": "BBB",
+      "source": "p-tau",
+      "target": "neuroinflammation",
+      "weight": 13.0,
+      "n_papers": 13.0
+    },
+    {
+      "source": "IL-6",
+      "target": "aging",
       "weight": 13.0,
       "n_papers": 13.0
     },
@@ -1195,20 +1365,38 @@
       "n_papers": 13.0
     },
     {
+      "source": "oxidative stress",
+      "target": "Nrf2",
+      "weight": 13.0,
+      "n_papers": 13.0
+    },
+    {
       "source": "NQO2",
       "target": "Alzheimer",
       "weight": 12.0,
       "n_papers": 12.0
     },
     {
-      "source": "GFAP",
-      "target": "BDNF",
+      "source": "ROS",
+      "target": "Nrf2",
+      "weight": 12.0,
+      "n_papers": 12.0
+    },
+    {
+      "source": "ROS",
+      "target": "GFAP",
       "weight": 12.0,
       "n_papers": 12.0
     },
     {
       "source": "GFAP",
-      "target": "A\u03b242",
+      "target": "oxidative stress",
+      "weight": 12.0,
+      "n_papers": 12.0
+    },
+    {
+      "source": "GFAP",
+      "target": "BDNF",
       "weight": 12.0,
       "n_papers": 12.0
     },
@@ -1221,6 +1409,30 @@
     {
       "source": "UCH-L1",
       "target": "p-tau",
+      "weight": 12.0,
+      "n_papers": 12.0
+    },
+    {
+      "source": "UCH-L1",
+      "target": "Simoa",
+      "weight": 12.0,
+      "n_papers": 12.0
+    },
+    {
+      "source": "S100B",
+      "target": "IL-6",
+      "weight": 12.0,
+      "n_papers": 12.0
+    },
+    {
+      "source": "S100B",
+      "target": "Alzheimer",
+      "weight": 12.0,
+      "n_papers": 12.0
+    },
+    {
+      "source": "tau",
+      "target": "oxidative stress",
       "weight": 12.0,
       "n_papers": 12.0
     },
@@ -1238,13 +1450,7 @@
     },
     {
       "source": "TNF-\u03b1",
-      "target": "IL-1\u03b2",
-      "weight": 12.0,
-      "n_papers": 12.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "BBB",
+      "target": "Alzheimer",
       "weight": 12.0,
       "n_papers": 12.0
     },
@@ -1256,13 +1462,7 @@
     },
     {
       "source": "ROS",
-      "target": "dopamine",
-      "weight": 11.0,
-      "n_papers": 11.0
-    },
-    {
-      "source": "ROS",
-      "target": "SOD",
+      "target": "catalase",
       "weight": 11.0,
       "n_papers": 11.0
     },
@@ -1280,7 +1480,7 @@
     },
     {
       "source": "UCH-L1",
-      "target": "Simoa",
+      "target": "Alzheimer",
       "weight": 11.0,
       "n_papers": 11.0
     },
@@ -1297,56 +1497,26 @@
       "n_papers": 11.0
     },
     {
-      "source": "IL-6",
-      "target": "Alzheimer",
-      "weight": 11.0,
-      "n_papers": 11.0
-    },
-    {
-      "source": "IL-1\u03b2",
-      "target": "neuroinflammation",
-      "weight": 11.0,
-      "n_papers": 11.0
-    },
-    {
       "source": "A\u03b242",
       "target": "mTBI",
       "weight": 11.0,
       "n_papers": 11.0
     },
     {
-      "source": "oxidative stress",
-      "target": "Nrf2",
+      "source": "Alzheimer",
+      "target": "MBP",
       "weight": 11.0,
       "n_papers": 11.0
     },
     {
-      "source": "ROS",
-      "target": "Nrf2",
-      "weight": 10.0,
-      "n_papers": 10.0
+      "source": "SOD",
+      "target": "aging",
+      "weight": 11.0,
+      "n_papers": 11.0
     },
     {
-      "source": "ROS",
-      "target": "BBB",
-      "weight": 10.0,
-      "n_papers": 10.0
-    },
-    {
-      "source": "ROS",
-      "target": "GFAP",
-      "weight": 10.0,
-      "n_papers": 10.0
-    },
-    {
-      "source": "GFAP",
-      "target": "oxidative stress",
-      "weight": 10.0,
-      "n_papers": 10.0
-    },
-    {
-      "source": "UCH-L1",
-      "target": "Alzheimer",
+      "source": "S100B",
+      "target": "BDNF",
       "weight": 10.0,
       "n_papers": 10.0
     },
@@ -1357,10 +1527,28 @@
       "n_papers": 10.0
     },
     {
-      "source": "A\u03b242",
-      "target": "Alzheimer",
+      "source": "oxidative stress",
+      "target": "dopamine",
       "weight": 10.0,
       "n_papers": 10.0
+    },
+    {
+      "source": "Alzheimer",
+      "target": "Simoa",
+      "weight": 10.0,
+      "n_papers": 10.0
+    },
+    {
+      "source": "NQO2",
+      "target": "aging",
+      "weight": 9.0,
+      "n_papers": 9.0
+    },
+    {
+      "source": "GFAP",
+      "target": "Quanterix",
+      "weight": 9.0,
+      "n_papers": 9.0
     },
     {
       "source": "UCH-L1",
@@ -1370,31 +1558,55 @@
     },
     {
       "source": "S100B",
-      "target": "BDNF",
+      "target": "neuroinflammation",
       "weight": 9.0,
       "n_papers": 9.0
     },
     {
-      "source": "S100B",
-      "target": "IL-6",
+      "source": "NfL",
+      "target": "Quanterix",
+      "weight": 9.0,
+      "n_papers": 9.0
+    },
+    {
+      "source": "NfL",
+      "target": "BBB",
       "weight": 9.0,
       "n_papers": 9.0
     },
     {
       "source": "oxidative stress",
-      "target": "dopamine",
+      "target": "HO-1",
       "weight": 9.0,
       "n_papers": 9.0
     },
     {
-      "source": "oxidative stress",
-      "target": "SOD",
+      "source": "Alzheimer",
+      "target": "NSE",
+      "weight": 9.0,
+      "n_papers": 9.0
+    },
+    {
+      "source": "Simoa",
+      "target": "Quanterix",
       "weight": 9.0,
       "n_papers": 9.0
     },
     {
       "source": "NRH",
       "target": "glutathione",
+      "weight": 9.0,
+      "n_papers": 9.0
+    },
+    {
+      "source": "SOD",
+      "target": "catalase",
+      "weight": 9.0,
+      "n_papers": 9.0
+    },
+    {
+      "source": "MBP",
+      "target": "aging",
       "weight": 9.0,
       "n_papers": 9.0
     },
@@ -1412,25 +1624,25 @@
     },
     {
       "source": "ROS",
-      "target": "tau",
+      "target": "IL-1\u03b2",
+      "weight": 8.0,
+      "n_papers": 8.0
+    },
+    {
+      "source": "ROS",
+      "target": "HO-1",
       "weight": 8.0,
       "n_papers": 8.0
     },
     {
       "source": "GFAP",
-      "target": "Quanterix",
+      "target": "Iba1",
       "weight": 8.0,
       "n_papers": 8.0
     },
     {
       "source": "S100B",
-      "target": "Alzheimer",
-      "weight": 8.0,
-      "n_papers": 8.0
-    },
-    {
-      "source": "NfL",
-      "target": "Quanterix",
+      "target": "aging",
       "weight": 8.0,
       "n_papers": 8.0
     },
@@ -1441,26 +1653,62 @@
       "n_papers": 8.0
     },
     {
+      "source": "Iba1",
+      "target": "neuroinflammation",
+      "weight": 8.0,
+      "n_papers": 8.0
+    },
+    {
+      "source": "TNF-\u03b1",
+      "target": "aging",
+      "weight": 8.0,
+      "n_papers": 8.0
+    },
+    {
+      "source": "IL-1\u03b2",
+      "target": "Alzheimer",
+      "weight": 8.0,
+      "n_papers": 8.0
+    },
+    {
       "source": "IL-1\u03b2",
       "target": "mTBI",
       "weight": 8.0,
       "n_papers": 8.0
     },
     {
-      "source": "Alzheimer",
-      "target": "NSE",
+      "source": "oxidative stress",
+      "target": "catalase",
+      "weight": 8.0,
+      "n_papers": 8.0
+    },
+    {
+      "source": "PPCS",
+      "target": "Alzheimer",
       "weight": 8.0,
       "n_papers": 8.0
     },
     {
       "source": "Simoa",
-      "target": "Quanterix",
+      "target": "aging",
       "weight": 8.0,
       "n_papers": 8.0
     },
     {
       "source": "NRH",
       "target": "resveratrol",
+      "weight": 8.0,
+      "n_papers": 8.0
+    },
+    {
+      "source": "glutathione",
+      "target": "catalase",
+      "weight": 8.0,
+      "n_papers": 8.0
+    },
+    {
+      "source": "glutathione",
+      "target": "aging",
       "weight": 8.0,
       "n_papers": 8.0
     },
@@ -1519,20 +1767,8 @@
       "n_papers": 7.0
     },
     {
-      "source": "S100B",
-      "target": "neuroinflammation",
-      "weight": 7.0,
-      "n_papers": 7.0
-    },
-    {
       "source": "NfL",
       "target": "BDNF",
-      "weight": 7.0,
-      "n_papers": 7.0
-    },
-    {
-      "source": "NfL",
-      "target": "A\u03b242",
       "weight": 7.0,
       "n_papers": 7.0
     },
@@ -1556,13 +1792,19 @@
     },
     {
       "source": "tau",
-      "target": "oxidative stress",
+      "target": "BDNF",
       "weight": 7.0,
       "n_papers": 7.0
     },
     {
       "source": "p-tau",
-      "target": "A\u03b242",
+      "target": "BBB",
+      "weight": 7.0,
+      "n_papers": 7.0
+    },
+    {
+      "source": "BDNF",
+      "target": "aging",
       "weight": 7.0,
       "n_papers": 7.0
     },
@@ -1573,8 +1815,14 @@
       "n_papers": 7.0
     },
     {
-      "source": "TNF-\u03b1",
-      "target": "Alzheimer",
+      "source": "IL-1\u03b2",
+      "target": "oxidative stress",
+      "weight": 7.0,
+      "n_papers": 7.0
+    },
+    {
+      "source": "IL-1\u03b2",
+      "target": "aging",
       "weight": 7.0,
       "n_papers": 7.0
     },
@@ -1609,14 +1857,26 @@
       "n_papers": 7.0
     },
     {
-      "source": "PPCS",
-      "target": "Alzheimer",
+      "source": "Alzheimer",
+      "target": "glutathione",
       "weight": 7.0,
       "n_papers": 7.0
     },
     {
       "source": "NRH",
       "target": "dopamine",
+      "weight": 7.0,
+      "n_papers": 7.0
+    },
+    {
+      "source": "Nrf2",
+      "target": "HO-1",
+      "weight": 7.0,
+      "n_papers": 7.0
+    },
+    {
+      "source": "SOD",
+      "target": "glutathione",
       "weight": 7.0,
       "n_papers": 7.0
     },
@@ -1646,7 +1906,13 @@
     },
     {
       "source": "ROS",
-      "target": "catalase",
+      "target": "IL-6",
+      "weight": 6.0,
+      "n_papers": 6.0
+    },
+    {
+      "source": "ROS",
+      "target": "TNF-\u03b1",
       "weight": 6.0,
       "n_papers": 6.0
     },
@@ -1659,12 +1925,6 @@
     {
       "source": "ROS",
       "target": "UCH-L1",
-      "weight": 6.0,
-      "n_papers": 6.0
-    },
-    {
-      "source": "GFAP",
-      "target": "Iba1",
       "weight": 6.0,
       "n_papers": 6.0
     },
@@ -1700,7 +1960,7 @@
     },
     {
       "source": "NfL",
-      "target": "BBB",
+      "target": "MBP",
       "weight": 6.0,
       "n_papers": 6.0
     },
@@ -1712,25 +1972,43 @@
     },
     {
       "source": "tau",
-      "target": "BDNF",
-      "weight": 6.0,
-      "n_papers": 6.0
-    },
-    {
-      "source": "tau",
       "target": "Quanterix",
       "weight": 6.0,
       "n_papers": 6.0
     },
     {
-      "source": "p-tau",
-      "target": "BBB",
+      "source": "BDNF",
+      "target": "neuroinflammation",
+      "weight": 6.0,
+      "n_papers": 6.0
+    },
+    {
+      "source": "BDNF",
+      "target": "Alzheimer",
+      "weight": 6.0,
+      "n_papers": 6.0
+    },
+    {
+      "source": "IL-6",
+      "target": "oxidative stress",
+      "weight": 6.0,
+      "n_papers": 6.0
+    },
+    {
+      "source": "A\u03b242",
+      "target": "Simoa",
+      "weight": 6.0,
+      "n_papers": 6.0
+    },
+    {
+      "source": "A\u03b242",
+      "target": "neuroinflammation",
       "weight": 6.0,
       "n_papers": 6.0
     },
     {
       "source": "oxidative stress",
-      "target": "HO-1",
+      "target": "4-HNE",
       "weight": 6.0,
       "n_papers": 6.0
     },
@@ -1759,14 +2037,26 @@
       "n_papers": 6.0
     },
     {
-      "source": "Alzheimer",
-      "target": "MBP",
+      "source": "CTE",
+      "target": "aging",
       "weight": 6.0,
       "n_papers": 6.0
     },
     {
-      "source": "Nrf2",
-      "target": "HO-1",
+      "source": "Alzheimer",
+      "target": "dopamine",
+      "weight": 6.0,
+      "n_papers": 6.0
+    },
+    {
+      "source": "Alzheimer",
+      "target": "SOD",
+      "weight": 6.0,
+      "n_papers": 6.0
+    },
+    {
+      "source": "dopamine",
+      "target": "aging",
       "weight": 6.0,
       "n_papers": 6.0
     },
@@ -1778,7 +2068,7 @@
     },
     {
       "source": "ROS",
-      "target": "HO-1",
+      "target": "NSE",
       "weight": 5.0,
       "n_papers": 5.0
     },
@@ -1791,6 +2081,12 @@
     {
       "source": "UCH-L1",
       "target": "Quanterix",
+      "weight": 5.0,
+      "n_papers": 5.0
+    },
+    {
+      "source": "UCH-L1",
+      "target": "aging",
       "weight": 5.0,
       "n_papers": 5.0
     },
@@ -1814,13 +2110,25 @@
     },
     {
       "source": "p-tau",
-      "target": "neuroinflammation",
+      "target": "Simoa",
       "weight": 5.0,
       "n_papers": 5.0
     },
     {
-      "source": "Iba1",
-      "target": "neuroinflammation",
+      "source": "BDNF",
+      "target": "IL-6",
+      "weight": 5.0,
+      "n_papers": 5.0
+    },
+    {
+      "source": "BDNF",
+      "target": "oxidative stress",
+      "weight": 5.0,
+      "n_papers": 5.0
+    },
+    {
+      "source": "TNF-\u03b1",
+      "target": "oxidative stress",
       "weight": 5.0,
       "n_papers": 5.0
     },
@@ -1849,6 +2157,12 @@
       "n_papers": 5.0
     },
     {
+      "source": "neuroinflammation",
+      "target": "SOD",
+      "weight": 5.0,
+      "n_papers": 5.0
+    },
+    {
       "source": "oxidative stress",
       "target": "NSE",
       "weight": 5.0,
@@ -1867,18 +2181,6 @@
       "n_papers": 5.0
     },
     {
-      "source": "SOD",
-      "target": "catalase",
-      "weight": 5.0,
-      "n_papers": 5.0
-    },
-    {
-      "source": "glutathione",
-      "target": "catalase",
-      "weight": 5.0,
-      "n_papers": 5.0
-    },
-    {
       "source": "NQO2",
       "target": "HO-1",
       "weight": 4.0,
@@ -1892,13 +2194,25 @@
     },
     {
       "source": "ROS",
-      "target": "IL-1\u03b2",
+      "target": "resveratrol",
       "weight": 4.0,
       "n_papers": 4.0
     },
     {
       "source": "ROS",
-      "target": "NSE",
+      "target": "4-HNE",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
+      "source": "ROS",
+      "target": "A\u03b242",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
+      "source": "ROS",
+      "target": "BDNF",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -1922,13 +2236,19 @@
     },
     {
       "source": "S100B",
+      "target": "p-tau",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
+      "source": "S100B",
       "target": "A\u03b242",
       "weight": 4.0,
       "n_papers": 4.0
     },
     {
       "source": "NfL",
-      "target": "MBP",
+      "target": "VILIP-1",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -1951,14 +2271,14 @@
       "n_papers": 4.0
     },
     {
-      "source": "BDNF",
-      "target": "IL-6",
+      "source": "p-tau",
+      "target": "MBP",
       "weight": 4.0,
       "n_papers": 4.0
     },
     {
-      "source": "BDNF",
-      "target": "neuroinflammation",
+      "source": "Iba1",
+      "target": "aging",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -1981,14 +2301,32 @@
       "n_papers": 4.0
     },
     {
+      "source": "A\u03b242",
+      "target": "oxidative stress",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
       "source": "miR-21",
       "target": "neuroinflammation",
       "weight": 4.0,
       "n_papers": 4.0
     },
     {
+      "source": "neuroinflammation",
+      "target": "HO-1",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "MBP",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
       "source": "oxidative stress",
-      "target": "catalase",
+      "target": "MBP",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -2001,6 +2339,12 @@
     {
       "source": "BBB",
       "target": "CTE",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
+      "source": "TBI",
+      "target": "HO-1",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -2025,6 +2369,12 @@
     {
       "source": "NRH",
       "target": "S29434",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
+      "source": "catalase",
+      "target": "aging",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -2072,25 +2422,25 @@
     },
     {
       "source": "ROS",
-      "target": "resveratrol",
+      "target": "MBP",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
       "source": "ROS",
-      "target": "IL-6",
-      "weight": 3.0,
-      "n_papers": 3.0
-    },
-    {
-      "source": "ROS",
-      "target": "TNF-\u03b1",
+      "target": "Iba1",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
       "source": "ROS",
       "target": "Kv2.1",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "Kv2.1",
+      "target": "aging",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2103,12 +2453,6 @@
     {
       "source": "S100B",
       "target": "Simoa",
-      "weight": 3.0,
-      "n_papers": 3.0
-    },
-    {
-      "source": "S100B",
-      "target": "p-tau",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2132,12 +2476,6 @@
     },
     {
       "source": "NfL",
-      "target": "VILIP-1",
-      "weight": 3.0,
-      "n_papers": 3.0
-    },
-    {
-      "source": "NfL",
       "target": "glutathione",
       "weight": 3.0,
       "n_papers": 3.0
@@ -2150,13 +2488,19 @@
     },
     {
       "source": "tau",
-      "target": "Olink",
+      "target": "glutathione",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
-      "source": "p-tau",
-      "target": "MBP",
+      "source": "tau",
+      "target": "IL-1\u03b2",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "tau",
+      "target": "Olink",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2174,19 +2518,19 @@
     },
     {
       "source": "BDNF",
+      "target": "BBB",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "BDNF",
       "target": "MBP",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
       "source": "BDNF",
-      "target": "oxidative stress",
-      "weight": 3.0,
-      "n_papers": 3.0
-    },
-    {
-      "source": "BDNF",
-      "target": "Alzheimer",
+      "target": "SOD",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2198,13 +2542,19 @@
     },
     {
       "source": "Iba1",
+      "target": "Alzheimer",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "Iba1",
       "target": "mTBI",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
       "source": "IL-6",
-      "target": "oxidative stress",
+      "target": "glutathione",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2216,13 +2566,13 @@
     },
     {
       "source": "IL-1\u03b2",
-      "target": "oxidative stress",
+      "target": "SOD",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
       "source": "A\u03b242",
-      "target": "Simoa",
+      "target": "BBB",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2234,25 +2584,19 @@
     },
     {
       "source": "neuroinflammation",
-      "target": "MBP",
+      "target": "dopamine",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "cAMP",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
       "source": "neuroinflammation",
       "target": "Nrf2",
-      "weight": 3.0,
-      "n_papers": 3.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "HO-1",
-      "weight": 3.0,
-      "n_papers": 3.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "SOD",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2264,13 +2608,19 @@
     },
     {
       "source": "oxidative stress",
-      "target": "MBP",
+      "target": "resveratrol",
       "weight": 3.0,
       "n_papers": 3.0
     },
     {
       "source": "oxidative stress",
       "target": "S29434",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "BBB",
+      "target": "dopamine",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2299,12 +2649,6 @@
       "n_papers": 3.0
     },
     {
-      "source": "TBI",
-      "target": "HO-1",
-      "weight": 3.0,
-      "n_papers": 3.0
-    },
-    {
       "source": "CTE",
       "target": "NSE",
       "weight": 3.0,
@@ -2312,7 +2656,13 @@
     },
     {
       "source": "Alzheimer",
-      "target": "glutathione",
+      "target": "HO-1",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "Alzheimer",
+      "target": "cAMP",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2353,8 +2703,20 @@
       "n_papers": 3.0
     },
     {
-      "source": "SOD",
-      "target": "glutathione",
+      "source": "4-HNE",
+      "target": "aging",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "NMDA receptor",
+      "target": "aging",
+      "weight": 3.0,
+      "n_papers": 3.0
+    },
+    {
+      "source": "NSE",
+      "target": "aging",
       "weight": 3.0,
       "n_papers": 3.0
     },
@@ -2443,26 +2805,14 @@
       "n_papers": 2.0
     },
     {
-      "source": "ROS",
-      "target": "MBP",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "ROS",
-      "target": "A\u03b242",
+      "source": "miR-182",
+      "target": "aging",
       "weight": 2.0,
       "n_papers": 2.0
     },
     {
       "source": "ROS",
       "target": "QR2 inhibitor",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "ROS",
-      "target": "BDNF",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2485,12 +2835,6 @@
       "n_papers": 2.0
     },
     {
-      "source": "ROS",
-      "target": "Iba1",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
       "source": "Kv2.1",
       "target": "oxidative stress",
       "weight": 2.0,
@@ -2499,6 +2843,12 @@
     {
       "source": "Kv2.1",
       "target": "dopamine",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "GFAP",
+      "target": "glutathione",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2570,37 +2920,31 @@
     },
     {
       "source": "tau",
-      "target": "glutathione",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "tau",
-      "target": "IL-1\u03b2",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "p-tau",
-      "target": "Simoa",
+      "target": "Iba1",
       "weight": 2.0,
       "n_papers": 2.0
     },
     {
       "source": "BDNF",
+      "target": "cAMP",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "BDNF",
+      "target": "IL-1\u03b2",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "Iba1",
       "target": "BBB",
       "weight": 2.0,
       "n_papers": 2.0
     },
     {
       "source": "Iba1",
-      "target": "Alzheimer",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "Iba1",
-      "target": "BBB",
+      "target": "oxidative stress",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2629,20 +2973,8 @@
       "n_papers": 2.0
     },
     {
-      "source": "IL-6",
-      "target": "glutathione",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
       "source": "TNF-\u03b1",
       "target": "NRH",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "TNF-\u03b1",
-      "target": "oxidative stress",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2660,7 +2992,13 @@
     },
     {
       "source": "IL-1\u03b2",
-      "target": "Alzheimer",
+      "target": "dopamine",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "IL-1\u03b2",
+      "target": "HO-1",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2673,12 +3011,6 @@
     {
       "source": "IL-1\u03b2",
       "target": "PPCS",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "A\u03b242",
-      "target": "oxidative stress",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2726,19 +3058,7 @@
     },
     {
       "source": "neuroinflammation",
-      "target": "cAMP",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "resveratrol",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "4-HNE",
+      "target": "Simoa",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2756,7 +3076,7 @@
     },
     {
       "source": "BBB",
-      "target": "dopamine",
+      "target": "MBP",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2816,19 +3136,7 @@
     },
     {
       "source": "Alzheimer",
-      "target": "cAMP",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "Alzheimer",
-      "target": "dopamine",
-      "weight": 2.0,
-      "n_papers": 2.0
-    },
-    {
-      "source": "Alzheimer",
-      "target": "Simoa",
+      "target": "catalase",
       "weight": 2.0,
       "n_papers": 2.0
     },
@@ -2881,8 +3189,44 @@
       "n_papers": 2.0
     },
     {
+      "source": "resveratrol",
+      "target": "aging",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
       "source": "Nrf2",
       "target": "4-HNE",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "Nrf2",
+      "target": "SOD",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "Nrf2",
+      "target": "aging",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "HO-1",
+      "target": "aging",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "SOD",
+      "target": "4-HNE",
+      "weight": 2.0,
+      "n_papers": 2.0
+    },
+    {
+      "source": "SOD",
+      "target": "NSE",
       "weight": 2.0,
       "n_papers": 2.0
     }

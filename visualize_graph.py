@@ -50,7 +50,11 @@ CLUSTER_LABELS = {
     "tbi_panel_poc":  "Multi-marker panels + POC",
     "nfl_tau":        "NfL + tau",
     "proteostasis":   "Proteostasis (p62/UPS)",
+    "aging_neuro":    "Brain aging / neurodegeneration",
 }
+
+# Disease entities used for disease-focus selector
+DISEASE_ENTITY_NAMES = {"TBI", "mTBI", "PPCS", "CTE", "Alzheimer", "aging"}
 
 
 def get_db():
@@ -93,6 +97,18 @@ def build(min_papers: int, min_edge: int):
 
     active_nodes = {e["source_id"] for e in edge_rows} | {e["target_id"] for e in edge_rows}
 
+    # ── Disease connections: map each entity → diseases it co-occurs with ─────
+    entity_disease_conn: dict[int, set[str]] = {}
+    for edge in edge_rows:
+        src, tgt = edge["source_id"], edge["target_id"]
+        src_name, tgt_name = edge["src_name"], edge["tgt_name"]
+        if src_name in DISEASE_ENTITY_NAMES:
+            entity_disease_conn.setdefault(src, set()).add(src_name)
+            entity_disease_conn.setdefault(tgt, set()).add(src_name)
+        if tgt_name in DISEASE_ENTITY_NAMES:
+            entity_disease_conn.setdefault(tgt, set()).add(tgt_name)
+            entity_disease_conn.setdefault(src, set()).add(tgt_name)
+
     # ── Build node metadata dict for JS injection ─────────────────────────────
     node_meta = {}
     for ent in entity_rows:
@@ -108,6 +124,7 @@ def build(min_papers: int, min_edge: int):
             "is_nqo2":     name in NQO2_PATHWAY,
             "paper_count": count,
             "clusters":    entity_clusters.get(eid, []),
+            "diseases":    sorted(entity_disease_conn.get(eid, set())),
         }
 
     # ── Build PyVis network ───────────────────────────────────────────────────
@@ -292,6 +309,20 @@ def _controls_html(node_meta: dict, min_papers_default: int, min_edge_default: i
     </button>
   </div>
 
+  <!-- Disease focus -->
+  <div class="section">
+    <div class="section-title">Disease focus</div>
+    <select id="disease-sel" onchange="applyFilters()">
+      <option value="all">All diseases</option>
+      <option value="TBI">TBI / brain injury</option>
+      <option value="mTBI">mTBI / concussion</option>
+      <option value="PPCS">PPCS (post-concussion)</option>
+      <option value="CTE">CTE</option>
+      <option value="Alzheimer">Alzheimer / neurodegeneration</option>
+      <option value="aging">Aging / brain senescence</option>
+    </select>
+  </div>
+
   <!-- Cluster -->
   <div class="section">
     <div class="section-title">Paper cluster</div>
@@ -392,6 +423,7 @@ function applyFilters() {{
   // Read controls
   const searchText  = document.getElementById('search-input').value.trim().toLowerCase();
   const clusterSel  = document.getElementById('cluster-sel').value;
+  const diseaseSel  = document.getElementById('disease-sel').value;
   const minPapers   = parseInt(document.getElementById('min-papers').value);
   const minEdgeW    = parseInt(document.getElementById('min-edge').value);
 
@@ -412,6 +444,7 @@ function applyFilters() {{
     if (nqo2Active && !meta.is_nqo2)                             visible = false;
     if (meta.paper_count < minPapers)                            visible = false;
     if (clusterSel !== 'all' && !meta.clusters.includes(clusterSel)) visible = false;
+    if (diseaseSel !== 'all' && !(meta.diseases || []).includes(diseaseSel)) visible = false;
     if (searchText && !meta.name.toLowerCase().includes(searchText)) visible = false;
 
     if (visible) visibleIds.add(id);
@@ -441,6 +474,7 @@ function resetFilters() {{
   document.querySelectorAll('.type-cb').forEach(cb => cb.checked = true);
   document.getElementById('search-input').value  = '';
   document.getElementById('cluster-sel').value   = 'all';
+  document.getElementById('disease-sel').value   = 'all';
   document.getElementById('min-papers').value    = '{min_papers_default}';
   document.getElementById('min-edge').value      = '{min_edge_default}';
   document.getElementById('min-papers-val').textContent = '{min_papers_default}';

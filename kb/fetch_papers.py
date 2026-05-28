@@ -62,6 +62,12 @@ CLUSTERS = {
         '"point of care" OR POC OR "rapid test" OR "lateral flow" OR "whole blood test"'
         ')'
     ),
+    "aging_neuro": (
+        '("brain aging" OR "aging brain" OR "cognitive aging" OR "age-related cognitive decline" '
+        'OR "neurobiological aging" OR "brain senescence" OR "aging brain biomarker") '
+        'AND (biomarker OR "oxidative stress" OR neurodegeneration OR "synaptic plasticity" '
+        'OR neuroinflammation OR mitochondria OR senescence)'
+    ),
 }
 
 # Per-cluster fetch caps (None = fetch all available)
@@ -70,6 +76,7 @@ CLUSTER_CAPS = {
     "tbi_proteomics": 500,
     "tbi_mild_blood": 500,
     "tbi_panel_poc":  None,   # ~300 total — fetch all
+    "aging_neuro":    500,
 }
 MAX_PER_CLUSTER = 300
 

@@ -1,6 +1,3495 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-05-27*
-*Total papers: 2527*
+*Generated: 2026-05-28*
+*Total papers: 3025*
+
+
+## Cluster: aging_neuro
+
+### Biological age acceleration associates with Alzheimer's disease plasma biomarker levels.
+**Authors:** Eissman JM, Ma Y, Qiao M, Reyes-Dumeyer D, Piriz A et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2026)  
+**PMID:** 41572665  **DOI:** 10.1002/alz.71005
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: Epigenetic clocks associate with neuropathology and Alzheimer's disease (AD) clinical risk, but findings are mixed regarding whether clocks associate with blood-based biomarkers and in n...
+
+### Interplay of oxidative stress and neuroinflammation in alzheimer's: insights into age-driven pathogenesis.
+**Authors:** Firdous SM, Chakrabortty S, Undale VR, Mallik S, Gouda M  
+**Journal:** Inflammopharmacology (2026)  
+**PMID:** 41854823  **DOI:** 10.1007/s10787-026-02169-7
+**Entities:** ROS, tau, neuroinflammation, oxidative stress, Alzheimer  
+**Abstract:** Ageing has been recognized as the leading risk factor for Alzheimer's disease (AD), with an intricate interplay of oxidative stress, neuroinflammation, and cellular senescence implicated in its pathog...
+
+### α-Lipoic acid mitigates age-related cognitive decline by modulating PPARγ/NF-κB-mediated neuroinflammation.
+**Authors:** Zhang Z, Zhang C, Zhao Y, Gao Y, Zhang Y et al.  
+**Journal:** Experimental gerontology (2026)  
+**PMID:** 41077290  **DOI:** 10.1016/j.exger.2025.112927
+**Entities:** neuroinflammation, aging  
+**Abstract:** OBJECTIVE: Age-related cognitive decline is associated with chronic neuroinflammation, and α-lipoic acid (LA) has been proposed as a potential cognitive enhancer. This study aimed to investigate wheth...
+
+### A physically and mentally active lifestyle relates to younger brain and cognitive age.
+**Authors:** Behrenbruch N, Schwarck S, Schumann-Werner B, Molloy EN, Garcia-Garcia B et al.  
+**Journal:** GeroScience (2026)  
+**PMID:** 40619559  **DOI:** 10.1007/s11357-025-01764-w
+**Entities:** Alzheimer, aging  
+**Abstract:** Resistance to age-related pathological changes (brain maintenance), including Alzheimer's disease, cerebrovascular disease, and neurodegeneration may promote cognitive resilience in aging. However, ho...
+
+### Investigating the mechanisms of ageing and neuroinflammation in age-related hearing loss: A proteomic analysis.
+**Authors:** Wang Y, Zhang C, Ma X, Zhao H, Wang Q et al.  
+**Journal:** Hearing research (2026)  
+**PMID:** 41520502  **DOI:** 10.1016/j.heares.2026.109529
+**Entities:** neuroinflammation, MBP, aging  
+**Abstract:** BACKGROUND: Age-related hearing loss (ARHL) is a prevalent neurodegenerative condition commonly linked to aging and chronic inflammation. However, there is currently a lack of substantial proteomic ev...
+
+### Postbiotics and the gut-brain axis: A mechanistic review on modulating neuroinflammation and cognitive aging.
+**Authors:** Lahariya R, Anand G, Kumari B, Priyadarshi K  
+**Journal:** Journal of neuroimmunology (2026)  
+**PMID:** 41570486  **DOI:** 10.1016/j.jneuroim.2026.578870
+**Entities:** BDNF, neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Aging triggers gut microbiota dysbiosis that disrupts the gut-brain axis (GBA), promoting neuroinflammation and neurodegeneration. Elderly exhibit reduced microbial diversity, depleted beneficial bact...
+
+### Molecular Mechanisms of Accelerated Ageing in Geriatric Depression: Interplay of Telomere Attrition, Mitochondrial Dysfunction and Cellular Senescence.
+**Authors:** Revi Shanker P, Dorajoo R  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 41684031  **DOI:** 10.3390/ijms27031613
+**Entities:** ROS, neuroinflammation, oxidative stress, aging  
+**Abstract:** Late-life depression is a prevalent and debilitating disorder. It differs significantly from depression in younger adults and often co-occurs with cognitive decline and increased physical frailty. Thi...
+
+### Disentangling causality in brain aging: The complex interplay between glial senescence, neuroinflammation, and neurodegeneration.
+**Authors:** Suk K  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 41871753  **DOI:** 10.1016/j.expneurol.2026.115737
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** The aging brain is characterized by accumulation of senescent glia, chronic neuroinflammation, and vulnerability to neurodegeneration. While their co-occurrence is established, causal relationships re...
+
+### Neuroimaging-derived brain age as a new promising biomarker in mental disorders.
+**Authors:** Zhao R, Ge R, Zhang X, Liu X, Zhao W et al.  
+**Journal:** Neuroscience and biobehavioral reviews (2026)  
+**PMID:** 41690433  **DOI:** 10.1016/j.neubiorev.2026.106606
+**Entities:** aging  
+**Abstract:** Mental disorders are frequently associated with accelerated brain aging, yet the diagnostic and classificatory utility of brain age remains uncertain. This study aimed to evaluate the diagnostic value...
+
+### Multimodal Cancer Therapy and Accelerated Brain Aging: Mechanisms, Biomarkers, and Clinical Consequences.
+**Authors:** Voynov M, Pospelova M, Nikolaeva A, Krasnikova V, Makhanova A et al.  
+**Journal:** Current oncology (Toronto, Ont.) (2026)  
+**PMID:** 41744885  **DOI:** 10.3390/curroncol33020121
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, aging  
+**Abstract:** Advances in cancer therapy have markedly improved survival rates; however, long-term neurological sequelae represent a significant clinical challenge. Cancer treatment-related cognitive impairment (CR...
+
+### Systemic LINE-1 RNA in Plasma Extracellular Vesicles Drives Neuroinflammation and Cognitive Dysfunction via cGAS-STING Pathway in Aging.
+**Authors:** Yu S, Cheng Q, Yu Q, Cui Z, Chen H et al.  
+**Journal:** Aging cell (2026)  
+**PMID:** 41480826  **DOI:** 10.1111/acel.70350
+**Entities:** NfL, neuroinflammation, BBB, aging  
+**Abstract:** Aging is characterized by systemic inflammation and progressive cognitive decline, yet the molecular pathways linking peripheral aging signals to central nervous system dysfunction remain elusive. Her...
+
+### Immunosenescence and inflammaging in Parkinson's disease: mechanisms and therapeutic prospects.
+**Authors:** Yan R, Feng H, Zhang J  
+**Journal:** Frontiers in immunology (2026)  
+**PMID:** 41766856  **DOI:** 10.3389/fimmu.2026.1749278
+**Entities:** neuroinflammation, BBB, Alzheimer, dopamine, aging  
+**Abstract:** Parkinson's disease (PD) is characterized by the progressive loss of dopaminergic neurons, with growing evidence underscoring the critical role of immunosenescence-the age-related dysregulation of the...
+
+### From necroptosis to neuroinflammation: Unraveling mechanisms and therapeutic targets in age-related cognitive decline.
+**Authors:** Biscetti L, Gambuzza ME, Princiotto M, Sabbatinelli J, Olivieri F et al.  
+**Journal:** Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie (2026)  
+**PMID:** 42054746  **DOI:** 10.1016/j.biopha.2026.119326
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, Alzheimer  
+**Abstract:** Aging is the major risk factor for several chronic conditions, including cognitive decline and dementia. It is accompanied by profound immune alterations characterized by a progressive decline in immu...
+
+### Cellular circadian period and its deviation associate with Alzheimer's pathology and brain aging in cognitively impaired older adults.
+**Authors:** Roh HW, Seo SW, Choi SH, Kim EJ, Cho SH et al.  
+**Journal:** Proceedings of the National Academy of Sciences of the United States of America (2026)  
+**PMID:** 41770932  **DOI:** 10.1073/pnas.2527236123
+**Entities:** GFAP, NfL, tau, neuroinflammation, Alzheimer  
+**Abstract:** Circadian rhythm disruption is recognized as a feature of aging and neurodegenerative disease, yet whether intrinsic cellular circadian properties relate to underlying processes in humans remains unkn...
+
+### Metabolic Biomarkers in Captive Olive Baboons (Papio anubis): Characterization and Relationships With Biomarkers of Neurodegeneration and Neuroinflammation.
+**Authors:** Neal SJ, Magden ER, Chitta S, Bisbal J, Simmons JH  
+**Journal:** American journal of primatology (2026)  
+**PMID:** 42183640  **DOI:** 10.1002/ajp.70168
+**Entities:** tau, neuroinflammation, Alzheimer, aging  
+**Abstract:** Diabetic patients are at an increased risk for neurodegeneration, neuroinflammation, and cognitive impairment, likely due to insulin dysregulation and subsequent hyperglycemia in the brain. This leads...
+
+### The Right Person, the Right Treatment, at the Right Time in Alzheimer's Disease: Insights From the 2025 Brain Aging Symposium.
+**Authors:** de Magalhães CG, Moldakozhayev A, Lopez MV, Bowman GL, Chhatwal JP et al.  
+**Journal:** Aging cell (2026)  
+**PMID:** 41466363  **DOI:** 10.1111/acel.70351
+**Entities:** Alzheimer, MBP, aging  
+**Abstract:** On October 22nd, 2025, Brain Aging Symposium took place at Harvard Medical School bringing together leading researchers from academia and partner organizations to discuss recent advances in measuring ...
+
+### Sesaminol Ameliorates Age-Related Cognitive Decline and Neuroinflammation by Modulating Microglial Polarization and Enhancing Aβ Phagocytosis in Mice.
+**Authors:** Zheng L, Wu X, Zhuge F, Yang S, Zhou J et al.  
+**Journal:** Journal of agricultural and food chemistry (2026)  
+**PMID:** 41566940  **DOI:** 10.1021/acs.jafc.5c11788
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Microglia are pivotal regulators of neuroimmune homeostasis in the central nervous system, and their dysregulation is linked to neurodegeneration and brain aging. Among the principal sesame-seed ligna...
+
+### Unveiling the glymphatic system's role in brain aging: A comprehensive biomarker and modifiable intervention target.
+**Authors:** Fang Y, Luo W, Huang H, Ran L, He Y et al.  
+**Journal:** Proceedings of the National Academy of Sciences of the United States of America (2026)  
+**PMID:** 42044335  **DOI:** 10.1073/pnas.2516601123
+**Entities:** aging  
+**Abstract:** The focus of this study is to investigate the role of diffusion tensor imaging along the perivascular space (DTI-ALPS) index in brain aging. To address this, we first examined the association of DTI-A...
+
+### Spatial amyloid-informed multimodal brain age as an early marker of Alzheimer's-related vulnerability and risk stratification.
+**Authors:** Cui L, Wang QM, Zhang Z, Wang M, Tu YY et al.  
+**Journal:** The journal of prevention of Alzheimer's disease (2026)  
+**PMID:** 41653882  **DOI:** 10.1016/j.tjpad.2026.100501
+**Entities:** GFAP, NfL, Aβ42, Alzheimer, aging  
+**Abstract:** BACKGROUND: Brain age gap (BAG)-the difference between predicted and chronological age-captures neurobiological aging, but MRI-only models insufficiently reflect Alzheimer's disease (AD) pathology. Wh...
+
+### Neuroimaging markers and cognition in cognitively unimpaired older Latinos from the Harvard Aging Brain Study.
+**Authors:** Martinez JE, Lopez KA, Properzi MJ, Kirn D, Vila-Castelar C et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2026)  
+**PMID:** 41549403  **DOI:** 10.1002/alz.71126
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Research examining Alzheimer's disease (AD) neuroimaging markers of brain pathology and cognition in older Latino adults remains limited. We compared neuroimaging and cognitive profiles ...
+
+### Radiomics-based brain aging prediction with multi-modal magnetic resonance imaging: detecting regional biomarkers in adults.
+**Authors:** Sheen H, Shin HB, Kim HJ, Oh JH  
+**Journal:** Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)  
+**PMID:** 41406570  **DOI:** 10.1016/j.ejmp.2025.105695
+**Entities:** aging  
+**Abstract:** INTRODUCTION: We developed a radiomics-based model to classify brain MRI scans into two age groups: younger (<30 years) and older (>65 years) adults using multi-modal magnetic resonance imaging (MRI; ...
+
+### What characterizes the exceptional cognition of superagers? A systematic review of multidomain biomarkers of successful cognitive aging.
+**Authors:** Yang Y, Li X, Gao S, Gao Y  
+**Journal:** The Gerontologist (2026)  
+**PMID:** 41284679  **DOI:** 10.1093/geront/gnaf277
+**Entities:** tau, aging  
+**Abstract:** BACKGROUND AND OBJECTIVES: Substantial heterogeneity in cognitive aging trajectories has been observed among older adults, with some individuals maintaining exceptional cognitive function ("superagers...
+
+### Magnetic resonance spectroscopy as a non-invasive tool for assessing brain and muscle adaptation to exercise training in older age: a scoping review into existing research.
+**Authors:** Levin O, Just I, Klepochova R, Helsper S, Vints W et al.  
+**Journal:** Experimental gerontology (2026)  
+**PMID:** 41748042  **DOI:** 10.1016/j.exger.2026.113082
+**Entities:** aging  
+**Abstract:** BACKGROUND: Exercise training has attracted increasing attention as a non-pharmacological intervention approach to counteract age-related deterioration of brain and muscle function, yet objective biom...
+
+### Independent associations of phosphorylated tau181 and neurofilament light with cognitive outcomes in the Health and Aging Brain Study-Health Disparities (HABS-HD).
+**Authors:** Housini M, Contreras JA, Hayes CA  
+**Journal:** Journal of Alzheimer's disease : JAD (2026)  
+**PMID:** 41603391  **DOI:** 10.1177/13872877251415367
+**Entities:** NfL, Alzheimer, aging  
+**Abstract:** BackgroundThe extent to which plasma biomarkers of Alzheimer's disease and neurodegeneration capture domain-specific cognitive performance across diverse populations remains unclear.ObjectiveTo determ...
+
+### Tomatidine is a senotherapeutic compound that improves cognitive function and reduces cellular senescence in aged mice.
+**Authors:** Costa DG, Gee LM, Lee G, Sales Gomez L, Franco AC et al.  
+**Journal:** EMBO molecular medicine (2026)  
+**PMID:** 41922652  **DOI:** 10.1038/s44321-026-00400-0
+**Entities:** aging  
+**Abstract:** Cellular senescence drives aging and age-related dysfunction across multiple tissues, including the brain. Through a high-content, senescent cell-based phenotypic screen of a small panel of natural pr...
+
+### Immunohistochemical Markers of Mitochondrial Electron Transport Chain Instability in Human Brain Regions: A Study of Aging and Alzheimer's Disease.
+**Authors:** Baranich TI, Sukhorukov VS, Velts OV, Voronkov DN, Shcherbak EV et al.  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 41898675  **DOI:** 10.3390/ijms27062816
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Expanding research indicates that oxidative stress, particularly mitochondrial oxidative stress, is one of the key components in the pathogenesis of Alzheimer's disease (AD). Mitochondrial oxidative s...
+
+### Exploratory analysis of the associations of the brain age gap with cognitive function and amyloid-β accumulation: participants selection based on metabolic and physiological blood markers.
+**Authors:** Minamikawa S, Koyama K, Shibukawa S, Saho T, Yoshimaru D et al.  
+**Journal:** Neurobiology of aging (2026)  
+**PMID:** 41833203  **DOI:** 10.1016/j.neurobiolaging.2026.03.003
+**Entities:** Alzheimer, aging  
+**Abstract:** The brain age gap (BAG) is defined as the difference between brain age estimated from MRI using artificial intelligence and chronological age, and has been proposed as a biomarker reflecting aging and...
+
+### Extracellular vesicle-derived mitochondrial genes as potential biomarkers for brain aging in human.
+**Authors:** Yu Q, Yu S, Chen H, Cui Z, Cheng Q et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2026)  
+**PMID:** 41701160  **DOI:** 10.1093/gerona/glag044
+**Entities:** NfL, Aβ42, Alzheimer, aging  
+**Abstract:** Aging significantly impacts brain function, and identifying reliable biomarkers for early detection of age-related neurodegeneration is crucial for improving diagnosis and treatment outcomes. This pro...
+
+### Incidence of altered proteins in the aging brain: Implications for biological diagnostic markers.
+**Authors:** Alafuzoff I, Libard S  
+**Journal:** Journal of Alzheimer's disease : JAD (2026)  
+**PMID:** 41636369  **DOI:** 10.1177/13872877251414978
+**Entities:** Alzheimer, aging  
+**Abstract:** BackgroundIn aging-related neurodegeneration, therapeutic interventions directed at defined protein targets have been launched. A key step has been developing diagnostic biological markers, followed b...
+
+### Associations Between Cardiovascular Risk Factors and Neurofilament Light Levels Among US Mexican American Adults.
+**Authors:** Diaz MM, Dayan E  
+**Journal:** Brain and behavior (2026)  
+**PMID:** 41821191  **DOI:** 10.1002/brb3.71304
+**Entities:** NfL, Alzheimer, aging  
+**Abstract:** BACKGROUND: This study explores the relationship between neurofilament light (NfL) levels, a biomarker of neuronal injury, and cardiovascular health and vascular injury among US Mexican American (MA) ...
+
+### Contrasting associations of diastolic blood pressure with plasma amyloid, tau, and neurodegeneration biomarkers in the Health and Aging Brain Study-Health Disparities (HABS-HD).
+**Authors:** Hayes CA, Agwu C, Dharmapuri A, Contreras JA  
+**Journal:** Journal of Alzheimer's disease : JAD (2026)  
+**PMID:** 41823011  **DOI:** 10.1177/13872877261427706
+**Entities:** GFAP, NfL, tau, Alzheimer, aging  
+**Abstract:** BackgroundBlood pressure is a major modifiable risk factor for both cardiovascular disease and dementia, yet its relationship with blood-based biomarkers of Alzheimer's disease (AD) and neurodegenerat...
+
+### Plasma neurofilament light is associated with hippocampal volume and memory performance but not functional connectivity in older adults with and without mild cognitive decline.
+**Authors:** Jung Y, Counts SE, Hampstead BM, Peltier SJ, Paulson HL et al.  
+**Journal:** Aging brain (2026)  
+**PMID:** 41815635  **DOI:** 10.1016/j.nbas.2026.100157
+**Entities:** NfL, Alzheimer  
+**Abstract:** Plasma neurofilament light chains (pNfL) have shown promise as a biomarker for tracking and predicting neurodegeneration, such as cortical atrophy and hypometabolism, in Alzheimer's Disease (AD). Howe...
+
+### Peripheral CD200R signaling: A critical regulator of post-stroke inflammation in aged mice.
+**Authors:** Ngwa C, Misrani A, Xu Y, Wang J, Ritzel R et al.  
+**Journal:** Brain research bulletin (2026)  
+**PMID:** 41397547  **DOI:** 10.1016/j.brainresbull.2025.111686
+**Entities:** TNF-α, IL-1β, neuroinflammation  
+**Abstract:** The immune responses to ischemic stroke are subjected to endogenous inhibitory pathways that delimitate the post-stroke inflammation. Among them, the interaction between CD200 and its receptor (CD200R...
+
+### Exercise-induced alleviation of memory impairment in aged mice with neuroinflammation is linked with modulation of mitochondrial homeostasis in the hippocampus.
+**Authors:** Li PD, Han C, Qin YY, Jiang Z, Pan SY et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2026)  
+**PMID:** 41134637  **DOI:** 10.1093/gerona/glaf233
+**Entities:** ROS, neuroinflammation, oxidative stress, aging  
+**Abstract:** BACKGROUND: Neuroinflammation is a critical aspect of aging and neurodegenerative disorders, increasingly recognized for its significant role in the progression of cognitive impairments. Mitochondrial...
+
+### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
+**Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
+**Journal:** Nature aging (2025)  
+**PMID:** 39528642  **DOI:** 10.1038/s43587-024-00743-8
+**Entities:** aging  
+**Abstract:** Life stress can shorten lifespan and increase risk for aging-related diseases, but the biology underlying this phenomenon remains unclear. Here we assessed the effect of chronic stress on cellular sen...
+
+### Neuronal cathepsin S increases neuroinflammation and causes cognitive decline via CX3CL1-CX3CR1 axis and JAK2-STAT3 pathway in aging and Alzheimer's disease.
+**Authors:** Liu PP, Liu XH, Ren MJ, Liu XT, Shi XQ et al.  
+**Journal:** Aging cell (2025)  
+**PMID:** 39453382  **DOI:** 10.1111/acel.14393
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Aging is an intricate process involving interactions among multiple factors, which is one of the main risks for chronic diseases, including Alzheimer's disease (AD). As a member of cysteine protease, ...
+
+### A deep-learning retinal aging biomarker for cognitive decline and incident dementia.
+**Authors:** Sim MA, Tham YC, Nusinovici S, Quek TC, Yu M et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
+**PMID:** 40042460  **DOI:** 10.1002/alz.14601
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: The utility of retinal photography-derived aging biomarkers for predicting cognitive decline remains under-explored. METHODS: A memory-clinic cohort in Singapore was followed-up for 5 ye...
+
+### Neuroinflammatory fluid biomarkers in patients with Alzheimer's disease: a systematic literature review.
+**Authors:** Heneka MT, Gauthier S, Chandekar SA, Hviid Hahn-Pedersen J, Bentsen MA et al.  
+**Journal:** Molecular psychiatry (2025)  
+**PMID:** 40050444  **DOI:** 10.1038/s41380-025-02939-9
+**Entities:** GFAP, neuroinflammation, Alzheimer  
+**Abstract:** INTRODUCTION: Neuroinflammation is associated with both early and late stages of the pathophysiology of Alzheimer's disease (AD). Fluid biomarkers are gaining significance in clinical practice for dia...
+
+### Comprehensive evaluation of plasma tau biomarkers for detecting and monitoring Alzheimer's disease in a multicenter and multiethnic aging population.
+**Authors:** Lan G, Wang M, Gonzalez-Ortiz F, Zhang L, Li A et al.  
+**Journal:** Nature aging (2025)  
+**PMID:** 40550877  **DOI:** 10.1038/s43587-025-00904-3
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Over 20% of patients with Alzheimer's disease (AD) worldwide are Chinese, although the efficacy of existing blood-based measures of AD biomarkers is largely unknown in Asian cohorts. Here we explored ...
+
+### Understanding late-life depression: focus on inflammation.
+**Authors:** Teixeira AL, de Miranda AS, Venna VR, Himali JJ, Bauer ME  
+**Journal:** Current opinion in psychiatry (2025)  
+**PMID:** 40709634  **DOI:** 10.1097/YCO.0000000000001022
+**Entities:** ROS, oxidative stress, BBB, aging  
+**Abstract:** PURPOSE OF REVIEW: Late-life depression (LLD) is a prevalent condition and frequently complicated by higher rates of medical comorbidities and cognitive decline. We review the current evidence implica...
+
+### Neurodegeneration and aging: pathophysiology, diagnosis, and therapeutic targets.
+**Authors:** Thakur A, Sharma R, Sharma R, Devi A  
+**Journal:** Inflammopharmacology (2025)  
+**PMID:** 41037122  **DOI:** 10.1007/s10787-025-01991-9
+**Entities:** ROS, tau, oxidative stress, Alzheimer, aging  
+**Abstract:** Aging is the greatest risk factor for AD, ALS, PD, FTD, and HD. Neurons in the brain experience many changes as people age, negatively affecting their structure and function. It examines the key proce...
+
+### CSF total tau as a proxy of synaptic degeneration.
+**Authors:** Soares C, Bellaver B, Ferreira PCL, Povala G, Schaffer Aguzzoli C et al.  
+**Journal:** Nature communications (2025)  
+**PMID:** 40883301  **DOI:** 10.1038/s41467-025-63545-5
+**Entities:** NfL, tau, Alzheimer  
+**Abstract:** Cerebrospinal fluid (CSF) total tau (t-tau) is considered a biomarker of neuronal degeneration alongside brain atrophy and fluid neurofilament light chain protein (NfL) in biomarker models of Alzheime...
+
+### Proteostasis and Neuroinflammation in Alzheimer's Disease.
+**Authors:** Potokiri A, Wang H  
+**Journal:** Journal of integrative neuroscience (2025)  
+**PMID:** 41074409  **DOI:** 10.31083/JIN39826
+**Entities:** tau, neuroinflammation, Alzheimer  
+**Abstract:** Alzheimer's disease (AD) is the most common cause of dementia in older adults, marked by a gradual and irreversible deterioration of cognitive abilities, including memory and thinking skills. AD is hi...
+
+### Plasma proteomics-based brain aging signature and incident dementia risk.
+**Authors:** Kou M, Ma H, Wang X, Heianza Y, Qi L  
+**Journal:** GeroScience (2025)  
+**PMID:** 39532828  **DOI:** 10.1007/s11357-024-01407-6
+**Entities:** Alzheimer, aging  
+**Abstract:** Investigating brain-enriched proteins with machine learning methods may enable a brain-specific understanding of brain aging and provide insights into the molecular mechanisms and pathological pathway...
+
+### Regional free-water diffusion is more strongly related to neuroinflammation than neurodegeneration.
+**Authors:** Sumra V, Hadian M, Dilliott AA, Farhan SMK, Frank AR et al.  
+**Journal:** Journal of neurology (2025)  
+**PMID:** 40560468  **DOI:** 10.1007/s00415-025-13201-1
+**Entities:** GFAP, NfL, neuroinflammation, Alzheimer  
+**Abstract:** INTRODUCTION: Recent research has suggested that neuroinflammation may be important in the pathogenesis of neurodegenerative diseases. Free-water diffusion (FWD) has been proposed as a non-invasive ne...
+
+### Energy Metabolism and Brain Aging: Strategies to Delay Neuronal Degeneration.
+**Authors:** Na D, Zhang Z, Meng M, Li M, Gao J et al.  
+**Journal:** Cellular and molecular neurobiology (2025)  
+**PMID:** 40259102  **DOI:** 10.1007/s10571-025-01555-z
+**Entities:** aging  
+**Abstract:** Aging is characterized by a gradual decline in physiological functions, with brain aging being a major risk factor for numerous neurodegenerative diseases. Given the brain's high energy demands, maint...
+
+### Cognitive decline and neuroinflammation in a mouse model of obesity: An accelerating role of ageing.
+**Authors:** Rajput M, Malik IA, Methi A, Cortés Silva JA, Fey D et al.  
+**Journal:** Brain, behavior, and immunity (2025)  
+**PMID:** 39730092  **DOI:** 10.1016/j.bbi.2024.12.154
+**Entities:** NfL, neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Obesity, a pandemic, worldwide afflicts almost one billion people. Obesity and ageing share several pathological pathways leading to neurological disorders. However, due to a lack of suitable animal m...
+
+### Cross-Sectional and Longitudinal Associations of Neighborhood Disadvantage With Fluid Biomarkers of Neuroinflammation and Neurodegeneration.
+**Authors:** Gogniat MA, Khan OA, Ratangee B, Bolton CJ, Zhang P et al.  
+**Journal:** Neurology (2025)  
+**PMID:** 40561381  **DOI:** 10.1212/WNL.0000000000213770
+**Entities:** NfL, tau, p-tau, Aβ42, neuroinflammation  
+**Abstract:** BACKGROUND AND OBJECTIVES: Living in a socioeconomically disadvantaged neighborhood has an adverse impact on health outcomes, including increased risk of Alzheimer disease (AD). The biological mechani...
+
+### Neuroimaging-derived biological brain age and its associations with glial reactivity and synaptic dysfunction cerebrospinal fluid biomarkers.
+**Authors:** Cumplido-Mayoral I, Sánchez-Benavides G, Vilor-Tejedor N, López-Martos D, Brugulat-Serrat A et al.  
+**Journal:** Molecular psychiatry (2025)  
+**PMID:** 40221600  **DOI:** 10.1038/s41380-025-02961-x
+**Entities:** GFAP, S100B, IL-6, Alzheimer, aging  
+**Abstract:** Magnetic resonance Imaging (MRI)-derived brain-age prediction is a promising biomarker of biological brain aging. Accelerated brain aging has been found in Alzheimer's disease (AD) and other neurodege...
+
+### Telomere-driven senescence accelerates tau pathology, neuroinflammation and neurodegeneration in a tauopathy mouse model.
+**Authors:** Palomares D, Vanparys AAT, Jorgji J, Paître E, Kienlen-Campard P et al.  
+**Journal:** Acta neuropathologica communications (2025)  
+**PMID:** 41024124  **DOI:** 10.1186/s40478-025-02118-5
+**Entities:** tau, neuroinflammation, Alzheimer, aging  
+**Abstract:** The connection between aging and neurodegenerative pathologies like Alzheimer's disease (AD) has long been recognized, with senescent brain cells building up in the brains of AD patients. A causal lin...
+
+### Lipofuscin accumulation in aging and neurodegeneration: a potential "timebomb" overlooked in Alzheimer's disease.
+**Authors:** Dougnon G, Matsui H  
+**Journal:** Translational neurodegeneration (2025)  
+**PMID:** 41387918  **DOI:** 10.1186/s40035-025-00529-x
+**Entities:** ROS, Aβ42, oxidative stress, Alzheimer, aging  
+**Abstract:** Lipofuscin, a marker of aging, is the accumulation of autofluorescent granules within microglia and postmitotic cells such as neurons. Lipofuscin has traditionally been regarded as an inert byproduct ...
+
+### Hearing loss, plasma neurodegenerative biomarkers, and cognitive function: Independent and additive effects.
+**Authors:** Bekena S, Singh RK, Zhu Y, Cruchaga C, Arnold SE et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2025)  
+**PMID:** 40961167  **DOI:** 10.1177/13872877251378675
+**Entities:** GFAP, NfL, tau, p-tau, Alzheimer  
+**Abstract:** BackgroundHearing loss is one of the most prominent modifiable risk factors for dementia, accounting for one of the largest population-attributable risk among midlife exposures according to the Lancet...
+
+### CSF biomarkers of neuroinflammation are associated with regional atrophy.
+**Authors:** Özlü S, Dyrba M, Grazia A, Brosseron F, Buerger K et al.  
+**Journal:** Journal of neurology (2025)  
+**PMID:** 41442069  **DOI:** 10.1007/s00415-025-13564-5
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** BACKGROUND: Neuroinflammation is central to Alzheimer's disease (AD) pathogenesis, yet its contribution to region-specific brain atrophy remains unclear. We examined whether cerebrospinal fluid (CSF) ...
+
+### Individual bioenergetic capacity as a potential source of resilience to Alzheimer's disease.
+**Authors:** Arnold M, Buyukozkan M, Doraiswamy PM, Nho K, Wu T et al.  
+**Journal:** Nature communications (2025)  
+**PMID:** 39994231  **DOI:** 10.1038/s41467-025-57032-0
+**Entities:** Alzheimer, aging  
+**Abstract:** Impaired glucose uptake in the brain is an early presymptomatic manifestation of Alzheimer's disease (AD), with symptom-free periods of varying duration that likely reflect individual differences in m...
+
+### Early-Life Adversity Predicts Markers of Aging-Related Neuroinflammation, Neurodegeneration, and Cognitive Impairment in Women.
+**Authors:** Fleck L, Buss C, Bauer M, Stein M, Mekle R et al.  
+**Journal:** Annals of neurology (2025)  
+**PMID:** 39786167  **DOI:** 10.1002/ana.27161
+**Entities:** GFAP, NfL, neuroinflammation, Alzheimer, Simoa  
+**Abstract:** OBJECTIVE: Despite the overwhelming evidence for profound and longstanding effects of early-life stress (ELS) on inflammation, brain structure, and molecular aging, its impact on human brain aging and...
+
+### Dissection of blood-brain barrier dysfunction through CSF PDGFRβ and amyloid, tau, neuroinflammation, and synaptic CSF biomarkers in neurodegenerative disorders.
+**Authors:** Vrillon A, Ashton NJ, Bouaziz-Amar E, Mouton-Liger F, Cognat E et al.  
+**Journal:** EBioMedicine (2025)  
+**PMID:** 40239464  **DOI:** 10.1016/j.ebiom.2025.105694
+**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Abstract:** BACKGROUND: Blood-brain barrier (BBB) dysfunction is an early event in neurodegenerative disorders. Pericytes are key cells for BBB maintenance. Upon pericyte injury, the platelet-derived growth facto...
+
+### Inflammatory biomarkers profiles and cognition among older adults.
+**Authors:** Thomas A, Guo J, Reyes-Dumeyer D, Sanchez D, Scarmeas N et al.  
+**Journal:** Scientific reports (2025)  
+**PMID:** 39824904  **DOI:** 10.1038/s41598-025-86309-z
+**Entities:** Alzheimer, aging  
+**Abstract:** Inflammation plays a major role in cognitive aging. Most studies on peripheral inflammation and cognitive aging focused on selected major inflammatory biomarkers. However, inflammatory markers are reg...
+
+### Brain age as an accurate biomarker of preclinical cognitive decline: evidence from a 12-year longitudinal study.
+**Authors:** Elkana O, Beheshti I  
+**Journal:** Journal of neurology (2025)  
+**PMID:** 41039123  **DOI:** 10.1007/s00415-025-13414-4
+**Entities:** Alzheimer, aging  
+**Abstract:** Cognitive decline in older adults, particularly during the preclinical stages of Alzheimer's disease (AD), presents a critical opportunity for early detection and intervention. While T1-weighted MRI i...
+
+### Development and Validation of a Brain Aging Biomarker in Middle-Aged and Older Adults: Deep Learning Approach.
+**Authors:** Li Z, Li J, Li J, Wang M, Xu A et al.  
+**Journal:** JMIR aging (2025)  
+**PMID:** 40750095  **DOI:** 10.2196/73004
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Precise assessment of brain aging is crucial for early detection of neurodegenerative disorders and aiding clinical practice. Existing magnetic resonance imaging (MRI)-based methods excel ...
+
+### Imaging markers of neuroinflammation in aging and Alzheimer's disease and related dementia: A comprehensive review.
+**Authors:** Chaudhary S, Chao HH, Agarwal K, Gupta S, Li CR  
+**Journal:** Neuroscience and biobehavioral reviews (2025)  
+**PMID:** 40578495  **DOI:** 10.1016/j.neubiorev.2025.106270
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Neuroinflammation represents a key pathophysiological process contributing to cognitive decline during aging and may play a significant role in the development of Alzheimer's disease and related demen...
+
+### DoliClock: a lipid-based aging clock reveals accelerated aging in neurological disorders.
+**Authors:** Latumalea D, Unfried M, Barardo D, Gruber J, Kennedy BK  
+**Journal:** Aging (2025)  
+**PMID:** 40482195  **DOI:** 10.18632/aging.206266
+**Entities:** aging  
+**Abstract:** Aging is a multifaceted process influenced by intrinsic and extrinsic factors, with lipid alterations playing a critical role in brain aging and neurological disorders. This study introduces DoliClock...
+
+### Circulating endothelial cells: the role in aging and brain pathology.
+**Authors:** Wang J, Liu J  
+**Journal:** FEBS letters (2025)  
+**PMID:** 40884007  **DOI:** 10.1002/1873-3468.70149
+**Entities:** aging  
+**Abstract:** Circulating endothelial cells (CECs) are mature vascular cells found in peripheral blood, originating from the vascular wall. Normally, they are present in low numbers in the body. CECs are released i...
+
+### Neurophysiological and neuroinflammatory adaptations to seizure activity in aging.
+**Authors:** Janvier A, Cresto N, Nistreanu C, Genin A, Moujellil-Legagneur T et al.  
+**Journal:** Neurobiology of disease (2025)  
+**PMID:** 41197677  **DOI:** 10.1016/j.nbd.2025.107177
+**Entities:** GFAP, neuroinflammation, aging  
+**Abstract:** The pathophysiological impact of late-onset seizures on the brain is not well understood. Here, we investigated whether an initial pattern of generalized seizures (GS) with an electrographically defin...
+
+### Plasma proteomic Alzheimer's risk score: Biological age clock and pseudotime trajectory.
+**Authors:** Liu S, Huang YN, Park T, Lee EH, Chaudhuri S et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
+**PMID:** 41157910  **DOI:** 10.1002/alz.70851
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: Alzheimer's disease (AD) involves progressive cognitive decline. Plasma proteomics data may provide insights into disease risk and mechanisms. METHODS: Plasma proteomics data (N = 498) b...
+
+### Reliable New Biomarkers of Mitochondrial Oxidative Stress and Neuroinflammation in Cerebrospinal Fluid and Plasma from Alzheimer's Disease Patients: A Pilot Study.
+**Authors:** Di Lorenzo R, Zecca C, Chimienti G, Latronico T, Liuzzi GM et al.  
+**Journal:** International journal of molecular sciences (2025)  
+**PMID:** 40869114  **DOI:** 10.3390/ijms26167792
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, SOD  
+**Abstract:** Mitochondrial oxidative stress and neuroinflammation are involved in the onset and progression of Alzheimer's disease (AD). Novel reliable, circulating biomarkers related to these processes were searc...
+
+### Relationships between blood pressure indicators and fluid biomarkers of brain aging in functionally intact older adults.
+**Authors:** VandeBunte AM, Ortiz BL, Paolillo EW, Saloner R, Diaz V et al.  
+**Journal:** Alzheimer's research & therapy (2025)  
+**PMID:** 40259431  **DOI:** 10.1186/s13195-025-01731-9
+**Entities:** GFAP, NfL, p-tau, Aβ42, Alzheimer  
+**Abstract:** BACKGROUND: Dementia risk is significantly shaped by cardiovascular health, with elevated blood pressure emerging as a key risk factor for adverse brain aging. Blood biomarkers such as pTau181, Aβ42/4...
+
+### Association of epigenetic aging with plasma biomarkers of amyloid, tau, neurodegeneration, and neuroinflammation in Hispanic/Latino adults.
+**Authors:** Fornage M, Tarraf W, Daviglus ML, DeCarli C, Gonzalez KA et al.  
+**Journal:** Clinical epigenetics (2025)  
+**PMID:** 40750903  **DOI:** 10.1186/s13148-025-01941-w
+**Entities:** NfL, tau, p-tau, Aβ42, neuroinflammation  
+**Abstract:** BACKGROUND: Blood-based biomarkers hold significant promise for the early detection and diagnosis of Alzheimer's disease (AD) and other dementias. Age-related changes in blood levels of AD biomarkers ...
+
+### Age-Dependent Regulation of Hippocampal Inflammation by the Mitochondrial Translocator Protein in Mice.
+**Authors:** Lai KO, Wong JH, Tham N, Fairley L, Naik RR et al.  
+**Journal:** Aging cell (2025)  
+**PMID:** 40275629  **DOI:** 10.1111/acel.70039
+**Entities:** Alzheimer, aging  
+**Abstract:** The mitochondrial translocator protein (TSPO) is a biomarker of inflammation associated with neurodegenerative diseases, widely regarded to be upregulated in the aging brain. Here we investigated the ...
+
+### Longitudinal patterns of brain aging and neurodegeneration among older adults with dual decline in memory and gait.
+**Authors:** Tian Q, Greig EE, Walker KA, Duggan MR, Yang Z et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
+**PMID:** 39988983  **DOI:** 10.1002/alz.14612
+**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Abstract:** INTRODUCTION: Dual cognitive and mobility decline is more strongly associated with dementia risk than cognitive decline only. It remains unknown whether this syndrome is associated with brain atrophy ...
+
+### Sex differences in middle-aged and old Wistar rats in response to long-term sulforaphane treatment for prevention of neuroinflammation, cognitive decline and brain senescence.
+**Authors:** Santín-Márquez R, Salas-Venegas V, Garcia-Álvarez JA, Librado-Osorio R, Luna-López A et al.  
+**Journal:** Biogerontology (2025)  
+**PMID:** 40380982  **DOI:** 10.1007/s10522-025-10231-0
+**Entities:** ROS, neuroinflammation, oxidative stress, aging  
+**Abstract:** The nervous system (NS) experiences morphological and functional changes during the aging process, where low-grade chronic inflammation, oxidative stress and senescence are key regulators. Sulforaphan...
+
+### Correlation of extracellular vesicle Alu RNA with brain aging and neuronal injury: a potential biomarker for brain aging.
+**Authors:** Yu S, Fan J, Zong S, Yu Q, Cheng Q et al.  
+**Journal:** Annals of medicine (2025)  
+**PMID:** 40248949  **DOI:** 10.1080/07853890.2025.2493767
+**Entities:** NfL, tau, p-tau, Aβ42, Alzheimer  
+**Abstract:** BACKGROUND: Extracellular vesicles (EVs) are promising biomarkers for neurodegeneration. Alu elements are retrotransposons increasingly expressed with age and may be involved in aging-related diseases...
+
+### Cerebrospinal fluid proteomic signatures in cognitively normal individuals identify distinct clusters linked to neurodegeneration.
+**Authors:** Seo D, Do AN, Heo G, Kwon J, Song S et al.  
+**Journal:** Nature aging (2025)  
+**PMID:** 41087722  **DOI:** 10.1038/s43587-025-00971-6
+**Entities:** Alzheimer, aging  
+**Abstract:** Age and APOE ε4 are major risk factors for Alzheimer's disease (AD), while sex differences exist in disease prevalence and progression. Cerebrospinal fluid (CSF) proteomics can provide additional insi...
+
+### Extracellular Vesicles From Multiple Sclerosis White Matter Exhibit Synaptic, Mitochondrial, Complement and Ageing-Related Pathway Dysregulation.
+**Authors:** Jank L, Kumar MKS, Ryu T, Thapa R, Gololobova O et al.  
+**Journal:** Journal of extracellular vesicles (2025)  
+**PMID:** 41216884  **DOI:** 10.1002/jev2.70197
+**Entities:** aging  
+**Abstract:** Extracellular vesicles (EVs) are increasingly recognized as mediators of central nervous system (CNS) function and pathologies, including multiple sclerosis (MS). While plasma-derived EVs have been ex...
+
+### Plasma placental growth factor as a susceptibility biomarker for longitudinal cognitive change.
+**Authors:** VandeBunte AM, Paolillo EW, Hinman JD, Saloner R, Olzinski M et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
+**PMID:** 41388837  **DOI:** 10.1002/alz.70936
+**Entities:** —  
+**Abstract:** INTRODUCTION: Current biomarkers used to assess cerebrovascular pathology largely reflect end-stage disease, and more sensitive biomarkers are needed. We examined the role of baseline placental growth...
+
+### Cognitive Function, Sleep, and Neuroinflammatory Markers in Mice Exposed to Very Long-Term Intermittent Hypoxia.
+**Authors:** Puech C, Badran M, Barrow MB, Gozal D  
+**Journal:** International journal of molecular sciences (2025)  
+**PMID:** 40076441  **DOI:** 10.3390/ijms26051815
+**Entities:** neuroinflammation  
+**Abstract:** Chronic intermittent hypoxia (IH) is one of the hallmark features of obstructive sleep apnea (OSA) and adversely affects neurocognitive and behavioral functioning. However, how the duration of IH corr...
+
+### Neuroinflammaging and the Immune Landscape: The Role of Autophagy and Senescence in Aging Brain.
+**Authors:** Tamatta R, Pai V, Jaiswal C, Singh I, Singh AK  
+**Journal:** Biogerontology (2025)  
+**PMID:** 39907842  **DOI:** 10.1007/s10522-025-10199-x
+**Entities:** neuroinflammation, BBB, aging  
+**Abstract:** Neuroinflammation is closely linked to aging, which damages the structure and function of the brain. It is caused by the intricate interactions of immune cells in the aged brain, such as the dysregula...
+
+### Exploring senescence markers as potential drivers of osteoarthritis pain in aging adults.
+**Authors:** Abbas M, Cruz CJ, Tamargo JA, Lipat AL, Fareed R et al.  
+**Journal:** Experimental gerontology (2025)  
+**PMID:** 41176294  **DOI:** 10.1016/j.exger.2025.112950
+**Entities:** aging  
+**Abstract:** Senescent cells (SnCs) contribute to various age-related diseases, such as osteoarthritis (OA), a degenerative joint condition that causes persistent pain and reduces physical functioning in older adu...
+
+### A highly sensitive quantitative method of polysialic acid reveals its unique changes in brain aging and neuropsychiatric disorders.
+**Authors:** Hane M, Naramura A, Hayakawa K, Abe C, Nakagawa T et al.  
+**Journal:** Scientific reports (2025)  
+**PMID:** 40447657  **DOI:** 10.1038/s41598-025-02583-x
+**Entities:** aging  
+**Abstract:** Polysialic acid (polySia), a glycoepitope critical for neural development and plasticity, remains difficult to quantify owing to its structural complexity. Here, we present a highly sensitive sandwich...
+
+### Towards Precision Aging Biology: Single-Cell Multi-Omics and Advanced AI-Driven Strategies.
+**Authors:** Xie S, Luo X, Hong F, Wei Y, Hao Y et al.  
+**Journal:** Aging and disease (2025)  
+**PMID:** 40153587  **DOI:** 10.14336/AD.2025.0218
+**Entities:** aging  
+**Abstract:** Individual aging is a complex biological process involving multiple levels, with molecular changes existing in heterogeneity across different cell types and tissues, being regulated by both internal a...
+
+### Alzheimer's disease diagnostic progression is associated with cerebrovascular disease and neuroinflammation in adults with Down syndrome.
+**Authors:** Edwards NC, Lao PJ, Alshikho MJ, Ericsson OM, Rizvi B et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
+**PMID:** 41014048  **DOI:** 10.1002/alz.70726
+**Entities:** GFAP, NfL, tau, neuroinflammation, Alzheimer  
+**Abstract:** INTRODUCTION: Despite having few vascular risk factors, people with Down syndrome (DS) have MRI evidence of cerebrovascular disease (CVD) and neuroinflammation that worsens with Alzheimer's disease (A...
+
+### Senescence-related genes as prognostic indicators in breast cancer survival.
+**Authors:** Ungvari Z, Ungvari A, Fekete M, Kiss C, Győrffy B  
+**Journal:** GeroScience (2025)  
+**PMID:** 39432147  **DOI:** 10.1007/s11357-024-01384-w
+**Entities:** aging  
+**Abstract:** Breast cancer is a leading cause of cancer-related mortality among women worldwide, particularly affecting those in their later years. As the incidence of breast cancer increases with age, understandi...
+
+### Mitochondrial Dysfunction is a Crucial Immune Checkpoint for Neuroinflammation and Neurodegeneration: mtDAMPs in Focus.
+**Authors:** Mishra Y, Kumar A, Kaundal RK  
+**Journal:** Molecular neurobiology (2025)  
+**PMID:** 39115673  **DOI:** 10.1007/s12035-024-04412-0
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Neuroinflammation is a pivotal factor in the progression of both age-related and acute neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, m...
+
+### From a Solitary Blood-Derived Biomarker to Combined Biomarkers of Sarcopenia: Experiences From the Korean Frailty and Aging Cohort Study.
+**Authors:** Won CW, Kim M, Shin HE  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2025)  
+**PMID:** 39417263  **DOI:** 10.1093/gerona/glae237
+**Entities:** BDNF, aging  
+**Abstract:** Sarcopenia is recognized as a complex and multifactorial disorder that includes nutritional deficiency, inactivity, proinflammatory status, hormonal changes, neurological degeneration, and metabolic d...
+
+### Comprehensive analysis of molecular, physiological, and functional biomarkers of aging with neurological diseases using Mendelian randomization.
+**Authors:** Imahori Y, Qin C, Tang B, Hägg S  
+**Journal:** GeroScience (2025)  
+**PMID:** 39269583  **DOI:** 10.1007/s11357-024-01334-6
+**Entities:** Alzheimer, aging  
+**Abstract:** An increasing burden of neurological diseases (NDs) has been a public health challenge in an aging society. Age, especially biological age, is the most important risk factor for NDs. Identification of...
+
+### Comparative Effects of Co-administration of Lactobacillus casei and Bifidobacterium breve vs. Monotherapy on Hippocampal Neurodegeneration in a D-Galactose-Induced Aging Model.
+**Authors:** Hamzeh O, Halaji M, Ghasemi-Kasman M, Parsian H, Rostami-Mansoor S  
+**Journal:** Molecular neurobiology (2025)  
+**PMID:** 40457028  **DOI:** 10.1007/s12035-025-05093-z
+**Entities:** ROS, BDNF, IL-1β, oxidative stress, Alzheimer  
+**Abstract:** It has been shown that gut dysbiosis, a hallmark of aging, participates in age-related neurodegenerative conditions. Consumption of probiotics has favorable effects not only on gut hemostasis but also...
+
+### Coenzyme Q10 attenuates age-associated neurodegeneration via modulation of autophagy and neuroinflammation in aged rats.
+**Authors:** Srivastava P, Verma AK, Yadawa AK, Rizvi SI  
+**Journal:** Metabolic brain disease (2025)  
+**PMID:** 41182484  **DOI:** 10.1007/s11011-025-01721-8
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** This study investigates the neuroprotective potential of Coenzyme Q
+
+### Leucine-Rich Repeat Kinase 2 Relates to Neuroaxonal Degeneration via Tau Pathology and Microglial Activation in Alzheimer's Disease.
+**Authors:** Chen M, Sheng Z, Wang L, Zhang P, Zhang J et al.  
+**Journal:** Molecular neurobiology (2025)  
+**PMID:** 41351686  **DOI:** 10.1007/s12035-025-05580-3
+**Entities:** NfL, tau, p-tau, neuroinflammation, Alzheimer  
+**Abstract:** Leucine-rich repeat kinase 2 (LRRK2), a key contributor to Parkinson's disease (PD). However, its potential role in Alzheimer's disease (AD) progression remains unclear. This study analyzed baseline a...
+
+### Neuron-Derived Extracellular Vesicles: Emerging Biomarkers and Functional Mediators in Alzheimer's Disease, With Comparative Insights Into Neurodevelopment and Aging.
+**Authors:** Gonul CP, Karacicek B, Genc S  
+**Journal:** Developmental neurobiology (2025)  
+**PMID:** 40503760  **DOI:** 10.1002/dneu.22984
+**Entities:** tau, p-tau, neuroinflammation, Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) is one of the most common neurodegenerative disorders characterized by the accumulation of amyloid-β (Aβ) peptide and phosphorylated tau protein in the brain. Despite intensiv...
+
+### Unravelling the nutritional threads with novel associations of cognitive functions and telomerase.
+**Authors:** Yildiz C, Akpınaroğlu C, Medina I  
+**Journal:** Nutrition research reviews (2025)  
+**PMID:** 41340293  **DOI:** 10.1017/S0954422425100280
+**Entities:** Alzheimer, aging  
+**Abstract:** Cognitive decline is a hallmark of brain ageing. Leucocyte telomere length (LTL) has emerged as a candidate biomarker related to brain ageing and neurodegeneration; however, reported associations with...
+
+### TOMM40 may mediate GFAP, neurofilament light Protein, pTau181, and brain morphometry in aging.
+**Authors:** Honea RA, Wilkins H, Hunt SL, Kueck PJ, Burns JM et al.  
+**Journal:** Aging brain (2025)  
+**PMID:** 39760103  **DOI:** 10.1016/j.nbas.2024.100134
+**Entities:** GFAP, NfL, p-tau, aging  
+**Abstract:** A growing amount of data has implicated the
+
+### Immunometabolic biomarkers of brain aging: Nonlinear association between neutrophil-to-HDL cholesterol ratio and cognitive decline in older adults.
+**Authors:** Cui Y  
+**Journal:** Brain, behavior, and immunity (2025)  
+**PMID:** 40930266  **DOI:** 10.1016/j.bbi.2025.106106
+**Entities:** aging  
+**Abstract:** BACKGROUND: Immune dysregulation and metabolic disturbances contribute to cognitive decline in aging populations. The neutrophil-to-HDL cholesterol ratio (NHR), an emerging immunometabolic biomarker, ...
+
+### Cross-sectional and longitudinal relationships among blood-brain barrier disruption, Alzheimer's disease biomarkers, and cognition in cognitively normal older adults.
+**Authors:** Denkinger M, Baker S, Harrison TM, Chadwick T, Jagust WJ  
+**Journal:** Neurobiology of aging (2025)  
+**PMID:** 39571410  **DOI:** 10.1016/j.neurobiolaging.2024.11.002
+**Entities:** tau, BBB, Alzheimer, aging  
+**Abstract:** Blood-brain barrier disruption (BBBd) occurs in aging, particularly in regions vulnerable to Alzheimer's disease (AD) pathology. However, its relationship to pathological protein accumulation, neurode...
+
+### Repeated brain MRI utility in identifying neurodegenerative disorders at the pre-dementia stage.
+**Authors:** Carbone C, Gallingani C, Balboni E, Luchetti L, Gentile G et al.  
+**Journal:** Neurobiology of aging (2025)  
+**PMID:** 40706313  **DOI:** 10.1016/j.neurobiolaging.2025.07.012
+**Entities:** Alzheimer, aging  
+**Abstract:** Despite the increasing availability of biomarkers in clinical settings, diagnosing individuals with subtle cognitive/behavioral symptoms and normal structural brain imaging remains challenging. In rea...
+
+### The age-dependent neuroglial interaction with peripheral immune cells in coronavirus-induced neuroinflammation with a special emphasis on COVID-19.
+**Authors:** Ghosh S, Das Sarma J  
+**Journal:** Biogerontology (2025)  
+**PMID:** 40380990  **DOI:** 10.1007/s10522-025-10252-9
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Neurodegenerative diseases are chronic progressive disorders that impair memory, cognition, and motor functions, leading to conditions such as dementia, muscle weakness, and speech difficulties. Aging...
+
+### Brain activation in older adults during odor identification is related to ApoE, t-tau/Aβ1-42, and hippocampal volume.
+**Authors:** Albertazzi A, Murphy C  
+**Journal:** Neurobiology of aging (2025)  
+**PMID:** 39987791  **DOI:** 10.1016/j.neurobiolaging.2025.02.001
+**Entities:** tau, Alzheimer  
+**Abstract:** Despite altered odor identification preceding and predicting Alzheimer's disease (AD) cognitive decline, an inadequate understanding of how AD pathology affects odor memory functions limits its use as...
+
+### Rapid decline of cerebrospinal fluid biomarkers of axonal injury and neuroinflammation after initiation of antiretroviral therapy in HIV.
+**Authors:** Renborg L, Yilmaz A, Nilsson S, Zetterberg H, Blennow K et al.  
+**Journal:** Journal of neurovirology (2025)  
+**PMID:** 41120653  **DOI:** 10.1007/s13365-025-01287-2
+**Entities:** GFAP, NfL, neuroinflammation  
+**Abstract:** Persistent intrathecal immune activation and neuronal injury remain common in people with HIV (PWH) despite effective antiretroviral therapy (ART). We examined longitudinal trajectories of cerebrospin...
+
+### Joint Effects of Anticholinergic Burden and Neurofilament Light on Dementia Risk: The Shanghai Aging Study.
+**Authors:** Chi D, Liang X, Xiao Z, Zhou X, Zhao Q et al.  
+**Journal:** CNS neuroscience & therapeutics (2025)  
+**PMID:** 41373116  **DOI:** 10.1002/cns.70691
+**Entities:** NfL, Alzheimer, Simoa, aging  
+**Abstract:** AIMS: Anticholinergic drugs (ACDs) and the neurodegeneration biomarker neurofilament light chain (NfL) are associated with dementia; however, the interplay between anticholinergic drug exposure and ne...
+
+### Sex differences in the association between episodic memory residual reserve index and change in executive function.
+**Authors:** Chooi C, Gavett BE, Ames D, Maruff P, Doré V et al.  
+**Journal:** Aging brain (2025)  
+**PMID:** 40792064  **DOI:** 10.1016/j.nbas.2025.100146
+**Entities:** Alzheimer, aging  
+**Abstract:** Sex differences in cognitive reserve might contribute to females being disproportionately affected by Alzheimer's disease (AD). We investigated sex differences in the protective effects of cognitive r...
+
+### Cerebrospinal Fluid Biomarkers of Central Nervous System Inflammation Predict Cortical Decline in Bipolar Disorder and Ventricular Enlargement in Healthy Controls.
+**Authors:** Bellaagh Johansson T, Klahn AL, Göteson A, Abé C, Sellgren CM et al.  
+**Journal:** Neuropsychobiology (2025)  
+**PMID:** 39626639  **DOI:** 10.1159/000542888
+**Entities:** IL-6, aging  
+**Abstract:** INTRODUCTION: Bipolar disorder has been associated with significant structural brain changes, potentially driven by central nervous system (CNS) inflammation. This study aimed to investigate the relat...
+
+### Testing the causal impact of plasma amyloid on total Tau using a genetically informative sample of adult male twins.
+**Authors:** Gillespie NA, Neale MC, Panizzon MS, McKenzie RE, Tu XM et al.  
+**Journal:** Aging brain (2025)  
+**PMID:** 40487291  **DOI:** 10.1016/j.nbas.2025.100139
+**Entities:** NfL, tau, p-tau, Aβ42, Simoa  
+**Abstract:** The amyloid cascade hypothesis predicts that amyloid-beta (Aβ) aggregation drives tau tangle accumulation. We tested competing causal and non-causal hypotheses regarding the direction of causation bet...
+
+### Cellular senescence, DNA damage, and neuroinflammation in the aging brain.
+**Authors:** Zhang W, Sun HS, Wang X, Dumont AS, Liu Q  
+**Journal:** Trends in neurosciences (2024)  
+**PMID:** 38729785  **DOI:** 10.1016/j.tins.2024.04.003
+**Entities:** neuroinflammation, aging  
+**Abstract:** Aging may lead to low-level chronic inflammation that increases the susceptibility to age-related conditions, including memory impairment and progressive loss of brain volume. As brain health is essen...
+
+### The mechanisms, hallmarks, and therapies for brain aging and age-related dementia.
+**Authors:** Jin S, Lu W, Zhang J, Zhang L, Tao F et al.  
+**Journal:** Science bulletin (2024)  
+**PMID:** 39332926  **DOI:** 10.1016/j.scib.2024.09.005
+**Entities:** Alzheimer, aging  
+**Abstract:** Age-related cognitive decline and dementia are significant manifestations of brain aging. As the elderly population grows rapidly, the health and socio-economic impacts of cognitive dysfunction have b...
+
+### iPLA2β loss leads to age-related cognitive decline and neuroinflammation by disrupting neuronal mitophagy.
+**Authors:** Jiao L, Shao W, Quan W, Xu L, Liu P et al.  
+**Journal:** Journal of neuroinflammation (2024)  
+**PMID:** 39294744  **DOI:** 10.1186/s12974-024-03219-z
+**Entities:** neuroinflammation, aging  
+**Abstract:** BACKGROUND: During brain aging, disturbances in neuronal phospholipid metabolism result in impaired cognitive function and dysregulation of neurological processes. Mutations in iPLA2β are associated w...
+
+### Neuroinflammatory Biomarkers in Alzheimer's Disease: From Pathophysiology to Clinical Implications.
+**Authors:** Roveta F, Bonino L, Piella EM, Rainero I, Rubino E  
+**Journal:** International journal of molecular sciences (2024)  
+**PMID:** 39596011  **DOI:** 10.3390/ijms252211941
+**Entities:** GFAP, tau, neuroinflammation, Alzheimer  
+**Abstract:** The identification of neuroinflammation as a critical factor in Alzheimer's disease (AD) has expanded the focus of research beyond amyloid-β and tau pathology. The neuroinflammatory fluid biomarkers G...
+
+### Assessing blood-brain barrier dysfunction and its association with Alzheimer's pathology, cognitive impairment and neuroinflammation.
+**Authors:** Preis L, Villringer K, Brosseron F, Düzel E, Jessen F et al.  
+**Journal:** Alzheimer's research & therapy (2024)  
+**PMID:** 39085945  **DOI:** 10.1186/s13195-024-01529-1
+**Entities:** tau, Aβ42, neuroinflammation, BBB, Alzheimer  
+**Abstract:** BACKGROUND: Blood-brain barrier (BBB) alterations may contribute to AD pathology through various mechanisms, including impaired amyloid-β (Aβ) clearance and neuroinflammation. Soluble platelet-derived...
+
+### Genetic Risk, Inflammation, and Therapeutics: An Editorial Overview of Recent Advances in Aging Brains and Neurodegeneration.
+**Authors:** Gupta V, Chitranshi N, Gupta VB  
+**Journal:** Aging and disease (2024)  
+**PMID:** 39191394  **DOI:** 10.14336/AD.2024.0986
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Neurodegenerative disorders, including Dementia, Parkinson's disease, various Vision disorders, Multiple sclerosis, and transsynaptic degenerative changes represent a significant challenge in aging po...
+
+### PKCδ serves as a potential biomarker and therapeutic target for microglia-mediated neuroinflammation in Alzheimer's disease.
+**Authors:** Du Y, Guo T, Hao Y, Li C, Tang L et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2024)  
+**PMID:** 38938161  **DOI:** 10.1002/alz.14047
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** INTRODUCTION: To investigate the role of a novel type of protein kinase C delta (PKCδ) in the neuroinflammation of Alzheimer's disease (AD). METHODS: We analyzed PKCδ and inflammatory cytokines levels...
+
+### Mexican Health and Aging Study Biomarker and Genetic Data Profile.
+**Authors:** Samper-Ternent R, Zazueta-Borboa JD, Michaels-Obregon A, Reyes-Dumeyer D, Barral S et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2024)  
+**PMID:** 39692026  **DOI:** 10.1093/gerona/glae270
+**Entities:** aging  
+**Abstract:** The Mexican Health and Aging Study (MHAS) is one of the largest ongoing longitudinal studies of aging in Latin America, with six waves over 20 years. MHAS includes sociodemographic, economic, and heal...
+
+### Unweaving type I interferons in age-related neuroinflammation.
+**Authors:** Hunt DPJ, Hofer MJ  
+**Journal:** Trends in neurosciences (2024)  
+**PMID:** 39237428  **DOI:** 10.1016/j.tins.2024.08.014
+**Entities:** neuroinflammation, aging  
+**Abstract:** Neuroinflammation is a feature of both neurodegenerative disease and normal brain aging. The roles of type I interferon (IFN-I) in the aged brain are incompletely understood. A recent article by Roy e...
+
+### Longitudinal study of traumatic-stress related cellular and cognitive aging.
+**Authors:** Wolf EJ, Miller MW, Hawn SE, Zhao X, Wallander SE et al.  
+**Journal:** Brain, behavior, and immunity (2024)  
+**PMID:** 37967663  **DOI:** 10.1016/j.bbi.2023.11.009
+**Entities:** GFAP, NfL, IL-6, Alzheimer, aging  
+**Abstract:** Traumatic stress is associated with both accelerated epigenetic age and increased risk for dementia. Accelerated epigenetic age might link symptoms of traumatic stress to dementia-associated biomarker...
+
+### Sexually dimorphic differences in angiogenesis markers are associated with brain aging trajectories in humans.
+**Authors:** Torres-Espin A, Radabaugh HL, Treiman S, Fitzsimons SS, Harvey D et al.  
+**Journal:** Science translational medicine (2024)  
+**PMID:** 39602511  **DOI:** 10.1126/scitranslmed.adk3118
+**Entities:** Alzheimer, aging  
+**Abstract:** Aberrant angiogenesis could contribute to the development of cognitive impairment and represent a therapeutic target for preventing dementia. However, most studies addressing angiogenesis and cognitiv...
+
+### Neuroinflammaging: A Tight Line Between Normal Aging and Age-Related Neurodegenerative Disorders.
+**Authors:** Soraci L, Corsonello A, Paparazzo E, Montesanto A, Piacenza F et al.  
+**Journal:** Aging and disease (2024)  
+**PMID:** 38300639  **DOI:** 10.14336/AD.2023.1001
+**Entities:** neuroinflammation, aging  
+**Abstract:** Aging in the healthy brain is characterized by a low-grade, chronic, and sterile inflammatory process known as neuroinflammaging. This condition, mainly consisting in an up-regulation of the inflammat...
+
+### Serum biomarkers associated with aging and neurodegeneration in common marmosets (Callithrix jacchus).
+**Authors:** Phillips KA, Lopez M, Bartling-John E, Meredith R, Buteau A et al.  
+**Journal:** Neuroscience letters (2024)  
+**PMID:** 38000775  **DOI:** 10.1016/j.neulet.2023.137569
+**Entities:** GFAP, UCH-L1, NfL, tau, Alzheimer  
+**Abstract:** The common marmoset (Callithrix jacchus), a small South American monkey, is an important nonhuman primate model in the study of aging and age-related neurodegenerative disease, including Alzheimer's d...
+
+### Multimodal brain age prediction using machine learning: combining structural MRI and 5-HT2AR PET-derived features.
+**Authors:** Dörfel RP, Arenas-Gomez JM, Svarer C, Ganz M, Knudsen GM et al.  
+**Journal:** GeroScience (2024)  
+**PMID:** 38668887  **DOI:** 10.1007/s11357-024-01148-6
+**Entities:** Alzheimer, aging  
+**Abstract:** To better assess the pathology of neurodegenerative disorders and the efficacy of neuroprotective interventions, it is necessary to develop biomarkers that can accurately capture age-related biologica...
+
+### Plasma Neurodegenerative Biomarkers in Cognitively Preserved Nonagenarians.
+**Authors:** Gómez-Tortosa E, Agüero-Rabes P, Ruiz-González A, Wagner S, Téllez R et al.  
+**Journal:** Aging and disease (2024)  
+**PMID:** 39571163  **DOI:** 10.14336/AD.2024.1260
+**Entities:** GFAP, NfL, tau, Alzheimer, Simoa  
+**Abstract:** Plasma biomarkers represent promising tools for the screening and diagnosis of patients with neurodegenerative conditions. However, it is crucial to account for the effects of aging on biomarker profi...
+
+### Accelerated brain aging as a biomarker for staging in bipolar disorder: an exploratory study.
+**Authors:** van der Markt A, Klumpers U, Dols A, Korten N, Boks MP et al.  
+**Journal:** Psychological medicine (2024)  
+**PMID:** 37749940  **DOI:** 10.1017/S0033291723002829
+**Entities:** aging  
+**Abstract:** BACKGROUND: Two established staging models outline the longitudinal progression in bipolar disorder (BD) based on episode recurrence or inter-episodic functioning. However, underlying neurobiological ...
+
+### Brain age has limited utility as a biomarker for capturing fluid cognition in older individuals.
+**Authors:** Tetereva A, Pat N  
+**Journal:** eLife (2024)  
+**PMID:** 38869938  **DOI:** 10.7554/eLife.87297
+**Entities:** aging  
+**Abstract:** One well-known biomarker candidate that supposedly helps capture fluid cognition is Brain Age, or a predicted value based on machine-learning models built to predict chronological age from brain MRI. ...
+
+### sPDGFRβ and neuroinflammation are associated with AD biomarkers and differ by race: The ASCEND Study.
+**Authors:** Butts B, Huang H, Hu WT, Kehoe PG, Miners JS et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2024)  
+**PMID:** 37933404  **DOI:** 10.1002/alz.13457
+**Entities:** tau, p-tau, neuroinflammation, Alzheimer  
+**Abstract:** INTRODUCTION: There remains an urgent need to identify preclinical pathophysiological mechanisms of Alzheimer's disease (AD) development in high-risk, racially diverse populations. We explored the rel...
+
+### PCSK9: an emerging player in cardiometabolic aging and its potential as a therapeutic target and biomarker.
+**Authors:** Csiszar A, Tarantini S, Yabluchanskiy A, Ungvari Z  
+**Journal:** GeroScience (2024)  
+**PMID:** 38105401  **DOI:** 10.1007/s11357-023-01003-0
+**Entities:** aging  
+**Abstract:** Proprotein convertase subtilisin/kexin type 9 (PCSK9), renowned for its pivotal role in low-density lipoprotein (LDL) regulation, has emerged as a compelling regulator of cardiometabolic aging. Beyond...
+
+### Metabolites and Metabolic Functional Changes-Potential Markers for Endothelial Cell Senescence.
+**Authors:** Ya J, Whitby A, Bayraktutan U  
+**Journal:** Biomolecules (2024)  
+**PMID:** 39595652  **DOI:** 10.3390/biom14111476
+**Entities:** aging  
+**Abstract:** Accumulation of senescent endothelial cells (ECs) in vasculature represents a key step in the development of vascular aging and ensuing age-related diseases. Given that removal of senescent ECs may pr...
+
+### Elevated senescence-associated secretory phenotype index in late-life bipolar disorder.
+**Authors:** Tessema T, Diniz BS, Vieira EM, Mendes-Silva AP, Voineskos AN et al.  
+**Journal:** Journal of affective disorders (2024)  
+**PMID:** 38795779  **DOI:** 10.1016/j.jad.2024.05.071
+**Entities:** —  
+**Abstract:** BACKGROUND: The senescence-associated secretory phenotype (SASP) is a biomarker index based on the profile of 22 blood proteins associated with cellular senescence. The SASP index has not been assesse...
+
+### Auditory brainstem responses as a biomarker for cognition.
+**Authors:** Hamza Y, Yang Y, Vu J, Abdelmalek A, Malekifar M et al.  
+**Journal:** Communications biology (2024)  
+**PMID:** 39702841  **DOI:** 10.1038/s42003-024-07346-4
+**Entities:** aging  
+**Abstract:** A non-invasive, accessible and effective biomarker is critical to the diagnosis, monitoring and treatment of age-related cognitive decline. Recent work has suggested a strong association between audit...
+
+### Relationships between plasma neurofilament light chain protein, cognition, and brain aging in people with HIV.
+**Authors:** Cooley SA, Petersen KJ, Tice C, Langford D, Burdo TH et al.  
+**Journal:** AIDS (London, England) (2024)  
+**PMID:** 38329137  **DOI:** 10.1097/QAD.0000000000003861
+**Entities:** NfL, Alzheimer, aging  
+**Abstract:** OBJECTIVE: Neurofilament light chain protein (NfL) is a marker of neuronal injury and neurodegeneration. Typically assessed in cerebrospinal fluid, recent advances have allowed this biomarker to be mo...
+
+### Harnessing myelin water fraction as an imaging biomarker of human cerebral aging, neurodegenerative diseases, and risk factors influencing myelination: A review.
+**Authors:** Faulkner ME, Gong Z, Guo A, Laporte JP, Bae J et al.  
+**Journal:** Journal of neurochemistry (2024)  
+**PMID:** 38973579  **DOI:** 10.1111/jnc.16170
+**Entities:** MBP, aging  
+**Abstract:** Myelin water fraction (MWF) imaging has emerged as a promising magnetic resonance imaging (MRI) biomarker for investigating brain function and composition. This comprehensive review synthesizes the cu...
+
+### Increased molar ratio of free fatty acids to albumin in blood as cause and early biomarker for the development of cataracts and Alzheimer's disease.
+**Authors:** Glaesser D, Iwig M  
+**Journal:** Experimental eye research (2024)  
+**PMID:** 38583754  **DOI:** 10.1016/j.exer.2024.109888
+**Entities:** Alzheimer, aging  
+**Abstract:** Cataracts and Alzheimer's disease (AD) are closely linked and are associated with aging and with systemic diseases that increase the molar ratio of free fatty acids to albumin (mFAR) in the blood. Fro...
+
+### Chronological Dynamics of Neuroinflammatory Responses in a High-Fat Diet Mouse Model.
+**Authors:** Bae HR, Shin SK, Lee JY, Choi SS, Kwon EY  
+**Journal:** International journal of molecular sciences (2024)  
+**PMID:** 39684545  **DOI:** 10.3390/ijms252312834
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Obesity is known to affect various tissues and contribute to conditions such as neuroinflammation. However, the specific mechanisms and time-dependent progression of these effects across different tis...
+
+### Association of Plasma Markers of Alzheimer's Disease, Neurodegeneration, and Neuroinflammation with the Choroid Plexus Integrity in Aging.
+**Authors:** Bouhrara M, Walker KA, Alisch JSR, Gong Z, Mazucanti CH et al.  
+**Journal:** Aging and disease (2024)  
+**PMID:** 38300640  **DOI:** 10.14336/AD.2023.1226
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** The choroid plexus (CP) is a vital brain structure essential for cerebrospinal fluid (CSF) production. Moreover, alterations in the CP's structure and function are implicated in molecular conditions a...
+
+### Prognostic significance of a signature based on senescence-related genes in colorectal cancer.
+**Authors:** Ungvari Z, Ungvari A, Bianchini G, Győrffy B  
+**Journal:** GeroScience (2024)  
+**PMID:** 38658505  **DOI:** 10.1007/s11357-024-01164-6
+**Entities:** aging  
+**Abstract:** Colorectal cancer, recognized as a quintessential age-related disease, underscores the intricate interplay between aging mechanisms and disease pathogenesis. Cellular senescence, a DNA damage-induced ...
+
+### Association between telomere length and cognitive function among cognitively unimpaired individuals at risk of Alzheimer's disease.
+**Authors:** Rodríguez-Fernández B, Sánchez-Benavides G, Genius P, Minguillon C, Fauria K et al.  
+**Journal:** Neurobiology of aging (2024)  
+**PMID:** 38936230  **DOI:** 10.1016/j.neurobiolaging.2024.05.015
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: Leukocyte telomere length (LTL) is an objective biomarker of biological aging, and it is proposed to play a crucial role in Alzheimer's disease (AD) risk. We aimed at evaluating the cros...
+
+### The Effects of Computerized Cognitive Training in Older Adults' Cognitive Performance and Biomarkers of Structural Brain Aging.
+**Authors:** Lee HK, Basak C, Grant SJ, Ray NR, Skolasinska PA et al.  
+**Journal:** The journals of gerontology. Series B, Psychological sciences and social sciences (2024)  
+**PMID:** 38686621  **DOI:** 10.1093/geronb/gbae075
+**Entities:** aging  
+**Abstract:** OBJECTIVES: Cognitive training (CT) has been investigated as a means of delaying age-related cognitive decline in older adults. However, its impact on biomarkers of age-related structural brain atroph...
+
+### KLOTHO KL-VS heterozygosity is associated with diminished age-related neuroinflammation, neurodegeneration, and synaptic dysfunction in older cognitively unimpaired adults.
+**Authors:** Driscoll IF, Lose S, Ma Y, Bendlin BB, Gallagher C et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2024)  
+**PMID:** 39030746  **DOI:** 10.1002/alz.13912
+**Entities:** GFAP, S100B, NfL, IL-6, neuroinflammation  
+**Abstract:** INTRODUCTION: We examined whether the aging suppressor KLOTHO gene's functionally advantageous KL-VS variant (KL-VS heterozygosity [KL-VSHET]) confers resilience against deleterious effects of aging i...
+
+### Neuroinflammation, cerebrovascular dysfunction and diurnal cortisol biomarkers in a memory clinic cohort: Findings from the Co-STAR study.
+**Authors:** Daniilidou M, Holleman J, Hagman G, Kåreholt I, Aspö M et al.  
+**Journal:** Translational psychiatry (2024)  
+**PMID:** 39251589  **DOI:** 10.1038/s41398-024-03072-x
+**Entities:** IL-6, neuroinflammation, Alzheimer  
+**Abstract:** Cortisol dysregulation, neuroinflammation, and cerebrovascular dysfunction are biological processes that have been separately shown to be affected in Alzheimer's disease (AD). Here, we aimed to identi...
+
+### Differences in the Effect of Beta-Hydroxybutyrate on the Mitochondrial Biogenesis, Oxidative Stress and Inflammation Markers in Tissues from Young and Old Rats.
+**Authors:** Nesterova VV, Babenkova PI, Brezgunova AA, Samoylova NA, Sadovnikova IS et al.  
+**Journal:** Biochemistry. Biokhimiia (2024)  
+**PMID:** 39218029  **DOI:** 10.1134/S0006297924070149
+**Entities:** ROS, oxidative stress  
+**Abstract:** One of the therapeutic approaches to age-related diseases is modulation of body cell metabolism through certain diets or their pharmacological mimetics. The ketogenic diet significantly affects cell e...
+
+### Markers of Mitochondrial Function and DNA Repair Associated with Physical Function in Centenarians.
+**Authors:** Sanchez-Roman I, Ferrando B, Myrup Holst C, Mengel-From J, Hoei Rasmussen S et al.  
+**Journal:** Biomolecules (2024)  
+**PMID:** 39199297  **DOI:** 10.3390/biom14080909
+**Entities:** BDNF, aging  
+**Abstract:** Mitochondrial dysfunction and genomic instability are key hallmarks of aging. The aim of this study was to evaluate whether maintenance of physical capacities at very old age is associated with key ha...
+
+### Age-dependent sex differences in cofilin1 pathway (LIMK1/SSH1) and its association with AD biomarkers after chronic systemic inflammation in mice.
+**Authors:** Alsegiani AS, Shah ZA  
+**Journal:** Neurobiology of aging (2024)  
+**PMID:** 39265451  **DOI:** 10.1016/j.neurobiolaging.2024.09.003
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Chronic systemic inflammation (CSI) results in neuroinflammation and neurodegeneration. Cofilin1 is a stress protein that activates microglia and induces neuroinflammation, but its role in CSI at diff...
+
+### Accelerated Aging Induced by an Unhealthy High-Fat Diet: Initial Evidence for the Role of Nrf2 Deficiency and Impaired Stress Resilience in Cellular Senescence.
+**Authors:** Balasubramanian P, Kiss T, Gulej R, Nyul Toth A, Tarantini S et al.  
+**Journal:** Nutrients (2024)  
+**PMID:** 38612986  **DOI:** 10.3390/nu16070952
+**Entities:** ROS, oxidative stress, Nrf2, aging  
+**Abstract:** High-fat diets (HFDs) have pervaded modern dietary habits, characterized by their excessive saturated fat content and low nutritional value. Epidemiological studies have compellingly linked HFD consum...
+
+### The associations between type 2 diabetes and plasma biomarkers of Alzheimer's disease in the Health and Aging Brain Study: Health Disparities (HABS-HD).
+**Authors:** Yu F, Pituch KA, Maxfield M, Baena E, Geda YE et al.  
+**Journal:** PloS one (2024)  
+**PMID:** 38558059  **DOI:** 10.1371/journal.pone.0295749
+**Entities:** NfL, tau, Aβ42, Alzheimer, Simoa  
+**Abstract:** Alzheimer's disease (AD) affects Latinos disproportionately. One of the reasons underlying this disparity may be type 2 diabetes (T2D) that is a risk factor for AD. The purpose of this study was to ex...
+
+### The relation of synaptic biomarkers with Aβ, tau, glial activation, and neurodegeneration in Alzheimer's disease.
+**Authors:** Wang YT, Ashton NJ, Servaes S, Nilsson J, Woo MS et al.  
+**Journal:** Translational neurodegeneration (2024)  
+**PMID:** 38802928  **DOI:** 10.1186/s40035-024-00420-1
+**Entities:** —  
+**Abstract:** 
+
+### Study Partner Report of Apathy in Older Adults is Associated with AD Biomarkers: Findings from the Harvard Aging Brain Study.
+**Authors:** Burling JE, Katz Z, Yuan Z, Munro C, Mimmack K et al.  
+**Journal:** The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry (2024)  
+**PMID:** 38443298  **DOI:** 10.1016/j.jagp.2024.01.020
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** OBJECTIVES: We examined relationships between apathy (self and study-partner-reported) and markers of Alzheimer's disease (AD) in older adults. DESIGN: The study utilized a well-characterized sample o...
+
+### Discovering novel plasma biomarkers for ischemic stroke: Lipidomic and metabolomic analyses in an aged mouse model.
+**Authors:** Becktel DA, Frye JB, Le EH, Whitman SA, Schnellmann RG et al.  
+**Journal:** Journal of lipid research (2024)  
+**PMID:** 39098585  **DOI:** 10.1016/j.jlr.2024.100614
+**Entities:** Alzheimer, MBP  
+**Abstract:** Ischemic stroke remains a leading cause of mortality and long-term disability worldwide, necessitating efforts to identify biomarkers for diagnosis, prognosis, and treatment monitoring. The present st...
+
+### Risk of Alzheimer's disease is associated with longitudinal changes in plasma biomarkers in the multi-ethnic Washington Heights-Hamilton Heights-Inwood Columbia Aging Project (WHICAP) cohort.
+**Authors:** Gu Y, Honig LS, Kang MS, Bahl A, Sanchez D et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2024)  
+**PMID:** 38183363  **DOI:** 10.1002/alz.13652
+**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Abstract:** BACKGROUND: Alzheimer's disease (AD) biomarkers can help differentiate cognitively unimpaired (CU) individuals from mild cognitive impairment (MCI) and dementia. The role of AD biomarkers in predictin...
+
+### Decoding Octopus Skin Mucus: Impact of Aquarium-Maintenance and Senescence on the Proteome Profile of the Common Octopus (Octopus vulgaris).
+**Authors:** Pérez-Polo S, Mena AR, Barros L, Borrajo P, Pazos M et al.  
+**Journal:** International journal of molecular sciences (2024)  
+**PMID:** 39337441  **DOI:** 10.3390/ijms25189953
+**Entities:** —  
+**Abstract:** The common octopus (
+
+### Commentary on "Study Partner Report of Apathy in Older Adults is Associated With AD Biomarkers: Findings From the Harvard Aging Brain Study".
+**Authors:** Khasnavis S, O'Dell RS, van Dyck CH, Mecca AP  
+**Journal:** The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry (2024)  
+**PMID:** 38658231  **DOI:** 10.1016/j.jagp.2024.03.017
+**Entities:** —  
+**Abstract:** 
+
+### CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord.
+**Authors:** Sun S, Li J, Wang S, Li J, Ren J et al.  
+**Journal:** Nature (2023)  
+**PMID:** 37907096  **DOI:** 10.1038/s41586-023-06783-1
+**Entities:** aging  
+**Abstract:** Ageing is a critical factor in spinal-cord-associated disorders
+
+### Anosmia, mild cognitive impairment, and biomarkers of brain aging in older adults.
+**Authors:** Dong Y, Li Y, Liu K, Han X, Liu R et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2023)  
+**PMID:** 36341691  **DOI:** 10.1002/alz.12777
+**Entities:** NfL, tau, Aβ42, Alzheimer, aging  
+**Abstract:** Olfactory impairment is a potential marker for prodromal dementia, but the underlying mechanisms are poorly understood. This population-based study included 4214 dementia-free participants (age ≥65 ye...
+
+### Characterizing microglial senescence: Tau as a key player.
+**Authors:** Karabag D, Scheiblich H, Griep A, Santarelli F, Schwartz S et al.  
+**Journal:** Journal of neurochemistry (2023)  
+**PMID:** 37278117  **DOI:** 10.1111/jnc.15866
+**Entities:** tau, aging  
+**Abstract:** The highest risk factor for the development of neurodegenerative diseases like tauopathies is aging. Many physiological decrements underlying aging are linked to cellular senescence. Senescent cells a...
+
+### Aging Brain, Dementia and Impaired Glymphatic Pathway: Causal Relationships.
+**Authors:** Shirolapov I, Zakharov A, Smirnova D, Khivintseva E, Sergeeva M  
+**Journal:** Psychiatria Danubina (2023)  
+**PMID:** 37800234  
+**Entities:** tau, neuroinflammation, Alzheimer, aging  
+**Abstract:** Cellular and molecular processes that are of key importance in the development of neuroinflammation and increased cytokine response, activation of microglia and astrogliosis, contributing to the accum...
+
+### Protein phosphatase 2A activators reverse age-related behavioral changes by targeting neural cell senescence.
+**Authors:** Xing J, Chen K, Gao S, Pousse M, Ying Y et al.  
+**Journal:** Aging cell (2023)  
+**PMID:** 36644807  **DOI:** 10.1111/acel.13780
+**Entities:** aging  
+**Abstract:** The contribution of cellular senescence to the behavioral changes observed in the elderly remains elusive. Here, we observed that aging is associated with a decline in protein phosphatase 2A (PP2A) ac...
+
+### Reappraisal of the Concept of Accelerated Aging in Neurodegeneration and Beyond.
+**Authors:** Statsenko Y, Kuznetsov NV, Morozova D, Liaonchyk K, Simiyu GL et al.  
+**Journal:** Cells (2023)  
+**PMID:** 37887295  **DOI:** 10.3390/cells12202451
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** BACKGROUND: Genetic and epigenetic changes, oxidative stress and inflammation influence the rate of aging, which diseases, lifestyle and environmental factors can further accelerate. In accelerated ag...
+
+### "Brain age" predicts disability accumulation in multiple sclerosis.
+**Authors:** Brier MR, Li Z, Ly M, Karim HT, Liang L et al.  
+**Journal:** Annals of clinical and translational neurology (2023)  
+**PMID:** 37119507  **DOI:** 10.1002/acn3.51782
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVE: Neurodegenerative conditions often manifest radiologically with the appearance of premature aging. Multiple sclerosis (MS) biomarkers related to lesion burden are well developed, but measur...
+
+### Animal models for studies of alcohol effects on the trajectory of age-related cognitive decline.
+**Authors:** Foster TC  
+**Journal:** Alcohol (Fayetteville, N.Y.) (2023)  
+**PMID:** 35504438  **DOI:** 10.1016/j.alcohol.2022.04.005
+**Entities:** ROS, oxidative stress, NMDA receptor, aging  
+**Abstract:** There is growing interest in understanding how ethanol use interacts with advancing age to influence the brain and cognition. Animal models are employed to investigate the cellular and molecular mecha...
+
+### Apolipoprotein D as a Potential Biomarker in Neuropsychiatric Disorders.
+**Authors:** Del Valle E, Rubio-Sardón N, Menéndez-Pérez C, Martínez-Pinilla E, Navarro A  
+**Journal:** International journal of molecular sciences (2023)  
+**PMID:** 37958618  **DOI:** 10.3390/ijms242115631
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** Neuropsychiatric disorders (NDs) are a diverse group of pathologies, including schizophrenia or bipolar disorders, that directly affect the mental and physical health of those who suffer from them, wi...
+
+### Association of Interleukin-6 and Interleukin-8 with Cognitive Decline in an Asian Memory Clinic Population.
+**Authors:** Teoh NSN, Gyanwali B, Lai MKP, Chai YL, Chong JR et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2023)  
+**PMID:** 36776060  **DOI:** 10.3233/JAD-220971
+**Entities:** IL-6, neuroinflammation, Alzheimer  
+**Abstract:** BACKGROUND: Neuroinflammation has been postulated to play an important role in cognitive impairment, cognitive decline, and dementia. Inflammatory biomarkers such as interleukin-6 (IL-6) and IL-8 are ...
+
+### Associations of CSF PDGFRβ With Aging, Blood-Brain Barrier Damage, Neuroinflammation, and Alzheimer Disease Pathologic Changes.
+**Authors:** Cicognola C, Mattsson-Carlgren N, van Westen D, Zetterberg H, Blennow K et al.  
+**Journal:** Neurology (2023)  
+**PMID:** 37137722  **DOI:** 10.1212/WNL.0000000000207358
+**Entities:** GFAP, tau, neuroinflammation, BBB, Alzheimer  
+**Abstract:** BACKGROUND AND OBJECTIVES: Injured pericytes in the neurovascular unit release platelet-derived growth factor β (PDGFRβ) into the CSF. However, it is not clear how pericyte injury contributes to Alzhe...
+
+### MRI and fluid biomarkers reveal determinants of myelin and axonal loss with aging.
+**Authors:** Walker KA, Duggan MR, Gong Z, Dark HE, Laporte JP et al.  
+**Journal:** Annals of clinical and translational neurology (2023)  
+**PMID:** 36762407  **DOI:** 10.1002/acn3.51730
+**Entities:** GFAP, NfL, p-tau, Aβ42, Alzheimer  
+**Abstract:** OBJECTIVE: White matter damage is a feature of Alzheimer's disease, yet little is known about how facets of the Alzheimer's disease process relate to key features of white matter structure. We examine...
+
+### Polyphenols' Impact on Selected Biomarkers of Brain Aging in Healthy Middle-Aged and Elderly Subjects: A Review of Clinical Trials.
+**Authors:** Ziegler T, Tsiountsioura M, Meixner-Goetz L, Cvirn G, Lamprecht M  
+**Journal:** Nutrients (2023)  
+**PMID:** 37686802  **DOI:** 10.3390/nu15173770
+**Entities:** tau, BDNF, aging  
+**Abstract:** With a constantly growing elderly population, incidences of neurodegenerative diseases are also rising and are expected to further increase over the next years, while costing health systems across the...
+
+### Roles of Aging, Circular RNAs, and RNA Editing in the Pathogenesis of Amyotrophic Lateral Sclerosis: Potential Biomarkers and Therapeutic Targets.
+**Authors:** Hosaka T, Tsuji H, Kwak S  
+**Journal:** Cells (2023)  
+**PMID:** 37408276  **DOI:** 10.3390/cells12101443
+**Entities:** AMPA receptor, aging  
+**Abstract:** Amyotrophic lateral sclerosis (ALS) is an incurable motor neuron disease caused by upper and lower motor neuron death. Despite advances in our understanding of ALS pathogenesis, effective treatment fo...
+
+### Body fat and components of sarcopenia relate to inflammation, brain volume, and neurometabolism in older adults.
+**Authors:** Vints WAJ, Kušleikienė S, Sheoran S, Valatkevičienė K, Gleiznienė R et al.  
+**Journal:** Neurobiology of aging (2023)  
+**PMID:** 37004309  **DOI:** 10.1016/j.neurobiolaging.2023.02.011
+**Entities:** IL-6  
+**Abstract:** Obesity and sarcopenia are associated with cognitive impairments at older age. Current research suggests that blood biomarkers may mediate this body-brain crosstalk, altering neurometabolism and brain...
+
+### Brain-predicted age difference mediates the association between PROMIS sleep impairment, and self-reported pain measure in persons with knee pain.
+**Authors:** Montesino-Goicolea S, Valdes-Hernandez P, Laffitte Nodarse C, Johnson AJ, Cole JH et al.  
+**Journal:** Aging brain (2023)  
+**PMID:** 37519450  **DOI:** 10.1016/j.nbas.2023.100088
+**Entities:** aging  
+**Abstract:** Knee pain, the most common cause of musculoskeletal pain (MSK), constitutes a severe public health burden. Its neurobiological causes, however, remain poorly understood. Among many possible causes, it...
+
+### Galectin-1 as a marker for microglia activation in the aging brain.
+**Authors:** Kiss T, Mir Y, Stefancsik G, Ganbat G, Askarova A et al.  
+**Journal:** Brain research (2023)  
+**PMID:** 37557976  **DOI:** 10.1016/j.brainres.2023.148517
+**Entities:** neuroinflammation, aging  
+**Abstract:** Microglia cells, the immune cells residing in the brain, express immune regulatory molecules that have a central role in the manifestation of age-related brain characteristics. Our hypothesis suggests...
+
+### Measures of Aging Biology in Saliva and Blood as Novel Biomarkers for Stroke and Heart Disease in Older Adults.
+**Authors:** Waziry R, Gu Y, Boehme AK, Williams OA  
+**Journal:** Neurology (2023)  
+**PMID:** 37848333  **DOI:** 10.1212/WNL.0000000000207909
+**Entities:** aging  
+**Abstract:** BACKGROUND AND OBJECTIVES: The role of aging biology as a novel risk factor and biomarker for vascular outcomes in different accessible body tissues such as saliva and blood remain unclear. We aimed t...
+
+### APOE ε4 gene dose effect on imaging and blood biomarkers of neuroinflammation and beta-amyloid in cognitively unimpaired elderly.
+**Authors:** Snellman A, Ekblad LL, Tuisku J, Koivumäki M, Ashton NJ et al.  
+**Journal:** Alzheimer's research & therapy (2023)  
+**PMID:** 37016464  **DOI:** 10.1186/s13195-023-01209-6
+**Entities:** GFAP, neuroinflammation, Alzheimer  
+**Abstract:** BACKGROUND: Neuroinflammation, characterized by increased reactivity of microglia and astrocytes in the brain, is known to be present at various stages of the Alzheimer's disease (AD) continuum. Howev...
+
+### Patterns and Persistence of Perioperative Plasma and Cerebrospinal Fluid Neuroinflammatory Protein Biomarkers After Elective Orthopedic Surgery Using SOMAscan.
+**Authors:** Dillon ST, Otu HH, Ngo LH, Fong TG, Vasunilashorn SM et al.  
+**Journal:** Anesthesia and analgesia (2023)  
+**PMID:** 35389379  **DOI:** 10.1213/ANE.0000000000005991
+**Entities:** IL-6, neuroinflammation  
+**Abstract:** BACKGROUND: The neuroinflammatory response to surgery can be characterized by peripheral acute plasma protein changes in blood, but corresponding, persisting alterations in cerebrospinal fluid (CSF) p...
+
+### Accelerated Brain Aging in Adults With Major Depressive Disorder Predicts Poorer Outcome With Sertraline: Findings From the EMBARC Study.
+**Authors:** Jha MK, Chin Fatt C, Minhajuddin A, Mayes TL, Trivedi MH  
+**Journal:** Biological psychiatry. Cognitive neuroscience and neuroimaging (2023)  
+**PMID:** 36179972  **DOI:** 10.1016/j.bpsc.2022.09.006
+**Entities:** aging  
+**Abstract:** BACKGROUND: Major depressive disorder (MDD) may be associated with accelerated brain aging (higher brain age than chronological age). This report evaluated whether brain age is a clinically useful bio...
+
+### Rethinking the detection and diagnosis of Alzheimer's disease: Outcomes of a European Brain Council project.
+**Authors:** Dumas A, Destrebecq F, Esposito G, Suchonova D, Steen Frederiksen K  
+**Journal:** Aging brain (2023)  
+**PMID:** 37692977  **DOI:** 10.1016/j.nbas.2023.100093
+**Entities:** Alzheimer  
+**Abstract:** Alzheimer's disease (AD), the most common form of dementia, is a progressive and debilitating neurodegenerative condition which robs people of their memory, their independence, their relationships and...
+
+### Caloric restriction reinforces the stem cell pool in the aged brain without affecting overall proliferation status.
+**Authors:** Erbaba B, Macaroglu D, Ardic-Avci NI, Arslan-Ergul A, Adams MM  
+**Journal:** Gene (2023)  
+**PMID:** 36332837  **DOI:** 10.1016/j.gene.2022.147026
+**Entities:** ROS, neuroinflammation, oxidative stress, aging  
+**Abstract:** Overfeeding (OF) and obesity increase the risk for brain aging and neurodegenerative diseases due to increased oxidative stress and neuroinflammation, which likely contribute to cellular dysfunction. ...
+
+### In the quest for the ideal sweetener: Aspartame exacerbates selected biomarkers in the fruit fly (Drosophila melanogaster) model of Alzheimer's disease more than sucrose.
+**Authors:** Adedayo BC, Akinniyi ST, Ogunsuyi OB, Oboh G  
+**Journal:** Aging brain (2023)  
+**PMID:** 37559954  **DOI:** 10.1016/j.nbas.2023.100090
+**Entities:** ROS, oxidative stress, Alzheimer  
+**Abstract:** This study evaluated the effect of dietary inclusions of aspartame and sucrose on some selected behavioral and biochemical indices linked with Alzheimer's disease in a transgenic fruit fly (Drosophila...
+
+### Sleep deprivation aggravated amyloid β oligomers-induced damage to the cerebellum of rats: Evidence from magnetic resonance imaging.
+**Authors:** Guo W, Mao X, Han D, Wang H, Zhang W et al.  
+**Journal:** Aging brain (2023)  
+**PMID:** 37600754  **DOI:** 10.1016/j.nbas.2023.100091
+**Entities:** Aβ42, Alzheimer  
+**Abstract:** For quite a long time, researches on Alzheimer's disease (AD) primarily focused on the cortex and hippocampus, while the cerebellum has been ignored because of its abnormalities considered to appear i...
+
+### Gut Microbiota Interact With the Brain Through Systemic Chronic Inflammation: Implications on Neuroinflammation, Neurodegeneration, and Aging.
+**Authors:** Mou Y, Du Y, Zhou L, Yue J, Hu X et al.  
+**Journal:** Frontiers in immunology (2022)  
+**PMID:** 35464431  **DOI:** 10.3389/fimmu.2022.796288
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** It has been noticed in recent years that the unfavorable effects of the gut microbiota could exhaust host vigor and life, yet knowledge and theory are just beginning to be established. Increasing docu...
+
+### Glutathione in Brain Disorders and Aging.
+**Authors:** Iskusnykh IY, Zakharova AA, Pathak D  
+**Journal:** Molecules (Basel, Switzerland) (2022)  
+**PMID:** 35011559  **DOI:** 10.3390/molecules27010324
+**Entities:** Alzheimer, glutathione, aging  
+**Abstract:** Glutathione is a remarkably functional molecule with diverse features, which include being an antioxidant, a regulator of DNA synthesis and repair, a protector of thiol groups in proteins, a stabilize...
+
+### Association between inflammatory biomarkers and cognitive aging.
+**Authors:** Fang Y, Doyle MF, Chen J, Alosco ML, Mez J et al.  
+**Journal:** PloS one (2022)  
+**PMID:** 36083988  **DOI:** 10.1371/journal.pone.0274350
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Inflammatory cytokines and chemokines related to the innate and adaptive immune system have been linked to neuroinflammation in Alzheimer's Disease, dementia, and cognitive disorders. We examined the ...
+
+### Differential expression of a brain aging biomarker across discrete chronic pain disorders.
+**Authors:** Hung PS, Zhang JY, Noorani A, Walker MR, Huang M et al.  
+**Journal:** Pain (2022)  
+**PMID:** 35202044  **DOI:** 10.1097/j.pain.0000000000002613
+**Entities:** aging  
+**Abstract:** Chronic pain has widespread, detrimental effects on the human nervous system and its prevalence and burden increase with age. Machine learning techniques have been applied on brain images to produce s...
+
+### Sex differences in predictors and regional patterns of brain age gap estimates.
+**Authors:** Sanford N, Ge R, Antoniades M, Modabbernia A, Haas SS et al.  
+**Journal:** Human brain mapping (2022)  
+**PMID:** 35790053  **DOI:** 10.1002/hbm.25983
+**Entities:** aging  
+**Abstract:** The brain-age-gap estimate (brainAGE) quantifies the difference between chronological age and age predicted by applying machine-learning models to neuroimaging data and is considered a biomarker of br...
+
+### Advanced brain aging in multiple system atrophy compared to Parkinson's disease.
+**Authors:** Chen CL, Kuo MC, Wu WC, Hsu YC, Wu RM et al.  
+**Journal:** NeuroImage. Clinical (2022)  
+**PMID:** 35397330  **DOI:** 10.1016/j.nicl.2022.102997
+**Entities:** aging  
+**Abstract:** Multiple system atrophy (MSA) and Parkinson's disease (PD) belong to alpha-synucleinopathy, but they have very different clinical courses and prognoses. An imaging biomarker that can differentiate bet...
+
+### Nontransgenic Guinea Pig Strains Exhibit Hallmarks of Human Brain Aging and Alzheimer's Disease.
+**Authors:** Wahl D, Moreno JA, Santangelo KS, Zhang Q, Afzali MF et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2022)  
+**PMID:** 35323931  **DOI:** 10.1093/gerona/glac073
+**Entities:** S100B, NfL, tau, p-tau, Iba1  
+**Abstract:** Older age is the primary risk factor for most chronic diseases, including Alzheimer's disease (AD). Current preclinical models to study brain aging and AD are mainly transgenic and harbor mutations in...
+
+### Mid-life epigenetic age, neuroimaging brain age, and cognitive function: coronary artery risk development in young adults (CARDIA) study.
+**Authors:** Zheng Y, Habes M, Gonzales M, Pomponio R, Nasrallah I et al.  
+**Journal:** Aging (2022)  
+**PMID:** 35220276  **DOI:** 10.18632/aging.203918
+**Entities:** Alzheimer, aging  
+**Abstract:** The proportion of aging populations affected by dementia is increasing. There is an urgent need to identify biological aging markers in mid-life before symptoms of age-related dementia present for ear...
+
+### Associations between cerebrospinal fluid markers and cognition in ageing and dementia: A systematic review.
+**Authors:** Saunders TS, Gadd DA, Spires-Jones TL, King D, Ritchie C et al.  
+**Journal:** The European journal of neuroscience (2022)  
+**PMID:** 35338546  **DOI:** 10.1111/ejn.15656
+**Entities:** Alzheimer, aging  
+**Abstract:** A biomarker associated with cognition in neurodegenerative dementias would aid in the early detection of disease progression, complement clinical staging and act as a surrogate endpoint in clinical tr...
+
+### Sex Differences in the Association Between Metabolic Dysregulation and Cognitive Aging: The Health and Retirement Study.
+**Authors:** Chanti-Ketterl M, Stebbins RC, Obhi HK, Belsky DW, Plassman BL et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2022)  
+**PMID:** 34606593  **DOI:** 10.1093/gerona/glab285
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Dysregulation of some metabolic factors increases the risk of dementia. It remains unclear if overall metabolic dysregulation, or only certain components, contribute to cognitive aging and...
+
+### Altered mitochondrial microenvironment at the spotlight of musculoskeletal aging and Alzheimer's disease.
+**Authors:** Giannos P, Prokopidis K, Raleigh SM, Kelaiditi E, Hill M  
+**Journal:** Scientific reports (2022)  
+**PMID:** 35788655  **DOI:** 10.1038/s41598-022-15578-9
+**Entities:** Alzheimer, aging  
+**Abstract:** Emerging evidence has linked Alzheimer's disease (AD) onset with musculoskeletal aging via a muscle-brain crosstalk mediated by dysregulation of the mitochondrial microenvironment. This study investig...
+
+### Characterizing plasma NfL in a community-dwelling multi-ethnic cohort: Results from the HABLE study.
+**Authors:** O'Bryant S, Petersen M, Hall J, Johnson L, Yaffe K et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2022)  
+**PMID:** 34310015  **DOI:** 10.1002/alz.12404
+**Entities:** NfL, Alzheimer, Simoa, aging  
+**Abstract:** INTRODUCTION: No large-scale characterizations of neurofilament light chain (NfL) have been conducted in diverse populations. METHODS: Baseline data were analyzed among n = 890 Mexican Americans and n...
+
+### Influence of endogenous estrogen on a network model of female brain integrity.
+**Authors:** Foret JT, Caillaud M, Gourley DD, Dekhtyar M, Tanaka H et al.  
+**Journal:** Aging brain (2022)  
+**PMID:** 36908891  **DOI:** 10.1016/j.nbas.2022.100053
+**Entities:** —  
+**Abstract:** Recent reports document sex differences in midlife brain integrity and metabolic health, such that more relationships are detectable between metabolic syndrome (MetS) components and markers of brain h...
+
+### Senescent Phenotype of Astrocytes Leads to Activation of BV2 Microglia and N2a Neuronal Cells Death.
+**Authors:** Zhang W, Yang X, Liu J, Pan Y, Zhang M et al.  
+**Journal:** Molecules (Basel, Switzerland) (2022)  
+**PMID:** 36144658  **DOI:** 10.3390/molecules27185925
+**Entities:** aging  
+**Abstract:** (1) Background: Astrocytes, the most abundant cell type in the central nervous system, are essential to tune individual-to-network neuronal activity. Senescence in astrocytes has been discovered as a ...
+
+### Characterising murine hippocampal iron homeostasis, in relation to markers of brain inflammation and metabolism, during ageing.
+**Authors:** Ellison G, Duong L, Hollings A, Howard D, Jackaman C et al.  
+**Journal:** Metallomics : integrated biometal science (2022)  
+**PMID:** 36066906  **DOI:** 10.1093/mtomcs/mfac064
+**Entities:** aging  
+**Abstract:** Metal ions (Fe, Cu, and Zn) are essential to a healthy brain function, with the amount, localisation, and chemical form often tightly controlled. Evidence points towards loss of metal ion homeostasis ...
+
+### 3-Bromopyruvate, a caloric restriction mimetic, exerts a mitohormetic effect to provide neuroprotection through activation of autophagy in rats during aging.
+**Authors:** Arya JK, Kumar R, Tripathi SS, Rizvi SI  
+**Journal:** Biogerontology (2022)  
+**PMID:** 36048311  **DOI:** 10.1007/s10522-022-09988-5
+**Entities:** ROS, SOD, catalase, NSE, aging  
+**Abstract:** In the present study, attempts have been made to evaluate the potential role of 3 Bromopyruvate (3-BP) a glycolytic inhibitor and a caloric restriction mimetic (CRM), to exert neuroprotection in rats ...
+
+### Gray matter network properties show distinct associations with CSF p-tau 181 levels and amyloid status in individuals without dementia.
+**Authors:** Luigi L, Silvia I, Viktor W, Wink AM, Mutsaerts HJ et al.  
+**Journal:** Aging brain (2022)  
+**PMID:** 36908898  **DOI:** 10.1016/j.nbas.2022.100054
+**Entities:** tau, p-tau, Alzheimer  
+**Abstract:** Gray matter networks are altered with amyloid accumulation in the earliest stage of AD, and are associated with decline throughout the AD spectrum. It remains unclear to what extent gray matter networ...
+
+### Elevation of inactive cleaved annexin A1 in the neocortex is associated with amyloid, inflammatory and apoptotic markers in neurodegenerative dementias.
+**Authors:** Chua XY, Chong JR, Cheng AL, Lee JH, Ballard C et al.  
+**Journal:** Neurochemistry international (2022)  
+**PMID:** 34861326  **DOI:** 10.1016/j.neuint.2021.105251
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** Inflammation is usually a tightly regulated process whose termination by mediators including Annexin A1 (AnxA1) results in the resolution of inflammatory responses. In neurodegenerative dementias, chr...
+
+### Aging biomarkers and the brain.
+**Authors:** Higgins-Chen AT, Thrush KL, Levine ME  
+**Journal:** Seminars in cell & developmental biology (2021)  
+**PMID:** 33509689  **DOI:** 10.1016/j.semcdb.2021.01.003
+**Entities:** aging  
+**Abstract:** Quantifying biological aging is critical for understanding why aging is the primary driver of morbidity and mortality and for assessing novel therapies to counter pathological aging. In the past decad...
+
+### Chromosome Instability, Aging and Brain Diseases.
+**Authors:** Iourov IY, Yurov YB, Vorsanova SG, Kutsev SI  
+**Journal:** Cells (2021)  
+**PMID:** 34069648  **DOI:** 10.3390/cells10051256
+**Entities:** Alzheimer, aging  
+**Abstract:** Chromosome instability (CIN) has been repeatedly associated with aging and progeroid phenotypes. Moreover, brain-specific CIN seems to be an important element of pathogenic cascades leading to neurode...
+
+### Aging of Brain Related with Mitochondrial Dysfunctions.
+**Authors:** Dhote V, Samundre P, Ganeshpurkar A, Upaganlawar A  
+**Journal:** Current drug targets (2021)  
+**PMID:** 33302830  **DOI:** 10.2174/1389450121999201209202247
+**Entities:** Alzheimer, aging  
+**Abstract:** Advancing age presents a major challenge for the elderly population in terms of quality of life. The risk of cognitive impairment, motor in-coordination, and behavioral inconsistency due to neuronal d...
+
+### Age-related hearing loss and cognitive decline: MRI and cellular evidence.
+**Authors:** Jafari Z, Kolb BE, Mohajerani MH  
+**Journal:** Annals of the New York Academy of Sciences (2021)  
+**PMID:** 34114212  **DOI:** 10.1111/nyas.14617
+**Entities:** —  
+**Abstract:** Extensive evidence supports the association between age-related hearing loss (ARHL) and cognitive decline. It is, however, unknown whether a causal relationship exists between these two, or whether th...
+
+### Mini-review: The suspected non-Alzheimer's disease pathophysiology.
+**Authors:** Rizzi L, Balthazar MLF  
+**Journal:** Neuroscience letters (2021)  
+**PMID:** 34478819  **DOI:** 10.1016/j.neulet.2021.136208
+**Entities:** tau, p-tau, Alzheimer  
+**Abstract:** Suspected non-Alzheimer's disease pathophysiology (SNAP) is a biomarker-based concept that underlying etiology has not been completely understood. Refers to a group of individuals that are negative fo...
+
+### Senescence in Post-Mitotic Cells: A Driver of Aging?
+**Authors:** von Zglinicki T, Wan T, Miwa S  
+**Journal:** Antioxidants & redox signaling (2021)  
+**PMID:** 32164429  **DOI:** 10.1089/ars.2020.8048
+**Entities:** aging  
+**Abstract:** 
+
+### Microglia and modifiable life factors: Potential contributions to cognitive resilience in aging.
+**Authors:** Duggan MR, Parikh V  
+**Journal:** Behavioural brain research (2021)  
+**PMID:** 33640394  **DOI:** 10.1016/j.bbr.2021.113207
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Given the increasing prevalence of age-related cognitive decline, it is relevant to consider the factors and mechanisms that might facilitate an individual's resiliency to such deficits. Growing evide...
+
+### Cognitive reserve and Alzheimer's biological continuum: clues for prediction and prevention of dementia.
+**Authors:** Martorana A, Assogna M, DE Lucia V, Motta C, Bonomi CG et al.  
+**Journal:** Minerva medica (2021)  
+**PMID:** 33709673  **DOI:** 10.23736/S0026-4806.21.07448-6
+**Entities:** Alzheimer, aging  
+**Abstract:** Cognitive reserve is originally an epidemiological concept that encompasses individual abilities to cope with changes. It is considered the result of a balance between processes of cellular damage and...
+
+### The Impact of Ageing on the CNS Immune Response in Alzheimer's Disease.
+**Authors:** Chee SEJ, Solito E  
+**Journal:** Frontiers in immunology (2021)  
+**PMID:** 34603320  **DOI:** 10.3389/fimmu.2021.738511
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Alzheimer's Disease (AD) is a progressive neurodegenerative disease strongly associated with increasing age. Neuroinflammation and the accumulation of amyloid protein are amongst the hallmarks of this...
+
+### Melatonin's neuroprotective role in mitochondria and its potential as a biomarker in aging, cognition and psychiatric disorders.
+**Authors:** Melhuish Beaupre LM, Brown GM, Gonçalves VF, Kennedy JL  
+**Journal:** Translational psychiatry (2021)  
+**PMID:** 34078880  **DOI:** 10.1038/s41398-021-01464-x
+**Entities:** ROS, aging  
+**Abstract:** Melatonin is an ancient molecule that is evident in high concentrations in various tissues throughout the body. It can be separated into two pools; one of which is synthesized by the pineal and can be...
+
+### Utilizing an Animal Model to Identify Brain Neurodegeneration-Related Biomarkers in Aging.
+**Authors:** Yang MH, Chen YA, Tu SC, Chi PL, Chuang KP et al.  
+**Journal:** International journal of molecular sciences (2021)  
+**PMID:** 33807010  **DOI:** 10.3390/ijms22063278
+**Entities:** ROS, Alzheimer, SOD, aging  
+**Abstract:** Glycine N-methyltransferase (GNMT) regulates S-adenosylmethionine (SAMe), a methyl donor in methylation. Over-expressed SAMe may cause neurogenic capacity reduction and memory impairment. GNMT knockou...
+
+### Aging is associated with glial senescence in the brainstem - implications for age-related sympathetic overactivity.
+**Authors:** Balasubramanian P, Branen L, Sivasubramanian MK, Monteiro R, Subramanian M  
+**Journal:** Aging (2021)  
+**PMID:** 34038388  **DOI:** 10.18632/aging.203111
+**Entities:** neuroinflammation, aging  
+**Abstract:** Accumulating evidence suggests that the sympathetic nervous system (SNS) overactivity plays a crucial role in age-related increase in the risk for cardiovascular diseases such as hypertension, myocard...
+
+### Cdkn1a transcript variant 2 is a marker of aging and cellular senescence.
+**Authors:** López-Domínguez JA, Rodríguez-López S, Ahumada-Castro U, Desprez PY, Konovalenko M et al.  
+**Journal:** Aging (2021)  
+**PMID:** 34035185  **DOI:** 10.18632/aging.203110
+**Entities:** aging  
+**Abstract:** Cellular senescence is a cell fate response characterized by a permanent cell cycle arrest driven primarily the by cell cycle inhibitor and tumor suppressor proteins p16
+
+### Brain energy metabolism and neurodegeneration: hints from CSF lactate levels in dementias.
+**Authors:** Bonomi CG, De Lucia V, Mascolo AP, Assogna M, Motta C et al.  
+**Journal:** Neurobiology of aging (2021)  
+**PMID:** 34171631  **DOI:** 10.1016/j.neurobiolaging.2021.05.011
+**Entities:** tau, p-tau, Alzheimer  
+**Abstract:** Mitochondrial dysfunction is pivotal in the development of neurodegenerative dementias, causing cellular death alongside disease-specific pathogenic cascades. Holding cerebrospinal fluid (CSF) lactate...
+
+### The age-dependent associations of white matter hyperintensities and neurofilament light in early- and late-stage Alzheimer's disease.
+**Authors:** Walsh P, Sudre CH, Fiford CM, Ryan NS, Lashley T et al.  
+**Journal:** Neurobiology of aging (2021)  
+**PMID:** 33070094  **DOI:** 10.1016/j.neurobiolaging.2020.09.008
+**Entities:** NfL, Alzheimer, aging  
+**Abstract:** Neurofilament light (NFL) is an emerging marker of axonal degeneration. This study investigated the relationship between white matter hyperintensities (WMHs) and plasma NFL in a large elderly cohort w...
+
+### Exosomes in Ageing and Motor Neurone Disease: Biogenesis, Uptake Mechanisms, Modifications in Disease and Uses in the Development of Biomarkers and Therapeutics.
+**Authors:** Anakor E, Le Gall L, Dumonceaux J, Duddy WJ, Duguez S  
+**Journal:** Cells (2021)  
+**PMID:** 34831153  **DOI:** 10.3390/cells10112930
+**Entities:** Alzheimer, aging  
+**Abstract:** Intercellular communication between neurons and their surrounding cells occurs through the secretion of soluble molecules or release of vesicles such as exosomes into the extracellular space, particip...
+
+### Signatures of white-matter microstructure degradation during aging and its association with cognitive status.
+**Authors:** Coelho A, Fernandes HM, Magalhães R, Moreira PS, Marques P et al.  
+**Journal:** Scientific reports (2021)  
+**PMID:** 33633204  **DOI:** 10.1038/s41598-021-83983-7
+**Entities:** aging  
+**Abstract:** Previous studies have shown an association between cognitive decline and white matter integrity in aging. This led to the formulation of a "disconnection hypothesis" in the aging-brain, which states t...
+
+### Dietary Protein Source Influences Brain Inflammation and Memory in a Male Senescence-Accelerated Mouse Model of Dementia.
+**Authors:** Petralla S, Parenti C, Ravaioli V, Fancello I, Massenzio F et al.  
+**Journal:** Molecular neurobiology (2021)  
+**PMID:** 33169333  **DOI:** 10.1007/s12035-020-02191-y
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Dementia is a pathological condition characterized by a decline in memory, as well as in other cognitive and social functions. The cellular and molecular mechanisms of brain damage in dementia are not...
+
+### Integrating Three Characteristics of Executive Function in Non-Demented Aging: Trajectories, Classification, and Biomarker Predictors.
+**Authors:** Caballero HS, McFall GP, Wiebe SA, Dixon RA  
+**Journal:** Journal of the International Neuropsychological Society : JINS (2021)  
+**PMID:** 32772936  **DOI:** 10.1017/S1355617720000703
+**Entities:** aging  
+**Abstract:** OBJECTIVE: With longitudinal executive function (EF) data from the Victoria Longitudinal Study, we investigated three research goals pertaining to key characteristics of EF in non-demented aging: (a) ...
+
+### The Brain Chart of Aging: Machine-learning analytics reveals links between brain aging, white matter disease, amyloid burden, and cognition in the iSTAGING consortium of 10,216 harmonized MR scans.
+**Authors:** Habes M, Pomponio R, Shou H, Doshi J, Mamourian E et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2021)  
+**PMID:** 32920988  **DOI:** 10.1002/alz.12178
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: Relationships between brain atrophy patterns of typical aging and Alzheimer's disease (AD), white matter disease, cognition, and AD neuropathology were investigated via machine learning ...
+
+### Gait variability across neurodegenerative and cognitive disorders: Results from the Canadian Consortium of Neurodegeneration in Aging (CCNA) and the Gait and Brain Study.
+**Authors:** Pieruccini-Faria F, Black SE, Masellis M, Smith EE, Almeida QJ et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2021)  
+**PMID:** 33590967  **DOI:** 10.1002/alz.12298
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: Gait impairment is common in neurodegenerative disorders. Specifically, gait variability-the stride-to-stride fluctuations in distance and time-has been associated with neurodegeneration...
+
+### Neurofilament light as a biomarker of axonal degeneration in patients with mild cognitive impairment and Alzheimer's disease.
+**Authors:** Chen Y, Therriault J, Luo J, Ba M, Zhang H et al.  
+**Journal:** Journal of integrative neuroscience (2021)  
+**PMID:** 34997710  **DOI:** 10.31083/j.jin2004088
+**Entities:** NfL, tau, p-tau, Alzheimer  
+**Abstract:** Cerebrospinal fluid neurofilament light and plasma neurofilament light concentrations are elevated in patients with mild cognitive impairment and Alzheimer's disease. We investigated the clinical rele...
+
+### TFEB protein expression is reduced in aged brains and its overexpression mitigates senescence-associated biomarkers and memory deficits in mice.
+**Authors:** Wang H, Muthu Karuppan MK, Devadoss D, Nair M, Chand HS et al.  
+**Journal:** Neurobiology of aging (2021)  
+**PMID:** 34229273  **DOI:** 10.1016/j.neurobiolaging.2021.06.003
+**Entities:** aging  
+**Abstract:** Identification of molecules and molecular pathways that can ameliorate aging-associated decline in cognitive function is crucial. Here we report that the protein levels of transcription factor EB (TFE...
+
+### Emulative, coherent, and causal dynamics between large-scale brain networks are neurobiomarkers of Accelerated Cognitive Ageing in epilepsy.
+**Authors:** Bernas A, Breuer LEM, Aldenkamp AP, Zinger S  
+**Journal:** PloS one (2021)  
+**PMID:** 33861794  **DOI:** 10.1371/journal.pone.0250222
+**Entities:** aging  
+**Abstract:** Accelerated cognitive ageing (ACA) is an ageing co-morbidity in epilepsy that is diagnosed through the observation of an evident IQ decline of more than 1 standard deviation (15 points) around the age...
+
+### Comparison of Plasma Phosphorylated Tau Species With Amyloid and Tau Positron Emission Tomography, Neurodegeneration, Vascular Pathology, and Cognitive Outcomes.
+**Authors:** Mielke MM, Frank RD, Dage JL, Jeromin A, Ashton NJ et al.  
+**Journal:** JAMA neurology (2021)  
+**PMID:** 34309632  **DOI:** 10.1001/jamaneurol.2021.2293
+**Entities:** tau, p-tau, Alzheimer, Simoa, aging  
+**Abstract:** IMPORTANCE: Cerebrospinal fluid phosphorylated tau (p-tau) 181, p-tau217, and p-tau231 are associated with neuropathological outcomes, but a comparison of these p-tau isoforms in blood samples is need...
+
+### Early signature in the blood lipidome associated with subsequent cognitive decline in the elderly: A case-control analysis nested within the Three-City cohort study.
+**Authors:** Lefèvre-Arbogast S, Hejblum BP, Helmer C, Klose C, Manach C et al.  
+**Journal:** EBioMedicine (2021)  
+**PMID:** 33508744  **DOI:** 10.1016/j.ebiom.2021.103216
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Brain lipid metabolism appears critical for cognitive aging, but whether alterations in the lipidome relate to cognitive decline remains unclear at the system level. METHODS: We studied pa...
+
+### Knock-Down of HDAC2 in Human Induced Pluripotent Stem Cell Derived Neurons Improves Neuronal Mitochondrial Dynamics, Neuronal Maturation and Reduces Amyloid Beta Peptides.
+**Authors:** Frankowski H, Yeboah F, Berry BJ, Kinoshita C, Lee M et al.  
+**Journal:** International journal of molecular sciences (2021)  
+**PMID:** 33802405  **DOI:** 10.3390/ijms22052526
+**Entities:** Alzheimer, aging  
+**Abstract:** Histone deacetylase 2 (HDAC2) is a major HDAC protein in the adult brain and has been shown to regulate many neuronal genes. The aberrant expression of HDAC2 and subsequent dysregulation of neuronal g...
+
+### Mitophagy and the Brain.
+**Authors:** Swerdlow NS, Wilkins HM  
+**Journal:** International journal of molecular sciences (2020)  
+**PMID:** 33352896  **DOI:** 10.3390/ijms21249661
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** Stress mechanisms have long been associated with neuronal loss and neurodegenerative diseases. The origin of cell stress and neuronal loss likely stems from multiple pathways. These include (but are n...
+
+### In vivo biomarkers of structural and functional brain development and aging in humans.
+**Authors:** Franke K, Bublak P, Hoyer D, Billiet T, Gaser C et al.  
+**Journal:** Neuroscience and biobehavioral reviews (2020)  
+**PMID:** 33308708  **DOI:** 10.1016/j.neubiorev.2017.11.002
+**Entities:** aging  
+**Abstract:** Brain aging is a major determinant of aging. Along with the aging population, prevalence of neurodegenerative diseases is increasing, therewith placing economic and social burden on individuals and so...
+
+### MRI-based biomarkers of accelerated aging and dementia risk in midlife: how close are we?
+**Authors:** Elliott ML  
+**Journal:** Ageing research reviews (2020)  
+**PMID:** 32325150  **DOI:** 10.1016/j.arr.2020.101075
+**Entities:** Alzheimer, aging  
+**Abstract:** The global population is aging, leading to an increasing burden of age-related neurodegenerative disease. Efforts to intervene against age-related dementias in older adults have generally proven ineff...
+
+### MicroRNA predicts cognitive performance in healthy older adults.
+**Authors:** Gullett JM, Chen Z, O'Shea A, Akbar M, Bian J et al.  
+**Journal:** Neurobiology of aging (2020)  
+**PMID:** 32846274  **DOI:** 10.1016/j.neurobiolaging.2020.07.023
+**Entities:** Alzheimer, aging  
+**Abstract:** The expression of microRNA (miRNA) is influenced by ongoing biological processes, including aging, and has begun to play a role in the measurement of neurodegenerative processes in central nervous sys...
+
+### Associations of Brain Pathology Cognitive and Physical Markers With Age in Cognitively Normal Individuals Aged 60-102 Years.
+**Authors:** Legdeur N, Tijms BM, Konijnenberg E, den Braber A, Ten Kate M et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2020)  
+**PMID:** 31411322  **DOI:** 10.1093/gerona/glz180
+**Entities:** Alzheimer  
+**Abstract:** The prevalence of brain pathologies increases with age and cognitive and physical functions worsen over the lifetime. It is unclear whether these processes show a similar increase with age. We studied...
+
+### Clinical Assessment of the NADome as Biomarkers for Healthy Aging.
+**Authors:** Jayasena T, Bustamante S, Clement J, Welschinger R, Caplan GA et al.  
+**Journal:** Methods in molecular biology (Clifton, N.J.) (2020)  
+**PMID:** 32219750  **DOI:** 10.1007/978-1-0716-0471-7_13
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Nicotinamide adenine dinucleotide (NAD+) and its related metabolites (NADome) are important endogenous analytes that are thought to play important roles in cellular metabolism, inflammation, oxidative...
+
+### Clinical meaningfulness of subtle cognitive decline on longitudinal testing in preclinical AD.
+**Authors:** Papp KV, Buckley R, Mormino E, Maruff P, Villemagne VL et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2020)  
+**PMID:** 31759879  **DOI:** 10.1016/j.jalz.2019.09.074
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: Demonstrating the "clinical meaningfulness" of slowing early cognitive decline in clinically normal (CN) older adults with elevated amyloid-β (Aβ+) is critical for Alzheimer's disease se...
+
+### Accelerated immune aging was correlated with lupus-associated brain fog in reproductive-age systemic lupus erythematosus patients.
+**Authors:** Kalim H, Pratama MZ, Mahardini E, Winoto ES, Krisna PA et al.  
+**Journal:** International journal of rheumatic diseases (2020)  
+**PMID:** 32107852  **DOI:** 10.1111/1756-185X.13816
+**Entities:** aging  
+**Abstract:** AIMS: Cognitive impairment is common in systemic lupus erythematosus (SLE) patients with substantial adverse effects on function and quality of life. One hypothesis to understand the mechanisms of cog...
+
+### Amyloid beta, tau, synaptic, neurodegeneration, and glial biomarkers in the preclinical stage of the Alzheimer's continuum.
+**Authors:** Milà-Alomà M, Salvadó G, Gispert JD, Vilor-Tejedor N, Grau-Rivera O et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2020)  
+**PMID:** 32573951  **DOI:** 10.1002/alz.12131
+**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Abstract:** INTRODUCTION: The biological pathways involved in the preclinical stage of the Alzheimer's continuum are not well understood. METHODS: We used NeuroToolKit and Elecsys® immunoassays to measure cerebro...
+
+### Mfn2 Ablation in the Adult Mouse Hippocampus and Cortex Causes Neuronal Death.
+**Authors:** Han S, Nandy P, Austria Q, Siedlak SL, Torres S et al.  
+**Journal:** Cells (2020)  
+**PMID:** 31947766  **DOI:** 10.3390/cells9010116
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer  
+**Abstract:** It is believed that mitochondrial fragmentation cause mitochondrial dysfunction and neuronal deficits in Alzheimer's disease. We recently reported that constitutive knockout of the mitochondria fusion...
+
+### New insights on the influence of free d-aspartate metabolism in the mammalian brain during prenatal and postnatal life.
+**Authors:** Errico F, Cuomo M, Canu N, Caputo V, Usiello A  
+**Journal:** Biochimica et biophysica acta. Proteins and proteomics (2020)  
+**PMID:** 32561430  **DOI:** 10.1016/j.bbapap.2020.140471
+**Entities:** neuroinflammation, NMDA receptor, aging  
+**Abstract:** Free d-aspartate is abundant in the mammalian embryonic brain. However, following the postnatal onset of the catabolic d-aspartate oxidase (DDO) activity, cerebral d-aspartate levels drastically decre...
+
+### Astragaloside IV inhibits astrocyte senescence: implication in Parkinson's disease.
+**Authors:** Xia ML, Xie XH, Ding JH, Du RH, Hu G  
+**Journal:** Journal of neuroinflammation (2020)  
+**PMID:** 32252767  **DOI:** 10.1186/s12974-020-01791-8
+**Entities:** ROS, Alzheimer, dopamine, aging  
+**Abstract:** BACKGROUND: Senescent astrocytes have been implicated in the aging brain and neurodegenerative disorders, including Parkinson's disease (PD). Astragaloside IV (AS-IV) is an antioxidant derivative from...
+
+### Astaxanthin attenuates d-galactose-induced brain aging in rats by ameliorating oxidative stress, mitochondrial dysfunction, and regulating metabolic markers.
+**Authors:** Liu H, Zhang X, Xiao J, Song M, Cao Y et al.  
+**Journal:** Food & function (2020)  
+**PMID:** 32343758  **DOI:** 10.1039/d0fo00633e
+**Entities:** ROS, oxidative stress, SOD, glutathione, catalase  
+**Abstract:** Astaxanthin (AX) is a red-colored xanthophyll carotenoid with potent antioxidant, anti-inflammatory, and neuroprotective properties. However, the underlying in vivo mechanism by which AX protects the ...
+
+### Surgery/Anesthesia disturbs mitochondrial fission/fusion dynamics in the brain of aged mice with postoperative delirium.
+**Authors:** Lu Y, Chen L, Ye J, Chen C, Zhou Y et al.  
+**Journal:** Aging (2020)  
+**PMID:** 31929114  **DOI:** 10.18632/aging.102659
+**Entities:** ROS, BDNF, oxidative stress, SOD  
+**Abstract:** Postoperative delirium (POD) is a common complication following surgery and anesthesia (Surgery/Anesthesia). Mitochondrial dysfunction, which is demonstrated by energy deficits and excessively activat...
+
+### Differential Effect of Repeated Lipopolysaccharide Treatment and Aging on Hippocampal Function and Biomarkers of Hippocampal Senescence.
+**Authors:** Barter J, Kumar A, Rani A, Colon-Perez LM, Febo M et al.  
+**Journal:** Molecular neurobiology (2020)  
+**PMID:** 32651758  **DOI:** 10.1007/s12035-020-02008-y
+**Entities:** neuroinflammation, aging  
+**Abstract:** Markers of brain aging and cognitive decline are thought to be influenced by peripheral inflammation. This study compared the effects of repeated lipopolysaccharide (LPS) treatment in young rats to ag...
+
+### Effect of short-term oral supplementation of crocin on age-related oxidative stress, cholinergic, and mitochondrial dysfunction in rat cerebral cortex.
+**Authors:** Krishnaswamy VKD, Alugoju P, Periyasamy L  
+**Journal:** Life sciences (2020)  
+**PMID:** 33038382  **DOI:** 10.1016/j.lfs.2020.118545
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** BACKGROUND AND AIM: Aging is associated with oxidative stress and altered cholinergic and mitochondrial function. Crocin is a carotenoid antioxidant that quenches free radicals and protects cells and ...
+
+### Systemic Tumor Necrosis Factor-Alpha Trajectories Relate to Brain Health in Typically Aging Older Adults.
+**Authors:** Lindbergh CA, Casaletto KB, Staffaroni AM, Elahi F, Walters SM et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2020)  
+**PMID:** 31549145  **DOI:** 10.1093/gerona/glz209
+**Entities:** TNF-α, neuroinflammation, aging  
+**Abstract:** BACKGROUND: Central nervous system levels of tumor necrosis factor-alpha (TNF-α), a pro-inflammatory cytokine, regulate the neuroinflammatory response and may play a role in age-related neurodegenerat...
+
+### Genetics of physiological dysregulation: findings from the long life family study using joint models.
+**Authors:** Arbeev KG, Bagley O, Ukraintseva SV, Wu D, Duan H et al.  
+**Journal:** Aging (2020)  
+**PMID:** 32235003  **DOI:** 10.18632/aging.102987
+**Entities:** —  
+**Abstract:** Recently, Mahalanobis distance (D
+
+### Amyloid-beta peptide and phosphorylated tau in the frontopolar cerebral cortex and in the cerebellum of toothed whales: aging versus hypoxia.
+**Authors:** Sacchini S, Díaz-Delgado J, Espinosa de Los Monteros A, Paz Y, Bernaldo de Quirós Y et al.  
+**Journal:** Biology open (2020)  
+**PMID:** 33037014  **DOI:** 10.1242/bio.054734
+**Entities:** tau, p-tau, Alzheimer, aging  
+**Abstract:** Hypoxia could be a possible risk factor for neurodegenerative alterations in cetaceans' brain. Among toothed whales, the beaked whales are particularly cryptic and routinely dive deeper than 1000 m fo...
+
+### Leukocyte Telomere Length Is Unrelated to Cognitive Performance Among Non-Demented and Demented Persons: An Examination of Long Life Family Study Participants.
+**Authors:** Ashrafi A, Cosentino S, Kang MS, Lee JH, Schupf N et al.  
+**Journal:** Journal of the International Neuropsychological Society : JINS (2020)  
+**PMID:** 32342830  **DOI:** 10.1017/S1355617720000363
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVE: Leukocyte telomere length (LTL) is a widely hypothesized biomarker of biological aging. Persons with shorter LTL may have a greater likelihood of developing dementia. We investigate whether...
+
+### Measurement of a Surrogate Biomarker for Arginine Vasopressin Secretion in Association with Physiometric and Molecular Biomarkers of Aging.
+**Authors:** Guest PC, Bernstein HG, Dobrowolny H, Borucki K, Westphal S et al.  
+**Journal:** Methods in molecular biology (Clifton, N.J.) (2020)  
+**PMID:** 32219754  **DOI:** 10.1007/978-1-0716-0471-7_17
+**Entities:** aging  
+**Abstract:** A number of physiological changes are known to occur with aging, including increased fat mass, increased insulin resistance, and changes in the levels of circulating biomarkers such as lipids, growth ...
+
+### The necroptosis machinery mediates axonal degeneration in a model of Parkinson disease.
+**Authors:** Oñate M, Catenaccio A, Salvadores N, Saquel C, Martinez A et al.  
+**Journal:** Cell death and differentiation (2020)  
+**PMID:** 31591470  **DOI:** 10.1038/s41418-019-0408-4
+**Entities:** dopamine  
+**Abstract:** Parkinson's disease (PD) is the second most common neurodegenerative condition, characterized by motor impairment due to the progressive degeneration of dopaminergic neurons in the substantia nigra an...
+
+### microRNA-based biomarker for dementia.
+**Authors:** Toyama K, Mogi M, Tsao PS  
+**Journal:** Aging (2019)  
+**PMID:** 30867338  **DOI:** 10.18632/aging.101868
+**Entities:** —  
+**Abstract:** 
+
+### Aging and Neuroinflammatory Disorders: New Biomarkers and Therapeutic Targets.
+**Authors:** Gambino CM, Sasso BL, Bivona G, Agnello L, Ciaccio M  
+**Journal:** Current pharmaceutical design (2019)  
+**PMID:** 31721696  **DOI:** 10.2174/1381612825666191112093034
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Chronic neuroinflammation is a common feature of the pathogenic mechanisms involved in various neurodegenerative age-associated disorders, such as Alzheimer's disease, multiple sclerosis, Parkinson's ...
+
+### Functional MRI of brain physiology in aging and neurodegenerative diseases.
+**Authors:** Chen JJ  
+**Journal:** NeuroImage (2019)  
+**PMID:** 29793062  **DOI:** 10.1016/j.neuroimage.2018.05.050
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain aging and associated neurodegeneration constitute a major societal challenge as well as one for the neuroimaging community. A full understanding of the physiological mechanisms underlying neurod...
+
+### Lipids and lipoxidation in human brain aging. Mitochondrial ATP-synthase as a key lipoxidation target.
+**Authors:** Jové M, Pradas I, Dominguez-Gonzalez M, Ferrer I, Pamplona R  
+**Journal:** Redox biology (2019)  
+**PMID:** 30635167  **DOI:** 10.1016/j.redox.2018.101082
+**Entities:** aging  
+**Abstract:** The human brain is a target of the aging process like other cell systems of the human body. Specific regions of the human brain exhibit differential vulnerabilities to the aging process. Yet the under...
+
+### Beneficial effects of dietary restriction in aging brain.
+**Authors:** Hadem IKH, Majaw T, Kharbuli B, Sharma R  
+**Journal:** Journal of chemical neuroanatomy (2019)  
+**PMID:** 29031555  **DOI:** 10.1016/j.jchemneu.2017.10.001
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Aging is a multifactorial complex process that leads to the deterioration of biological functions wherein its underlying mechanism is not fully elucidated. It affects the organism at the molecular and...
+
+### Olfactory dysfunction in the pathophysiological continuum of dementia.
+**Authors:** Bathini P, Brai E, Auber LA  
+**Journal:** Ageing research reviews (2019)  
+**PMID:** 31479764  **DOI:** 10.1016/j.arr.2019.100956
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Sensory capacities like smell, taste, hearing, vision decline with aging, but increasing evidence show that sensory dysfunctions are one of the early signs diagnosing the conversion from physiological...
+
+### Obesity in Aging Exacerbates Neuroinflammation, Dysregulating Synaptic Function-Related Genes and Altering Eicosanoid Synthesis in the Mouse Hippocampus: Potential Role in Impaired Synaptic Plasticity and Cognitive Decline.
+**Authors:** Valcarcel-Ares MN, Tucsek Z, Kiss T, Giles CB, Tarantini S et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2019)  
+**PMID:** 29893815  **DOI:** 10.1093/gerona/gly127
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, aging  
+**Abstract:** There is strong evidence that obesity has deleterious effects on cognitive function of older adults. Previous preclinical studies demonstrate that obesity in aging is associated with a heightened stat...
+
+### Accelerated decline in cognition in a mouse model of increased oxidative stress.
+**Authors:** Logan S, Royce GH, Owen D, Farley J, Ranjo-Bishop M et al.  
+**Journal:** GeroScience (2019)  
+**PMID:** 31641924  **DOI:** 10.1007/s11357-019-00105-y
+**Entities:** ROS, IL-1β, neuroinflammation, oxidative stress, SOD  
+**Abstract:** Mice deficient in the antioxidant enzyme Cu/Zn-superoxide dismutase (Sod1KO mice) have a significant reduction in lifespan, exhibit many phenotypes of accelerated aging, and have high levels of oxidat...
+
+### Nutrient biomarker patterns, cognitive function, and fMRI measures of network efficiency in the aging brain.
+**Authors:** Zwilling CE, Talukdar T, Zamroziewicz MK, Barbey AK  
+**Journal:** NeuroImage (2019)  
+**PMID:** 30529508  **DOI:** 10.1016/j.neuroimage.2018.12.007
+**Entities:** Alzheimer, aging  
+**Abstract:** A central aim of research in the psychological and brain sciences is to establish therapeutic interventions to promote healthy brain aging. Accumulating evidence indicates that diet and the many bioac...
+
+### A systematic review of existing peripheral biomarkers of cognitive aging: Is there enough evidence for biomarker proxies in behavioral modification interventions?: An initiative in association with the nutrition, exercise and lifestyle team of the Canadian Consortium on Neurodegeneration in Aging.
+**Authors:** Fiocco AJ, Krieger L, D'Amico D, Parrott MD, Laurin D et al.  
+**Journal:** Ageing research reviews (2019)  
+**PMID:** 31059801  **DOI:** 10.1016/j.arr.2019.04.008
+**Entities:** Alzheimer, aging  
+**Abstract:** Peripheral biomarkers have shown significant value in predicting brain health and may serve as a useful proxy measurement in the assessment of evidence-based lifestyle behavior modification programs, ...
+
+### Chronic pain is associated with a brain aging biomarker in community-dwelling older adults.
+**Authors:** Cruz-Almeida Y, Fillingim RB, Riley JL, Woods AJ, Porges E et al.  
+**Journal:** Pain (2019)  
+**PMID:** 31009418  **DOI:** 10.1097/j.pain.0000000000001491
+**Entities:** aging  
+**Abstract:** Chronic pain is associated with brain atrophy with limited evidence on its impact in the older adult's brain. We aimed to determine the associations between chronic pain and a brain aging biomarker in...
+
+### Aging-Related Changes in Cognition and Cortical Integrity are Associated With Serum Expression of Candidate MicroRNAs for Alzheimer Disease.
+**Authors:** Maldonado-Lasuncion I, Atienza M, Sanchez-Espinosa MP, Cantero JL  
+**Journal:** Cerebral cortex (New York, N.Y. : 1991) (2019)  
+**PMID:** 30590432  **DOI:** 10.1093/cercor/bhy323
+**Entities:** Alzheimer, aging  
+**Abstract:** Evidence has shown that microRNAs (miRNAs) are involved in molecular pathways responsible for aging and prevalent aging-related chronic diseases. However, the lack of research linking circulating leve...
+
+### Applying the ATN scheme in a memory clinic population: The ABIDE project.
+**Authors:** Altomare D, de Wilde A, Ossenkoppele R, Pelkmans W, Bouwman F et al.  
+**Journal:** Neurology (2019)  
+**PMID:** 31597710  **DOI:** 10.1212/WNL.0000000000008361
+**Entities:** tau, p-tau, Alzheimer  
+**Abstract:** OBJECTIVE: To apply the ATN scheme to memory clinic patients, to assess whether it discriminates patient populations with specific features. METHODS: We included 305 memory clinic patients (33% subjec...
+
+### Folic acid delays age-related cognitive decline in senescence-accelerated mouse prone 8: alleviating telomere attrition as a potential mechanism.
+**Authors:** Lv X, Wang X, Wang Y, Zhou D, Li W et al.  
+**Journal:** Aging (2019)  
+**PMID:** 31757935  **DOI:** 10.18632/aging.102461
+**Entities:** ROS, Alzheimer, aging  
+**Abstract:** The occurrence of telomere attrition in brain may cause senescence and death of neurons, leading to cognitive decline. Folic acid (FA) has been reported to improve cognitive performance in mild cognit...
+
+### Molecular basis of vitamin D action in neurodegeneration: the story of a team perspective.
+**Authors:** Gezen-Ak D, Dursun E  
+**Journal:** Hormones (Athens, Greece) (2019)  
+**PMID:** 30484097  **DOI:** 10.1007/s42000-018-0087-4
+**Entities:** Alzheimer  
+**Abstract:** Vitamin D, a secosteroid hormone, has, over the years, mainly been known for its classic role in the maintenance of calcium homeostasis of the human body. However, there is increasing understanding th...
+
+### Individual slow-wave morphology is a marker of aging.
+**Authors:** Ujma PP, Simor P, Steiger A, Dresler M, Bódizs R  
+**Journal:** Neurobiology of aging (2019)  
+**PMID:** 31103634  **DOI:** 10.1016/j.neurobiolaging.2019.04.002
+**Entities:** aging  
+**Abstract:** Slow-wave activity is a hallmark of deep non-rapid eye movement sleep. Scalp slow wave morphology is stereotypical and it is highly correlated with the synchronized onset and cessation of cortical neu...
+
+### Neuropathological correlates of structural and functional imaging biomarkers in 4-repeat tauopathies.
+**Authors:** Spina S, Brown JA, Deng J, Gardner RC, Nana AL et al.  
+**Journal:** Brain : a journal of neurology (2019)  
+**PMID:** 31081015  **DOI:** 10.1093/brain/awz122
+**Entities:** tau, Alzheimer  
+**Abstract:** Neurodegenerative dementia syndromes are characterized by spreading of pathological protein deposition along syndrome-specific neural networks. Structural and functional MRI measures can assess the in...
+
+### Analysis of long noncoding RNAs highlights region-specific altered expression patterns and diagnostic roles in Alzheimer's disease.
+**Authors:** Zhou M, Zhao H, Wang X, Sun J, Su J  
+**Journal:** Briefings in bioinformatics (2019)  
+**PMID:** 29672663  **DOI:** 10.1093/bib/bby021
+**Entities:** Alzheimer, aging  
+**Abstract:** Increasing evidence has revealed the multiple roles of long noncoding RNAs (lncRNAs) in neurodevelopment, brain function and aging, and their dysregulation was implicated in many types of neurological...
+
+### Effect of Initial Aging and High-Fat/High-Fructose Diet on Mitochondrial Bioenergetics and Oxidative Status in Rat Brain.
+**Authors:** Crescenzo R, Spagnuolo MS, Cancelliere R, Iannotta L, Mazzoli A et al.  
+**Journal:** Molecular neurobiology (2019)  
+**PMID:** 31089964  **DOI:** 10.1007/s12035-019-1617-z
+**Entities:** oxidative stress, aging  
+**Abstract:** Middle age is an early stage of the aging process, during which the consumption of diets rich in saturated fats and/or simple sugars might influence brain function, but only few data are available on ...
+
+### Glutamate, GABA, and Presynaptic Markers Involved in Neurotransmission Are Differently Affected by Age in Distinct Mouse Brain Regions.
+**Authors:** Rozycka A, Charzynska A, Misiewicz Z, Maciej Stepniewski T, Sobolewska A et al.  
+**Journal:** ACS chemical neuroscience (2019)  
+**PMID:** 31556991  **DOI:** 10.1021/acschemneuro.9b00220
+**Entities:** aging  
+**Abstract:** Molecular synaptic aging perturbs neurotransmission and decreases the potential for neuroplasticity. The direction and degree of changes observed in aging are often region or cell specific, hampering ...
+
+### Epigenetic aging is associated with clinical and experimental pain in community-dwelling older adults.
+**Authors:** Cruz-Almeida Y, Sinha P, Rani A, Huo Z, Fillingim RB et al.  
+**Journal:** Molecular pain (2019)  
+**PMID:** 31394966  **DOI:** 10.1177/1744806919871819
+**Entities:** aging  
+**Abstract:** Gerontological research reveals considerable interindividual variability in aging phenotypes, which has motivated research efforts to identify “aging biomarkers.” Aging biomarkers are used to calculat...
+
+### Transgenic minipig model of Huntington's disease exhibiting gradually progressing neurodegeneration.
+**Authors:** Ardan T, Baxa M, Levinská B, Sedláčková M, Nguyen TD et al.  
+**Journal:** Disease models & mechanisms (2019)  
+**PMID:** 31645369  **DOI:** 10.1242/dmm.041319
+**Entities:** Alzheimer, aging  
+**Abstract:** Recently developed therapeutic approaches for the treatment of Huntington's disease (HD) require preclinical testing in large animal models. The minipig is a suitable experimental animal because of it...
+
+### Effect of tau-pathology on charged multivesicular body protein 2b (CHMP2B).
+**Authors:** Midani-Kurçak JS, Dinekov M, Puladi B, Arzberger T, Köhler C  
+**Journal:** Brain research (2019)  
+**PMID:** 30414727  **DOI:** 10.1016/j.brainres.2018.11.008
+**Entities:** tau, p-tau, Alzheimer, aging  
+**Abstract:** Charged multivesicular body protein 2b (CHMP2B) is a subunit of the endosomal sorting complex required for transport (ESCRT)-III that mediates scission of budded membranes. Neurons with CHMP2B-positiv...
+
+### Caloric restriction and redox homeostasis in various regions of aging male rat brain: Is caloric restriction still worth trying even after early-adulthood?: Redox homeostasis and caloric restriction in brain.
+**Authors:** Yanar K, Simsek B, Çaylı N, Övül Bozkır H, Mengi M et al.  
+**Journal:** Journal of food biochemistry (2019)  
+**PMID:** 31353564  **DOI:** 10.1111/jfbc.12740
+**Entities:** ROS, oxidative stress, SOD, 4-HNE, aging  
+**Abstract:** Despite recent studies have shown that caloric restriction (CR) could improve some functional loss associated with brain aging, the biochemical effects of CR on brain aging are still not well understo...
+
+### Eotaxin, an Endogenous Cognitive Deteriorating Chemokine (ECDC), Is a Major Contributor to Cognitive Decline in Normal People and to Executive, Memory, and Sustained Attention Deficits, Formal Thought Disorders, and Psychopathology in Schizophrenia Patients.
+**Authors:** Sirivichayakul S, Kanchanatawan B, Thika S, Carvalho AF, Maes M  
+**Journal:** Neurotoxicity research (2019)  
+**PMID:** 30056534  **DOI:** 10.1007/s12640-018-9937-8
+**Entities:** aging  
+**Abstract:** Eotaxin is increased in neurodegenerative disorders and schizophrenia, and preclinical studies indicate that eotaxin may induce cognitive deficits. This study aims to examine whether peripheral levels...
+
+### Association of longitudinal white matter degeneration and cerebrospinal fluid biomarkers of neurodegeneration, inflammation and Alzheimer's disease in late-middle-aged adults.
+**Authors:** Racine AM, Merluzzi AP, Adluru N, Norton D, Koscik RL et al.  
+**Journal:** Brain imaging and behavior (2019)  
+**PMID:** 28600739  **DOI:** 10.1007/s11682-017-9732-9
+**Entities:** NfL, tau, Aβ42, Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) is characterized by substantial neurodegeneration, including both cortical atrophy and loss of underlying white matter fiber tracts. Understanding longitudinal alterations to ...
+
+### A Method to Investigate Astrocyte and Microglial Morphological Changes in the Aging Brain of the Rhesus Macaque.
+**Authors:** Chiu KB, Lee KM, Robillard KN, MacLean AG  
+**Journal:** Methods in molecular biology (Clifton, N.J.) (2019)  
+**PMID:** 30617987  **DOI:** 10.1007/978-1-4939-9068-9_19
+**Entities:** neuroinflammation, aging  
+**Abstract:** With a rapidly aging population, studies of neuroinflammation and degeneration associated with eugeric aging are becoming critical. Using the unique archive at the Tulane National Primate Research Cen...
+
+### Longstanding psychological stress in relation to biomarkers of neuronal dysfunction in cerebrospinal fluid: a 25-year follow-up study in women.
+**Authors:** Johansson L, Sacuiu S, Kern S, Guo X, Zetterberg H et al.  
+**Journal:** Neurobiology of aging (2019)  
+**PMID:** 31128566  **DOI:** 10.1016/j.neurobiolaging.2019.02.013
+**Entities:** NfL, Alzheimer, MBP, VILIP-1  
+**Abstract:** Longstanding psychological stress has been associated with increased risk of neurodegenerative disorders, such as dementia and Alzheimer's disease. In a prospective population study of women (n = 81),...
+
+### Early increase of CSF sTREM2 in Alzheimer's disease is associated with tau related-neurodegeneration but not with amyloid-β pathology.
+**Authors:** Suárez-Calvet M, Morenas-Rodríguez E, Kleinberger G, Schlepckow K, Araque Caballero MÁ et al.  
+**Journal:** Molecular neurodegeneration (2019)  
+**PMID:** 30630532  **DOI:** 10.1186/s13024-018-0301-5
+**Entities:** tau, p-tau, Aβ42, Alzheimer  
+**Abstract:** BACKGROUND: TREM2 is a transmembrane receptor that is predominantly expressed by microglia in the central nervous system. Rare variants in the TREM2 gene increase the risk for late-onset Alzheimer's d...
+
+### Mitochondrial reactive oxygen species generation in blood cells is associated with disease severity and exercise intolerance in heart failure patients.
+**Authors:** Shirakawa R, Yokota T, Nakajima T, Takada S, Yamane M et al.  
+**Journal:** Scientific reports (2019)  
+**PMID:** 31605012  **DOI:** 10.1038/s41598-019-51298-3
+**Entities:** ROS, oxidative stress  
+**Abstract:** Systemic oxidative stress plays a key role in the development of chronic heart failure (CHF). We tested the hypothesis that mitochondrial reactive oxygen species (ROS) generation in circulating periph...
+
+### From Mitochondrial Function to Neuroprotection-an Emerging Role for Methylene Blue.
+**Authors:** Tucker D, Lu Y, Zhang Q  
+**Journal:** Molecular neurobiology (2018)  
+**PMID:** 28840449  **DOI:** 10.1007/s12035-017-0712-2
+**Entities:** ROS, neuroinflammation, oxidative stress, TBI, Alzheimer  
+**Abstract:** Methylene blue (MB) is a well-established drug with a long history of use, owing to its diverse range of use and its minimal side effect profile. MB has been used classically for the treatment of mala...
+
+### Towards frailty biomarkers: Candidates from genes and pathways regulated in aging and age-related diseases.
+**Authors:** Cardoso AL, Fernandes A, Aguilar-Pimentel JA, de Angelis MH, Guedes JR et al.  
+**Journal:** Ageing research reviews (2018)  
+**PMID:** 30071357  **DOI:** 10.1016/j.arr.2018.07.004
+**Entities:** S100B, BDNF, IL-6, aging  
+**Abstract:** OBJECTIVE: Use of the frailty index to measure an accumulation of deficits has been proven a valuable method for identifying elderly people at risk for increased vulnerability, disease, injury, and mo...
+
+### Role of D-galactose-induced brain aging and its potential used for therapeutic interventions.
+**Authors:** Shwe T, Pratchayasakul W, Chattipakorn N, Chattipakorn SC  
+**Journal:** Experimental gerontology (2018)  
+**PMID:** 29129736  **DOI:** 10.1016/j.exger.2017.10.029
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Aging is a phenomenon that all living organisms inevitably face. Every year, 9.9million people, globally, suffer from dementia, an indicator of the aging brain. Brain aging is significantly associated...
+
+### Longevity extension in Drosophila through gut-brain communication.
+**Authors:** Westfall S, Lomis N, Prakash S  
+**Journal:** Scientific reports (2018)  
+**PMID:** 29849035  **DOI:** 10.1038/s41598-018-25382-z
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Aging and chronic disease development are multifactorial processes involving the cumulative effects of metabolic distress, inflammation, oxidative stress and mitochondrial dynamics. Recently, variatio...
+
+### Vitamin transporters in mice brain with aging.
+**Authors:** Marcos P, González-Fuentes J, Castro-Vázquez L, Lozano MV, Santander-Ortega MJ et al.  
+**Journal:** Journal of anatomy (2018)  
+**PMID:** 29315537  **DOI:** 10.1111/joa.12769
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Its high metabolic rate and high polyunsaturated fatty acid content make the brain very sensitive to oxidative damage. In the brain, neuronal metabolism occurs at a very high rate and generates consid...
+
+### Metabolic Syndrome and Amyloid Accumulation in the Aging Brain.
+**Authors:** Gomez G, Beason-Held LL, Bilgel M, An Y, Wong DF et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2018)  
+**PMID:** 30103324  **DOI:** 10.3233/JAD-180297
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Recent studies show links between metabolic syndrome and Alzheimer's disease (AD) neuropathology. Understanding the link between vascular-related health conditions and dementia will help t...
+
+### Longitudinal serum S100β and brain aging in the Lothian Birth Cohort 1936.
+**Authors:** Cox SR, Allerhand M, Ritchie SJ, Muñoz Maniega S, Valdés Hernández M et al.  
+**Journal:** Neurobiology of aging (2018)  
+**PMID:** 29933100  **DOI:** 10.1016/j.neurobiolaging.2018.05.029
+**Entities:** S100B, Alzheimer, aging  
+**Abstract:** Elevated serum and cerebrospinal fluid concentrations of S100β, a protein predominantly found in glia, are associated with intracranial injury and neurodegeneration, although concentrations are also i...
+
+### Plasma and urinary p21: potential biomarkers of AKI and renal aging.
+**Authors:** Johnson AC, Zager RA  
+**Journal:** American journal of physiology. Renal physiology (2018)  
+**PMID:** 30066587  **DOI:** 10.1152/ajprenal.00328.2018
+**Entities:** aging  
+**Abstract:** p21 is upregulated in renal tubules in response to acute kidney injury ( AKI). and localizes in the nucleus, where it induces cell cycle arrest (CCA). These events can mitigate early injury but can al...
+
+### N-acetyl-l-cysteine attenuates oxidative damage and neurodegeneration in rat brain during aging.
+**Authors:** Garg G, Singh S, Singh AK, Rizvi SI  
+**Journal:** Canadian journal of physiology and pharmacology (2018)  
+**PMID:** 30107137  **DOI:** 10.1139/cjpp-2018-0209
+**Entities:** ROS, oxidative stress, Alzheimer, SOD, glutathione  
+**Abstract:** N-acetyl-l-cysteine (NAC) is a precursor of cysteine, which is known to increase the level of glutathione (GSH) in the brain. Several neurodegenerative changes linked to oxidative stress take place in...
+
+### Trajectories of imaging markers in brain aging: the Rotterdam Study.
+**Authors:** Vinke EJ, de Groot M, Venkatraghavan V, Klein S, Niessen WJ et al.  
+**Journal:** Neurobiology of aging (2018)  
+**PMID:** 30077040  **DOI:** 10.1016/j.neurobiolaging.2018.07.001
+**Entities:** aging  
+**Abstract:** With aging, the brain undergoes several structural changes. These changes reflect the normal aging process and are therefore not necessarily pathologic. In fact, better understanding of these normal c...
+
+### "Exceptional brain aging" without Alzheimer's disease: triggers, accelerators, and the net sum game.
+**Authors:** Vemuri P  
+**Journal:** Alzheimer's research & therapy (2018)  
+**PMID:** 29859131  **DOI:** 10.1186/s13195-018-0373-z
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** BACKGROUND: As human longevity increases and Alzheimer's disease (AD) increasingly becomes a significant societal burden, finding pathways or protective factors that facilitate exceptional brain aging...
+
+### Reducing CXCR4 Resulted in Impairing Proliferation and Promoting Aging.
+**Authors:** Li H, Hao L, Li Y, Wang R  
+**Journal:** The journal of nutrition, health & aging (2018)  
+**PMID:** 30080220  **DOI:** 10.1007/s12603-018-1013-9
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Alzheimer's disease (AD) is one of the most common and devastating aging related neurodegenerative diseases. Aging is a natural physiological process, a progressive deterioration of the ov...
+
+### Decipher reliable biomarkers of brain aging by integrating literature-based evidence with interactome data.
+**Authors:** Bae SH, Kim HW, Shin S, Kim J, Jeong YH et al.  
+**Journal:** Experimental & molecular medicine (2018)  
+**PMID:** 29651153  **DOI:** 10.1038/s12276-018-0057-6
+**Entities:** Alzheimer, aging  
+**Abstract:** Aging is an inevitable progressive decline in every physiological function and serves as a primary risk factor for cognitive decline and Alzheimer's disease. Thus, age-dependent impairments in cogniti...
+
+### Peripheral DNA methylation, cognitive decline and brain aging: pilot findings from the Whitehall II imaging study.
+**Authors:** Chouliaras L, Pishva E, Haapakoski R, Zsoldos E, Mahmood A et al.  
+**Journal:** Epigenomics (2018)  
+**PMID:** 29692214  **DOI:** 10.2217/epi-2017-0132
+**Entities:** aging  
+**Abstract:** AIM: The present study investigated the link between peripheral DNA methylation (DNAm), cognitive impairment and brain aging. METHODS: We tested the association between blood genome-wide DNAm profiles...
+
+### Insulin-like Growth Factor 1 (IGF-1) as a marker of cognitive decline in normal ageing: A review.
+**Authors:** Frater J, Lie D, Bartlett P, McGrath JJ  
+**Journal:** Ageing research reviews (2018)  
+**PMID:** 29233786  **DOI:** 10.1016/j.arr.2017.12.002
+**Entities:** aging  
+**Abstract:** Insulin-like Growth Factor 1 (IGF-1) and its signaling pathway play a primary role in normal growth and ageing, however serum IGF-1 is known to reduce with advancing age. Recent findings suggest IGF-1...
+
+### Impact of Long-Term RF-EMF on Oxidative Stress and Neuroinflammation in Aging Brains of C57BL/6 Mice.
+**Authors:** Jeong YJ, Son Y, Han NK, Choi HD, Pack JK et al.  
+**Journal:** International journal of molecular sciences (2018)  
+**PMID:** 30029554  **DOI:** 10.3390/ijms19072103
+**Entities:** ROS, GFAP, Iba1, neuroinflammation, oxidative stress  
+**Abstract:** The expansion of mobile phone use has raised questions regarding the possible biological effects of radiofrequency electromagnetic field (RF-EMF) exposure on oxidative stress and brain inflammation. D...
+
+### Lactobacillus paracasei PS23 Delays Progression of Age-Related Cognitive Decline in Senescence Accelerated Mouse Prone 8 (SAMP8) Mice.
+**Authors:** Huang SY, Chen LH, Wang MF, Hsu CC, Chan CH et al.  
+**Journal:** Nutrients (2018)  
+**PMID:** 30002347  **DOI:** 10.3390/nu10070894
+**Entities:** aging  
+**Abstract:** Probiotic supplements are potential therapeutic agents for age-related disorders due to their antioxidant and anti-inflammatory properties. However, the effect of probiotics on age-related brain dysfu...
+
+### Short-Term Fructose Feeding Induces Inflammation and Oxidative Stress in the Hippocampus of Young and Adult Rats.
+**Authors:** Cigliano L, Spagnuolo MS, Crescenzo R, Cancelliere R, Iannotta L et al.  
+**Journal:** Molecular neurobiology (2018)  
+**PMID:** 28455700  **DOI:** 10.1007/s12035-017-0518-2
+**Entities:** ROS, TNF-α, neuroinflammation, oxidative stress  
+**Abstract:** The drastic increase in the consumption of fructose encouraged the research to focus on its effects on brain physio-pathology. Although young and adults differ largely by their metabolic and physiolog...
+
+### Serum calcium levels and neuropsychological performance in depression and matched healthy controls: Reversal of correlation a marker of the aging cognitive clock?
+**Authors:** Grützner TM, Listunova L, Fabian GA, Kramer BA, Flach D et al.  
+**Journal:** Psychoneuroendocrinology (2018)  
+**PMID:** 29587243  **DOI:** 10.1016/j.psyneuen.2018.03.012
+**Entities:** aging  
+**Abstract:** BACKGROUND: Major depressive disorder (MDD) is associated with cognitive impairment, that might be related to disturbed calcium homeostasis. Calcium-related processes have also been implicated in age ...
+
+### 11β-HSD1 Inhibition by RL-118 Promotes Autophagy and Correlates with Reduced Oxidative Stress and Inflammation, Enhancing Cognitive Performance in SAMP8 Mouse Model.
+**Authors:** Puigoriol-Illamola D, Griñán-Ferré C, Vasilopoulou F, Leiva R, Vázquez S et al.  
+**Journal:** Molecular neurobiology (2018)  
+**PMID:** 29611102  **DOI:** 10.1007/s12035-018-1026-8
+**Entities:** ROS, tau, p-tau, IL-1β, neuroinflammation  
+**Abstract:** Elevated glucocorticoid (GC) exposure is widely accepted as a key factor in the age-related cognitive decline in rodents and humans. 11β-HSD1 is a key enzyme in the GCs pathway, catalyzing the convers...
+
+### Determinants of fluid intelligence in healthy aging: Omega-3 polyunsaturated fatty acid status and frontoparietal cortex structure.
+**Authors:** Zamroziewicz MK, Paul EJ, Zwilling CE, Barbey AK  
+**Journal:** Nutritional neuroscience (2018)  
+**PMID:** 28492102  **DOI:** 10.1080/1028415X.2017.1324357
+**Entities:** aging  
+**Abstract:** INTRODUCTION: Accumulating evidence indicates that cognitive decline depends not only upon changes in brain health, but critically, also upon nutritional status. Decline in fluid intelligence, one of ...
+
+### Screening Method for Identifying Toxicants Capable of Inducing Astrocyte Senescence.
+**Authors:** Woods G, Andersen JK  
+**Journal:** Toxicological sciences : an official journal of the Society of Toxicology (2018)  
+**PMID:** 30010981  **DOI:** 10.1093/toxsci/kfy181
+**Entities:** —  
+**Abstract:** Cellular senescence is a tumor-suppressive mechanism which leads to near irreversible proliferative arrest. However, senescent cells can cause tissue dysfunction, in large part because they express a ...
+
+### Avoidance of accelerated aging in schizophrenia?: Clinical and biological characterization of an exceptionally high functioning individual.
+**Authors:** Palmer BW, Moore RC, Eyler LT, Pinto LL, Saks ER et al.  
+**Journal:** Schizophrenia research (2018)  
+**PMID:** 28801195  **DOI:** 10.1016/j.schres.2017.07.052
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** OBJECTIVE: To determine the clinical and biological characteristics of an exceptionally high functioning index person (IP) with schizophrenia in her mid-50s, which may represent compensatory mechanism...
+
+### Distinct patterns of gene expression in human cardiac fibroblasts exposed to rapamycin treatment or methionine restriction.
+**Authors:** Azar A, Lawrence I, Jofre S, Mell J, Sell C  
+**Journal:** Annals of the New York Academy of Sciences (2018)  
+**PMID:** 29377178  **DOI:** 10.1111/nyas.13566
+**Entities:** aging  
+**Abstract:** Both methionine restriction and rapamycin treatment are robust longevity-enhancing regimens for which the mechanisms remain unclear. Cellular senescence is a major contributor to the aging process, an...
+
+### Neuroimaging-derived brain-age: an ageing biomarker?
+**Authors:** Cole JH  
+**Journal:** Aging (2017)  
+**PMID:** 28858849  **DOI:** 10.18632/aging.101286
+**Entities:** —  
+**Abstract:** 
+
+### Impact of aging immune system on neurodegeneration and potential immunotherapies.
+**Authors:** Liang Z, Zhao Y, Ruan L, Zhu L, Jin K et al.  
+**Journal:** Progress in neurobiology (2017)  
+**PMID:** 28782588  **DOI:** 10.1016/j.pneurobio.2017.07.006
+**Entities:** neuroinflammation, TBI, Alzheimer, aging  
+**Abstract:** The interaction between the nervous and immune systems during aging is an area of avid interest, but many aspects remain unclear. This is due, not only to the complexity of the aging process, but also...
+
+### Retinal neurodegeneration and brain MRI markers: the Rotterdam Study.
+**Authors:** Mutlu U, Bonnemaijer PWM, Ikram MA, Colijn JM, Cremers LGM et al.  
+**Journal:** Neurobiology of aging (2017)  
+**PMID:** 28974335  **DOI:** 10.1016/j.neurobiolaging.2017.09.003
+**Entities:** Alzheimer  
+**Abstract:** We investigated the association of specific retinal sublayer thicknesses on optical coherence tomography (OCT) with brain magnetic resonance imaging (MRI) markers. We included 2124 persons (mean age 6...
+
+### Protective effect of xanthohumol against age-related brain damage.
+**Authors:** Rancán L, Paredes SD, García I, Muñoz P, García C et al.  
+**Journal:** The Journal of nutritional biochemistry (2017)  
+**PMID:** 28950154  **DOI:** 10.1016/j.jnutbio.2017.07.011
+**Entities:** aging  
+**Abstract:** It has been recently shown that xanthohumol, a flavonoid present in hops, possesses antioxidant, anti-inflammatory and chemopreventive properties. However, its role in the aging brain has not been add...
+
+### Is telomere length a biomarker of neurological disorders?
+**Authors:** Thanseem I, Viswambharan V, Poovathinal SA, Anitha A  
+**Journal:** Biomarkers in medicine (2017)  
+**PMID:** 30669856  **DOI:** 10.2217/bmm-2017-0032
+**Entities:** aging  
+**Abstract:** Telomeres are DNA-protein complexes that form protective caps at the termini of chromosomes, maintaining genomic stability. In this review, we provide a comprehensive overview on the usefulness of tel...
+
+### Amyloidosis and neurodegeneration result in distinct structural connectivity patterns in mild cognitive impairment.
+**Authors:** Jacquemont T, De Vico Fallani F, Bertrand A, Epelbaum S, Routier A et al.  
+**Journal:** Neurobiology of aging (2017)  
+**PMID:** 28457579  **DOI:** 10.1016/j.neurobiolaging.2017.03.023
+**Entities:** Alzheimer  
+**Abstract:** Alzheimer's disease (AD) is increasingly considered as a disconnection syndrome. Previous studies of the structural connectome in early AD stages have focused on mild cognitive impaired subjects (MCI)...
+
+### Inflammation, Amyloid, and Atrophy in The Aging Brain: Relationships with Longitudinal Changes in Cognition.
+**Authors:** Sala-Llonch R, Idland AV, Borza T, Watne LO, Wyller TB et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2017)  
+**PMID:** 28505968  **DOI:** 10.3233/JAD-161146
+**Entities:** Aβ42, neuroinflammation, Alzheimer, aging  
+**Abstract:** Amyloid deposition occurs in aging, even in individuals free from cognitive symptoms, and is often interpreted as preclinical Alzheimer's disease (AD) pathophysiology. YKL-40 is a marker of neuroinfla...
+
+### Association between cerebrospinal fluid and plasma neurodegeneration biomarkers with brain atrophy in Alzheimer's disease.
+**Authors:** Pereira JB, Westman E, Hansson O  
+**Journal:** Neurobiology of aging (2017)  
+**PMID:** 28692877  **DOI:** 10.1016/j.neurobiolaging.2017.06.002
+**Entities:** NfL, tau, p-tau, Alzheimer  
+**Abstract:** The aggregation and deposition of amyloid-β (Aβ) peptides into plaques is an early event in Alzheimer's disease (AD), which is followed by different aspects of neurodegeneration that can be measured i...
+
+### Age-related neurodegenerative disease associated pathways identified in retinal and vitreous proteome from human glaucoma eyes.
+**Authors:** Mirzaei M, Gupta VB, Chick JM, Greco TM, Wu Y et al.  
+**Journal:** Scientific reports (2017)  
+**PMID:** 28978942  **DOI:** 10.1038/s41598-017-12858-7
+**Entities:** Alzheimer  
+**Abstract:** Glaucoma is a chronic disease that shares many similarities with other neurodegenerative disorders of the central nervous system. This study was designed to evaluate the association between glaucoma a...
+
+### Sex differences in the association between AD biomarkers and cognitive decline.
+**Authors:** Koran MEI, Wagener M, Hohman TJ  
+**Journal:** Brain imaging and behavior (2017)  
+**PMID:** 26843008  **DOI:** 10.1007/s11682-016-9523-8
+**Entities:** tau, Aβ42, Alzheimer, aging  
+**Abstract:** Women are disproportionately affected by Alzheimer's disease (AD) in terms of both disease prevalence and severity. Previous autopsy work has suggested that, in the presence of AD neuropathology, fema...
+
+### Evaluating Alzheimer's disease biomarkers as mediators of age-related cognitive decline.
+**Authors:** Hohman TJ, Tommet D, Marks S, Contreras J, Jones R et al.  
+**Journal:** Neurobiology of aging (2017)  
+**PMID:** 28732249  **DOI:** 10.1016/j.neurobiolaging.2017.06.022
+**Entities:** Alzheimer, aging  
+**Abstract:** Age-related changes in cognition are partially mediated by the presence of neuropathology and neurodegeneration. This manuscript evaluates the degree to which biomarkers of Alzheimer's disease, (AD) n...
+
+### Age, vascular health, and Alzheimer disease biomarkers in an elderly sample.
+**Authors:** Vemuri P, Lesnick TG, Przybelski SA, Knopman DS, Lowe VJ et al.  
+**Journal:** Annals of neurology (2017)  
+**PMID:** 29023983  **DOI:** 10.1002/ana.25071
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** OBJECTIVE: To investigate the associations between age, vascular health, and Alzheimer disease (AD) imaging biomarkers in an elderly sample. METHODS: We identified 430 individuals along the cognitive ...
+
+### Antiaging Effect of Metformin on Brain in Naturally Aged and Accelerated Senescence Model of Rat.
+**Authors:** Garg G, Singh S, Singh AK, Rizvi SI  
+**Journal:** Rejuvenation research (2017)  
+**PMID:** 27897089  **DOI:** 10.1089/rej.2016.1883
+**Entities:** ROS, IL-6, TNF-α, oxidative stress, glutathione  
+**Abstract:** Metformin, a biguanide, is a widely used antidiabetic drug, which inhibits gluconeogenesis and is used to treat hyperglycemia in type 2 diabetes. Through activation of AMPK (AMP-activated protein kina...
+
+### CSF neurofilament light levels predict hippocampal atrophy in cognitively healthy older adults.
+**Authors:** Idland AV, Sala-Llonch R, Borza T, Watne LO, Wyller TB et al.  
+**Journal:** Neurobiology of aging (2017)  
+**PMID:** 27794264  **DOI:** 10.1016/j.neurobiolaging.2016.09.012
+**Entities:** NfL, tau, p-tau, Alzheimer  
+**Abstract:** Cerebrospinal fluid (CSF) neurofilament light (NFL) is a marker of axonal degeneration. We tested whether CSF NFL levels predict hippocampal atrophy rate in cognitively healthy older adults independen...
+
+### Beneficial effect of bilingualism on Alzheimer's disease CSF biomarkers and cognition.
+**Authors:** Estanga A, Ecay-Torres M, Ibañez A, Izagirre A, Villanua J et al.  
+**Journal:** Neurobiology of aging (2017)  
+**PMID:** 27916386  **DOI:** 10.1016/j.neurobiolaging.2016.10.013
+**Entities:** Alzheimer  
+**Abstract:** Bilingualism as a component of cognitive reserve has been claimed to delay the onset of Alzheimer's disease (AD). However, its effect on cerebrospinal fluid (CSF) AD-biomarkers has not been investigat...
+
+### Intranasal Cerebrolysin Attenuates Learning and Memory Impairments in D-galactose-Induced Senescence in Mice.
+**Authors:** Pourmemar E, Majdi A, Haramshahi M, Talebi M, Karimi P et al.  
+**Journal:** Experimental gerontology (2017)  
+**PMID:** 27894939  **DOI:** 10.1016/j.exger.2016.11.011
+**Entities:** ROS, oxidative stress, SOD, glutathione, aging  
+**Abstract:** Neurotrophic factors are currently being considered as pro-cognitive therapeutic approaches for management of cognitive deficits. This study aims to evaluate the effects of intranasal (i.n.) or intrap...
+
+### Brain Inflammation, Blood Brain Barrier dysfunction and Neuronal Synaptophysin Decrease after Inhalation Exposure to Titanium Dioxide Nano-aerosol in Aging Rats.
+**Authors:** Disdier C, Chalansonnet M, Gagnaire F, Gaté L, Cosnier F et al.  
+**Journal:** Scientific reports (2017)  
+**PMID:** 28939873  **DOI:** 10.1038/s41598-017-12404-5
+**Entities:** aging  
+**Abstract:** Notwithstanding potential neurotoxicity of inhaled titanium dioxide nanoparticles (TiO
+
+### Resistance to Alzheimer Disease Neuropathologic Changes and Apparent Cognitive Resilience in the Nun and Honolulu-Asia Aging Studies.
+**Authors:** Latimer CS, Keene CD, Flanagan ME, Hemmy LS, Lim KO et al.  
+**Journal:** Journal of neuropathology and experimental neurology (2017)  
+**PMID:** 28499012  **DOI:** 10.1093/jnen/nlx030
+**Entities:** TBI, Alzheimer, aging  
+**Abstract:** Two population-based studies key to advancing knowledge of brain aging are the Honolulu-Asia Aging Study (HAAS) and the Nun Study. Harmonization of their neuropathologic data allows cross comparison, ...
+
+### Involvement of progranulin in modulating neuroinflammatory responses but not neurogenesis in the hippocampus of aged mice.
+**Authors:** Ma Y, Matsuwaki T, Yamanouchi K, Nishihara M  
+**Journal:** Experimental gerontology (2017)  
+**PMID:** 28479389  **DOI:** 10.1016/j.exger.2017.05.003
+**Entities:** neuroinflammation, TBI, aging  
+**Abstract:** It is well established that adult neurogenesis in the hippocampus declines with age. Our previous studies have suggested that progranulin (PGRN) has a facilitative effect on hippocampal neurogenesis. ...
+
+### Difference in imaging biomarkers of neurodegeneration between early and late-onset amnestic Alzheimer's disease.
+**Authors:** Aziz AL, Giusiano B, Joubert S, Duprat L, Didic M et al.  
+**Journal:** Neurobiology of aging (2017)  
+**PMID:** 28314160  **DOI:** 10.1016/j.neurobiolaging.2017.02.010
+**Entities:** Alzheimer  
+**Abstract:** Neuroimaging biomarkers differ between patients with early-onset Alzheimer's disease (EOAD) and late-onset Alzheimer's disease (LOAD). Whether these changes reflect cognitive heterogeneity or differen...
+
+### Endogenous reactive oxygen species cause astrocyte defects and neuronal dysfunctions in the hippocampus: a new model for aging brain.
+**Authors:** Ishii T, Takanashi Y, Sugita K, Miyazawa M, Yanagihara R et al.  
+**Journal:** Aging cell (2017)  
+**PMID:** 27623715  **DOI:** 10.1111/acel.12523
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** The etiology of astrocyte dysfunction is not well understood even though neuronal defects have been extensively studied in a variety of neuronal degenerative diseases. Astrocyte defects could be trigg...
+
+### Biomarkers of disease can be detected in mice as early as 4 weeks after initiation of exposure to third-hand smoke levels equivalent to those found in homes of smokers.
+**Authors:** Adhami N, Chen Y, Martins-Green M  
+**Journal:** Clinical science (London, England : 1979) (2017)  
+**PMID:** 28912356  **DOI:** 10.1042/CS20171053
+**Entities:** aging  
+**Abstract:** Third-hand smoke (THS) is a newly discovered environmental health hazard that results from accumulation and aging of second-hand smoke (SHS) toxins on surfaces where smoking has occurred. Our objectiv...
+
+### Early VGLUT1-specific parallel fiber synaptic deficits and dysregulated cerebellar circuit in the KIKO mouse model of Friedreich ataxia.
+**Authors:** Lin H, Magrane J, Clark EM, Halawani SM, Warren N et al.  
+**Journal:** Disease models & mechanisms (2017)  
+**PMID:** 29259026  **DOI:** 10.1242/dmm.030049
+**Entities:** —  
+**Abstract:** Friedreich ataxia (FRDA) is an autosomal recessive neurodegenerative disorder with progressive ataxia that affects both the peripheral and central nervous system (CNS). While later CNS neuropathology ...
+
+### Longitudinal telomere shortening and early Alzheimer's disease progression in adults with down syndrome.
+**Authors:** Jenkins EC, Marchi EJ, Velinov MT, Ye L, Krinsky-McHale SJ et al.  
+**Journal:** American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics (2017)  
+**PMID:** 28856789  **DOI:** 10.1002/ajmg.b.32575
+**Entities:** Alzheimer  
+**Abstract:** Telomere shortening was shown to parallel Alzheimer's disease (AD) associated dementia. By using a dual PNA Probe system we have developed a practical method for comparing telomere length in T-lymphoc...
+
+### Sixty years old is the breakpoint of human frontal cortex aging.
+**Authors:** Cabré R, Naudí A, Dominguez-Gonzalez M, Ayala V, Jové M et al.  
+**Journal:** Free radical biology & medicine (2017)  
+**PMID:** 27979658  **DOI:** 10.1016/j.freeradbiomed.2016.12.010
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Human brain aging is the physiological process which underlies as cause of cognitive decline in the elderly and the main risk factor for neurodegenerative diseases such as Alzheimer's disease. Human n...
+
+### Dynamic activation of basilar membrane macrophages in response to chronic sensory cell degeneration in aging mouse cochleae.
+**Authors:** Frye MD, Yang W, Zhang C, Xiong B, Hu BH  
+**Journal:** Hearing research (2017)  
+**PMID:** 27837652  **DOI:** 10.1016/j.heares.2016.11.003
+**Entities:** aging  
+**Abstract:** In the sensory epithelium, macrophages have been identified on the scala tympani side of the basilar membrane. These basilar membrane macrophages are the spatially closest immune cells to sensory cell...
+
+### Upregulation of mitochondrial NAD+ levels impairs the clonogenicity of SSEA1+ glioblastoma tumor-initiating cells.
+**Authors:** Son MJ, Ryu JS, Kim JY, Kwon Y, Chung KS et al.  
+**Journal:** Experimental & molecular medicine (2017)  
+**PMID:** 28604662  **DOI:** 10.1038/emm.2017.74
+**Entities:** —  
+**Abstract:** Emerging evidence has emphasized the importance of cancer therapies targeting an abnormal metabolic state of tumor-initiating cells (TICs) in which they retain stem cell-like phenotypes and nicotinami...
+
+### In vivo assessment of iron content of the cerebral cortex in healthy aging using 7-Tesla T2*-weighted phase imaging.
+**Authors:** Buijs M, Doan NT, van Rooden S, Versluis MJ, van Lew B et al.  
+**Journal:** Neurobiology of aging (2017)  
+**PMID:** 28199888  **DOI:** 10.1016/j.neurobiolaging.2016.09.005
+**Entities:** Alzheimer, aging  
+**Abstract:** Accumulation of brain iron has been suggested as a biomarker of neurodegeneration. Increased iron has been seen in the cerebral cortex in postmortem studies of neurodegenerative diseases and healthy a...
+
+### A/T/N: An unbiased descriptive classification scheme for Alzheimer disease biomarkers.
+**Authors:** Jack CR, Bennett DA, Blennow K, Carrillo MC, Feldman HH et al.  
+**Journal:** Neurology (2016)  
+**PMID:** 27371494  **DOI:** 10.1212/WNL.0000000000002923
+**Entities:** tau, Aβ42, Alzheimer, aging  
+**Abstract:** Biomarkers have become an essential component of Alzheimer disease (AD) research and because of the pervasiveness of AD pathology in the elderly, the same biomarkers are used in cognitive aging resear...
+
+### Suspected non-Alzheimer disease pathophysiology--concept and controversy.
+**Authors:** Jack CR, Knopman DS, Chételat G, Dickson D, Fagan AM et al.  
+**Journal:** Nature reviews. Neurology (2016)  
+**PMID:** 26782335  **DOI:** 10.1038/nrneurol.2015.251
+**Entities:** Alzheimer  
+**Abstract:** Suspected non-Alzheimer disease pathophysiology (SNAP) is a biomarker-based concept that applies to individuals with normal levels of amyloid-β biomarkers in the brain, but in whom biomarkers of neuro...
+
+### Asymptomatic Alzheimer disease: Defining resilience.
+**Authors:** Hohman TJ, McLaren DG, Mormino EC, Gifford KA, Libon DJ et al.  
+**Journal:** Neurology (2016)  
+**PMID:** 27815399  
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVE: To define robust resilience metrics by leveraging CSF biomarkers of Alzheimer disease (AD) pathology within a latent variable framework and to demonstrate the ability of such metrics to pre...
+
+### Biomarker clusters are differentially associated with longitudinal cognitive decline in late midlife.
+**Authors:** Racine AM, Koscik RL, Berman SE, Nicholas CR, Clark LR et al.  
+**Journal:** Brain : a journal of neurology (2016)  
+**PMID:** 27324877  **DOI:** 10.1093/brain/aww142
+**Entities:** Aβ42, Alzheimer, aging  
+**Abstract:** The ability to detect preclinical Alzheimer's disease is of great importance, as this stage of the Alzheimer's continuum is believed to provide a key window for intervention and prevention. As Alzheim...
+
+### Blood metabolite markers of cognitive performance and brain function in aging.
+**Authors:** Simpson BN, Kim M, Chuang YF, Beason-Held L, Kitner-Triolo M et al.  
+**Journal:** Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism (2016)  
+**PMID:** 26661209  **DOI:** 10.1177/0271678X15611678
+**Entities:** PPCS, Alzheimer, aging  
+**Abstract:** We recently showed that Alzheimer's disease patients have lower plasma concentrations of the phosphatidylcholines (PC16:0/20:5; PC16:0/22:6; and PC18:0/22:6) relative to healthy controls. We now exten...
+
+### Insight of brain degenerative protein modifications in the pathology of neurodegeneration and dementia by proteomic profiling.
+**Authors:** Adav SS, Sze SK  
+**Journal:** Molecular brain (2016)  
+**PMID:** 27809929  
+**Entities:** Alzheimer, aging  
+**Abstract:** Dementia is a syndrome associated with a wide range of clinical features including progressive cognitive decline and patient inability to self-care. Due to rapidly increasing prevalence in aging socie...
+
+### Differences between chronological and brain age are related to education and self-reported physical activity.
+**Authors:** Steffener J, Habeck C, O'Shea D, Razlighi Q, Bherer L et al.  
+**Journal:** Neurobiology of aging (2016)  
+**PMID:** 26973113  **DOI:** 10.1016/j.neurobiolaging.2016.01.014
+**Entities:** aging  
+**Abstract:** This study investigated the relationship between education and physical activity and the difference between a physiological prediction of age and chronological age (CA). Cortical and subcortical gray ...
+
+### Proteomic profiling of mitochondria: what does it tell us about the ageing brain?
+**Authors:** Ingram T, Chakrabarti L  
+**Journal:** Aging (2016)  
+**PMID:** 27992860  **DOI:** 10.18632/aging.101131
+**Entities:** aging  
+**Abstract:** Mitochondrial dysfunction is evident in numerous neurodegenerative and age-related disorders. It has also been linked to cellular ageing, however our current understanding of the mitochondrial changes...
+
+### MR brain image analysis in dementia: From quantitative imaging biomarkers to ageing brain models and imaging genetics.
+**Authors:** Niessen WJ  
+**Journal:** Medical image analysis (2016)  
+**PMID:** 27344937  **DOI:** 10.1016/j.media.2016.06.029
+**Entities:** Alzheimer, aging  
+**Abstract:** MR brain image analysis has constantly been a hot topic research area in medical image analysis over the past two decades. In this article, it is discussed how the field developed from the constructio...
+
+### Macrophage inhibitory cytokine-1/growth differentiation factor 15 as a marker of cognitive ageing and dementia.
+**Authors:** Jiang J, Wen W, Sachdev PS  
+**Journal:** Current opinion in psychiatry (2016)  
+**PMID:** 26731555  **DOI:** 10.1097/YCO.0000000000000225
+**Entities:** Alzheimer, aging  
+**Abstract:** PURPOSE OF REVIEW: As a divergent member of the transforming growth factor-β superfamily, macrophage inhibitory cytokine-1 (MIC-1/GDF15) is an autocrine regulatory molecule that plays important roles ...
+
+### Physical activity and inflammation: effects on gray-matter volume and cognitive decline in aging.
+**Authors:** Papenberg G, Ferencz B, Mangialasche F, Mecocci P, Cecchetti R et al.  
+**Journal:** Human brain mapping (2016)  
+**PMID:** 27159568  **DOI:** 10.1002/hbm.23252
+**Entities:** IL-6, TNF-α, IL-1β, Alzheimer, aging  
+**Abstract:** Physical activity has been positively associated with gray-matter integrity. In contrast, pro-inflammatory cytokines seem to have negative effects on the aging brain and have been related to dementia....
+
+### Lack of collagen VI promotes neurodegeneration by impairing autophagy and inducing apoptosis during aging.
+**Authors:** Cescon M, Chen P, Castagnaro S, Gregorio I, Bonaldo P  
+**Journal:** Aging (2016)  
+**PMID:** 27060109  **DOI:** 10.18632/aging.100924
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Collagen VI is an extracellular matrix (ECM) protein with a broad distribution in different tissues and mostly deposited at the close periphery of the cell surface. Previous studies revealed that coll...
+
+### Ameliorative effect of lotus seedpod proanthocyanidins on cognitive impairment and brain aging induced by D-galactose.
+**Authors:** Gong YS, Guo J, Hu K, Gao YQ, Xie BJ et al.  
+**Journal:** Experimental gerontology (2016)  
+**PMID:** 26657492  **DOI:** 10.1016/j.exger.2015.11.020
+**Entities:** ROS, Alzheimer, SOD, glutathione, aging  
+**Abstract:** This study mainly investigated the ameliorative effect of lotus seedpod proanthocyanidins (LSPC) and the mechanism underlying such effect on cognitive impairment and brain aging induced by d-galactose...
+
+### Structural brain changes and all-cause mortality in the elderly population-the mediating role of inflammation.
+**Authors:** Hanning U, Roesler A, Peters A, Berger K, Baune BT  
+**Journal:** Age (Dordrecht, Netherlands) (2016)  
+**PMID:** 27766478  **DOI:** 10.1007/s11357-016-9951-9
+**Entities:** IL-6, TNF-α, aging  
+**Abstract:** While MRI brain changes have been related to mortality during ageing, the role of inflammation in this relationship remains poorly understood. Hence, this study aimed to investigate the impact of MRI ...
+
+### Brain levels of high-energy phosphate metabolites and executive function in geriatric depression.
+**Authors:** Harper DG, Joe EB, Jensen JE, Ravichandran C, Forester BP  
+**Journal:** International journal of geriatric psychiatry (2016)  
+**PMID:** 26891040  **DOI:** 10.1002/gps.4439
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVES: Depression in late life has been associated with difficulties in cognitive processing, particularly in the domains of executive function, processing speed and memory, and increases the ris...
+
+### Functional connectivity with the retrosplenial cortex predicts cognitive aging in rats.
+**Authors:** Ash JA, Lu H, Taxier LR, Long JM, Yang Y et al.  
+**Journal:** Proceedings of the National Academy of Sciences of the United States of America (2016)  
+**PMID:** 27791017  
+**Entities:** Alzheimer, aging  
+**Abstract:** Changes in the functional connectivity (FC) of large-scale brain networks are a prominent feature of brain aging, but defining their relationship to variability along the continuum of normal and patho...
+
+### Physiological neuronal decline in healthy aging human brain - An in vivo study with MRI and short echo-time whole-brain (1)H MR spectroscopic imaging.
+**Authors:** Ding XQ, Maudsley AA, Sabati M, Sheriff S, Schmitz B et al.  
+**Journal:** NeuroImage (2016)  
+**PMID:** 27164326  **DOI:** 10.1016/j.neuroimage.2016.05.014
+**Entities:** aging  
+**Abstract:** Knowledge of physiological aging in healthy human brain is increasingly important for neuroscientific research and clinical diagnosis. To investigate neuronal decline in normal aging brain eighty-one ...
+
+### Long-term Neuroglial Cocultures as a Brain Aging Model: Hallmarks of Senescence, MicroRNA Expression Profiles, and Comparison With In Vivo Models.
+**Authors:** Bigagli E, Luceri C, Scartabelli T, Dolara P, Casamenti F et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2016)  
+**PMID:** 25568096  **DOI:** 10.1093/gerona/glu231
+**Entities:** ROS, IL-6, oxidative stress, resveratrol, aging  
+**Abstract:** Our purpose was to evaluate long-term neuroglial cocultures as a model for investigating senescence in the nervous system and to assess its similarities with in vivo models. To this aim, we maintained...
+
+### Reduced apurinic/apyrimidinic endonuclease 1 activity and increased DNA damage in mitochondria are related to enhanced apoptosis and inflammation in the brain of senescence- accelerated P8 mice (SAMP8).
+**Authors:** Torregrosa-Muñumer R, Gómez A, Vara E, Kireev R, Barja G et al.  
+**Journal:** Biogerontology (2016)  
+**PMID:** 26415859  **DOI:** 10.1007/s10522-015-9612-x
+**Entities:** oxidative stress, Alzheimer, aging  
+**Abstract:** The senescence- accelerated mouse prone 8 (SAMP8) is a well- characterized animal model of senescence that shows early age- related neurodegeneration with impairment in learning and memory skills when...
+
+### Telomere longitudinal shortening as a biomarker for dementia status of adults with Down syndrome.
+**Authors:** Jenkins EC, Ye L, Krinsky-McHale SJ, Zigman WB, Schupf N et al.  
+**Journal:** American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics (2016)  
+**PMID:** 26593971  **DOI:** 10.1002/ajmg.b.32389
+**Entities:** Alzheimer, aging  
+**Abstract:** Previous studies have suggested that Alzheimer's disease (AD) causes an accelerated shortening of telomeres, the ends of chromosomes consisting of highly conserved TTAGGG repeats that, because of unid...
+
+### TSPO in a murine model of Sandhoff disease: presymptomatic marker of neurodegeneration and disease pathophysiology.
+**Authors:** Loth MK, Choi J, McGlothan JL, Pletnikov MV, Pomper MG et al.  
+**Journal:** Neurobiology of disease (2016)  
+**PMID:** 26545928  **DOI:** 10.1016/j.nbd.2015.11.001
+**Entities:** GFAP, neuroinflammation, TBI, Alzheimer  
+**Abstract:** Translocator protein (18 kDa), formerly known as the peripheral benzodiazepine receptor (PBR), has been extensively used as a biomarker of active brain disease and neuroinflammation. TSPO expression i...
+
+### Enrichment of clinical trials in MCI due to AD using markers of amyloid and neurodegeneration.
+**Authors:** Wolz R, Schwarz AJ, Gray KR, Yu P, Hill DL et al.  
+**Journal:** Neurology (2016)  
+**PMID:** 27558378  **DOI:** 10.1212/WNL.0000000000003126
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVE: To investigate the effect of enriching mild cognitive impairment (MCI) clinical trials using combined markers of amyloid pathology and neurodegeneration. METHODS: We evaluate an implementat...
+
+### Neuronal Pentraxin 2 predicts medial temporal atrophy and memory decline across the Alzheimer's disease spectrum.
+**Authors:** Swanson A, Willette AA  
+**Journal:** Brain, behavior, and immunity (2016)  
+**PMID:** 27444967  **DOI:** 10.1016/j.bbi.2016.07.148
+**Entities:** tau, neuroinflammation, Alzheimer  
+**Abstract:** Chronic neuroinflammation is thought to potentiate medial temporal lobe (MTL) atrophy and memory decline in Alzheimer's disease (AD). It has become increasingly important to find novel immunological b...
+
+### Tart cherry supplementation improves working memory, hippocampal inflammation, and autophagy in aged rats.
+**Authors:** Thangthaeng N, Poulose SM, Gomes SM, Miller MG, Bielinski DF et al.  
+**Journal:** Age (Dordrecht, Netherlands) (2016)  
+**PMID:** 27578256  **DOI:** 10.1007/s11357-016-9945-7
+**Entities:** GFAP, aging  
+**Abstract:** High consumption of fruits and vegetables has been associated with reduced risk of debilitating diseases and improved cognition in aged populations. These beneficial effects have been attributed to th...
+
+### Quantification of biological aging in young adults.
+**Authors:** Belsky DW, Caspi A, Houts R, Cohen HJ, Corcoran DL et al.  
+**Journal:** Proceedings of the National Academy of Sciences of the United States of America (2015)  
+**PMID:** 26150497  **DOI:** 10.1073/pnas.1506264112
+**Entities:** aging  
+**Abstract:** Antiaging therapies show promise in model organism research. Translation to humans is needed to address the challenges of an aging global population. Interventions to slow human aging will need to be ...
+
+### Comparative pathway and network analysis of brain transcriptome changes during adult aging and in Parkinson's disease.
+**Authors:** Glaab E, Schneider R  
+**Journal:** Neurobiology of disease (2015)  
+**PMID:** 25447234  **DOI:** 10.1016/j.nbd.2014.11.002
+**Entities:** ROS, oxidative stress, dopamine, aging  
+**Abstract:** Aging is considered as one of the main factors promoting the risk for Parkinson's disease (PD), and common mechanisms of dopamine neuron degeneration in aging and PD have been proposed in recent years...
+
+### Hormone-brain-aging relationships, broadly reactive with imidazole-containing dipeptides: targeting of telomere attrition as an aging biomarker and dynamic telomerase activity flirting.
+**Authors:** Babizhayev MA, Vishnyakova KS, Yegorov YE  
+**Journal:** Journal of basic and clinical physiology and pharmacology (2015)  
+**PMID:** 25153587  **DOI:** 10.1515/jbcpp-2014-0045
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** It has been documented that telomere-associated cellular senescence may contribute to certain age-related disorders, and telomere length (TL) may be an informative biomarker of healthy aging. Hormone-...
+
+### Blood glucose, diet-based glycemic load and cognitive aging among dementia-free older adults.
+**Authors:** Seetharaman S, Andel R, McEvoy C, Dahl Aslan AK, Finkel D et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2015)  
+**PMID:** 25149688  **DOI:** 10.1093/gerona/glu135
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Although evidence indicates that Type II Diabetes is related to abnormal brain aging, the influence of elevated blood glucose on long-term cognitive change is unclear. In addition, the rel...
+
+### Odor identification and Alzheimer disease biomarkers in clinically normal elderly.
+**Authors:** Growdon ME, Schultz AP, Dagley AS, Amariglio RE, Hedden T et al.  
+**Journal:** Neurology (2015)  
+**PMID:** 25934852  **DOI:** 10.1212/WNL.0000000000001614
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVES: Our objective was to investigate cross-sectional associations between odor identification ability and imaging biomarkers of neurodegeneration and amyloid deposition in clinically normal (C...
+
+### Relationship between the hs-CRP as non-specific biomarker and Alzheimer's disease according to aging process.
+**Authors:** Song IU, Chung SW, Kim YD, Maeng LS  
+**Journal:** International journal of medical sciences (2015)  
+**PMID:** 26283879  **DOI:** 10.7150/ijms.12742
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** BACKGROUND: Microglia are involved in immune surveillance in intact brains and become activated in response to inflammation and neurodegeneration. Microglia have different functions, neuroprotective o...
+
+### CNF1 Enhances Brain Energy Content and Counteracts Spontaneous Epileptiform Phenomena in Aged DBA/2J Mice.
+**Authors:** Travaglione S, Ballan G, Fortuna A, Ferri A, Guidotti M et al.  
+**Journal:** PloS one (2015)  
+**PMID:** 26457896  **DOI:** 10.1371/journal.pone.0140495
+**Entities:** Alzheimer  
+**Abstract:** Epilepsy, one of the most common conditions affecting the brain, is characterized by neuroplasticity and brain cell energy defects. In this work, we demonstrate the ability of the Escherichia coli pro...
+
+### Brain amyloid-beta fragment signatures in pathological ageing and Alzheimer's disease by hybrid immunoprecipitation mass spectrometry.
+**Authors:** Portelius E, Lashley T, Westerlund A, Persson R, Fox NC et al.  
+**Journal:** Neuro-degenerative diseases (2015)  
+**PMID:** 25591542  **DOI:** 10.1159/000369465
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Senile plaques in Alzheimer's disease (AD) are composed of amyloid-β (Aβ), especially N-truncated forms including Aβ4-42. These are thought to be neurotoxic. However, individuals may live ...
+
+### Free and cued memory in relation to biomarker-defined abnormalities in clinically normal older adults and those at risk for Alzheimer's disease.
+**Authors:** Papp KV, Amariglio RE, Mormino EC, Hedden T, Dekhytar M et al.  
+**Journal:** Neuropsychologia (2015)  
+**PMID:** 26002757  **DOI:** 10.1016/j.neuropsychologia.2015.04.034
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVES: Furthering our understanding of the relationship between amyloidosis (Aβ), neurodegeneration (ND), and cognition is imperative for early identification and early intervention of Alzheimer'...
+
+### The role of vascular endothelial growth factor in neurodegeneration and cognitive decline: exploring interactions with biomarkers of Alzheimer disease.
+**Authors:** Hohman TJ, Bell SP, Jefferson AL  
+**Journal:** JAMA neurology (2015)  
+**PMID:** 25751166  **DOI:** 10.1001/jamaneurol.2014.4761
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** IMPORTANCE: A subset of older adults present post mortem with Alzheimer disease (AD) pathologic features but without any significant clinical manifestation of dementia. Vascular endothelial growth fac...
+
+### Brain tissues atrophy is not always the best structural biomarker of physiological aging: A multimodal cross-sectional study.
+**Authors:** Cherubini A, Caligiuri ME, Péran P, Sabatini U, Cosentino C et al.  
+**Journal:** Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference (2015)  
+**PMID:** 26737521  **DOI:** 10.1109/EMBC.2015.7319621
+**Entities:** aging  
+**Abstract:** This study presents a voxel-based multiple regression analysis of different magnetic resonance image modalities, including anatomical T1-weighted, T2* relaxometry, and diffusion tensor imaging. Quanti...
+
+### Three-dimensional morphometric analysis of microglial changes in a mouse model of virus encephalitis: age and environmental influences.
+**Authors:** de Sousa AA, Dos Reis RR, de Lima CM, de Oliveira MA, Fernandes TN et al.  
+**Journal:** The European journal of neuroscience (2015)  
+**PMID:** 25980955  **DOI:** 10.1111/ejn.12951
+**Entities:** aging  
+**Abstract:** Many RNA virus CNS infections cause neurological disease. Because Piry virus has a limited human pathogenicity and exercise reduces activation of microglia in aged mice, possible influences of environ...
+
+### The role of iron in brain ageing and neurodegenerative disorders.
+**Authors:** Ward RJ, Zucca FA, Duyn JH, Crichton RR, Zecca L  
+**Journal:** The Lancet. Neurology (2014)  
+**PMID:** 25231526  **DOI:** 10.1016/S1474-4422(14)70117-6
+**Entities:** BBB, Alzheimer, MBP, aging  
+**Abstract:** In the CNS, iron in several proteins is involved in many important processes such as oxygen transportation, oxidative phosphorylation, myelin production, and the synthesis and metabolism of neurotrans...
+
+### [Neuronal ageing].
+**Authors:** Piechota M, Sunderland P  
+**Journal:** Postepy biochemii (2014)  
+**PMID:** 25134353  
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Ageing leads to irreversible alterations in the nervous system, which to various extent impair its functions such as capacity to learn and memory. In old neurons and brain, similarly to what may take ...
+
+### Neuronal vesicular trafficking and release in age-related cognitive impairment.
+**Authors:** Deák F  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2014)  
+**PMID:** 24809352  **DOI:** 10.1093/gerona/glu061
+**Entities:** Alzheimer, aging  
+**Abstract:** Aging is a common major risk factor for many neurological disorders resulting in cognitive impairment and neurodegeneration including Parkinson's and Alzheimer's diseases. Novel results from the field...
+
+### Structural imaging measures of brain aging.
+**Authors:** Lockhart SN, DeCarli C  
+**Journal:** Neuropsychology review (2014)  
+**PMID:** 25146995  **DOI:** 10.1007/s11065-014-9268-3
+**Entities:** Alzheimer, aging  
+**Abstract:** During the course of normal aging, biological changes occur in the brain that are associated with changes in cognitive ability. This review presents data from neuroimaging studies of primarily "normal...
+
+### Redox proteomics and the dynamic molecular landscape of the aging brain.
+**Authors:** Perluigi M, Swomley AM, Butterfield DA  
+**Journal:** Ageing research reviews (2014)  
+**PMID:** 24374232  **DOI:** 10.1016/j.arr.2013.12.005
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** It is well established that the risk to develop neurodegenerative disorders increases with chronological aging. Accumulating studies contributed to characterize the age-dependent changes either at gen...
+
+### Default mode network as a potential biomarker of chemotherapy-related brain injury.
+**Authors:** Kesler SR  
+**Journal:** Neurobiology of aging (2014)  
+**PMID:** 24913897  **DOI:** 10.1016/j.neurobiolaging.2014.03.036
+**Entities:** ROS, oxidative stress, TBI, aging  
+**Abstract:** Chronic medical conditions and/or their treatments may interact with aging to alter or even accelerate brain senescence. Adult onset cancer, for example, is a disease associated with advanced aging an...
+
+### Brain aging and AD-like pathology in streptozotocin-induced diabetic rats.
+**Authors:** Wang JQ, Yin J, Song YF, Zhang L, Ren YX et al.  
+**Journal:** Journal of diabetes research (2014)  
+**PMID:** 25197672  **DOI:** 10.1155/2014/796840
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVE: Numerous epidemiological studies have linked diabetes mellitus (DM) with an increased risk of developing Alzheimer's disease (AD). However, whether or not diabetic encephalopathy shows AD-l...
+
+### The Alzheimer's disease mitochondrial cascade hypothesis: progress and perspectives.
+**Authors:** Swerdlow RH, Burns JM, Khan SM  
+**Journal:** Biochimica et biophysica acta (2014)  
+**PMID:** 24071439  **DOI:** 10.1016/j.bbadis.2013.09.010
+**Entities:** Alzheimer, aging  
+**Abstract:** Ten years ago we first proposed the Alzheimer's disease (AD) mitochondrial cascade hypothesis. This hypothesis maintains that gene inheritance defines an individual's baseline mitochondrial function; ...
+
+### Unraveling the complexity of neurodegeneration in brains of subjects with Down syndrome: insights from proteomics.
+**Authors:** Perluigi M, Di Domenico F, Buttterfield DA  
+**Journal:** Proteomics. Clinical applications (2014)  
+**PMID:** 24259517  
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Down syndrome (DS) is one of the most common genetic causes of intellectual disability characterized by multiple pathological phenotypes, among which neurodegeneration is a key feature. The neuropatho...
+
+### Brain innate immunity in the regulation of neuroinflammation: therapeutic strategies by modulating CD200-CD200R interaction involve the cannabinoid system.
+**Authors:** Hernangómez M, Carrillo-Salinas FJ, Mecha M, Correa F, Mestre L et al.  
+**Journal:** Current pharmaceutical design (2014)  
+**PMID:** 24588829  
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** The central nervous system (CNS) innate immune response includes an arsenal of molecules and receptors expressed by professional phagocytes, glial cells and neurons that is involved in host defence an...
+
+### Accelerated brain aging in schizophrenia and beyond: a neuroanatomical marker of psychiatric disorders.
+**Authors:** Koutsouleris N, Davatzikos C, Borgwardt S, Gaser C, Bottlender R et al.  
+**Journal:** Schizophrenia bulletin (2014)  
+**PMID:** 24126515  **DOI:** 10.1093/schbul/sbt142
+**Entities:** aging  
+**Abstract:** Structural brain abnormalities are central to schizophrenia (SZ), but it remains unknown whether they are linked to dysmaturational processes crossing diagnostic boundaries, aggravating across disease...
+
+### Recharging mitochondrial batteries in old eyes. Near infra-red increases ATP.
+**Authors:** Gkotsi D, Begum R, Salt T, Lascaratos G, Hogg C et al.  
+**Journal:** Experimental eye research (2014)  
+**PMID:** 24631333  **DOI:** 10.1016/j.exer.2014.02.023
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Progressive accumulation of age related mitochondrial DNA mutations reduce ATP production and increase reactive oxygen species output, leading to oxidative stress, inflammation and degradation. The pa...
+
+### Influence of lifestyle modifications on age-related free radical injury to brain.
+**Authors:** Peskind ER, Li G, Shofer JB, Millard SP, Leverenz JB et al.  
+**Journal:** JAMA neurology (2014)  
+**PMID:** 25048271  **DOI:** 10.1001/jamaneurol.2014.1428
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** IMPORTANCE: The Healthy Brain Initiative 2013-2018 seeks to optimize brain health as we age. Free radical injury is an important effector of molecular and cellular stress in the aging brain that deriv...
+
+### Complex and region-specific changes in astroglial markers in the aging brain.
+**Authors:** Rodríguez JJ, Yeh CY, Terzieva S, Olabarria M, Kulijewicz-Nawrot M et al.  
+**Journal:** Neurobiology of aging (2014)  
+**PMID:** 23969179  **DOI:** 10.1016/j.neurobiolaging.2013.07.002
+**Entities:** GFAP, S100B, aging  
+**Abstract:** Morphological aging of astrocytes was investigated in entorhinal cortex (EC), dentate gyrus (DG), and cornu ammonis 1 (CA1) regions of hippocampus of male SV129/C57BL6 mice of different age groups (3,...
+
+### IGF-1 deficiency impairs cerebral myogenic autoregulation in hypertensive mice.
+**Authors:** Toth P, Tucsek Z, Tarantini S, Sosnowska D, Gautam T et al.  
+**Journal:** Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism (2014)  
+**PMID:** 25248835  **DOI:** 10.1038/jcbfm.2014.156
+**Entities:** neuroinflammation, BBB, aging  
+**Abstract:** Aging impairs autoregulatory protection in the brain, exacerbating hypertension-induced cerebromicrovascular injury, neuroinflammation, and development of vascular cognitive impairment. Despite the im...
+
+### Shorter telomere length is linked to brain atrophy and white matter hyperintensities.
+**Authors:** Wikgren M, Karlsson T, Söderlund H, Nordin A, Roos G et al.  
+**Journal:** Age and ageing (2014)  
+**PMID:** 24231584  **DOI:** 10.1093/ageing/aft172
+**Entities:** aging  
+**Abstract:** BACKGROUND: leukocyte telomere length (TL) is considered a marker of biological aging. Several studies have investigated the link between leukocyte TL and aging-associated functional attributes of the...
+
+### Brain derived neurotrophic factor in the retina of the teleost N. furzeri.
+**Authors:** Gatta C, Castaldo L, Cellerino A, de Girolamo P, Lucini C et al.  
+**Journal:** Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft (2014)  
+**PMID:** 24629406  **DOI:** 10.1016/j.aanat.2014.01.002
+**Entities:** BDNF  
+**Abstract:** BDNF plays an important role in the development and maintenance of visual circuitries in the retina and brain visual centers. In adulthood, BDNF signaling is involved in neural protection and regenera...
+
+### Heterozygous knockout of the Bmi-1 gene causes an early onset of phenotypes associated with brain aging.
+**Authors:** Gu M, Shen L, Bai L, Gao J, Marshall C et al.  
+**Journal:** Age (Dordrecht, Netherlands) (2014)  
+**PMID:** 23771506  **DOI:** 10.1007/s11357-013-9552-9
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** Previous studies reported that the polycomb group gene Bmi-1 is downregulated in the aging brain. The aim of this study was to investigate whether decreased Bmi-1 expression accelerates brain aging by...
+
+### Erythrocyte DHA level as a biomarker of DHA status in specific brain regions of n-3 long-chain PUFA-supplemented aged rats.
+**Authors:** Létondor A, Buaud B, Vaysse C, Fonseca L, Herrouin C et al.  
+**Journal:** The British journal of nutrition (2014)  
+**PMID:** 25331622  **DOI:** 10.1017/S0007114514002529
+**Entities:** aging  
+**Abstract:** n-3 Long-chain PUFA (n-3 LC-PUFA), particularly EPA and DHA, play a key role in the maintenance of brain functions such as learning and memory that are impaired during ageing. Ageing is also associate...
+
+### Peripheral inflammation and cognitive aging.
+**Authors:** Lim A, Krajina K, Marsland AL  
+**Journal:** Modern trends in pharmacopsychiatry (2013)  
+**PMID:** 25224899  **DOI:** 10.1159/000346362
+**Entities:** Alzheimer, aging  
+**Abstract:** Evidence suggests that inflammation, an innate immune response facilitating recovery from injury and pathogenic invasion, is positively associated with age-related cognitive decline and may play a rol...
+
+### Impact of brain aging and neurodegeneration on cognition: evidence from MRI.
+**Authors:** Draganski B, Lutti A, Kherif F  
+**Journal:** Current opinion in neurology (2013)  
+**PMID:** 24184970  **DOI:** 10.1097/WCO.0000000000000029
+**Entities:** Alzheimer, aging  
+**Abstract:** PURPOSE OF REVIEW: We present an overview of recent concepts in mechanisms underlying cognitive decline associated with brain aging and neurodegeneration from the perspective of MRI. RECENT FINDINGS: ...
+
+### APOE-related biomarker profiles in non-pathological aging and early phases of Alzheimer's disease.
+**Authors:** Reinvang I, Espeseth T, Westlye LT  
+**Journal:** Neuroscience and biobehavioral reviews (2013)  
+**PMID:** 23701948  **DOI:** 10.1016/j.neubiorev.2013.05.006
+**Entities:** Alzheimer, aging  
+**Abstract:** Individuals carrying the *E4 allele of the apolipoprotein E gene (APOE) are at increased risk of developing Alzheimer's disease (AD). However, the biological mechanisms underlying this association are...
+
+### Biomarker modeling of Alzheimer's disease.
+**Authors:** Jack CR, Holtzman DM  
+**Journal:** Neuron (2013)  
+**PMID:** 24360540  **DOI:** 10.1016/j.neuron.2013.12.003
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) is a slowly progressing disorder in which pathophysiological abnormalities, detectable in vivo by biomarkers, precede overt clinical symptoms by many years to decades. Five AD...
+
+### Multiple effects of physical activity on molecular and cognitive signs of brain aging: can exercise slow neurodegeneration and delay Alzheimer's disease?
+**Authors:** Brown BM, Peiffer JJ, Martins RN  
+**Journal:** Molecular psychiatry (2013)  
+**PMID:** 23164816  **DOI:** 10.1038/mp.2012.162
+**Entities:** Alzheimer, aging  
+**Abstract:** Western countries are experiencing aging populations and increased longevity; thus, the incidence of dementia and Alzheimer's disease (AD) in these countries is projected to soar. In the absence of a ...
+
+### Aging is associated with altered inflammatory, arachidonic acid cascade, and synaptic markers, influenced by epigenetic modifications, in the human frontal cortex.
+**Authors:** Keleshian VL, Modi HR, Rapoport SI, Rao JS  
+**Journal:** Journal of neurochemistry (2013)  
+**PMID:** 23336521  **DOI:** 10.1111/jnc.12153
+**Entities:** BDNF, neuroinflammation, Alzheimer, cAMP, aging  
+**Abstract:** Aging is a risk factor for Alzheimer's disease (AD) and is associated with cognitive decline. However, underlying molecular mechanisms of brain aging are not clear. Recent studies suggest epigenetic i...
+
+### BrainAGE in Mild Cognitive Impaired Patients: Predicting the Conversion to Alzheimer's Disease.
+**Authors:** Gaser C, Franke K, Klöppel S, Koutsouleris N, Sauer H et al.  
+**Journal:** PloS one (2013)  
+**PMID:** 23826273  **DOI:** 10.1371/journal.pone.0067346
+**Entities:** Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD), the most common form of dementia, shares many aspects of abnormal brain aging. We present a novel magnetic resonance imaging (MRI)-based biomarker that predicts the individua...
+
+### Apolipoprotein A-I: insights from redox proteomics for its role in neurodegeneration.
+**Authors:** Keeney JT, Swomley AM, Förster S, Harris JL, Sultana R et al.  
+**Journal:** Proteomics. Clinical applications (2013)  
+**PMID:** 23027708  **DOI:** 10.1002/prca.201200087
+**Entities:** ROS, TNF-α, oxidative stress, BBB, Alzheimer  
+**Abstract:** Proteomics has a wide range of applications, including determination of differences in the proteome in terms of expression and post-translational protein modifications. Redox proteomics allows the ide...
+
+### Plasma microRNA biomarkers for detection of mild cognitive impairment: biomarker validation study.
+**Authors:** Sheinerman KS, Tsivinsky VG, Abdullah L, Crawford F, Umansky SR  
+**Journal:** Aging (2013)  
+**PMID:** 24368295  
+**Entities:** Alzheimer  
+**Abstract:** A minimally invasive test for early detection and monitoring of Alzheimer's and other neurodegenerative diseases is a highly unmet need for drug development and planning of patient care. Mild Cognitiv...
+
+### Leucine-rich α2-glycoprotein is a novel biomarker of neurodegenerative disease in human cerebrospinal fluid and causes neurodegeneration in mouse cerebral cortex.
+**Authors:** Miyajima M, Nakajima M, Motoi Y, Moriya M, Sugano H et al.  
+**Journal:** PloS one (2013)  
+**PMID:** 24058569  **DOI:** 10.1371/journal.pone.0074453
+**Entities:** Alzheimer, aging  
+**Abstract:** Leucine-rich α2-glycoprotein (LRG) is a protein induced by inflammation. It contains a leucine-rich repeat (LRR) structure and easily binds with other molecules. However, the function of LRG in the br...
+
+### Diabetes insipidus contributes to traumatic brain injury pathology via CD36 neuroinflammation.
+**Authors:** Diamandis T, Gonzales-Portillo C, Gonzales-Portillo GS, Staples M, Borlongan MC et al.  
+**Journal:** Medical hypotheses (2013)  
+**PMID:** 24021616  **DOI:** 10.1016/j.mehy.2013.08.022
+**Entities:** neuroinflammation, TBI, Alzheimer  
+**Abstract:** Each year, over one million people in the United States are affected by traumatic brain injury (TBI). Symptoms of both acute and chronic neuroinflammation follow TBI, coinciding with a robust immune r...
+
+### Selective worsening of brain injury biomarker abnormalities in cognitively normal elderly persons with β-amyloidosis.
+**Authors:** Knopman DS, Jack CR, Wiste HJ, Weigand SD, Vemuri P et al.  
+**Journal:** JAMA neurology (2013)  
+**PMID:** 23797806  **DOI:** 10.1001/jamaneurol.2013.182
+**Entities:** TBI, Alzheimer, aging  
+**Abstract:** IMPORTANCE: The appearance of β-amyloidosis and brain injury biomarkers in cognitively normal (CN) persons is thought to define risk for the future development of cognitive impairment due to Alzheimer...
+
+### Alzheimer's disease neurodegenerative biomarkers are associated with decreased cognitive function but not β-amyloid in cognitively normal older individuals.
+**Authors:** Wirth M, Madison CM, Rabinovici GD, Oh H, Landau SM et al.  
+**Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (2013)  
+**PMID:** 23536070  **DOI:** 10.1523/JNEUROSCI.4409-12.2013
+**Entities:** Alzheimer, aging  
+**Abstract:** β-Amyloid (Aβ) plaque deposition and neurodegeneration within temporoparietal and hippocampal regions may indicate increased risk of Alzheimer's disease (AD). This study examined relationships between...
+
+### Beyond amyloid: getting real about nonamyloid targets in Alzheimer's disease.
+**Authors:** Herrup K, Carrillo MC, Schenk D, Cacace A, Desanti S et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2013)  
+**PMID:** 23809366  **DOI:** 10.1016/j.jalz.2013.01.017
+**Entities:** Alzheimer  
+**Abstract:** For decades, researchers have focused primarily on a pathway initiated by amyloid beta aggregation, amyloid deposition, and accumulation in the brain as the key mechanism underlying the disease and th...
+
+### Cellular and molecular characterization of multipolar Map5-expressing cells: a subset of newly generated, stage-specific parenchymal cells in the mammalian central nervous system.
+**Authors:** Crociara P, Parolisi R, Conte D, Fumagalli M, Bonfanti L  
+**Journal:** PloS one (2013)  
+**PMID:** 23667595  **DOI:** 10.1371/journal.pone.0063258
+**Entities:** —  
+**Abstract:** Although extremely interesting in adult neuro-glio-genesis and promising as an endogenous source for repair, parenchymal progenitors remain largely obscure in their identity and physiology, due to a s...
+
+### Peripheral mitochondrial dysfunction in Alzheimer's disease: focus on lymphocytes.
+**Authors:** Leuner K, Schulz K, Schütt T, Pantel J, Prvulovic D et al.  
+**Journal:** Molecular neurobiology (2012)  
+**PMID:** 22821186  **DOI:** 10.1007/s12035-012-8300-y
+**Entities:** ROS, oxidative stress, Alzheimer  
+**Abstract:** Alzheimer's disease (AD) is the most common progressive neurodegenerative disease. Today, AD affects millions of people worldwide and the number of AD cases will increase with increased life expectanc...
+
+### Nutrient biomarker patterns, cognitive function, and MRI measures of brain aging.
+**Authors:** Bowman GL, Silbert LC, Howieson D, Dodge HH, Traber MG et al.  
+**Journal:** Neurology (2012)  
+**PMID:** 22205763  **DOI:** 10.1212/WNL.0b013e3182436598
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVE: To examine the cross-sectional relationship between nutrient status and psychometric and imaging indices of brain health in dementia-free elders. METHODS: Thirty plasma biomarkers of diet w...
+
+### Considerations in the design of clinical trials for cognitive aging.
+**Authors:** Reiman EM, Brinton RD, Katz R, Petersen RC, Negash S et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2012)  
+**PMID:** 22573913  **DOI:** 10.1093/gerona/gls124
+**Entities:** Alzheimer, aging  
+**Abstract:** What will it take to develop interventions for the treatment of age-related cognitive decline? Session V of the Summit provided perspectives on the design of clinical trials to evaluate promising but ...
+
+### Aluminum excytotoxicity and neuroautotoimmunity: the role of the brain expression of CD32+ (FcγRIIa), ICAM-1+ and CD3ξ in aging.
+**Authors:** Jovanova-Nesic K, Shoenfeld Y, Spector NH  
+**Journal:** Current aging science (2012)  
+**PMID:** 23387884  
+**Entities:** neuroinflammation, aging  
+**Abstract:** In the central nervous system (CNS) microglia are crucial for the defense of the brain against invading microorganisms, formation of tumors, and damage following trauma. However, uncontrolled activati...
+
+### Neuroprotective lifestyles and the aging brain: activity, atrophy, and white matter integrity.
+**Authors:** Gow AJ, Bastin ME, Muñoz Maniega S, Valdés Hernández MC, Morris Z et al.  
+**Journal:** Neurology (2012)  
+**PMID:** 23091073  **DOI:** 10.1212/WNL.0b013e3182703fd2
+**Entities:** aging  
+**Abstract:** OBJECTIVES: Increased participation in leisure and physical activities may be cognitively protective. Whether activity might protect the integrity of the brain's white matter, or reduce atrophy and wh...
+
+### Prevention of age-associated neurodegeneration and promotion of healthy brain ageing in female Wistar rats by long term use of bacosides.
+**Authors:** Rastogi M, Ojha RP, Prabu PC, Devi BP, Agrawal A et al.  
+**Journal:** Biogerontology (2012)  
+**PMID:** 22143822  **DOI:** 10.1007/s10522-011-9367-y
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Bacopa monnieri (L.), popularly known as Brahmi, is a revered Ayurvedic medicinal plant used as nerve tonic since time immemorial. The present study aims to investigate the neuroprotective effect of b...
+
+### Astrocyte senescence as a component of Alzheimer's disease.
+**Authors:** Bhat R, Crowe EP, Bitto A, Moh M, Katsetos CD et al.  
+**Journal:** PloS one (2012)  
+**PMID:** 22984612  **DOI:** 10.1371/journal.pone.0045069
+**Entities:** ROS, IL-6, oxidative stress, Alzheimer, aging  
+**Abstract:** Aging is the main risk factor for Alzheimer's disease (AD); however, the aspects of the aging process that predispose the brain to the development of AD are largely unknown. Astrocytes perform a myria...
+
+### Long-term dietary extra-virgin olive oil rich in polyphenols reverses age-related dysfunctions in motor coordination and contextual memory in mice: role of oxidative stress.
+**Authors:** Pitozzi V, Jacomelli M, Catelan D, Servili M, Taticchi A et al.  
+**Journal:** Rejuvenation research (2012)  
+**PMID:** 22950431  **DOI:** 10.1089/rej.2012.1346
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** The aim of this study was to evaluate the effects of olive oil phenols on brain aging in mice and to verify whether the antioxidant and antiinflammatory activities of these polyphenols were involved. ...
+
+### Age-dependent increases in the oxidative damage of DNA, RNA, and their metabolites in normal and senescence-accelerated mice analyzed by LC-MS/MS: urinary 8-oxoguanosine as a novel biomarker of aging.
+**Authors:** Gan W, Nie B, Shi F, Xu XM, Qian JC et al.  
+**Journal:** Free radical biology & medicine (2012)  
+**PMID:** 22348977  **DOI:** 10.1016/j.freeradbiomed.2012.02.016
+**Entities:** oxidative stress, aging  
+**Abstract:** A sensitive and accurate isotope-diluted LC-MS/MS method was developed for determination of 8-oxo-7,8-dihydro-2'-deoxyguanosine (8-oxo-dGsn), derived from DNA, and 8-oxo-7,8-dihydroguanosine (8-oxo-Gs...
+
+### Nutrient biomarker patterns, cognitive function, and MRI measures of brain aging.
+**Authors:** Annweiler C, Montero-Odasso M, Bartha R, Beauchet O  
+**Journal:** Neurology (2012)  
+**PMID:** 22508852  **DOI:** 10.1212/01.wnl.0000414241.41860.13
+**Entities:** —  
+**Abstract:** 
+
+### Loss of myelin-associated glycoprotein in kearns-sayre syndrome.
+**Authors:** Lax NZ, Campbell GR, Reeve AK, Ohno N, Zambonin J et al.  
+**Journal:** Archives of neurology (2012)  
+**PMID:** 22491194  **DOI:** 10.1001/archneurol.2011.2167
+**Entities:** MBP  
+**Abstract:** OBJECTIVE: To explore myelin components and mitochondrial changes within the central nervous system in patients with well-characterized mitochondrial disorders due to nuclear DNA or mitochondrial DNA ...
+
+### Multimodal magnetic resonance imaging assessment of white matter aging trajectories over the lifespan of healthy individuals.
+**Authors:** Bartzokis G, Lu PH, Heydari P, Couvrette A, Lee GJ et al.  
+**Journal:** Biological psychiatry (2012)  
+**PMID:** 23017471  **DOI:** 10.1016/j.biopsych.2012.07.010
+**Entities:** MBP, aging  
+**Abstract:** BACKGROUND: Postmortem and volumetric imaging data suggest that brain myelination is a dynamic lifelong process that, in vulnerable late-myelinating regions, peaks in middle age. We examined whether k...
+
+### Alpha fucosidase and beta galactosidase in serum of a Lyme disease patients as a possible marker of accelerated senescence - a preliminary study.
+**Authors:** Wasiluk A, Waszkiewicz N, Szajda SD, Wojewódzka-Żelezniakowicz M, Kępka A et al.  
+**Journal:** Folia histochemica et cytobiologica (2012)  
+**PMID:** 22763966  
+**Entities:** aging  
+**Abstract:** Lyme disease (LD) is the most prevalent tick-borne disease in Europe. LD is caused by the spirochete Borrelia burgdorferi. LD is a chronic disease which can attack a number of organs: skin, heart, bra...
+
+### Astrocytes in the aging brain express characteristics of senescence-associated secretory phenotype.
+**Authors:** Salminen A, Ojala J, Kaarniranta K, Haapasalo A, Hiltunen M et al.  
+**Journal:** The European journal of neuroscience (2011)  
+**PMID:** 21649759  **DOI:** 10.1111/j.1460-9568.2011.07738.x
+**Entities:** GFAP, neuroinflammation, aging  
+**Abstract:** Cellular stress increases progressively with aging in mammalian tissues. Chronic stress triggers several signaling cascades that can induce a condition called cellular senescence. Recent studies have ...
+
+### Age related changes in NAD+ metabolism oxidative stress and Sirt1 activity in wistar rats.
+**Authors:** Braidy N, Guillemin GJ, Mansour H, Chan-Ling T, Poljak A et al.  
+**Journal:** PloS one (2011)  
+**PMID:** 21541336  **DOI:** 10.1371/journal.pone.0019194
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** The cofactor nicotinamide adenine dinucleotide (NAD+) has emerged as a key regulator of metabolism, stress resistance and longevity. Apart from its role as an important redox carrier, NAD+ also serves...
+
+### Neuroinflammation in Alzheimer's disease wanes with age.
+**Authors:** Hoozemans JJ, Rozemuller AJ, van Haastert ES, Eikelenboom P, van Gool WA  
+**Journal:** Journal of neuroinflammation (2011)  
+**PMID:** 22152162  **DOI:** 10.1186/1742-2094-8-171
+**Entities:** GFAP, neuroinflammation, Alzheimer, aging  
+**Abstract:** BACKGROUND: Inflammation is a prominent feature in Alzheimer's disease (AD). It has been proposed that aging has an effect on the function of inflammation in the brain, thereby contributing to the dev...
+
+### Circulatory miR34a as an RNAbased, noninvasive biomarker for brain aging.
+**Authors:** Li X, Khanna A, Li N, Wang E  
+**Journal:** Aging (2011)  
+**PMID:** 22064828  
+**Entities:** aging  
+**Abstract:** MicroRNAs in blood samples have been identified as an important class of biomarkers, which can reflect physiological changes from cancer to brain dysfunction. In this report we identify concordant inc...
+
+### Alliance for aging research AD biomarkers work group: structural MRI.
+**Authors:** Jack CR  
+**Journal:** Neurobiology of aging (2011)  
+**PMID:** 22078173  **DOI:** 10.1016/j.neurobiolaging.2011.09.011
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Biomarkers of Alzheimer's disease (AD) are increasingly important. All modern AD therapeutic trials employ AD biomarkers in some capacity. In addition, AD biomarkers are an essential component of rece...
+
+### Reversal of glial and neurovascular markers of unhealthy brain aging by exercise in middle-aged female mice.
+**Authors:** Latimer CS, Searcy JL, Bridges MT, Brewer LD, Popović J et al.  
+**Journal:** PloS one (2011)  
+**PMID:** 22046366  **DOI:** 10.1371/journal.pone.0026812
+**Entities:** MBP, aging  
+**Abstract:** Healthy brain aging and cognitive function are promoted by exercise. The benefits of exercise are attributed to several mechanisms, many which highlight its neuroprotective role via actions that enhan...
+
+### Postnatal proteasome inhibition induces neurodegeneration and cognitive deficiencies in adult mice: a new model of neurodevelopment syndrome.
+**Authors:** Romero-Granados R, Fontán-Lozano Á, Aguilar-Montilla FJ, Carrión ÁM  
+**Journal:** PloS one (2011)  
+**PMID:** 22174927  **DOI:** 10.1371/journal.pone.0028927
+**Entities:** Alzheimer, aging  
+**Abstract:** Defects in the ubiquitin-proteasome system have been related to aging and the development of neurodegenerative disease, although the effects of deficient proteasome activity during early postnatal dev...
+
+### Concurrent hippocampal induction of MHC II pathway components and glial activation with advanced aging is not correlated with cognitive impairment.
+**Authors:** VanGuilder HD, Bixler GV, Brucklacher RM, Farley JA, Yan H et al.  
+**Journal:** Journal of neuroinflammation (2011)  
+**PMID:** 21989322  **DOI:** 10.1186/1742-2094-8-138
+**Entities:** GFAP, Iba1, neuroinflammation, aging  
+**Abstract:** BACKGROUND: Age-related cognitive dysfunction, including impairment of hippocampus-dependent spatial learning and memory, affects approximately half of the aged population. Induction of a variety of n...
+
+### [Effects of melatonin in the brain of the senescence-accelerated mice-prone 8 (SAMP8) model].
+**Authors:** Gutierrez-Cuesta J, Tajes M, Jimenez A, Camins A, Pallas M  
+**Journal:** Revista de neurologia (2011)  
+**PMID:** 21488009  
+**Entities:** ROS, tau, oxidative stress, Alzheimer, aging  
+**Abstract:** Senescence-accelerated mice (SAM) represent an aging model establish by selective inbreeding of the AKR/J strain. SAMP8 is a suitable model to study the genetics or proteics fundamental mechanisms of ...
+
+### Increased protein and lipid oxidative damage in mitochondria isolated from lymphocytes from patients with Alzheimer's disease: insights into the role of oxidative stress in Alzheimer's disease and initial investigations into a potential biomarker for this dementing disorder.
+**Authors:** Sultana R, Mecocci P, Mangialasche F, Cecchetti R, Baglioni M et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2011)  
+**PMID:** 21383494  **DOI:** 10.3233/JAD-2011-101425
+**Entities:** ROS, Aβ42, oxidative stress, Alzheimer  
+**Abstract:** Alzheimer's disease (AD) is histopathologically characterized by the presence of senile plaques, neurofibrillary tangles, and synapse loss. The main component of senile plaques is amyloid β-peptide (A...
+
+### Molecular insights into the pathogenesis of Alzheimer's disease and its relationship to normal aging.
+**Authors:** Podtelezhnikov AA, Tanis KQ, Nebozhyn M, Ray WJ, Stone DJ et al.  
+**Journal:** PloS one (2011)  
+**PMID:** 22216330  **DOI:** 10.1371/journal.pone.0029610
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) is a complex neurodegenerative disorder that diverges from the process of normal brain aging by unknown mechanisms. We analyzed the global structure of age- and disease-depend...
+
+### Metabolic-cognitive syndrome: a cross-talk between metabolic syndrome and Alzheimer's disease.
+**Authors:** Frisardi V, Solfrizzi V, Seripa D, Capurso C, Santamato A et al.  
+**Journal:** Ageing research reviews (2010)  
+**PMID:** 20444434  **DOI:** 10.1016/j.arr.2010.04.007
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** A growing body of epidemiological evidence suggested that metabolic syndrome (MetS) and Mets components (impaired glucose tolerance, abdominal or central obesity, hypertension, hypertriglyceridemia, a...
+
+### Characterization of age-dependent and progressive cortical neuronal degeneration in presenilin conditional mutant mice.
+**Authors:** Wines-Samuelson M, Schulte EC, Smith MJ, Aoki C, Liu X et al.  
+**Journal:** PloS one (2010)  
+**PMID:** 20419112  **DOI:** 10.1371/journal.pone.0010195
+**Entities:** Alzheimer, aging  
+**Abstract:** Presenilins are the major causative genes of familial Alzheimer's disease (AD). Our previous study has demonstrated essential roles of presenilins in memory and neuronal survival. Here, we explore fur...
+
+### Age-related decreases in SYN levels associated with increases in MAP-2, apoE, and GFAP levels in the rhesus macaque prefrontal cortex and hippocampus.
+**Authors:** Haley GE, Kohama SG, Urbanski HF, Raber J  
+**Journal:** Age (Dordrecht, Netherlands) (2010)  
+**PMID:** 20640549  **DOI:** 10.1007/s11357-010-9137-9
+**Entities:** GFAP, aging  
+**Abstract:** Loss of synaptic integrity in the hippocampus and prefrontal cortex (PFC) may play an integral role in age-related cognitive decline. Previously, we showed age-related increases in the dendritic marke...
+
+### Senescence-associated beta-galactosidase activity expression in aging hippocampal neurons.
+**Authors:** Geng YQ, Guan JT, Xu XH, Fu YC  
+**Journal:** Biochemical and biophysical research communications (2010)  
+**PMID:** 20457127  **DOI:** 10.1016/j.bbrc.2010.05.011
+**Entities:** aging  
+**Abstract:** To investigate the activity of senescence-associated beta-galactosidase (SA-beta-GAL) in the hippocampus of aging rats. Hippocampi of 6-, 18-, and 24-month-old rats were observed by histochemical stai...
+
+### The role of alpha-tocopherol in motor hypofunction with aging in alpha-tocopherol transfer protein knockout mice as assessed by oxidative stress biomarkers.
+**Authors:** Yoshida Y, Itoh N, Hayakawa M, Habuchi Y, Saito Y et al.  
+**Journal:** The Journal of nutritional biochemistry (2010)  
+**PMID:** 19157826  **DOI:** 10.1016/j.jnutbio.2008.10.006
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** It has been hypothesized that oxidative stress plays a key role in aging. In order to elucidate the role of the antioxidant network - including alpha-tocopherol (alphaT) and alphaT transfer protein - ...
+
+### Cultured cerebellar granule neurons as an in vitro aging model: topoisomerase IIβ as an additional biomarker in DNA repair and aging.
+**Authors:** Bhanu MU, Mandraju RK, Bhaskar C, Kondapi AK  
+**Journal:** Toxicology in vitro : an international journal published in association with BIBRA (2010)  
+**PMID:** 20708677  **DOI:** 10.1016/j.tiv.2010.08.003
+**Entities:** Alzheimer, aging  
+**Abstract:** Aging in the brain is a multicellular process manifesting as neurodegeneration and associated functional impairment. In the present study, we report that cerebellar granule neurons (CGNs) in culture s...
+
+### Effects of long-term pioglitazone treatment on peripheral and central markers of aging.
+**Authors:** Blalock EM, Phelps JT, Pancani T, Searcy JL, Anderson KL et al.  
+**Journal:** PloS one (2010)  
+**PMID:** 20454453  **DOI:** 10.1371/journal.pone.0010405
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** BACKGROUND: Thiazolidinediones (TZDs) activate peroxisome proliferator-activated receptor gamma (PPARgamma) and are used clinically to help restore peripheral insulin sensitivity in Type 2 diabetes (T...
+
+### The chance of gender dependency of oxidation of brain proteins in aged rats.
+**Authors:** Uzun H, Kayali R, Cakatay U  
+**Journal:** Archives of gerontology and geriatrics (2010)  
+**PMID:** 19230989  **DOI:** 10.1016/j.archger.2009.01.002
+**Entities:** ROS, oxidative stress, 4-HNE, aging  
+**Abstract:** The purpose of this study is hopefully to clarify the ambiguity raised in preliminary reports as to gender dependency of oxidative damage in brain proteins. In the current study, we investigated the r...
+
+### Beta-amyloid burden in the temporal neocortex is related to hippocampal atrophy in elderly subjects without dementia.
+**Authors:** Bourgeat P, Chételat G, Villemagne VL, Fripp J, Raniga P et al.  
+**Journal:** Neurology (2010)  
+**PMID:** 20065247  **DOI:** 10.1212/WNL.0b013e3181c918b5
+**Entities:** Alzheimer  
+**Abstract:** OBJECTIVE: To investigate whether global and regional beta-amyloid (Abeta) burden as measured with 11C Pittsburgh compound B (PIB) PET is associated with hippocampal atrophy characterized using MRI in...
+
+### Metabolic levels in the corpus callosum and their structural and behavioral correlates after moderate to severe pediatric TBI.
+**Authors:** Babikian T, Marion SD, Copeland S, Alger JR, O'Neill J et al.  
+**Journal:** Journal of neurotrauma (2010)  
+**PMID:** 19925210  **DOI:** 10.1089/neu.2009.1058
+**Entities:** TBI  
+**Abstract:** Diffuse axonal injury (DAI) secondary to traumatic brain injury (TBI) contributes to long-term functional morbidity. The corpus callosum (CC) is particularly vulnerable to this type of injury. Magneti...
+
+### Health-and disease-related biomarkers in aging research.
+**Authors:** Thompson HJ, Voss JG  
+**Journal:** Research in gerontological nursing (2009)  
+**PMID:** 20077975  **DOI:** 10.3928/19404921-20090401-09
+**Entities:** Alzheimer, aging  
+**Abstract:** This article focuses on a synthesis of knowledge about healthy aging research in human beings and then synthesized nurse-led research in gerontology and geriatrics that use biomarkers. Healthy aging r...
+
+### Effects of dietary restriction on mortality and age-related phenotypes in the short-lived fish Nothobranchius furzeri.
+**Authors:** Terzibasi E, Lefrançois C, Domenici P, Hartmann N, Graf M et al.  
+**Journal:** Aging cell (2009)  
+**PMID:** 19302373  **DOI:** 10.1111/j.1474-9726.2009.00455.x
+**Entities:** GFAP, Alzheimer, aging  
+**Abstract:** The short-lived annual fish Nothobranchius furzeri shows extremely short captive life span and accelerated expression of age markers, making it an interesting model system to investigate the effects o...
+
+### Elevated C-reactive protein levels are associated with prevalent dementia in the oldest-old.
+**Authors:** Kravitz BA, Corrada MM, Kawas CH  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2009)  
+**PMID:** 19560102  **DOI:** 10.1016/j.jalz.2009.04.1230
+**Entities:** Alzheimer  
+**Abstract:** BACKGROUND: C-reactive protein (CRP) is a nonspecific marker of inflammation that is increased in the brain and serum of patients with Alzheimer's disease (AD), and has been associated with increased ...
+
+### A link between sICAM-1, ACE and parietal blood flow in the aging brain.
+**Authors:** Janciauskiene SM, Erikson C, Warkentin S  
+**Journal:** Neurobiology of aging (2009)  
+**PMID:** 18243419  **DOI:** 10.1016/j.neurobiolaging.2007.08.025
+**Entities:** Alzheimer, aging  
+**Abstract:** A connection between Alzheimer's disease (AD) and endothelium pathology has been inferred from measured decreases in both blood flow and metabolism in the parietal and temporal cortex. However, it is ...
+
+### Remyelination capacity of the MS brain decreases with disease chronicity.
+**Authors:** Goldschmidt T, Antel J, König FB, Brück W, Kuhlmann T  
+**Journal:** Neurology (2009)  
+**PMID:** 19487649  **DOI:** 10.1212/WNL.0b013e3181a8260a
+**Entities:** MBP  
+**Abstract:** OBJECTIVE: To analyze and compare the extent of remyelination in lesions from patients with multiple sclerosis (MS) who have a short (early MS lesions) or a long (chronic MS lesions) disease duration ...
+
+### Glutathione peroxidase overexpression does not rescue impaired neurogenesis in the injured immature brain.
+**Authors:** Potts MB, Rola R, Claus CP, Ferriero DM, Fike JR et al.  
+**Journal:** Journal of neuroscience research (2009)  
+**PMID:** 19170177  **DOI:** 10.1002/jnr.21996
+**Entities:** TBI, glutathione  
+**Abstract:** Traumatic brain injury (TBI) is a leading cause of disability among young children and is associated with long-term cognitive deficits. These clinical findings have prompted an investigation of the hi...
+
+### Screening of innate immune receptors in neurodegenerative diseases: a similar pattern.
+**Authors:** Letiembre M, Liu Y, Walter S, Hao W, Pfander T et al.  
+**Journal:** Neurobiology of aging (2009)  
+**PMID:** 17905482  
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** In Alzheimer's disease (AD), Parkinson's disease (PD), dementia with Lewy bodies (DLB) and amyotrophic lateral sclerosis (ALS), neuroinflammatory responses are considered to contribute to neuronal inj...
+
+### Increased serum levels of soluble tumor necrosis factor-alpha receptor-1 in patients with Parkinson's disease.
+**Authors:** Scalzo P, Kümmer A, Cardoso F, Teixeira AL  
+**Journal:** Journal of neuroimmunology (2009)  
+**PMID:** 19732964  **DOI:** 10.1016/j.jneuroim.2009.08.001
+**Entities:** TNF-α, Alzheimer, dopamine  
+**Abstract:** Parkinson's disease (PD) is characterized by a progressive and irreversible loss of dopaminergic neurons. Inflammatory mechanisms have been implied in the pathophysiology of PD. In this study, we asse...
+
+### Elevated interleukin-1beta induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine aggravating dopaminergic neurodegeneration in old male mice.
+**Authors:** Bian MJ, Li LM, Yu M, Fei J, Huang F  
+**Journal:** Brain research (2009)  
+**PMID:** 19631617  **DOI:** 10.1016/j.brainres.2009.07.030
+**Entities:** IL-1β, neuroinflammation, Alzheimer, dopamine  
+**Abstract:** IL-1beta is a potent pro-inflammatory cytokine that regulates neuroinflammation during brain damage. The expression of IL-1beta has been reported to be elevated in the striatum and substantia nigra of...
+
+### Neonatal exposure to MK801 promotes prepulse-induced delay in startle response time in adult rats.
+**Authors:** Lyall A, Swanson J, Liu C, Blumenthal TD, Turner CP  
+**Journal:** Experimental brain research (2009)  
+**PMID:** 19565228  **DOI:** 10.1007/s00221-009-1906-2
+**Entities:** NMDA receptor  
+**Abstract:** The acoustic startle reflex in rats can be inhibited if a prepulse stimulus is presented just before the startle stimulus (prepulse inhibition; PPI). When postnatal day 7 (P7) rats are exposed to agen...
+
+### When blue turns to grey: do stress and depression accelerate cell aging?
+**Authors:** Wolkowitz OM, Epel ES, Mellon S  
+**Journal:** The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry (2008)  
+**PMID:** 18273736  **DOI:** 10.1080/15622970701875601
+**Entities:** —  
+**Abstract:** 
+
+### Microglial degeneration in the aging brain--bad news for neurons?
+**Authors:** Streit WJ, Miller KR, Lopes KO, Njie E  
+**Journal:** Frontiers in bioscience : a journal and virtual library (2008)  
+**PMID:** 18508444  
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** We have long promulgated the idea that microglial cells serve an entirely beneficial role in the central nervous system (CNS), not only as immunological sentinels to fend off potentially dangerous inf...
+
+### Impairments of astrocytes are involved in the d-galactose-induced brain aging.
+**Authors:** Lei M, Hua X, Xiao M, Ding J, Han Q et al.  
+**Journal:** Biochemical and biophysical research communications (2008)  
+**PMID:** 18329384  **DOI:** 10.1016/j.bbrc.2008.02.151
+**Entities:** ROS, GFAP, oxidative stress, glutathione, aging  
+**Abstract:** Astrocyte dysfunction is implicated in course of various age-related neurodegenerative diseases. Chronic injection of d-galactose can cause a progressive deterioration in learning and memory capacity ...
+
+### Association of plasma total homocysteine levels with subclinical brain injury: cerebral volumes, white matter hyperintensity, and silent brain infarcts at volumetric magnetic resonance imaging in the Framingham Offspring Study.
+**Authors:** Seshadri S, Wolf PA, Beiser AS, Selhub J, Au R et al.  
+**Journal:** Archives of neurology (2008)  
+**PMID:** 18474741  **DOI:** 10.1001/archneur.65.5.642
+**Entities:** TBI, Alzheimer, aging  
+**Abstract:** BACKGROUND: Elevated plasma total homocysteine (tHcy) levels have been associated with increased risk of dementia and stroke, but it is uncertain whether the mediating mechanisms are predominantly cel...
+
+### The 4977 bp deletion of mitochondrial DNA in human skeletal muscle, heart and different areas of the brain: a useful biomarker or more?
+**Authors:** Meissner C, Bruse P, Mohamed SA, Schulz A, Warnk H et al.  
+**Journal:** Experimental gerontology (2008)  
+**PMID:** 18439778  **DOI:** 10.1016/j.exger.2008.03.004
+**Entities:** aging  
+**Abstract:** It has been suggested that deletions of mitochondrial DNA (mtDNA) are important players with regard to the ageing process. Since the early 1990s, the 4977 bp deletion has been studied in various tissu...
+
+### Chronic systemic injection of D-galactose impairs the septohippocampal cholinergic system in rats.
+**Authors:** Lei M, Su Y, Hua X, Ding J, Han Q et al.  
+**Journal:** Neuroreport (2008)  
+**PMID:** 18845941  **DOI:** 10.1097/WNR.0b013e3283136a1f
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Accumulated evidence indicates chronic systemic injection of D-galactose mimics aging progress induced by oxidative stress. We addressed whether memory impairment in this model was associated with the...
+
+### Glial responses, neuron death and lesion resolution after intracerebral hemorrhage in young vs. aged rats.
+**Authors:** Wasserman JK, Yang H, Schlichter LC  
+**Journal:** The European journal of neuroscience (2008)  
+**PMID:** 18973558  **DOI:** 10.1111/j.1460-9568.2008.06442.x
+**Entities:** aging  
+**Abstract:** Intracerebral hemorrhage (ICH) usually affects older humans but almost no experimental studies have assessed aged animals. We address how aging alters inflammation, neuron death and lesion resolution ...
+
+### Inflammatory processes in the aging mouse brain: participation of dendritic cells and T-cells.
+**Authors:** Stichel CC, Luebbert H  
+**Journal:** Neurobiology of aging (2007)  
+**PMID:** 16959379  
+**Entities:** aging  
+**Abstract:** Increased inflammatory activity accompanies normal brain aging. Whereas local glial cell activation, upregulation of cytokines and transcriptional alterations of inflammatory factors are well-document...
+
+### Molecular and cellular characterization of the age-related neuroinflammatory processes occurring in normal rat hippocampus: potential relation with the loss of somatostatin GABAergic neurons.
+**Authors:** Gavilán MP, Revilla E, Pintado C, Castaño A, Vizuete ML et al.  
+**Journal:** Journal of neurochemistry (2007)  
+**PMID:** 17666053  
+**Entities:** TNF-α, IL-1β, neuroinflammation, Alzheimer, aging  
+**Abstract:** Increased neuroinflammatory reaction is frequently observed during normal brain aging. However, a direct link between neuroinflammation and neurodegeneration during aging has not yet been clearly show...
+
+### Multiple system atrophy: alpha-synuclein and neuronal degeneration.
+**Authors:** Yoshida M  
+**Journal:** Neuropathology : official journal of the Japanese Society of Neuropathology (2007)  
+**PMID:** 18018485  
+**Entities:** MBP  
+**Abstract:** Multiple system atrophy (MSA) is a sporadic neurodegenerative disorder that encompasses olivopontocerebellar atrophy (OPCA), striatonigral degeneration (SND) and Shy-Drager syndrome (SDS). The histopa...
+
+### Spatial relationship between synapse loss and beta-amyloid deposition in Tg2576 mice.
+**Authors:** Dong H, Martin MV, Chambers S, Csernansky JG  
+**Journal:** The Journal of comparative neurology (2007)  
+**PMID:** 17111375  
+**Entities:** —  
+**Abstract:** Although there is evidence that beta-amyloid impairs synaptic function, the relationship between beta-amyloid and synapse loss is not well understood. In this study we assessed synapse density within ...
+
+### Lysosomal dysfunction produces distinct alterations in synaptic alpha-amino-3-hydroxy-5-methylisoxazolepropionic acid and N-methyl-D-aspartate receptor currents in hippocampus.
+**Authors:** Kanju PM, Parameshwaran K, Vaithianathan T, Sims CM, Huggins K et al.  
+**Journal:** Journal of neuropathology and experimental neurology (2007)  
+**PMID:** 17805008  
+**Entities:** NMDA receptor, aging  
+**Abstract:** The early processes that lead to synaptic dysfunction during aging are not clearly understood. Dysregulation of alpha-amino-3-hydroxy-5-methylisoxazolepropionic acid (AMPA) and N-methyl-D-aspartate (N...
+
+### Reduced CXCL12/CXCR4 results in impaired learning and is downregulated in a mouse model of Alzheimer disease.
+**Authors:** Parachikova A, Cotman CW  
+**Journal:** Neurobiology of disease (2007)  
+**PMID:** 17764962  
+**Entities:** Alzheimer  
+**Abstract:** Alzheimer disease (AD) is characterized by the presence of plaques and tangles in parallel with progressive cognitive decline. The underlying cause of the cognitive decline is unknown. The purpose of ...
+
+### Levels of ApoE in cerebrospinal fluid are correlated with Tau and 24S-hydroxycholesterol in patients with cognitive disorders.
+**Authors:** Shafaati M, Solomon A, Kivipelto M, Björkhem I, Leoni V  
+**Journal:** Neuroscience letters (2007)  
+**PMID:** 17822846  
+**Entities:** tau, Alzheimer  
+**Abstract:** Evidence was recently presented from in vitro studies that 24S-hydroxycholesterol acts as a signalling molecule inducing apoE-mediated cholesterol efflux from astrocytoma cells, and that there is a di...
+
+### Oxidative stress and brain aging: is zinc the link?
+**Authors:** Frazzini V, Rockabrand E, Mocchegiani E, Sensi SL  
+**Journal:** Biogerontology (2006)  
+**PMID:** 17028932  
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Zn(2+) dyshomeostasis has been strongly linked to neuronal injury in many neurological conditions. Toxic accumulation of intracellular free Zn(2+) ([Zn(2+)](i)) may result from either flux of the cati...
+
+### Biological markers of age-related memory deficits: treatment of senescent physiology.
+**Authors:** Foster TC  
+**Journal:** CNS drugs (2006)  
+**PMID:** 16478290  
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** In humans, age-related memory impairments begin in mid-life and cognitive weakening continues with advancing age. An important aspect of defining memory decline is the distinction between dementia as ...
+
+### Changes in oxidative stress parameters and neurodegeneration markers in the brain of the senescence-accelerated mice SAMP-8.
+**Authors:** Sureda FX, Gutierrez-Cuesta J, Romeu M, Mulero M, Canudas AM et al.  
+**Journal:** Experimental gerontology (2006)  
+**PMID:** 16542809  
+**Entities:** ROS, tau, oxidative stress, Alzheimer, glutathione  
+**Abstract:** The senescence-accelerated strains of mice (SAMP) are well-characterized animal models of senescence. Senescence may be related to enhanced production or defective control of reactive oxygen species, ...
+
+### Calorie restriction up-regulates the plasma membrane redox system in brain cells and suppresses oxidative stress during aging.
+**Authors:** Hyun DH, Emerson SS, Jo DG, Mattson MP, de Cabo R  
+**Journal:** Proceedings of the National Academy of Sciences of the United States of America (2006)  
+**PMID:** 17167053  
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** The plasma membrane (PM) contains redox enzymes that provide electrons for energy metabolism and recycling of antioxidants such as coenzyme Q and alpha-tocopherol. Brain aging and neurodegenerative di...
+
+### The age-related attenuation in long-term potentiation is associated with microglial activation.
+**Authors:** Griffin R, Nally R, Nolan Y, McCartney Y, Linden J et al.  
+**Journal:** Journal of neurochemistry (2006)  
+**PMID:** 16981890  
+**Entities:** IL-1β, neuroinflammation, aging  
+**Abstract:** It is well established that inflammatory changes contribute to brain ageing, and an increased concentration of proinflammatory cytokine, interleukin-1beta (IL-1beta), has been reported in the aged bra...
+
+### Chronic 1alpha,25-(OH)2 vitamin D3 treatment reduces Ca2+ -mediated hippocampal biomarkers of aging.
+**Authors:** Brewer LD, Porter NM, Kerr DS, Landfield PW, Thibault O  
+**Journal:** Cell calcium (2006)  
+**PMID:** 16780945  
+**Entities:** aging  
+**Abstract:** Aging in the hippocampus of several species is characterized by alterations in multiple Ca(2+)-mediated processes, including an increase in L-type voltage-gated Ca(2+) channel (L-VGCC) current, an enh...
+
+### Regionally distinct patterns of calpain activation and traumatic axonal injury following contusive brain injury in immature rats.
+**Authors:** Huh JW, Franklin MA, Widing AG, Raghupathi R  
+**Journal:** Developmental neuroscience (2006)  
+**PMID:** 16943669  
+**Entities:** TBI  
+**Abstract:** Impact-induced head injury in infants results in acute focal contusions and traumatic axonal injury (TAI) that are associated with chronic holohemispheric cortical and white matter atrophy and may con...
+
+### Heme oxygenase 1 in cerebrospinal fluid from infants and children after severe traumatic brain injury.
+**Authors:** Cousar JL, Lai Y, Marco CD, Bayir H, Adelson PD et al.  
+**Journal:** Developmental neuroscience (2006)  
+**PMID:** 16943657  
+**Entities:** ROS, oxidative stress, TBI, Alzheimer, HO-1  
+**Abstract:** Heme oxygenase 1 (HO-1) is an enzyme important in the catabolism of heme that is induced under conditions of oxidative stress. HO-1 degradation of heme yields biliverdin, bilirubin, carbon monoxide an...
+
+### Lesion-induced neurogenesis in the hypothalamus is involved in behavioral recovery in adult ring doves.
+**Authors:** Chen G, Bonder EM, Cheng MF  
+**Journal:** Journal of neurobiology (2006)  
+**PMID:** 16555235  
+**Entities:** —  
+**Abstract:** Although neurogenesis in the brain of adult vertebrates is region dependent, lesion induces generation of new neurons in non-neurogenic brain regions. These findings raise the question of the role of ...
+
+### Oxidative stress in brain aging, neurodegenerative and vascular diseases: an overview.
+**Authors:** Mariani E, Polidori MC, Cherubini A, Mecocci P  
+**Journal:** Journal of chromatography. B, Analytical technologies in the biomedical and life sciences (2005)  
+**PMID:** 16183338  
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** According to the free radical theory, aging can be considered as a progressive, inevitable process partially related to the accumulation of oxidative damage into biomolecules -- nucleic acids, lipids,...
+
+### Expression profiling in the aging brain: a perspective.
+**Authors:** Galvin JE, Ginsberg SD  
+**Journal:** Ageing research reviews (2005)  
+**PMID:** 16249125  
+**Entities:** aging  
+**Abstract:** To evaluate molecular events associated with the aging process in animal models and human tissues, microarray analysis is performed at the regional and cellular levels to define transcriptional patter...
+
+### Cognitive aging as an extension of brain development: a model linking learning, brain plasticity, and neurodegeneration.
+**Authors:** de Magalhães JP, Sandberg A  
+**Journal:** Mechanisms of ageing and development (2005)  
+**PMID:** 15946728  
+**Entities:** Alzheimer, aging  
+**Abstract:** Differences in cognitive aging rates among mammals suggest that the pace of brain aging is genetically determined. In this work, we investigate the possibility that brain aging is an extension of brai...
+
+### Lipofuscin and aging: a matter of toxic waste.
+**Authors:** Gray DA, Woulfe J  
+**Journal:** Science of aging knowledge environment : SAGE KE (2005)  
+**PMID:** 15689603  
+**Entities:** aging  
+**Abstract:** Lipofuscin is membrane-bound cellular waste that can be neither degraded nor ejected from the cell but can only be diluted through cell division and subsequent growth. The fate of postmitotic cells is...
+
+### Age-related changes in neutral sphingomyelin-specific phospholipase C activity in striatum, hippocampus, and frontal cortex: implication for sensitivity to stress and inflammation.
+**Authors:** Crivello NA, Rosenberg IH, Dallal GE, Bielinski D, Joseph JA  
+**Journal:** Neurochemistry international (2005)  
+**PMID:** 16140422  
+**Entities:** ROS, IL-1β, oxidative stress  
+**Abstract:** UNLABELLED: Previous studies show the enrichment of mammalian brain with neutral sphingomyelin-specific phospholipase C (ceramide-phosphocholine phosphodiesterase, EC 3.1.4.12; N-Sase), a key enzyme o...
+
+### Dynamics of neurogenesis in the dentate gyrus of adult rats.
+**Authors:** McDonald HY, Wojtowicz JM  
+**Journal:** Neuroscience letters (2005)  
+**PMID:** 15967575  
+**Entities:** aging  
+**Abstract:** Hippocampal neurogenesis declines steadily over the first year of life in the rodent, but the process persists into senescence despite a dramatic drop in the number of neurons it produces. At this poi...
+
+### P2X(7) receptor-mRNA and -protein in the mouse retina; changes during retinal degeneration in BALBCrds mice.
+**Authors:** Franke H, Klimke K, Brinckmann U, Grosche J, Francke M et al.  
+**Journal:** Neurochemistry international (2005)  
+**PMID:** 15964665  
+**Entities:** aging  
+**Abstract:** A combined real-time PCR/immunohistochemistry study was carried out to investigate whether P2X(7) receptors, known to induce apoptosis and necrosis, may be causally related to the process of retinal d...
+
+### Cell type- and brain structure-specific patterns of distribution of minibrain kinase in human brain.
+**Authors:** Wegiel J, Kuchna I, Nowicki K, Frackowiak J, Dowjat K et al.  
+**Journal:** Brain research (2004)  
+**PMID:** 15126119  
+**Entities:** aging  
+**Abstract:** The minibrain kinase (Mnb/Dyrk1A) gene is localized in the Down syndrome (DS) critical region of chromosome 21. This gene encodes a proline-directed serine/threonine protein kinase (minibrain kinase-M...
+
+### Mitochondrial enzyme activities as biochemical markers of aging.
+**Authors:** Navarro A  
+**Journal:** Molecular aspects of medicine (2004)  
+**PMID:** 15051315  
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** The decrease of neurological performance in normal aging is directly related to brain oxidative stress and inversely related to lifespan. Male mice lifespan was increased by 8-10% (median and maximal ...
+
+### Rat brain and liver mitochondria develop oxidative stress and lose enzymatic activities on aging.
+**Authors:** Navarro A, Boveris A  
+**Journal:** American journal of physiology. Regulatory, integrative and comparative physiology (2004)  
+**PMID:** 15271654  
+**Entities:** ROS, oxidative stress, SOD, aging  
+**Abstract:** The mitochondrial mass of rat brain and liver remained unchanged on aging in young adults, old adults, and senescent animals (28, 60, and 92 wk of age); the values were 15-17 and 29-31 mg protein/g fo...
+
+### Beneficial effects of moderate exercise on mice aging: survival, behavior, oxidative stress, and mitochondrial electron transfer.
+**Authors:** Navarro A, Gomez C, López-Cepero JM, Boveris A  
+**Journal:** American journal of physiology. Regulatory, integrative and comparative physiology (2004)  
+**PMID:** 14615275  
+**Entities:** ROS, oxidative stress, SOD, catalase, aging  
+**Abstract:** Moderate exercise in a treadmill (10, 15, and 20 cm/s, for 5 min each, weekly) from 28 to 78 wk of age extended male and female mice life span by 19 and 9% accompanied by 36 and 13% and 13 and 9% incr...
+
+### Antisense directed at the Abeta region of APP decreases brain oxidative markers in aged senescence accelerated mice.
+**Authors:** Poon HF, Joshi G, Sultana R, Farr SA, Banks WA et al.  
+**Journal:** Brain research (2004)  
+**PMID:** 15262209  
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Amyloid beta-peptide (Abeta) is known to induce free radical-mediated oxidative stress in the brain. Free radical-mediated damage to the neuronal membrane components has been implicated in the etiolog...
+
+### Neuroactive steroids: new biomarkers of cognitive aging.
+**Authors:** Vallée M, Purdy RH, Mayo W, Koob GF, Le Moal M  
+**Journal:** The Journal of steroid biochemistry and molecular biology (2003)  
+**PMID:** 12943719  
+**Entities:** aging  
+**Abstract:** Intensive studies in animals established that neuroactive steroids display neuronal actions and influence behavioral functions. We describe here investigations on the role of neuroactive steroids in l...
+
+### Gene microarrays in hippocampal aging: statistical profiling identifies novel processes correlated with cognitive impairment.
+**Authors:** Blalock EM, Chen KC, Sharrow K, Herman JP, Porter NM et al.  
+**Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (2003)  
+**PMID:** 12736351  
+**Entities:** ROS, oxidative stress, MBP, aging  
+**Abstract:** Gene expression microarrays provide a powerful new tool for studying complex processes such as brain aging. However, inferences from microarray data are often hindered by multiple comparisons, small s...
+
+### Age-related loss of synapses in the frontal cortex of SAMP10 mouse: a model of cerebral degeneration.
+**Authors:** Shimada A, Keino H, Satoh M, Kishikawa M, Hosokawa M  
+**Journal:** Synapse (New York, N.Y.) (2003)  
+**PMID:** 12687639  
+**Entities:** dopamine, aging  
+**Abstract:** SAMP10 mouse is a model of brain aging in which senescence is characterized by cerebral atrophy most prominent in the frontal cortex, deterioration in performance of learning and memory tasks, and alt...
+
+### Accelerated glial reactivity to stroke in aged rats correlates with reduced functional recovery.
+**Authors:** Badan I, Buchhold B, Hamm A, Gratz M, Walker LC et al.  
+**Journal:** Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism (2003)  
+**PMID:** 12843788  
+**Entities:** aging  
+**Abstract:** Following cerebral ischemia, perilesional astrocytes and activated microglia form a glial scar that hinders the genesis of new axons and blood vessels in the infarcted region. Since glial reactivity i...
+
+### Calcium dysregulation in the aging brain.
+**Authors:** Foster TC, Kumar A  
+**Journal:** The Neuroscientist : a review journal bringing neurobiology, neurology and psychiatry (2002)  
+**PMID:** 12194497  
+**Entities:** aging  
+**Abstract:** The idea that age-related cognitive decline is associated with disruption of calcium (Ca2+) homeostasis has been investigated over the past two decades. Much of this work has focused on the hippocampu...
+
+### Cyclooxygenase and 5-lipoxygenase inhibitors protect against mononuclear phagocyte neurotoxicity.
+**Authors:** Klegeris A, McGeer PL  
+**Journal:** Neurobiology of aging (2002)  
+**PMID:** 12392782  
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Neuroinflammation and oxidative stress are believed to be contributing factors to neurodegeneration in normal aging, as well as in age-related neurological disorders. Reactive microglia are found in i...
+
+### Inflammatory repertoire of Alzheimer's disease and nondemented elderly microglia in vitro.
+**Authors:** Lue LF, Rydel R, Brigham EF, Yang LB, Hampel H et al.  
+**Journal:** Glia (2001)  
+**PMID:** 11424194  
+**Entities:** IL-6, TNF-α, IL-1β, Alzheimer  
+**Abstract:** We have previously developed and characterized isolated microglia and astrocyte cultures from rapid (<4 h) brain autopsies of Alzheimer's disease (AD) and nondemented elderly control (ND) patients. In...
+
+### Fetal hippocampal CA3 cell grafts transplanted to lesioned CA3 region of the adult hippocampus exhibit long-term survival in a rat model of temporal lobe epilepsy.
+**Authors:** Zaman V, Shetty AK  
+**Journal:** Neurobiology of disease (2001)  
+**PMID:** 11741390  
+**Entities:** —  
+**Abstract:** Intracerebroventricular administration of kainic acid in the adult rat, a widely used model for studying human temporal lobe epilepsy, results in widespread degeneration of CA3-pyramidal neurons. Tran...
+
+### Induction of neurogenesis in the neocortex of adult mice.
+**Authors:** Magavi SS, Leavitt BR, Macklis JD  
+**Journal:** Nature (2000)  
+**PMID:** 10879536  
+**Entities:** —  
+**Abstract:** Neurogenesis normally only occurs in limited areas of the adult mammalian brain--the hippocampus, olfactory bulb and epithelium, and at low levels in some regions of macaque cortex. Here we show that ...
+
+### Maturation of vulnerability to excitotoxicity: intracellular mechanisms in cultured postnatal hippocampal neurons.
+**Authors:** Marks JD, Bindokas VP, Zhang XM  
+**Journal:** Brain research. Developmental brain research (2000)  
+**PMID:** 11113517  
+**Entities:** —  
+**Abstract:** Neuronal vulnerability to excitotoxicity changes dramatically during postnatal maturation. To study the intracellular mechanisms by which maturation alters vulnerability in single neurons, we develope...
+
+### Neuropharmacology and receptor studies in the elderly.
+**Authors:** Meltzer CC  
+**Journal:** Journal of geriatric psychiatry and neurology (1999)  
+**PMID:** 10593702  
+**Entities:** aging  
+**Abstract:** Functional brain imaging has provided unique and exciting opportunities to strengthen our knowledge of the biologic substrate of the aging brain and neuropsychiatric disorders. Positron emission tomog...
+
+### Glial responses to steroids as markers of brain aging.
+**Authors:** Nichols NR  
+**Journal:** Journal of neurobiology (1999)  
+**PMID:** 10453058  
+**Entities:** GFAP, neuroinflammation, Alzheimer, aging  
+**Abstract:** Glia mediate neuroendocrine and neuroimmune functions that are altered during the process of normal aging. The biological functions of glia are also important in synaptic remodeling and the loss of sy...
+
+### Beta-2-microglobulin and ferritin in cerebrospinal fluid for evaluation of patients with meningitis of different etiologies.
+**Authors:** Takahashi S, Oki J, Miyamoto A, Moriyama T, Asano A et al.  
+**Journal:** Brain & development (1999)  
+**PMID:** 10372906  
+**Entities:** —  
+**Abstract:** To determine whether or not the beta-2-microglobulin (beta2-m) and/or ferritin levels in cerebrospinal fluid (CSF) can be used as markers for the differential diagnosis of meningitis and determination...
+
+### Expression of human apolipoprotein E3 or E4 in the brains of Apoe-/- mice: isoform-specific effects on neurodegeneration.
+**Authors:** Buttini M, Orth M, Bellosta S, Akeefe H, Pitas RE et al.  
+**Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (1999)  
+**PMID:** 10366621  
+**Entities:** Alzheimer, NSE, aging  
+**Abstract:** Apolipoprotein (apo) E isoforms are key determinants of susceptibility to Alzheimer's disease. The apoE4 isoform is the major known genetic risk factor for this disease and is also associated with poo...
+
+### Differential blood-brain barrier breakdown and leucocyte recruitment following excitotoxic lesions in juvenile and adult rats.
+**Authors:** Bolton SJ, Perry VH  
+**Journal:** Experimental neurology (1998)  
+**PMID:** 9875284  
+**Entities:** GFAP, BBB  
+**Abstract:** Acute neuronal degeneration can be induced by intracerebral injections of the glutamate receptor agonists kainic acid (KA) and NMDA (N-methyl-D-aspartate). It is accompanied by an inflammatory respons...
+
+### Astrocytes, brain aging, and neurodegeneration.
+**Authors:** Schipper HM  
+**Journal:** Neurobiology of aging (1996)  
+**PMID:** 8725909  
+**Entities:** —  
+**Abstract:** 
+
+### Astrocytes, brain aging, and neurodegeneration.
+**Authors:** Langston W  
+**Journal:** Neurobiology of aging (1996)  
+**PMID:** 8725911  
+**Entities:** —  
+**Abstract:** 
+
+### Chrono-neuroendocrine markers of the aging brain.
+**Authors:** Ferrari E, Magri F, Locatelli M, Balza G, Nescis T et al.  
+**Journal:** Aging (Milan, Italy) (1996)  
+**PMID:** 8959233  
+**Entities:** aging  
+**Abstract:** The study of the neuroendocrine changes occurring in aging may give information about the CNS functions, and also explain the impaired plasticity of the aged organism. In 16 elderly women and in 14 yo...
+
+### Non-linear accumulation of 8-hydroxy-2'-deoxyguanosine, a marker of oxidized DNA damage, during aging.
+**Authors:** Kaneko T, Tahara S, Matsuo M  
+**Journal:** Mutation research (1996)  
+**PMID:** 8649461  
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** Damage to DNA seems to be involved in aging and the etiology of age-associated degenerative diseases. The purpose of this study is to examine changes in DNA damage during aging. An oxidized nucleoside...
+
+### Role of estrogen and iron in neurodegeneration: open peer commentary to "Astrocytes, brain aging, and neurodegeneration" by H. Schipper.
+**Authors:** Liehr JG  
+**Journal:** Neurobiology of aging (1996)  
+**PMID:** 8725910  
+**Entities:** —  
+**Abstract:** 
+
+### The unique characteristics of inflammatory responses in mouse brain are acquired during postnatal development.
+**Authors:** Lawson LJ, Perry VH  
+**Journal:** The European journal of neuroscience (1995)  
+**PMID:** 7551185  
+**Entities:** —  
+**Abstract:** The kinetics of leukocyte recruitment during acute inflammation in adult mouse brain differ from the stereotyped response occurring in non-CNS tissues; neutrophil recruitment is minimal and monocyte r...
+
+### Memory systems in normal and pathological aging.
+**Authors:** Rapp PR, Heindel WC  
+**Journal:** Current opinion in neurology (1994)  
+**PMID:** 7952236  
+**Entities:** aging  
+**Abstract:** Normal memory depends on a number of interdependent systems whose specialized contributions are dissociable at both cognitive and neurobiological levels of analysis. Guided by this multiple systems vi...
+
+### Pathological Tau proteins of Alzheimer's disease as a biochemical marker of neurofibrillary degeneration.
+**Authors:** Delacourte A  
+**Journal:** Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie (1994)  
+**PMID:** 7858159  
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Paired Helical Filaments (PHF) accumulate in the degenerating neurons from the associative cortical brain areas during Alzheimer's disease. They are composed of a triplet of hyperphosphorylated microt...
+
+### An aggregate brain cell culture model for studying neuronal degeneration and regeneration.
+**Authors:** Chatterjee SS, Nöldner M  
+**Journal:** Journal of neural transmission. Supplementum (1994)  
+**PMID:** 7897399  
+**Entities:** Alzheimer, aging  
+**Abstract:** Rotation-mediated aggregating cell cultures from fetal rat telencephalons containing glial and neuronal cells mature in a fashion comparable to that known to occur in brain in vivo. Large aggregates o...
+
+### Generation of senescent cell antigen on old cells initiates IgG binding to a neoantigen.
+**Authors:** Kay MM  
+**Journal:** Cellular and molecular biology (Noisy-le-Grand, France) (1993)  
+**PMID:** 8513271  
+**Entities:** Alzheimer, aging  
+**Abstract:** An aging antigen, senescent cell antigen, resides on the 911 amino acid membrane protein band 3. It marks cells for removal by initiating specific IgG autoantibody binding. Band 3 is a ubiquitous memb...
+
+### Cultured GABA-immunoreactive neurons are resistant to toxicity induced by beta-amyloid.
+**Authors:** Pike CJ, Cotman CW  
+**Journal:** Neuroscience (1993)  
+**PMID:** 8247260  
+**Entities:** Alzheimer  
+**Abstract:** Neurodegeneration in Alzheimer's disease is characterized by a selective loss of particular cell populations. Several recent lines of evidence suggest that beta-amyloid protein directly contributes to...
+
+### General cortical involvement in a late-onset case of Alzheimer disease. A biochemical approach by quantitation of abnormal tau proteins.
+**Authors:** Vermersch P, Sautière PE, Goudemand M, Delacourte A  
+**Journal:** Molecular and chemical neuropathology (1993)  
+**PMID:** 8507301  
+**Entities:** tau, Alzheimer  
+**Abstract:** We have performed a biochemical mapping of the neurofibrillary degeneration in all cortical areas of Alzheimer patients, using the immunological quantification of pathological tau 55, 64, and 69. Thes...
+
+### Ultrastructural pattern of brain aging in normal rabbit and in pt mutant.
+**Authors:** Taraszewska A, Zelman IB  
+**Journal:** Neuropatologia polska (1992)  
+**PMID:** 1340920  
+**Entities:** MBP, aging  
+**Abstract:** The aim of the study was to compare ultrastructural brain changes in aging normal rabbits and in pt mutants with CNS hypomyelination. The study was performed on material of pt and healthy 3- and 4-yea...
+
+### Aged non-human primates: an animal model of age-associated neurodegenerative disease.
+**Authors:** Price DL, Martin LJ, Sisodia SS, Wagster MV, Koo EH et al.  
+**Journal:** Brain pathology (Zurich, Switzerland) (1991)  
+**PMID:** 1688300  
+**Entities:** Alzheimer  
+**Abstract:** Aged non-human primates develop age-associated behavioral and brain abnormalities similar to those that occur in aged humans and, to a greater extent, in individuals with Alzheimer's disease. Declines...
+
+### Nutrition, neurotoxicants and age-related neurodegeneration.
+**Authors:** Matthews JC, Scallet AC  
+**Journal:** Neurotoxicology (1991)  
+**PMID:** 1745438  
+**Entities:** Alzheimer, aging  
+**Abstract:** The National Institute on Aging supports a program of investigation of "biomarkers" of aging (biological parameters that change in magnitude with age), some of which may be among the, as yet unknown, ...
+
+### Effects of aging on quinolinic acid lesions in rat striatum.
+**Authors:** Finn SF, Hyman BT, Storey E, Miller JM, Beal MF  
+**Journal:** Brain research (1991)  
+**PMID:** 1837750  
+**Entities:** aging  
+**Abstract:** Several neurologic illnesses in which excitotoxic mechanisms may play a role increase in prevalence with age. In the present study we examined the susceptibility of rats to quinolinic acid striatal le...
+
+### Neuroendocrine markers in aging brain: clinical and neurobiological significance of dexamethasone suppression test.
+**Authors:** Parnetti L, Mecocci P, Neri C, Palazzetti D, Fiacconi M et al.  
+**Journal:** Aging (Milan, Italy) (1990)  
+**PMID:** 2095858  
+**Entities:** Alzheimer, aging  
+**Abstract:** The dexamethasone suppression test (DST) is commonly accepted as an indicator of hypothalamus-pituitary-adrenal (HPA) axis functioning in clinical practice. In this study, DST was carried out in a ger...
 
 
 ## Cluster: exosomal_rna
@@ -2182,7 +5671,7 @@
 **Authors:** Milevoj Kopcinovic L, Nikolac Gabaj N, Lapić I, Rogić D, Oprea OR et al.  
 **Journal:** European journal of emergency medicine : official journal of the European Society for Emergency Medicine (2025)  
 **PMID:** 40214300  **DOI:** 10.1097/MEJ.0000000000001234
-**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI, aging  
 **Abstract:** BACKGROUND: Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (UCH-L1) are blood biomarkers that able to aid in the assessment of mild traumatic brain injury (mTBI) patients...
 
 ### Effect of blood alcohol on the diagnostic accuracy of glial fibrillary acidic protein and ubiquitin carboxy-terminal hydrolase L1 for traumatic intracranial hemorrhage: A TRACK-TBI study.
@@ -2329,7 +5818,7 @@
 **Authors:** Ladang A, Vavoulis G, Trifonidi I, Calluy E, Karagianni K et al.  
 **Journal:** Clinical chemistry and laboratory medicine (2025)  
 **PMID:** 39592246  **DOI:** 10.1515/cclm-2024-1034
-**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI, aging  
 **Abstract:** OBJECTIVES: Mild traumatic brain injury (mTBI) remains challenging to diagnose effectively in the emergency department. Abbott has developed the "GFAP/UCH-L1" mTBI test, to guide the clinical decision...
 
 ### Serum Biomarkers as Adjuncts to the National Institute for Health and Care Excellence Head Injury Guidelines (NG232, 2023) When Selecting Patients with Traumatic Brain Injury for Computed Tomography: A Collaborative European NeuroTrauma Effectiveness Research in Traumatic Brain Injury Study.
@@ -2420,7 +5909,7 @@
 **Authors:** Arslan B, Andreasson U, Rembeza E, Axelsson M, Novakova L et al.  
 **Journal:** Clinical chemistry and laboratory medicine (2025)  
 **PMID:** 40842193  **DOI:** 10.1515/cclm-2025-0870
-**Entities:** GFAP, neuroinflammation, TBI  
+**Entities:** GFAP, neuroinflammation, TBI, aging  
 **Abstract:** OBJECTIVES: Glial fibrillary acidic protein (GFAP) is a well-established biomarker of astrocytic activation associated with neurodegenerative diseases, neuroinflammatory disorders, and traumatic brain...
 
 ### High-performance bottom gate carbon nanotube field-effect transistor immunosensor for detecting glial fibrillary acidic protein: A biomarker for traumatic brain injury.
@@ -2637,7 +6126,7 @@
 **Authors:** Mannix R, Borglund E, Monashefsky A, Master C, Corwin D et al.  
 **Journal:** Neurology (2024)  
 **PMID:** 38986044  **DOI:** 10.1212/WNL.0000000000209651
-**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Entities:** GFAP, UCH-L1, mTBI, TBI, aging  
 **Abstract:** OBJECTIVES: Despite the growing evidence of the clinical utility of blood-brain biomarkers in adults with traumatic brain injury (TBI), less is known about the performance of these biomarkers in child...
 
 ### Integrated Microfluidic-Transistor Sensing System for Multiplexed Detection of Traumatic Brain Injury Biomarkers.
@@ -2770,7 +6259,7 @@
 **Authors:** Calluy E, Beaudart C, Alokail MS, Al-Daghri NM, Bruyère O et al.  
 **Journal:** Clinical chemistry and laboratory medicine (2024)  
 **PMID:** 38643415  **DOI:** 10.1515/cclm-2024-0194
-**Entities:** GFAP, UCH-L1, S100B, mTBI  
+**Entities:** GFAP, UCH-L1, S100B, mTBI, aging  
 **Abstract:** OBJECTIVES: To evaluate some confounding factors that influence the concentrations of S100 calcium binding protein B (S100B), glial fibrillary acidic protein (GFAP), and ubiquitin carboxyl-terminal hy...
 
 ### On-Field Rule Out of Mild Traumatic Brain Injury: Can Blood-Based Biomarker Testing Change Outcome of Major Sporting Events?
@@ -3078,7 +6567,7 @@
 **Authors:** Newcombe VFJ, Ashton NJ, Posti JP, Glocker B, Manktelow A et al.  
 **Journal:** Brain : a journal of neurology (2022)  
 **PMID:** 35377407  **DOI:** 10.1093/brain/awac126
-**Entities:** GFAP, NfL, TBI, Alzheimer  
+**Entities:** GFAP, NfL, TBI, Alzheimer, aging  
 **Abstract:** There is substantial interest in the potential for traumatic brain injury to result in progressive neurological deterioration. While blood biomarkers such as glial fibrillary acid protein (GFAP) and n...
 
 ### Short-term biological variation of serum glial fibrillary acidic protein.
@@ -4411,7 +7900,7 @@
 **Authors:** Zhang X, Pan Y, Wu T, Zhao W, Zhang H et al.  
 **Journal:** NeuroImage (2024)  
 **PMID:** 39048043  **DOI:** 10.1016/j.neuroimage.2024.120751
-**Entities:** NfL, mTBI, TBI, Alzheimer  
+**Entities:** NfL, mTBI, TBI, Alzheimer, aging  
 **Abstract:** BACKGROUND: Convolutional neural network (CNN) can capture the structural features changes of brain aging based on MRI, thus predict brain age in healthy individuals accurately. However, most studies ...
 
 ### 18F-Flortaucipir (AV1451) imaging identifies grey matter atrophy in retired athletes.
@@ -4474,7 +7963,7 @@
 **Authors:** Eisenbaum M, Pearson A, Ortiz C, Koprivica M, Cembran A et al.  
 **Journal:** Experimental neurology (2024)  
 **PMID:** 38301863  **DOI:** 10.1016/j.expneurol.2024.114702
-**Entities:** tau, BBB, mTBI, TBI  
+**Entities:** tau, BBB, mTBI, TBI, aging  
 **Abstract:** Repetitive mild traumatic brain injuries (r-mTBI) sustained in the military or contact sports have been associated with the accumulation of extracellular tau in the brain, which may contribute to the ...
 
 ### Unusual combinations of neurodegenerative pathologies with chronic traumatic encephalopathy (CTE) complicates clinical prediction of CTE.
@@ -4964,7 +8453,7 @@
 **Authors:** Sihag S, Naze S, Taghdiri F, Gumus M, Tator C et al.  
 **Journal:** Communications medicine (2022)  
 **PMID:** 35603281  **DOI:** 10.1038/s43856-021-00065-5
-**Entities:** NfL  
+**Entities:** NfL, aging  
 **Abstract:** BACKGROUND: Neuro-axonal brain damage releases neurofilament light chain (NfL) proteins, which enter the blood. Serum NfL has recently emerged as a promising biomarker for grading axonal damage, monit...
 
 ### Investigating the use of plasma pTau181 in retired contact sports athletes.
@@ -5286,7 +8775,7 @@
 **Authors:** Castellani RJ, Perry G  
 **Journal:** Journal of Alzheimer's disease : JAD (2019)  
 **PMID:** 30584140  **DOI:** 10.3233/JAD-180721
-**Entities:** tau, p-tau, TBI, Alzheimer  
+**Entities:** tau, p-tau, TBI, Alzheimer, aging  
 **Abstract:** There is considerable interest in the pathobiology of tau protein, given its potential role in neurodegenerative diseases and aging. Tau is an important microtubule associated protein, required for th...
 
 ### Blood Biomarkers for Traumatic Brain Injury: A Quantitative Assessment of Diagnostic and Prognostic Accuracy.
@@ -5601,7 +9090,7 @@
 **Authors:** Davis GA, Castellani RJ, McCrory P  
 **Journal:** Neurosurgery (2015)  
 **PMID:** 25988925  **DOI:** 10.1227/NEU.0000000000000722
-**Entities:** tau, mTBI, CTE, Alzheimer  
+**Entities:** tau, mTBI, CTE, Alzheimer, aging  
 **Abstract:** The recent interest in concussion in sport has resulted in significant media focus about chronic traumatic encephalopathy (CTE), although a direct causative link(s) between concussion and CTE is not e...
 
 ### Sports-related traumatic brain injury.
@@ -5863,7 +9352,7 @@
 **Authors:** Gao M, Zhang J, Yang N, Sun C  
 **Journal:** International journal of molecular sciences (2025)  
 **PMID:** 40869199  **DOI:** 10.3390/ijms26167876
-**Entities:** —  
+**Entities:** aging  
 **Abstract:** As the laying cycle is prolonged, the egg albumen quality exhibits a declining trend. A Haugh unit (HU) is a standard measure of the albumen quality, which reflects viscosity and freshness. During the...
 
 ### Integrative RNA-seq and LASSO-COX analysis reveal Paeonol's key target gene in proliferation suppression and apoptosis-induced in cervical cancer.
@@ -6213,14 +9702,14 @@
 **Authors:** Gould NL, Kolatt Chandran S, Kayyal H, Edry E, Rosenblum K  
 **Journal:** eNeuro (2021)  
 **PMID:** 34493578  **DOI:** 10.1523/ENEURO.0152-21.2021
-**Entities:** NQO2, ROS, Kv2.1  
+**Entities:** NQO2, ROS, Kv2.1, aging  
 **Abstract:** Quinone reductase 2 (QR2) is removed from anterior insular cortex (aIC) excitatory and SST-expressing neurons 3 hours following novel taste learning. QR2 removal in somatostatin (SST) interneurons red...
 
 ### Somatostatin Interneurons of the Insula Mediate QR2-Dependent Novel Taste Memory Enhancement.
 **Authors:** Gould NL, Kolatt Chandran S, Kayyal H, Edry E, Rosenblum K  
 **Journal:** eNeuro (2021)  
 **PMID:** 34518366  **DOI:** 10.1523/ENEURO.0152-21.2021
-**Entities:** NQO2  
+**Entities:** NQO2, aging  
 **Abstract:** Forming long-term memories is crucial for adaptive behavior and survival in changing environments. The molecular consolidation processes which underlie the formation of these long-term memories are de...
 
 ### Neuroprotective Properties of Quinone Reductase 2 Inhibitor M-11, a 2-Mercaptobenzimidazole Derivative.
@@ -6360,7 +9849,7 @@
 **Authors:** Moraes DS, Moreira DC, Andrade JMO, Santos SHS  
 **Journal:** IBRO reports (2020)  
 **PMID:** 33336103  **DOI:** 10.1016/j.ibror.2020.06.004
-**Entities:** resveratrol  
+**Entities:** resveratrol, aging  
 **Abstract:** Sirtuins (SIRTs) are a protein family with high preservation degree among evolutionary scale. SIRTs are histone deacetylases regulatory enzymes of genetic material deeply involved in numerous physiolo...
 
 ### Genetic Polymorphisms Affecting Cardiac Biomarker Concentrations in Children with Cancer: an Analysis from the "European Paediatric Oncology Off-patents Medicines Consortium" (EPOC) Trial.
@@ -7144,7 +10633,7 @@
 **Authors:** Benoit CE, Rowe WB, Menard C, Sarret P, Quirion R  
 **Journal:** Trends in pharmacological sciences (2011)  
 **PMID:** 21129790  **DOI:** 10.1016/j.tips.2010.10.002
-**Entities:** NQO2  
+**Entities:** NQO2, aging  
 **Abstract:** The hippocampus is a crucial player across several learning and memory domains, and is highly vulnerable to alterations during aging. Several products of neurotransmitter genes and neuromodulator gene...
 
 ### Increased hippocampal quinone reductase 2 in Alzheimer's disease.
@@ -7592,7 +11081,7 @@
 **Authors:** Brouillette J, Quirion R  
 **Journal:** Neurobiology of aging (2008)  
 **PMID:** 17512093  
-**Entities:** NQO2, Alzheimer  
+**Entities:** NQO2, Alzheimer, aging  
 **Abstract:** Aging is often associated with decline of memory function. Aged animals, like humans, can naturally develop memory impairments and thus represent a useful model to investigate genes involved in long-t...
 
 ### Quinone reductase 2 is a catechol quinone reductase.
@@ -7697,7 +11186,7 @@
 **Authors:** Hsieh TC, Wu JM  
 **Journal:** International journal of oncology (2008)  
 **PMID:** 18097561  
-**Entities:** NQO1, Alzheimer  
+**Entities:** NQO1, Alzheimer, aging  
 **Abstract:** Dietary supplements and botanical products are widely used by patients diagnosed with prostate cancer (CaP) as a primary or adjuvant form of treatment for their medical conditions in the United States...
 
 ### SALMON: solvent accessibility, ligand binding, and mapping of ligand orientation by NMR spectroscopy.
@@ -7753,7 +11242,7 @@
 **Authors:** Tan DX, Manchester LC, Terron MP, Flores LJ, Tamura H et al.  
 **Journal:** Journal of pineal research (2007)  
 **PMID:** 17910598  
-**Entities:** NQO2  
+**Entities:** NQO2, aging  
 **Abstract:** The nature of the MT3 melatonin receptor/binding site has been a long pondered mystery for scientists. Even though it is a presumptive membrane receptor, neither its transduction cascade nor its biolo...
 
 ### Synthesis of cryptolepine analogues as potential bioreducible anticancer agents.
@@ -10384,7 +13873,7 @@
 **Authors:** Ofri M, Azriel A, Kahati L, Paran N, Esbit S et al.  
 **Journal:** Acta neurochirurgica (2026)  
 **PMID:** 41706196  **DOI:** 10.1007/s00701-026-06788-5
-**Entities:** mTBI, TBI  
+**Entities:** mTBI, TBI, aging  
 **Abstract:** PURPOSE: Mild traumatic brain injury (TBI) is a frequent presentation in the emergency department. Chronic subdural hematoma (CSDH), most often caused by TBI, is increasing in incidence due to populat...
 
 ### Specific alterations of reactive species interactome markers reflect recovery after mild traumatic brain injury.
@@ -11154,7 +14643,7 @@
 **Authors:** Lagares A, Castaño-Leon AM, Richard M, Tsitsopoulos PP, Morales J et al.  
 **Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2023)  
 **PMID:** 35178583  **DOI:** 10.1007/s00068-022-01902-5
-**Entities:** S100B, mTBI, TBI  
+**Entities:** S100B, mTBI, TBI, aging  
 **Abstract:** PURPOSE: Clinical guidelines have been developed to standardize the management of mild traumatic brain injury (mTBI) in the emergency room, in particular the indication of brain CT scan and the use of...
 
 ### Computed Tomography Lesions and Their Association With Global Outcome in Young People With Mild Traumatic Brain Injury.
@@ -11952,7 +15441,7 @@
 **Authors:** June D, Williams OA, Huang CW, An Y, Landman BA et al.  
 **Journal:** NeuroImage (2020)  
 **PMID:** 32702483  **DOI:** 10.1016/j.neuroimage.2020.117182
-**Entities:** mTBI, CTE, Alzheimer  
+**Entities:** mTBI, CTE, Alzheimer, aging  
 **Abstract:** Studies suggest that concussions may be related to increased risk of neurodegenerative diseases, such as Chronic Traumatic Encephalopathy and Alzheimer's Disease. Most neuroimaging studies show effect...
 
 ### Plasma Biomarker Concentrations Associated With Return to Sport Following Sport-Related Concussion in Collegiate Athletes-A Concussion Assessment, Research, and Education (CARE) Consortium Study.
@@ -13166,7 +16655,7 @@
 **Authors:** Kockelmann F, Maegele M  
 **Journal:** Journal of clinical medicine (2023)  
 **PMID:** 37109145  **DOI:** 10.3390/jcm12082809
-**Entities:** TBI  
+**Entities:** TBI, aging  
 **Abstract:** BACKGROUND: Because of the aging population, the number of low falls in elderly people with pre-existing anticoagulation is rising, often leading to traumatic brain injury (TBI) with a social and econ...
 
 ### A novel point-of-care diagnostic prototype system for the simultaneous electrochemiluminescent sensing of multiple traumatic brain injury biomarkers.
@@ -14359,14 +17848,14 @@
 **Authors:** Lu Z, Shuai Y, Wang C, Liu Z, Wang Z et al.  
 **Journal:** The Journal of clinical investigation (2026)  
 **PMID:** 41926211  **DOI:** 10.1172/JCI196112
-**Entities:** TBI  
+**Entities:** TBI, aging  
 **Abstract:** Traumatic brain injury (TBI) disproportionately affects the elderly, yet the underlying mechanisms remain unclear. Here, we demonstrate that aged TBI brains predominantly harbor pro-inflammatory NLRP3...
 
 ### Acetylation of fatty acid synthase regulates microglial lipid droplets accumulation and pro-inflammatory activity following traumatic brain injury.
 **Authors:** Zhang F, Lv T, Xu T, Li J, Lian J et al.  
 **Journal:** Redox biology (2026)  
 **PMID:** 41412037  **DOI:** 10.1016/j.redox.2025.103978
-**Entities:** neuroinflammation, TBI  
+**Entities:** neuroinflammation, TBI, aging  
 **Abstract:** Lipid droplet accumulation in microglia has been implicated in inflammatory functions associated with aging and demyelinating diseases. However, the molecular mechanisms driving lipid droplet formatio...
 
 ### Central integration mechanisms of neurovascular unit dysfunction and novel synergistic therapeutic strategies.
@@ -14632,7 +18121,7 @@
 **Authors:** Devlin PJ, Khan R, Do TH, West BE, Korf JM et al.  
 **Journal:** bioRxiv : the preprint server for biology (2026)  
 **PMID:** 41648607  **DOI:** 10.64898/2026.01.12.699107
-**Entities:** IL-6, mTBI, TBI  
+**Entities:** IL-6, mTBI, TBI, aging  
 **Abstract:** Traumatic brain injury (TBI) of any severity is associated with long-term systemic inflammation and increased risk of peripheral comorbidities, yet the mechanisms driving immune dysregulation and acce...
 
 ### Network-based prediction and real-world patient data observation identify doxycycline as a repurposable drug in Alzheimer's disease.
@@ -14751,7 +18240,7 @@
 **Authors:** Fernandez RF, Weglarczyk P, Zokaei S, Huguenin S, Scafidi J et al.  
 **Journal:** Journal of neurochemistry (2025)  
 **PMID:** 40939097  **DOI:** 10.1111/jnc.70227
-**Entities:** TBI  
+**Entities:** TBI, aging  
 **Abstract:** Traumatic brain injury (TBI) is highly prevalent among very young and older adults, with poorer outcomes and longer recovery in aged individuals. The brain is a lipid-rich organ and high rates of memb...
 
 ### Developmental deletion of amyloid precursor protein precludes transcriptional and proteomic responses to brain injury.
@@ -15108,7 +18597,7 @@
 **Authors:** Khan R, Di Gesù CM, Lee J, McCullough LD  
 **Journal:** Gut microbes (2024)  
 **PMID:** 38237031  **DOI:** 10.1080/19490976.2024.2302801
-**Entities:** TBI, Alzheimer  
+**Entities:** TBI, Alzheimer, aging  
 **Abstract:** Trillions of microbes live symbiotically in the host, specifically in mucosal tissues such as the gut. Recent advances in metagenomics and metabolomics have revealed that the gut microbiota plays a cr...
 
 ### Single-cell RNA sequencing in stroke and traumatic brain injury: Current achievements, challenges, and future perspectives on transcriptomic profiling.
@@ -15661,7 +19150,7 @@
 **Authors:** Van Houcke J, Mariën V, Zandecki C, Ayana R, Pepermans E et al.  
 **Journal:** NPJ Regenerative medicine (2023)  
 **PMID:** 37328477  **DOI:** 10.1038/s41536-023-00304-4
-**Entities:** TBI, quercetin  
+**Entities:** TBI, quercetin, aging  
 **Abstract:** The young African turquoise killifish has a high regenerative capacity, but loses it with advancing age, adopting several aspects of the limited form of mammalian regeneration. We deployed a proteomic...
 
 ### Fetuin-A alleviates neuroinflammation against traumatic brain injury-induced microglial necroptosis by regulating Nrf-2/HO-1 pathway.
@@ -15703,7 +19192,7 @@
 **Authors:** Pischiutta F, Caruso E, Cavaleiro H, Salgado AJ, Loane DJ et al.  
 **Journal:** Experimental neurology (2022)  
 **PMID:** 35952763  **DOI:** 10.1016/j.expneurol.2022.114199
-**Entities:** neuroinflammation, TBI, Alzheimer  
+**Entities:** neuroinflammation, TBI, Alzheimer, aging  
 **Abstract:** The severity and long-term consequences of brain damage in traumatic brain injured (TBI) patients urgently calls for better neuroprotective/neuroreparative strategies for this devastating disorder. Me...
 
 ### Mass Spectrometry-Based Approaches for Clinical Biomarker Discovery in Traumatic Brain Injury.
@@ -15976,7 +19465,7 @@
 **Authors:** Hall CM, Moeendarbary E, Sheridan GK  
 **Journal:** The European journal of neuroscience (2021)  
 **PMID:** 32356339  **DOI:** 10.1111/ejn.14766
-**Entities:** TBI, Alzheimer  
+**Entities:** TBI, Alzheimer, aging  
 **Abstract:** Just as the epigenome, the proteome and the electrophysiological properties of a cell influence its function, so too do its intrinsic mechanical properties and its extrinsic mechanical environment. Th...
 
 ### iTRAQ-based proteomic profiling reveals protein alterations after traumatic brain injury and supports thyroxine as a potential treatment.
@@ -17229,7 +20718,7 @@
 **Authors:** Sun D, McGinn M, Hankins JE, Mays KM, Rolfe A et al.  
 **Journal:** Frontiers in aging neuroscience (2013)  
 **PMID:** 24385964  **DOI:** 10.3389/fnagi.2013.00095
-**Entities:** TBI  
+**Entities:** TBI, aging  
 **Abstract:** The elderly are among the most vulnerable to traumatic brain injury (TBI) with poor functional outcomes and impaired cognitive recovery. Of the pathological changes that occur following TBI, apoptosis...
 
 ### Detection of structural and metabolic changes in traumatically injured hippocampus by quantitative differential proteomics.

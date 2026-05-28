@@ -143,6 +143,10 @@ ENTITY_SEEDS = [
                                    "chronic traumatic encephalopath"]),
     ("Alzheimer",    "disease",  ["Alzheimer", "Alzheimer's disease", "AD", "dementia",
                                    "neurodegeneration"]),
+    ("aging",        "disease",  ["aging", "ageing", "brain aging", "aging brain",
+                                   "neurobiological aging", "cognitive aging",
+                                   "age-related cognitive", "brain senescence",
+                                   "age-dependent", "age-related neurodegeneration"]),
 
     # Diagnostic platforms
     ("i-STAT TBI",   "drug",     ["i-STAT TBI", "Abbott TBI", "Abbott i-STAT", "Banyan Brain Trauma"]),
