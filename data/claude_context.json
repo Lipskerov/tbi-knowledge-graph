@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3025,
+  "n_papers": 3026,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -668,6 +668,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42204700",
+        "title": "Repeated head impacts establish a senescent cranial bone marrow niche that impairs brain metabolism.",
+        "authors": "Devlin PJ, Khan R, Do TH, West BE, Korf JM et al.",
+        "year": 2026,
+        "journal": "Journal of neuroinflammation",
+        "entities": "IL-6, TBI, aging"
+      },
+      {
         "pmid": "42199099",
         "title": "Activin A in the central nervous system: Mechanistic and therapeutic insights unveiled by emerging technologies.",
         "authors": "Zou Z, Zhang Y, Qie X, Xie D, Liu H",
@@ -738,14 +746,6 @@
         "year": 2026,
         "journal": "Frontiers in pharmacology",
         "entities": "neuroinflammation, TBI"
-      },
-      {
-        "pmid": "42060081",
-        "title": "Neural Stem Cell-Derived Extracellular Vesicles: The Next Frontier in Neurological and Neurodegenerative Diseases.",
-        "authors": "Marei HE, Cenciarelli C",
-        "year": 2026,
-        "journal": "Stem cell reviews and reports",
-        "entities": "ROS, BDNF, miR-21, oxidative stress, TBI, Alzheimer"
       }
     ]
   },
@@ -753,7 +753,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1747
+      "paper_count": 1748
     },
     {
       "name": "mTBI",
@@ -768,7 +768,7 @@
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 427
+      "paper_count": 428
     },
     {
       "name": "GFAP",
@@ -848,7 +848,7 @@
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 79
+      "paper_count": 80
     },
     {
       "name": "CTE",
@@ -1125,7 +1125,7 @@
     {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 58.0
+      "weight": 59.0
     },
     {
       "source": "S100B",
