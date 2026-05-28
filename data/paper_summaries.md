@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
 *Generated: 2026-05-28*
-*Total papers: 3025*
+*Total papers: 3026*
 
 
 ## Cluster: aging_neuro
@@ -18193,6 +18193,13 @@
 **PMID:** 42199099  **DOI:** 10.4103/NRR.NRR-D-25-01570
 **Entities:** BBB, TBI  
 **Abstract:** Activin A exhibits both protective and pathological roles in the central nervous system, reflecting a functional duality that complicates its therapeutic development. To decipher the underlying mechan...
+
+### Repeated head impacts establish a senescent cranial bone marrow niche that impairs brain metabolism.
+**Authors:** Devlin PJ, Khan R, Do TH, West BE, Korf JM et al.  
+**Journal:** Journal of neuroinflammation (2026)  
+**PMID:** 42204700  **DOI:** 10.1186/s12974-026-03846-8
+**Entities:** IL-6, TBI, aging  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) of any severity is associated with long-term systemic inflammation and increased risk of peripheral comorbidities, yet the mechanisms driving immune dysregulat...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

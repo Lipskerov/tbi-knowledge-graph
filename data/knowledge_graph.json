@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T04:53:31.103900",
-  "n_papers": 3025,
+  "generated_at": "2026-05-28T11:01:03.540205",
+  "n_papers": 3026,
   "n_entities": 69,
   "n_edges": 455,
   "cluster_stats": {
@@ -12,14 +12,14 @@
     "ppcs_prognosis": 288,
     "tbi_mild_blood": 341,
     "tbi_panel_poc": 229,
-    "tbi_proteomics": 482
+    "tbi_proteomics": 483
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1747,
+      "paper_count": 1748,
       "centrality": 0.6324
     },
     {
@@ -40,7 +40,7 @@
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 427,
+      "paper_count": 428,
       "centrality": 0.5147
     },
     {
@@ -152,7 +152,7 @@
       "id": 18,
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 79,
+      "paper_count": 80,
       "centrality": 0.3971
     },
     {
@@ -767,8 +767,8 @@
     {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 58.0,
-      "n_papers": 58.0
+      "weight": 59.0,
+      "n_papers": 59.0
     },
     {
       "source": "S100B",
@@ -915,6 +915,12 @@
       "n_papers": 35.0
     },
     {
+      "source": "TBI",
+      "target": "aging",
+      "weight": 35.0,
+      "n_papers": 35.0
+    },
+    {
       "source": "NQO1",
       "target": "ROS",
       "weight": 34.0,
@@ -929,12 +935,6 @@
     {
       "source": "mTBI",
       "target": "NSE",
-      "weight": 34.0,
-      "n_papers": 34.0
-    },
-    {
-      "source": "TBI",
-      "target": "aging",
       "weight": 34.0,
       "n_papers": 34.0
     },
@@ -1323,6 +1323,12 @@
       "n_papers": 14.0
     },
     {
+      "source": "IL-6",
+      "target": "aging",
+      "weight": 14.0,
+      "n_papers": 14.0
+    },
+    {
       "source": "NQO1",
       "target": "glutathione",
       "weight": 13.0,
@@ -1349,12 +1355,6 @@
     {
       "source": "p-tau",
       "target": "neuroinflammation",
-      "weight": 13.0,
-      "n_papers": 13.0
-    },
-    {
-      "source": "IL-6",
-      "target": "aging",
       "weight": 13.0,
       "n_papers": 13.0
     },
