@@ -17,3 +17,5 @@ venv/
 # Editor
 .idea/
 .vscode/
+*.db-wal
+*.db-shm
