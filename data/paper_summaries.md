@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-05-28*
-*Total papers: 3025*
+*Generated: 2026-05-30*
+*Total papers: 3030*
 
 
 ## Cluster: aging_neuro
@@ -242,6 +242,13 @@
 **PMID:** 41134637  **DOI:** 10.1093/gerona/glaf233
 **Entities:** ROS, neuroinflammation, oxidative stress, aging  
 **Abstract:** BACKGROUND: Neuroinflammation is a critical aspect of aging and neurodegenerative disorders, increasingly recognized for its significant role in the progression of cognitive impairments. Mitochondrial...
+
+### Soft tissue changes in Dementia: A comprehensive systematic review.
+**Authors:** Pipitone F, Bernetti C, Gennaro GD, Greco F, Pugliese L et al.  
+**Journal:** Aging brain (2026)  
+**PMID:** 42211428  **DOI:** 10.1016/j.nbas.2026.100159
+**Entities:** Alzheimer  
+**Abstract:** •TMT is a viable biomarker for sarcopenia in dementia imaging.•Craniofacial muscle loss correlates with cognitive impairment.•Muscle fat infiltration links to brain atrophy in AD and DLB.•Sarcopenia a...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -5625,6 +5632,13 @@
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND: NICE head injury guidance prioritises sensitivity but results in high CT utilisation and low diagnostic yield, contributing to Emergency Department (ED) crowding, particularly among older ...
 
+### Diagnostic Accuracy of Plasma Biomarkers for Mild Traumatic Brain Injury in Older Adults.
+**Authors:** Spitz G, Mitchell J, Martins BD, Astridge A, Copas C et al.  
+**Journal:** JAMA network open (2026)  
+**PMID:** 42213433  **DOI:** 10.1001/jamanetworkopen.2026.15678
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
+**Abstract:** IMPORTANCE: Mild traumatic brain injury (mTBI) is common among older adults but challenging to diagnose due to symptoms that overlap with age-related changes. Blood biomarkers are proposed to compleme...
+
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7685,6 +7699,13 @@
 **PMID:** 41692230  **DOI:** 10.1016/j.jpeds.2026.115036
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: To investigate whether slower reaction time (RT) was associated with higher concussion odds among middle school female soccer players. STUDY DESIGN: We performed a retrospective cohort stud...
+
+### TACKLE concussion study: an observational study of post-concussion biomarker and neuroimaging progression in adolescent male school sports-related concussion.
+**Authors:** To XV, Robinson B, Mitchell G, McDonald W, Cumming P et al.  
+**Journal:** BMJ open (2026)  
+**PMID:** 42208993  **DOI:** 10.1136/bmjopen-2025-107854
+**Entities:** NfL, tau, mTBI, TBI  
+**Abstract:** INTRODUCTION: Sports-related concussion (SRC) is an established research topic in the context of sport professionals suffering from mild traumatic brain injury (mTBI), but there is scant investigation...
 
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
@@ -11856,6 +11877,13 @@
 **PMID:** 41455435  **DOI:** 10.1016/j.ajem.2025.12.021
 **Entities:** GFAP, UCH-L1, mTBI, TBI, PPCS  
 **Abstract:** BACKGROUND: Blood biomarkers such as glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) have been shown to rise after mild traumatic brain injury, improving ea...
+
+### Use of In-Hospital Mild Traumatic Brain Injury Symptom Checklist Within 24 Hours of Injury to Predict 3-Month Symptom Outcome.
+**Authors:** Gray S, Amadon G, Temkin N, Darsie M, Giacino JT et al.  
+**Journal:** The Journal of emergency medicine (2026)  
+**PMID:** 41297111  **DOI:** 10.1016/j.jemermed.2025.10.008
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** BACKGROUND: Experts recommend administering a traumatic brain injury (TBI) symptom checklist as part of routine evaluation for TBI with Glasgow Coma Scale score 13-15 ("mild" TBI [mTBI]) in adult emer...
 
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
@@ -18193,6 +18221,13 @@
 **PMID:** 42199099  **DOI:** 10.4103/NRR.NRR-D-25-01570
 **Entities:** BBB, TBI  
 **Abstract:** Activin A exhibits both protective and pathological roles in the central nervous system, reflecting a functional duality that complicates its therapeutic development. To decipher the underlying mechan...
+
+### Repeated head impacts establish a senescent cranial bone marrow niche that impairs brain metabolism.
+**Authors:** Devlin PJ, Khan R, Do TH, West BE, Korf JM et al.  
+**Journal:** Journal of neuroinflammation (2026)  
+**PMID:** 42204700  **DOI:** 10.1186/s12974-026-03846-8
+**Entities:** IL-6, TBI, aging  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) of any severity is associated with long-term systemic inflammation and increased risk of peripheral comorbidities, yet the mechanisms driving immune dysregulat...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
