@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3030,
+  "n_papers": 3035,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -110,6 +110,14 @@
         "entities": "GFAP, TBI"
       },
       {
+        "pmid": "42055622",
+        "title": "Clinical Data Analysis Identifies Prognostic Long Non-coding RNA Signatures in Lung Adenocarcinoma.",
+        "authors": "Sharma M, Chourasia N, Priyanka P, Garg M, Nayak S et al.",
+        "year": 2026,
+        "journal": "Cancer genomics & proteomics",
+        "entities": null
+      },
+      {
         "pmid": "41890658",
         "title": "Multifunctional Nanoparticles in Traumatic Brain Injury: From Targeted Imaging and Diagnosis to Innovative Therapeutics.",
         "authors": "Alwisi N, Aqel S, Naeim J, Al-Hashimi DA, El Hayek S et al.",
@@ -164,14 +172,6 @@
         "year": 2026,
         "journal": "Neural regeneration research",
         "entities": "neuroinflammation, BBB, TBI"
-      },
-      {
-        "pmid": "41408561",
-        "title": "Basophils activate splenic B cells and dendritic cells via IL-13 signaling in acute traumatic brain injury.",
-        "authors": "Olde Heuvel F, Zhang J, Sun F, Krishnamurthy SS, Yartas G et al.",
-        "year": 2025,
-        "journal": "Journal of neuroinflammation",
-        "entities": "neuroinflammation, TBI"
       }
     ],
     "gfap_uchl1": [
@@ -282,6 +282,14 @@
         "entities": "BBB, mTBI, TBI, Alzheimer"
       },
       {
+        "pmid": "41738687",
+        "title": "Factors associated with subjective cognitive complaints in former American football players.",
+        "authors": "Adler JS, Ly MT, Yhang E, Tripodis Y, Adler CH et al.",
+        "year": 2026,
+        "journal": "Journal of the International Neuropsychological Society : JINS",
+        "entities": "NfL, tau, Alzheimer"
+      },
+      {
         "pmid": "41692230",
         "title": "Pre-Participation Reaction Time and Concussion Risk among Middle School Female Soccer Players.",
         "authors": "Smulligan KL, Lempke LB, Mannix RC, Whitney KE, Berkner PD et al.",
@@ -296,6 +304,14 @@
         "year": 2026,
         "journal": "Journal of neurotrauma",
         "entities": "tau, p-tau, A\u03b242, CTE"
+      },
+      {
+        "pmid": "41042485",
+        "title": "Normative Data for Single- and Dual-Task Tandem Gait Performance in Collegiate Athletes.",
+        "authors": "Shumski EJ, Lempke LB, Howell D, Buckley T, Oldham J et al.",
+        "year": 2026,
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "entities": "mTBI"
       },
       {
         "pmid": "41465199",
@@ -320,22 +336,6 @@
         "year": 2025,
         "journal": "World neurosurgery",
         "entities": "tau, mTBI, TBI"
-      },
-      {
-        "pmid": "40852777",
-        "title": "Longitudinal assessment of brain injury biomarker neurofilament light in female football players during a competitive season of football heading.",
-        "authors": "Carbuhn AF, Edwardson K, Chalise P, Dzesu S, Morris JK",
-        "year": 2025,
-        "journal": "Science & medicine in football",
-        "entities": "NfL, mTBI, TBI"
-      },
-      {
-        "pmid": "40666393",
-        "title": "Updated Review of Neurologic Concussion Biomarkers for Time-sensitive Point-of-care Testing.",
-        "authors": "Kurup MJ, Agrawal A, Temple SR, Galwankar S",
-        "year": 2025,
-        "journal": "Journal of emergencies, trauma, and shock",
-        "entities": "GFAP, UCH-L1, NfL, tau, mTBI, TBI"
       }
     ],
     "nqo2": [
@@ -753,17 +753,17 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1751
+      "paper_count": 1753
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1015
+      "paper_count": 1017
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 496
+      "paper_count": 497
     },
     {
       "name": "aging",
@@ -773,12 +773,12 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 417
+      "paper_count": 419
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 309
+      "paper_count": 310
     },
     {
       "name": "NQO2",
@@ -793,7 +793,7 @@
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 254
+      "paper_count": 255
     },
     {
       "name": "ROS",
@@ -818,7 +818,7 @@
     {
       "name": "S100B",
       "type": "protein",
-      "paper_count": 166
+      "paper_count": 167
     },
     {
       "name": "BBB",
@@ -898,19 +898,19 @@
     {
       "name": "BDNF",
       "type": "protein",
-      "paper_count": 31
+      "paper_count": 32
     }
   ],
   "top_cooccurrences": [
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 740.0
+      "weight": 741.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 349.0
+      "weight": 351.0
     },
     {
       "source": "Alzheimer",
@@ -945,7 +945,7 @@
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 172.0
+      "weight": 173.0
     },
     {
       "source": "TBI",
@@ -970,7 +970,7 @@
     {
       "source": "S100B",
       "target": "TBI",
-      "weight": 146.0
+      "weight": 147.0
     },
     {
       "source": "GFAP",
@@ -978,14 +978,14 @@
       "weight": 139.0
     },
     {
-      "source": "TBI",
-      "target": "PPCS",
+      "source": "tau",
+      "target": "Alzheimer",
       "weight": 138.0
     },
     {
-      "source": "tau",
-      "target": "Alzheimer",
-      "weight": 137.0
+      "source": "TBI",
+      "target": "PPCS",
+      "weight": 138.0
     },
     {
       "source": "tau",
@@ -995,7 +995,7 @@
     {
       "source": "NfL",
       "target": "tau",
-      "weight": 134.0
+      "weight": 135.0
     },
     {
       "source": "NfL",
@@ -1010,7 +1010,7 @@
     {
       "source": "GFAP",
       "target": "S100B",
-      "weight": 111.0
+      "weight": 112.0
     },
     {
       "source": "BBB",
@@ -1030,7 +1030,7 @@
     {
       "source": "S100B",
       "target": "mTBI",
-      "weight": 90.0
+      "weight": 91.0
     },
     {
       "source": "NQO2",
@@ -1065,7 +1065,7 @@
     {
       "source": "NfL",
       "target": "Alzheimer",
-      "weight": 76.0
+      "weight": 77.0
     },
     {
       "source": "UCH-L1",

@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-05-30*
-*Total papers: 3030*
+*Generated: 2026-06-01*
+*Total papers: 3035*
 
 
 ## Cluster: aging_neuro
@@ -3563,6 +3563,13 @@
 **PMID:** 42193441  **DOI:** 10.3390/biomedicines14051116
 **Entities:** GFAP, TBI  
 **Abstract:** This review demonstrates that the diagnostic and prognostic significance of glial fibrillary acidic protein (GFAP) is not limited to its use as a marker of astrocytic damage but should also be conside...
+
+### Clinical Data Analysis Identifies Prognostic Long Non-coding RNA Signatures in Lung Adenocarcinoma.
+**Authors:** Sharma M, Chourasia N, Priyanka P, Garg M, Nayak S et al.  
+**Journal:** Cancer genomics & proteomics (2026)  
+**PMID:** 42055622  **DOI:** 10.21873/cgp.20588
+**Entities:** —  
+**Abstract:** BACKGROUND/AIM: Lung adenocarcinoma (LUAD) is the most common subtype of non-small cell lung cancer (NSCLC) and remains associated with poor clinical outcomes due to pronounced molecular heterogeneity...
 
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
@@ -7193,6 +7200,13 @@
 **Entities:** GFAP, NfL, tau, TBI, MBP  
 **Abstract:** The release of brain-originated peptides such as tau protein (MAPT), S-100β, neurofilament light chain (NFL), and glial fibrillary acidic protein (GFAP) into the cerebrospinal fluid (CSF) has been pos...
 
+### Measurement of Cerebral Biomarkers Proving Traumatic Brain Injuries in Post-Mortem Body Fluids.
+**Authors:** Ondruschka B, Sieber M, Kirsten H, Franke H, Dreßler J  
+**Journal:** Journal of neurotrauma (2018)  
+**PMID:** 29732941  **DOI:** 10.1089/neu.2017.5441
+**Entities:** GFAP, BDNF, TBI  
+**Abstract:** Until now, it is impossible to identify a fatal traumatic brain injury (TBI) before post-mortem radiological investigations or an autopsy take place. It would be preferable to have an additional diagn...
+
 ### Biofluid biomarkers of traumatic brain injury.
 **Authors:** Agoston DV, Shutes-David A, Peskind ER  
 **Journal:** Brain injury (2017)  
@@ -7543,6 +7557,13 @@
 **Entities:** GFAP, S100B, TBI, NSE  
 **Abstract:** OBJECTIVE: To examine the prognostic ability of protein S100B, neuron-specific enolase (NSE) and glial fibrillary acid protein (GFAP) for prediction of 1-year mortality in patients with traumatic brai...
 
+### GFAP and S100B in the acute phase of mild traumatic brain injury.
+**Authors:** Metting Z, Wilczak N, Rodiger LA, Schaaf JM, van der Naalt J  
+**Journal:** Neurology (2012)  
+**PMID:** 22517109  **DOI:** 10.1212/WNL.0b013e318253d5c7
+**Entities:** GFAP, S100B, mTBI, TBI  
+**Abstract:** OBJECTIVE: The biomarkers glial fibrillary acid protein (GFAP) and S100B are increasingly used as prognostic tools in severe traumatic brain injury (TBI). Data for mild TBI are scarce. This study aims...
+
 ### Factors affecting blast traumatic brain injury.
 **Authors:** Kamnaksh A, Kovesdi E, Kwon SK, Wingo D, Ahmed F et al.  
 **Journal:** Journal of neurotrauma (2011)  
@@ -7706,6 +7727,20 @@
 **PMID:** 42208993  **DOI:** 10.1136/bmjopen-2025-107854
 **Entities:** NfL, tau, mTBI, TBI  
 **Abstract:** INTRODUCTION: Sports-related concussion (SRC) is an established research topic in the context of sport professionals suffering from mild traumatic brain injury (mTBI), but there is scant investigation...
+
+### Factors associated with subjective cognitive complaints in former American football players.
+**Authors:** Adler JS, Ly MT, Yhang E, Tripodis Y, Adler CH et al.  
+**Journal:** Journal of the International Neuropsychological Society : JINS (2026)  
+**PMID:** 41738687  **DOI:** 10.1017/S1355617726101866
+**Entities:** NfL, tau, Alzheimer  
+**Abstract:** OBJECTIVE: Subjective cognitive complaints (SCC) can precede cognitive decline and are associated with demographic, exposure, lifestyle, and psychological factors. Prevalences of SCC and their correla...
+
+### Normative Data for Single- and Dual-Task Tandem Gait Performance in Collegiate Athletes.
+**Authors:** Shumski EJ, Lempke LB, Howell D, Buckley T, Oldham J et al.  
+**Journal:** Sports medicine (Auckland, N.Z.) (2026)  
+**PMID:** 41042485  **DOI:** 10.1007/s40279-025-02306-2
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Normative dual-task (concurrent cognitive and motor task) tandem gait has not been developed. Currently, only individual baseline data are used for tandem gait assessment post concussion. ...
 
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
