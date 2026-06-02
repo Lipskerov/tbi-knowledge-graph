@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-01*
-*Total papers: 3035*
+*Generated: 2026-06-02*
+*Total papers: 3044*
 
 
 ## Cluster: aging_neuro
@@ -4299,6 +4299,13 @@
 **Entities:** neuroinflammation, TBI  
 **Abstract:** There is growing evidence that long-term central nervous system (CNS) inflammation exacerbates secondary deterioration of brain structures and functions and is one of the major determinants of disease...
 
+### Regulation of Circulating miR-342-3p Alleviates the Radiation-Induced Immune System Injury.
+**Authors:** Wei W, Bai H, Zhang T, Cai S, Zhou Y et al.  
+**Journal:** Radiation research (2023)  
+**PMID:** 37874034  **DOI:** 10.1667/RADE-23-00125.1
+**Entities:** IL-6, TBI  
+**Abstract:** Ionizing radiation in space, radiation devices or nuclear disasters are major threats to human health and public security. Expanding countermeasures for dealing with accidental or occupational radiati...
+
 ### A Literature Review of Traumatic Brain Injury Biomarkers.
 **Authors:** Ghaith HS, Nawar AA, Gabra MD, Abdelrahman ME, Nafady MH et al.  
 **Journal:** Molecular neurobiology (2022)  
@@ -4753,6 +4760,13 @@
 **PMID:** 34901943  **DOI:** 10.1089/neur.2021.0036
 **Entities:** —  
 **Abstract:** This prospective, controlled, observational cohort study assessed the performance of a novel panel of serum microRNA (miRNA) biomarkers relative to findings on cervical spinal cord magnetic resonance ...
+
+### Observation of Unique Circulating miRNA Signatures in Non-Human Primates Exposed to Total-Body vs. Whole Thorax Lung Irradiation.
+**Authors:** Rogers CJ, Kyubwa EM, Lukaszewicz AI, Starbird MA, Nguyen M et al.  
+**Journal:** Radiation research (2021)  
+**PMID:** 34525208  **DOI:** 10.1667/RADE-21-00043.1
+**Entities:** TBI  
+**Abstract:** A radiological/nuclear (RAD-NUC) incident, especially in an urban setting, results in diverse radiation-induced injuries due to heterogeneities in dose, the extent of partial-body shielding, human bio...
 
 ### Astrocyte-derived exosomes enriched with miR-873a-5p inhibit neuroinflammation via microglia phenotype modulation after traumatic brain injury.
 **Authors:** Long X, Yao X, Jiang Q, Yang Y, He X et al.  
@@ -5258,6 +5272,13 @@
 **Entities:** —  
 **Abstract:** The telomerase RNA in yeasts is large, usually >1000 nt, and contains functional elements that have been extensively studied experimentally in several disparate species. Nevertheless, they are very di...
 
+### Rapid Decrease in KRT14 and TP53 mRNA Expression in the Buccal Mucosa of Patients Receiving Total-Body Irradiation for Allogeneic Stem Cell Transplantation.
+**Authors:** Chmara J, Browning JWL, Atkins H, Sabloff M, McKay BC  
+**Journal:** Radiation research (2018)  
+**PMID:** 29232178  **DOI:** 10.1667/RR14897.1
+**Entities:** TBI  
+**Abstract:** The only curative treatment option for relapsed patients with acute myeloid leukemia (AML) is allogeneic stem cell transplantation. Depletion of hematopoietic stem cells and leukemic blast cells is ac...
+
 ### MicroRNAs in Neurodegenerative Diseases.
 **Authors:** Quinlan S, Kenny A, Medina M, Engel T, Jimenez-Mateos EM  
 **Journal:** International review of cell and molecular biology (2017)  
@@ -5348,6 +5369,13 @@
 **PMID:** 28279125  **DOI:** 10.1089/neu.2016.4857
 **Entities:** miR-21, mTBI, TBI  
 **Abstract:** Traumatic brain injury (TBI) is the leading cause of death and disability in people younger than 45 in Western countries. Despite many studies, no reliable biomarkers have been found to assess TBI sev...
+
+### Urinary miRNAs as Biomarkers for Noninvasive Evaluation of Radiation-Induced Renal Tubular Injury.
+**Authors:** Bhayana S, Song F, Jacob J, Fadda P, Denko NC et al.  
+**Journal:** Radiation research (2017)  
+**PMID:** 28977780  **DOI:** 10.1667/RR14828.1
+**Entities:** —  
+**Abstract:** Radiation nephropathy is one of the common late effects in cancer survivors who received radiotherapy as well as in victims of radiation accidents. The clinical manifestations of radiation nephropathy...
 
 ### Current status of fluid biomarkers in mild traumatic brain injury.
 **Authors:** Kulbe JR, Geddes JW  
@@ -8582,6 +8610,13 @@
 **Entities:** NfL, mTBI  
 **Abstract:** OBJECTIVE: This study investigated the longitudinal course of depressive symptom severity over 19 years in former American football players and the influence of concussion history, contact sport parti...
 
+### Mild Cognitive Impairment and Dementia Reported by Former Professional Football Players over 50 yr of Age: An NFL-LONG Study.
+**Authors:** Walton SR, Brett BL, Chandran A, Defreese JD, Mannix R et al.  
+**Journal:** Medicine and science in sports and exercise (2022)  
+**PMID:** 34593716  **DOI:** 10.1249/MSS.0000000000002802
+**Entities:** NfL, mTBI, Alzheimer  
+**Abstract:** PURPOSE: This study aimed to estimate prevalence of mild cognitive impairment (MCI) and dementia diagnoses in former National Football League (NFL) players ≥50 yr old and examine the relationships amo...
+
 ### CSF and Blood Neurofilament Levels in Athletes Participating in Physical Contact Sports: A Systematic Review.
 **Authors:** Verduyn C, Bjerke M, Duerinck J, Engelborghs S, Peers K et al.  
 **Journal:** Neurology (2021)  
@@ -8700,6 +8735,13 @@
 **PMID:** 34295300  **DOI:** 10.3389/fneur.2021.668606
 **Entities:** GFAP, UCH-L1, S100B, NfL, tau  
 **Abstract:** Traumatic brain injury (TBI) imposes a significant economic and social burden. The diagnosis and prognosis of mild TBI, also called concussion, is challenging. Concussions are common among contact spo...
+
+### Sex-Based Differences in Symptoms With Mouthguard Use After Pediatric Sport-Related Concussion.
+**Authors:** van Ierssel J, Ledoux AA, Tang K, Zemek R  
+**Journal:** Journal of athletic training (2021)  
+**PMID:** 33848349  **DOI:** 10.4085/1062-6050-0393.20
+**Entities:** tau, mTBI  
+**Abstract:** CONTEXT: Current evidence regarding the protective effect of mouthguard use on symptom severity in children and adolescents who sustain sport-related concussions is insufficient to make clinical recom...
 
 ### Neurofilament light as a biomarker in traumatic brain injury.
 **Authors:** Shahim P, Politis A, van der Merwe A, Moore B, Chou YY et al.  
@@ -8924,6 +8966,20 @@
 **PMID:** 30642757  **DOI:** 10.1016/j.nicl.2019.101651
 **Entities:** tau, mTBI, TBI  
 **Abstract:** Military personnel are often exposed to multiple instances of various types of head trauma. As a result, there has been increasing concern recently over identifying when head trauma has resulted in a ...
+
+### Engaging Athletic Trainers in Concussion Detection: Overview of the National Football League ATC Spotter Program, 2011-2017.
+**Authors:** Mack C, Myers E, Barnes R, Solomon G, Sills A  
+**Journal:** Journal of athletic training (2019)  
+**PMID:** 31415183  **DOI:** 10.4085/1062-6050-181-19
+**Entities:** NfL, mTBI  
+**Abstract:** OBJECTIVE: To assist sideline medical staff and to augment detection of concussion in National Football League (NFL) players during preseason and regular season games via the use of certified athletic...
+
+### Longitudinal Changes in Hippocampal Subfield Volume Associated with Collegiate Football.
+**Authors:** Parivash SN, Goubran M, Mills BD, Rezaii P, Thaler C et al.  
+**Journal:** Journal of neurotrauma (2019)  
+**PMID:** 31044639  **DOI:** 10.1089/neu.2018.6357
+**Entities:** TBI  
+**Abstract:** Collegiate football athletes are subject to repeated traumatic brain injuriesthat may cause brain injury. The hippocampus is composed of several distinct subfields with possible differential susceptib...
 
 ### Chronic traumatic encephalopathy: fluid biomarkers.
 **Authors:** Zetterberg H, Blennow K  
@@ -9183,6 +9239,13 @@
 **PMID:** 26237304  **DOI:** 10.1001/jamaneurol.2015.1383
 **Entities:** tau, TBI, CTE  
 **Abstract:** IMPORTANCE: Approximately one-third of military personnel who deploy for combat operations sustain 1 or more traumatic brain injuries (TBIs), which increases the risk for chronic symptoms of postconcu...
+
+### Age of first exposure to football and later-life cognitive impairment in former NFL players.
+**Authors:** Stamm JM, Bourlas AP, Baugh CM, Fritts NG, Daneshvar DH et al.  
+**Journal:** Neurology (2015)  
+**PMID:** 25632088  **DOI:** 10.1212/WNL.0000000000001358
+**Entities:** NfL  
+**Abstract:** OBJECTIVE: To determine the relationship between exposure to repeated head impacts through tackle football prior to age 12, during a key period of brain development, and later-life executive function,...
 
 ### Military-related traumatic brain injury and neurodegeneration.
 **Authors:** McKee AC, Robinson ME  

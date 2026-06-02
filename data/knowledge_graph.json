@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-01T12:45:27.011602",
-  "n_papers": 3035,
+  "generated_at": "2026-06-02T11:24:12.799761",
+  "n_papers": 3044,
   "n_entities": 69,
   "n_edges": 455,
   "cluster_stats": {
     "aging_neuro": 499,
-    "exosomal_rna": 289,
+    "exosomal_rna": 293,
     "gfap_uchl1": 309,
-    "nfl_tau": 225,
+    "nfl_tau": 230,
     "nqo2": 371,
     "ppcs_prognosis": 289,
     "tbi_mild_blood": 341,
@@ -19,21 +19,21 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1753,
+      "paper_count": 1757,
       "centrality": 0.6324
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1017,
+      "paper_count": 1020,
       "centrality": 0.5294
     },
     {
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 497,
+      "paper_count": 498,
       "centrality": 0.5441
     },
     {
@@ -54,7 +54,7 @@
       "id": 14,
       "name": "tau",
       "type": "protein",
-      "paper_count": 310,
+      "paper_count": 311,
       "centrality": 0.4265
     },
     {
@@ -65,18 +65,18 @@
       "centrality": 0.3676
     },
     {
+      "id": 12,
+      "name": "NfL",
+      "type": "protein",
+      "paper_count": 258,
+      "centrality": 0.4265
+    },
+    {
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
       "paper_count": 257,
       "centrality": 0.4853
-    },
-    {
-      "id": 12,
-      "name": "NfL",
-      "type": "protein",
-      "paper_count": 255,
-      "centrality": 0.4265
     },
     {
       "id": 4,
@@ -152,7 +152,7 @@
       "id": 18,
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 80,
+      "paper_count": 81,
       "centrality": 0.3971
     },
     {
@@ -605,8 +605,8 @@
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 136.0,
-      "n_papers": 136.0
+      "weight": 137.0,
+      "n_papers": 137.0
     },
     {
       "source": "NfL",
@@ -617,8 +617,8 @@
     {
       "source": "NfL",
       "target": "mTBI",
-      "weight": 122.0,
-      "n_papers": 122.0
+      "weight": 124.0,
+      "n_papers": 124.0
     },
     {
       "source": "NQO2",
@@ -689,8 +689,8 @@
     {
       "source": "NfL",
       "target": "Alzheimer",
-      "weight": 77.0,
-      "n_papers": 77.0
+      "weight": 78.0,
+      "n_papers": 78.0
     },
     {
       "source": "oxidative stress",
@@ -705,14 +705,14 @@
       "n_papers": 75.0
     },
     {
-      "source": "NQO2",
-      "target": "ROS",
-      "weight": 72.0,
-      "n_papers": 72.0
-    },
-    {
       "source": "mTBI",
       "target": "Alzheimer",
+      "weight": 73.0,
+      "n_papers": 73.0
+    },
+    {
+      "source": "NQO2",
+      "target": "ROS",
       "weight": 72.0,
       "n_papers": 72.0
     },
@@ -767,8 +767,8 @@
     {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 59.0,
-      "n_papers": 59.0
+      "weight": 60.0,
+      "n_papers": 60.0
     },
     {
       "source": "S100B",

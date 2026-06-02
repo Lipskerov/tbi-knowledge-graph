@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3035,
+  "n_papers": 3044,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -753,17 +753,17 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1753
+      "paper_count": 1757
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1017
+      "paper_count": 1020
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 497
+      "paper_count": 498
     },
     {
       "name": "aging",
@@ -778,7 +778,7 @@
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 310
+      "paper_count": 311
     },
     {
       "name": "NQO2",
@@ -786,14 +786,14 @@
       "paper_count": 308
     },
     {
+      "name": "NfL",
+      "type": "protein",
+      "paper_count": 258
+    },
+    {
       "name": "neuroinflammation",
       "type": "pathway",
       "paper_count": 257
-    },
-    {
-      "name": "NfL",
-      "type": "protein",
-      "paper_count": 255
     },
     {
       "name": "ROS",
@@ -848,7 +848,7 @@
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 80
+      "paper_count": 81
     },
     {
       "name": "CTE",
@@ -990,7 +990,7 @@
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 136.0
+      "weight": 137.0
     },
     {
       "source": "NfL",
@@ -1000,7 +1000,7 @@
     {
       "source": "NfL",
       "target": "mTBI",
-      "weight": 122.0
+      "weight": 124.0
     },
     {
       "source": "NQO2",
@@ -1058,13 +1058,13 @@
       "weight": 80.0
     },
     {
-      "source": "oxidative stress",
-      "target": "aging",
-      "weight": 77.0
-    },
-    {
       "source": "NfL",
       "target": "Alzheimer",
+      "weight": 78.0
+    },
+    {
+      "source": "oxidative stress",
+      "target": "aging",
       "weight": 77.0
     },
     {
@@ -1073,13 +1073,13 @@
       "weight": 75.0
     },
     {
-      "source": "NQO2",
-      "target": "ROS",
-      "weight": 72.0
-    },
-    {
       "source": "mTBI",
       "target": "Alzheimer",
+      "weight": 73.0
+    },
+    {
+      "source": "NQO2",
+      "target": "ROS",
       "weight": 72.0
     },
     {
@@ -1125,7 +1125,7 @@
     {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 59.0
+      "weight": 60.0
     },
     {
       "source": "S100B",
