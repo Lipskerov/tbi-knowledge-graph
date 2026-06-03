@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-02*
-*Total papers: 3044*
+*Generated: 2026-06-03*
+*Total papers: 3047*
 
 
 ## Cluster: aging_neuro
@@ -249,6 +249,13 @@
 **PMID:** 42211428  **DOI:** 10.1016/j.nbas.2026.100159
 **Entities:** Alzheimer  
 **Abstract:** •TMT is a viable biomarker for sarcopenia in dementia imaging.•Craniofacial muscle loss correlates with cognitive impairment.•Muscle fat infiltration links to brain atrophy in AD and DLB.•Sarcopenia a...
+
+### Irisin and the muscle-brain axis: Mechanisms and translational potential.
+**Authors:** Arosio B, Picca A  
+**Journal:** Experimental gerontology (2026)  
+**PMID:** 41518679  **DOI:** 10.1016/j.exger.2026.113028
+**Entities:** ROS, BDNF, neuroinflammation, oxidative stress, BBB  
+**Abstract:** The muscle-brain axis integrates peripheral metabolic activity with central nervous system function. Among the endocrine signaling molecules regulating such crosstalk, the peptide hormone irisin relea...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -11983,6 +11990,13 @@
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** BACKGROUND: Experts recommend administering a traumatic brain injury (TBI) symptom checklist as part of routine evaluation for TBI with Glasgow Coma Scale score 13-15 ("mild" TBI [mTBI]) in adult emer...
 
+### Effects of persistent post-concussion symptoms on neurocognitive, motor, and neurophysiological outcomes.
+**Authors:** Pauhl AN, Kells AM, MacNeill CLW, MacKenzie HM, Christie AD  
+**Journal:** Brain injury (2026)  
+**PMID:** 41518095  **DOI:** 10.1080/02699052.2026.2614067
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: To determine the effects of persistent post-concussion symptoms (PPCS) on neurocognitive, motor, and neurophysiological outcomes compared to healthy controls. Sex-related differences were a...
+
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
 **Journal:** Expert review of neurotherapeutics (2025)  
@@ -15072,6 +15086,13 @@
 **PMID:** 35289582  
 **Entities:** —  
 **Abstract:** 
+
+### Arterial spin labeling magnetic resonance evaluates changes of cerebral blood flow in patients with mild traumatic brain injury.
+**Authors:** Xiong F, Li T, Pan Y, Liu Y, Zhang J et al.  
+**Journal:** Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences (2022)  
+**PMID:** 36097769  **DOI:** 10.11817/j.issn.1672-7347.2022.210754
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVES: The patients with mild traumatic brain injury (mTBI) accounts for more than 80% of the patients with brain injury. Most patients with mTBI have no abnormalities in CT examination. Therefor...
 
 ### Assessing the efficacy of mild traumatic brain injury management.
 **Authors:** Weber MW, Nie JZ, Espinosa JA, Delfino KR, Michael AP  

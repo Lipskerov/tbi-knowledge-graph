@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-02T11:24:12.799761",
-  "n_papers": 3044,
+  "generated_at": "2026-06-03T12:01:10.198425",
+  "n_papers": 3047,
   "n_entities": 69,
   "n_edges": 455,
   "cluster_stats": {
-    "aging_neuro": 499,
+    "aging_neuro": 500,
     "exosomal_rna": 293,
     "gfap_uchl1": 309,
     "nfl_tau": 230,
     "nqo2": 371,
-    "ppcs_prognosis": 289,
-    "tbi_mild_blood": 341,
+    "ppcs_prognosis": 290,
+    "tbi_mild_blood": 342,
     "tbi_panel_poc": 229,
     "tbi_proteomics": 483
   },
@@ -19,14 +19,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1757,
+      "paper_count": 1758,
       "centrality": 0.6324
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1020,
+      "paper_count": 1022,
       "centrality": 0.5294
     },
     {
@@ -75,21 +75,21 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 257,
+      "paper_count": 258,
       "centrality": 0.4853
     },
     {
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 231,
+      "paper_count": 232,
       "centrality": 0.5735
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 214,
+      "paper_count": 215,
       "centrality": 0.5441
     },
     {
@@ -103,7 +103,7 @@
       "id": 40,
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 203,
+      "paper_count": 204,
       "centrality": 0.2647
     },
     {
@@ -117,7 +117,7 @@
       "id": 37,
       "name": "BBB",
       "type": "process",
-      "paper_count": 123,
+      "paper_count": 124,
       "centrality": 0.3529
     },
     {
@@ -222,7 +222,7 @@
       "id": 16,
       "name": "BDNF",
       "type": "protein",
-      "paper_count": 32,
+      "paper_count": 33,
       "centrality": 0.2794
     },
     {
@@ -503,8 +503,8 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 741.0,
-      "n_papers": 741.0
+      "weight": 742.0,
+      "n_papers": 742.0
     },
     {
       "source": "GFAP",
@@ -521,14 +521,14 @@
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 201.0,
-      "n_papers": 201.0
+      "weight": 202.0,
+      "n_papers": 202.0
     },
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 197.0,
-      "n_papers": 197.0
+      "weight": 198.0,
+      "n_papers": 198.0
     },
     {
       "source": "UCH-L1",
@@ -819,28 +819,28 @@
       "n_papers": 46.0
     },
     {
+      "source": "neuroinflammation",
+      "target": "oxidative stress",
+      "weight": 46.0,
+      "n_papers": 46.0
+    },
+    {
       "source": "TBI",
       "target": "CTE",
       "weight": 46.0,
       "n_papers": 46.0
     },
     {
+      "source": "ROS",
+      "target": "neuroinflammation",
+      "weight": 45.0,
+      "n_papers": 45.0
+    },
+    {
       "source": "GFAP",
       "target": "neuroinflammation",
       "weight": 45.0,
       "n_papers": 45.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "oxidative stress",
-      "weight": 45.0,
-      "n_papers": 45.0
-    },
-    {
-      "source": "ROS",
-      "target": "neuroinflammation",
-      "weight": 44.0,
-      "n_papers": 44.0
     },
     {
       "source": "p-tau",
@@ -867,6 +867,12 @@
       "n_papers": 40.0
     },
     {
+      "source": "neuroinflammation",
+      "target": "BBB",
+      "weight": 40.0,
+      "n_papers": 40.0
+    },
+    {
       "source": "CTE",
       "target": "Alzheimer",
       "weight": 40.0,
@@ -875,12 +881,6 @@
     {
       "source": "neuroinflammation",
       "target": "mTBI",
-      "weight": 39.0,
-      "n_papers": 39.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "BBB",
       "weight": 39.0,
       "n_papers": 39.0
     },
@@ -1185,6 +1185,12 @@
       "n_papers": 18.0
     },
     {
+      "source": "oxidative stress",
+      "target": "BBB",
+      "weight": 18.0,
+      "n_papers": 18.0
+    },
+    {
       "source": "BBB",
       "target": "aging",
       "weight": 18.0,
@@ -1234,12 +1240,6 @@
     },
     {
       "source": "oxidative stress",
-      "target": "BBB",
-      "weight": 17.0,
-      "n_papers": 17.0
-    },
-    {
-      "source": "oxidative stress",
       "target": "mTBI",
       "weight": 17.0,
       "n_papers": 17.0
@@ -1253,6 +1253,12 @@
     {
       "source": "NQO2",
       "target": "dopamine",
+      "weight": 16.0,
+      "n_papers": 16.0
+    },
+    {
+      "source": "ROS",
+      "target": "BBB",
       "weight": 16.0,
       "n_papers": 16.0
     },
@@ -1279,12 +1285,6 @@
       "target": "IL-1\u03b2",
       "weight": 16.0,
       "n_papers": 16.0
-    },
-    {
-      "source": "ROS",
-      "target": "BBB",
-      "weight": 15.0,
-      "n_papers": 15.0
     },
     {
       "source": "tau",
@@ -1804,6 +1804,12 @@
     },
     {
       "source": "BDNF",
+      "target": "neuroinflammation",
+      "weight": 7.0,
+      "n_papers": 7.0
+    },
+    {
+      "source": "BDNF",
       "target": "aging",
       "weight": 7.0,
       "n_papers": 7.0
@@ -1984,13 +1990,13 @@
     },
     {
       "source": "BDNF",
-      "target": "neuroinflammation",
+      "target": "Alzheimer",
       "weight": 6.0,
       "n_papers": 6.0
     },
     {
       "source": "BDNF",
-      "target": "Alzheimer",
+      "target": "oxidative stress",
       "weight": 6.0,
       "n_papers": 6.0
     },
@@ -2085,6 +2091,12 @@
       "n_papers": 5.0
     },
     {
+      "source": "ROS",
+      "target": "BDNF",
+      "weight": 5.0,
+      "n_papers": 5.0
+    },
+    {
       "source": "UCH-L1",
       "target": "Quanterix",
       "weight": 5.0,
@@ -2117,12 +2129,6 @@
     {
       "source": "BDNF",
       "target": "IL-6",
-      "weight": 5.0,
-      "n_papers": 5.0
-    },
-    {
-      "source": "BDNF",
-      "target": "oxidative stress",
       "weight": 5.0,
       "n_papers": 5.0
     },
@@ -2211,12 +2217,6 @@
       "n_papers": 4.0
     },
     {
-      "source": "ROS",
-      "target": "BDNF",
-      "weight": 4.0,
-      "n_papers": 4.0
-    },
-    {
       "source": "UCH-L1",
       "target": "BDNF",
       "weight": 4.0,
@@ -2273,6 +2273,12 @@
     {
       "source": "p-tau",
       "target": "MBP",
+      "weight": 4.0,
+      "n_papers": 4.0
+    },
+    {
+      "source": "BDNF",
+      "target": "BBB",
       "weight": 4.0,
       "n_papers": 4.0
     },
@@ -2513,12 +2519,6 @@
     {
       "source": "p-tau",
       "target": "PPCS",
-      "weight": 3.0,
-      "n_papers": 3.0
-    },
-    {
-      "source": "BDNF",
-      "target": "BBB",
       "weight": 3.0,
       "n_papers": 3.0
     },
