@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-03*
-*Total papers: 3047*
+*Generated: 2026-06-04*
+*Total papers: 3051*
 
 
 ## Cluster: aging_neuro
@@ -256,6 +256,13 @@
 **PMID:** 41518679  **DOI:** 10.1016/j.exger.2026.113028
 **Entities:** ROS, BDNF, neuroinflammation, oxidative stress, BBB  
 **Abstract:** The muscle-brain axis integrates peripheral metabolic activity with central nervous system function. Among the endocrine signaling molecules regulating such crosstalk, the peptide hormone irisin relea...
+
+### An MRI-based macro- and microstructural neuroimaging-wide association study of subsequent cognitive impairment.
+**Authors:** Duran T, Bilgel M, An Y, Kandala S, Davatzikos C et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2026)  
+**PMID:** 41630640  **DOI:** 10.1002/alz.71135
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: This study longitudinally examined 154 magnetic resonance imaging (MRI) biomarkers in cognitively normal (CN) individuals to identify structural brain changes most strongly associated wi...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -5680,6 +5687,27 @@
 **PMID:** 42213433  **DOI:** 10.1001/jamanetworkopen.2026.15678
 **Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** IMPORTANCE: Mild traumatic brain injury (mTBI) is common among older adults but challenging to diagnose due to symptoms that overlap with age-related changes. Blood biomarkers are proposed to compleme...
+
+### Defining significant acute traumatic intracranial injuries in adult patients with traumatic brain injury: a narrative review.
+**Authors:** Dubucs X, Bonneville F, Manet R, Juillaguet M, Houze-Cerfon CH et al.  
+**Journal:** Brain injury (2026)  
+**PMID:** 41636566  **DOI:** 10.1080/02699052.2026.2624613
+**Entities:** GFAP, UCH-L1, mTBI, TBI, aging  
+**Abstract:** PURPOSE OF RESEARCH: The objectives of this narrative review were (1) to identify in recent literature the definition of a significant acute traumatic intracranial injury in adults with traumatic brai...
+
+### Near-care assay of plasma glial fibrillary acid protein and ubiquitin carboxyl-terminal hydrolase isozyme L1 with shorter and prolonged duration exercise.
+**Authors:** Stacey MJ, Barden A, Snape D, Wainwright B, Parsons I et al.  
+**Journal:** Scientific reports (2026)  
+**PMID:** 41667605  **DOI:** 10.1038/s41598-026-38768-1
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** Neurobiomarkers measured in peripheral blood can supplement management strategies following traumatic brain injury (TBI). Dual-assay of glial fibrillary acid protein (GFAP) and ubiquitin carboxyl-term...
+
+### Neuroworsening from a normal Glasgow Coma Scale Motor Score in the emergency department is an early predictor of neurosurgical intervention, hospital outcomes, and longitudinal disability in traumatic brain injury: A TRACK-TBI Study.
+**Authors:** Yue JK, Fu AY, Elguindy MM, van Essen TA, Eagle SR et al.  
+**Journal:** Injury (2026)  
+**PMID:** 41672813  **DOI:** 10.1016/j.injury.2026.113089
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** OBJECTIVE: Neuroworsening portends poor outcomes after traumatic brain injury (TBI) and is protocolized in intensive care unit (ICU) settings. The utility of neuroworsening assessments in non-ICU sett...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  

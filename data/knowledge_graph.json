@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-03T12:01:10.198425",
-  "n_papers": 3047,
+  "generated_at": "2026-06-04T10:42:46.986712",
+  "n_papers": 3051,
   "n_entities": 69,
   "n_edges": 455,
   "cluster_stats": {
-    "aging_neuro": 500,
+    "aging_neuro": 501,
     "exosomal_rna": 293,
-    "gfap_uchl1": 309,
+    "gfap_uchl1": 312,
     "nfl_tau": 230,
     "nqo2": 371,
     "ppcs_prognosis": 290,
@@ -19,35 +19,35 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1758,
+      "paper_count": 1761,
       "centrality": 0.6324
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1022,
+      "paper_count": 1023,
       "centrality": 0.5294
     },
     {
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 498,
+      "paper_count": 499,
       "centrality": 0.5441
     },
     {
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 429,
+      "paper_count": 431,
       "centrality": 0.5147
     },
     {
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 419,
+      "paper_count": 422,
       "centrality": 0.4412
     },
     {
@@ -96,7 +96,7 @@
       "id": 10,
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 204,
+      "paper_count": 207,
       "centrality": 0.3971
     },
     {
@@ -503,20 +503,20 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 742.0,
-      "n_papers": 742.0
+      "weight": 743.0,
+      "n_papers": 743.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 351.0,
-      "n_papers": 351.0
+      "weight": 354.0,
+      "n_papers": 354.0
     },
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 230.0,
-      "n_papers": 230.0
+      "weight": 231.0,
+      "n_papers": 231.0
     },
     {
       "source": "mTBI",
@@ -533,8 +533,8 @@
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 185.0,
-      "n_papers": 185.0
+      "weight": 188.0,
+      "n_papers": 188.0
     },
     {
       "source": "tau",
@@ -545,14 +545,14 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 175.0,
-      "n_papers": 175.0
+      "weight": 178.0,
+      "n_papers": 178.0
     },
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 173.0,
-      "n_papers": 173.0
+      "weight": 174.0,
+      "n_papers": 174.0
     },
     {
       "source": "TBI",
@@ -635,8 +635,8 @@
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 97.0,
-      "n_papers": 97.0
+      "weight": 98.0,
+      "n_papers": 98.0
     },
     {
       "source": "BBB",
@@ -891,6 +891,12 @@
       "n_papers": 39.0
     },
     {
+      "source": "GFAP",
+      "target": "aging",
+      "weight": 37.0,
+      "n_papers": 37.0
+    },
+    {
       "source": "NfL",
       "target": "Simoa",
       "weight": 37.0,
@@ -903,20 +909,14 @@
       "n_papers": 37.0
     },
     {
-      "source": "GFAP",
+      "source": "TBI",
       "target": "aging",
-      "weight": 36.0,
-      "n_papers": 36.0
+      "weight": 37.0,
+      "n_papers": 37.0
     },
     {
       "source": "tau",
       "target": "A\u03b242",
-      "weight": 36.0,
-      "n_papers": 36.0
-    },
-    {
-      "source": "TBI",
-      "target": "aging",
       "weight": 36.0,
       "n_papers": 36.0
     },
@@ -1161,6 +1161,12 @@
       "n_papers": 19.0
     },
     {
+      "source": "mTBI",
+      "target": "aging",
+      "weight": 19.0,
+      "n_papers": 19.0
+    },
+    {
       "source": "S100B",
       "target": "MBP",
       "weight": 18.0,
@@ -1192,12 +1198,6 @@
     },
     {
       "source": "BBB",
-      "target": "aging",
-      "weight": 18.0,
-      "n_papers": 18.0
-    },
-    {
-      "source": "mTBI",
       "target": "aging",
       "weight": 18.0,
       "n_papers": 18.0
@@ -1761,6 +1761,12 @@
       "n_papers": 7.0
     },
     {
+      "source": "UCH-L1",
+      "target": "aging",
+      "weight": 7.0,
+      "n_papers": 7.0
+    },
+    {
       "source": "S100B",
       "target": "oxidative stress",
       "weight": 7.0,
@@ -1955,12 +1961,6 @@
     {
       "source": "UCH-L1",
       "target": "i-STAT TBI",
-      "weight": 6.0,
-      "n_papers": 6.0
-    },
-    {
-      "source": "UCH-L1",
-      "target": "aging",
       "weight": 6.0,
       "n_papers": 6.0
     },
