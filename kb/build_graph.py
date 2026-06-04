@@ -158,6 +158,43 @@ ENTITY_SEEDS = [
     ("QR2 inhibitor","drug",     ["QR2 inhibitor", "QR2i", "quinone reductase inhibitor"]),
     ("lecanemab",    "drug",     ["lecanemab", "Leqembi", "BAN2401"]),
     ("donanemab",    "drug",     ["donanemab", "Kisunla"]),
+
+    # ── QR2 / NQO2 inhibitor space (v2.0) ────────────────────────────────────
+    ("melatonin",    "drug",       ["melatonin", "N-acetyl-5-methoxytryptamine"]),
+    ("MT3",          "protein",    ["MT3", "melatonin binding site MT3", "ML2"]),
+    ("chloroquine",  "drug",       ["chloroquine", "hydroxychloroquine"]),
+    ("primaquine",   "drug",       ["primaquine"]),
+    ("quinacrine",   "drug",       ["quinacrine", "mepacrine"]),
+    ("casimiroin",   "drug",       ["casimiroin"]),
+    ("prazosin",     "drug",       ["prazosin"]),
+    ("imatinib",     "drug",       ["imatinib", "Gleevec"]),
+    ("FAD",          "metabolite", ["FAD", "flavin adenine dinucleotide"]),
+    # Referenced by PATHWAY_EDGES (Part B) — added so curated edges resolve
+    ("cAMP/PKA",     "pathway",    ["cAMP/PKA", "cAMP-PKA", "cyclic AMP/PKA", "PKA signaling"]),
+    ("GOS-E",        "disease",    ["GOS-E", "GOSE", "Glasgow Outcome Scale Extended",
+                                    "Glasgow Outcome Scale-Extended"]),
+]
+
+
+# ── Curated directed mechanism edges (Part B, v2.0) ─────────────────────────────
+# (source_name, target_name, relation, directed)
+PATHWAY_EDGES = [
+    ("dopamine",   "DRD1",     "activates",       True),
+    ("DRD1",       "cAMP/PKA", "signals_via",     True),
+    ("cAMP/PKA",   "miR-182",  "upregulates",     True),
+    ("miR-182",    "NQO2",     "suppresses",      True),
+    ("NQO2",       "ROS",      "generates",       True),
+    ("ROS",        "Kv2.1",    "oxidizes",        True),
+    ("ROS",        "Nrf2",     "activates",       True),
+    ("NQO2",       "NRH",      "uses_substrate",  True),
+    ("S29434",     "NQO2",     "inhibits",        True),
+    ("melatonin",  "NQO2",     "binds",           True),
+    ("quercetin",  "NQO2",     "inhibits",        True),
+    ("resveratrol","NQO2",     "inhibits",        True),
+    ("chloroquine","NQO2",     "binds",           True),
+    ("casimiroin", "NQO2",     "inhibits",        True),
+    ("GFAP",       "PPCS",     "predicts",        True),
+    ("NfL",        "GOS-E",    "correlates_with", True),
 ]
 
 
@@ -280,10 +317,50 @@ def build_entity_relations(conn: sqlite3.Connection):
     for (src, tgt), pmids in cooccur.items():
         conn.execute("""
             INSERT OR REPLACE INTO entity_relations
-                (source_id, target_id, relation, evidence_pmids, weight)
-            VALUES (?, ?, 'co-occurs', ?, ?)
+                (source_id, target_id, relation, evidence_pmids, weight, edge_kind, directed)
+            VALUES (?, ?, 'co-occurs', ?, ?, 'cooccur', 0)
         """, (src, tgt, json.dumps(pmids[:20]), len(pmids)))
+
+    add_pathway_edges(conn)
     conn.commit()
+
+
+def _resolve_entity_id(conn: sqlite3.Connection, name: str):
+    """Resolve a PATHWAY_EDGES endpoint name to an entity id (by name, then alias)."""
+    row = conn.execute(
+        "SELECT id FROM entities WHERE name = ? COLLATE NOCASE", (name,)
+    ).fetchone()
+    if row:
+        return row["id"]
+    for e in conn.execute("SELECT id, aliases FROM entities").fetchall():
+        aliases = json.loads(e["aliases"] or "[]")
+        if any(name.lower() == a.lower() for a in aliases):
+            return e["id"]
+    return None
+
+
+def add_pathway_edges(conn: sqlite3.Connection):
+    """Insert curated, directed mechanism edges (Part B). Coexist with cooccur edges."""
+    inserted = 0
+    for src_name, tgt_name, relation, directed in PATHWAY_EDGES:
+        src = _resolve_entity_id(conn, src_name)
+        tgt = _resolve_entity_id(conn, tgt_name)
+        if src is None or tgt is None:
+            print(f"  ! curated edge skipped (missing entity): {src_name} -> {tgt_name}")
+            continue
+        # Evidence = papers where both endpoints are mentioned (co-mentions)
+        pmids = [r[0] for r in conn.execute("""
+            SELECT a.pmid FROM paper_entity a
+            JOIN paper_entity b ON a.pmid = b.pmid
+            WHERE a.entity_id = ? AND b.entity_id = ?
+        """, (src, tgt)).fetchall()]
+        conn.execute("""
+            INSERT OR REPLACE INTO entity_relations
+                (source_id, target_id, relation, evidence_pmids, weight, edge_kind, directed)
+            VALUES (?, ?, ?, ?, ?, 'curated', ?)
+        """, (src, tgt, relation, json.dumps(pmids[:20]), max(len(pmids), 1), 1 if directed else 0))
+        inserted += 1
+    print(f"  Added {inserted} curated directed mechanism edges")
 
 
 def export_graph_json(conn: sqlite3.Connection, out_path: str):
@@ -324,13 +401,26 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
             "centrality":   round(centrality.get(node_id, 0), 4),
         })
 
+    # Edges straight from the DB so typed/directed curated edges survive
+    # (an undirected nx.Graph would collapse parallel relations).
     edges = []
-    for u, v, data in G.edges(data=True):
+    for row in conn.execute("""
+        SELECT source_id, target_id, relation, weight, edge_kind, directed
+        FROM entity_relations
+        WHERE weight >= 2 OR edge_kind = 'curated'
+    """):
+        src_name = entity_map.get(row["source_id"], {}).get("name")
+        tgt_name = entity_map.get(row["target_id"], {}).get("name")
+        if not src_name or not tgt_name:
+            continue
         edges.append({
-            "source":   entity_map.get(u, {}).get("name"),
-            "target":   entity_map.get(v, {}).get("name"),
-            "weight":   data.get("weight", 1),
-            "n_papers": data.get("weight", 1),
+            "source":    src_name,
+            "target":    tgt_name,
+            "relation":  row["relation"],
+            "edge_kind": row["edge_kind"],
+            "directed":  bool(row["directed"]),
+            "weight":    row["weight"],
+            "n_papers":  row["weight"],
         })
 
     # Per-cluster stats
@@ -346,7 +436,8 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
         "n_edges":       len(edges),
         "cluster_stats": cluster_stats,
         "nodes":         sorted(nodes, key=lambda x: -x["paper_count"]),
-        "edges":         sorted(edges, key=lambda x: -x["weight"])[:500],
+        # curated mechanism edges first so they always survive the 500-edge cap
+        "edges":         sorted(edges, key=lambda x: (x["edge_kind"] != "curated", -x["weight"]))[:500],
     }
 
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)

@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+requests>=2.31
+networkx>=3.0
+pyvis==0.3.2
