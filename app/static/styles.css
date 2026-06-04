@@ -23,7 +23,9 @@ html, body {
   border-bottom: 1px solid var(--line);
 }
 .brand { font-weight: 700; font-size: 16px; white-space: nowrap; }
+.brand a { text-decoration: none; }
 .brand span { color: var(--accent); font-weight: 600; }
+.brand a:hover span { text-decoration: underline; }
 .search { display: flex; gap: 8px; flex: 1; }
 .search input {
   flex: 1; padding: 7px 11px; border-radius: 6px;

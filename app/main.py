@@ -21,7 +21,7 @@ STATIC_DIR = Path(__file__).resolve().parent / "static"
 LIB_DIR    = ROOT / "lib"
 LOGIN_HTML = STATIC_DIR / "login.html"
 
-app = FastAPI(title="TBI Knowledge Graph", version="2.0")
+app = FastAPI(title="TBI Knowledge Graph", version="2.2")
 
 # ── Authentication ───────────────────────────────────────────────────────────
 # Paths reachable without a session (the login flow + health check). Everything
