@@ -18,6 +18,36 @@ Built to support a research project on TBI diagnostics at the [Rosenblum Lab](ht
 
 ---
 
+## v2.0 — Containerized web app
+
+v2.0 adds a FastAPI + SQLite-FTS5 web app on top of the same database. See
+[`docs/V2_BUILD_SPEC.md`](docs/V2_BUILD_SPEC.md) for the full spec.
+
+```bash
+# 1. Rebuild the DB additively (junction table, FTS index, typed edges) — no network
+python build_kb.py --skip-fetch
+
+# 2. (optional) fetch new QR2/NQO2 clusters from PubMed and/or bioRxiv
+python build_kb.py --cluster qr2_inhibitors --api-key <NCBI_KEY>   # PubMed
+python build_kb.py --source biorxiv                                # bioRxiv (Europe PMC + api.biorxiv.org)
+
+# 3. Build & run the app
+docker compose up --build      # → http://localhost:8000
+```
+
+**What's new**
+- **Click a node → its papers** with DOI / PubMed / bioRxiv links (`/api/node/{id}/papers`).
+- **Full-text search** over all abstracts via SQLite FTS5 (`/api/search`).
+- **Typed, directed mechanism edges** (e.g. `S29434 —inhibits→ NQO2`) alongside co-occurrence edges.
+- **Multi-cluster faceting** via a `paper_clusters` junction table (a paper can be in many clusters).
+- **bioRxiv preprints** ingested into the same graph (tagged `source='biorxiv'`).
+- Endpoints: `/api/stats`, `/api/graph`, `/api/node/{id}/papers`, `/api/entity/{id}`, `/api/search`.
+
+The v1.0 CLI (`kb/query_kb.py`), the static `visualize_graph.py` export, and the daily-sync
+GitHub Action are unchanged — v2.0 is purely additive.
+
+---
+
 ## Quick start
 
 ```bash

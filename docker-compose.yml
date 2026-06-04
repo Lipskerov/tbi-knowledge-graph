@@ -1,0 +1,10 @@
+services:
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data        # live read-only DB; keeps the image small
+    environment:
+      - TBI_DB=/app/data/tbi_papers.db
+    restart: unless-stopped
