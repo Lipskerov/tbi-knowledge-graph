@@ -324,6 +324,7 @@ def build_entity_relations(conn: sqlite3.Connection):
 
     add_pathway_edges(conn)
     add_chembl_edges(conn)
+    add_omnipath_edges(conn)
     conn.commit()
 
 
@@ -391,6 +392,47 @@ def add_chembl_edges(conn: sqlite3.Connection):
               max(r["n_acts"] or 1, 1), annotation))
         inserted += 1
     print(f"  Added {inserted} ChEMBL inhibitor edges (compound → NQO2, with potency)")
+
+
+def add_omnipath_edges(conn: sqlite3.Connection):
+    """Emit curated signed/directed protein interactions among entities from the
+    `omnipath_interactions` table (SIGNOR/Reactome/etc. via OmniPath). Regenerated
+    every build. A hand-curated or ChEMBL edge for the same ordered pair takes
+    precedence, so the project's core mechanism is never overwritten by an
+    aggregator. No-op if the table is absent."""
+    has_table = conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='omnipath_interactions'"
+    ).fetchone()
+    if not has_table:
+        return
+    inserted = skipped = 0
+    for r in conn.execute("""
+        SELECT source_entity_id, target_entity_id, relation, directed,
+               sources, references_pmids, curation_effort
+        FROM omnipath_interactions
+    """):
+        src, tgt = r["source_entity_id"], r["target_entity_id"]
+        # never override the curated / ChEMBL core for the same ordered pair
+        clash = conn.execute(
+            "SELECT 1 FROM entity_relations WHERE source_id=? AND target_id=? "
+            "AND edge_kind IN ('curated','chembl') LIMIT 1", (src, tgt)).fetchone()
+        if clash:
+            skipped += 1
+            continue
+        pmids = json.loads(r["references_pmids"] or "[]")
+        dbs = [d for d in (r["sources"] or "").split(";") if d]
+        annotation = f"{', '.join(dbs[:4])} · {len(pmids)} refs (OmniPath)"
+        weight = max(r["curation_effort"] or 0, len(pmids), 1)
+        conn.execute("""
+            INSERT OR REPLACE INTO entity_relations
+                (source_id, target_id, relation, evidence_pmids, weight,
+                 edge_kind, directed, annotation)
+            VALUES (?, ?, ?, ?, ?, 'omnipath', ?, ?)
+        """, (src, tgt, r["relation"], json.dumps(pmids[:20]), weight,
+              r["directed"], annotation))
+        inserted += 1
+    print(f"  Added {inserted} OmniPath signed/directed edges "
+          f"({skipped} skipped — curated/ChEMBL takes precedence)")
 
 
 def _resolve_entity_id(conn: sqlite3.Connection, name: str):
@@ -475,7 +517,7 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
     for row in conn.execute("""
         SELECT source_id, target_id, relation, weight, edge_kind, directed, annotation
         FROM entity_relations
-        WHERE weight >= 2 OR edge_kind IN ('curated', 'chembl')
+        WHERE weight >= 2 OR edge_kind IN ('curated', 'chembl', 'omnipath')
     """):
         src_name = entity_map.get(row["source_id"], {}).get("name")
         tgt_name = entity_map.get(row["target_id"], {}).get("name")
@@ -505,8 +547,8 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
         "n_edges":       len(edges),
         "cluster_stats": cluster_stats,
         "nodes":         sorted(nodes, key=lambda x: -x["paper_count"]),
-        # curated + ChEMBL mechanism edges first so they always survive the 500-edge cap
-        "edges":         sorted(edges, key=lambda x: (x["edge_kind"] not in ("curated", "chembl"), -x["weight"]))[:500],
+        # curated + ChEMBL + OmniPath mechanism edges first so they survive the 500-edge cap
+        "edges":         sorted(edges, key=lambda x: (x["edge_kind"] not in ("curated", "chembl", "omnipath"), -x["weight"]))[:500],
     }
 
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)

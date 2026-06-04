@@ -11,6 +11,30 @@ Dates are ISO-8601 (`YYYY-MM-DD`). Paper counts reflect the database at each rel
 
 ## [Unreleased]
 
+### Added — OmniPath signed/directed interactions (data enrichment, v2.2)
+- New `kb/fetch_omnipath.py`: pulls **curated, signed, directed** protein–protein
+  interactions (who *activates* / *inhibits* whom) among the graph's entities from
+  **OmniPath** (which aggregates SIGNOR, Reactome, SignaLink, SPIKE, … ~100 sources).
+- Adds **40 directed mechanism edges** (`edge_kind='omnipath'`, 28 signed
+  activates/inhibits) across the well-studied arms *around* NQO2 — the ISR/eIF2α axis
+  (`PERK/PKR/GCN2 → eIF2α → ATF4 → CHOP`), the Nrf2 antioxidant arm (`Nrf2 → NQO1/HO-1`),
+  neuroinflammation cytokines, and plasticity (`CaMKII → AMPA/MAPT`). Each edge carries
+  its **source databases + PubMed references** (annotation, hover/detail panel).
+- **Decision was grounded by a coverage probe (recorded for honesty):** NQO2 *itself*
+  has only **2** interactions in all of OmniPath, and **none** of the novel
+  dopamine→DRD1→miR-182→NQO2→ROS→Kv2.1 pathway. So OmniPath deliberately enriches the
+  **context**, not the core — the novel NQO2 mechanism stays in the hand-curated
+  `PATHWAY_EDGES` (the project's unique contribution no public DB holds).
+- **Provenance hierarchy enforced:** an OmniPath edge never overrides a curated or
+  ChEMBL edge for the same ordered pair (`add_omnipath_edges` guard).
+- **Entity normalization:** mapped 35 entities → HGNC gene symbols (34 had ≥1
+  interaction), stamped as aliases — groundwork for future ID-based sources.
+- New `omnipath_interactions` table is the source of truth (edges regenerated each
+  build by `build_graph.py::add_omnipath_edges`). App: `/api/stats.omnipath_edges`,
+  shown as finely-dashed **blue** signed edges; `/api/entity` mechanism panels list them
+  with sources. Run `python build_kb.py --omnipath`.
+- Result: edges now **13 curated · 40 ChEMBL · 40 OmniPath** · 799 co-occurrence.
+
 ### Added — ChEMBL inhibitor bioactivity (data enrichment, v2.1)
 - New `kb/fetch_chembl.py`: pulls **quantitative NQO2/QR2 bioactivity** from ChEMBL
   (target `CHEMBL3959`, UniProt P16083) — 463 pChEMBL-scored activities across 378

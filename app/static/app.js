@@ -67,6 +67,7 @@ async function loadStats() {
     `<b>${s.papers.toLocaleString()}</b> papers · <b>${s.entities}</b> entities<br>` +
     `<b>${s.edges}</b> edges (<b>${s.curated_edges}</b> curated` +
     (s.chembl_edges ? ` · <b>${s.chembl_edges}</b> ChEMBL` : ``) +
+    (s.omnipath_edges ? ` · <b>${s.omnipath_edges}</b> OmniPath` : ``) +
     `) · <b>${s.clusters}</b> clusters<br>` +
     `sources: ` + Object.entries(s.by_source).map(([k, v]) => `${k} ${v}`).join(" · ");
 
@@ -136,21 +137,26 @@ function renderGraph(g) {
     font: { color: "#e6edf3" },
   }));
 
+  // edge styling by provenance: solid orange = curated, dashed green = ChEMBL,
+  // finely-dashed blue = OmniPath, faint grey = co-occurrence.
+  const EDGE_STYLE = {
+    curated:  { color: "#ff7043", hi: "#ffab91", dashes: false },
+    chembl:   { color: "#4dd0a0", hi: "#8ee7c4", dashes: [5, 3] },
+    omnipath: { color: "#7e9cff", hi: "#aebfff", dashes: [2, 2] },
+  };
   const edges = g.edges.map((e) => {
-    const chembl = e.edge_kind === "chembl";
-    const mech = e.edge_kind === "curated" || chembl;   // typed/directed mechanism
-    const color = chembl ? "#4dd0a0" : (e.edge_kind === "curated" ? "#ff7043" : "rgba(120,140,160,0.35)");
-    const hi    = chembl ? "#8ee7c4" : (e.edge_kind === "curated" ? "#ffab91" : "#8aa");
+    const st = EDGE_STYLE[e.edge_kind];
+    const mech = !!st;   // curated / chembl / omnipath = typed directed mechanism
     return {
       from: e.source,
       to: e.target,
       label: mech ? e.relation : undefined,
-      title: chembl && e.annotation ? e.annotation : undefined,   // hover → potency
+      title: e.annotation || undefined,   // hover → potency / source DBs
       arrows: e.directed ? "to" : undefined,
       width: mech ? 2.5 : Math.min(0.5 + Math.log2((e.weight || 1) + 1), 5),
-      color: { color, highlight: hi },
-      dashes: chembl ? [5, 3] : false,
-      font: mech ? { color: hi, size: 11, strokeWidth: 0, align: "middle" } : undefined,
+      color: { color: mech ? st.color : "rgba(120,140,160,0.35)", highlight: mech ? st.hi : "#8aa" },
+      dashes: mech ? st.dashes : false,
+      font: mech ? { color: st.hi, size: 11, strokeWidth: 0, align: "middle" } : undefined,
       smooth: { type: "continuous" },
     };
   });
@@ -218,7 +224,7 @@ function renderEntity(ent) {
     </div>`;
 
   if ((ent.mechanism_out || []).length || (ent.mechanism_in || []).length) {
-    html += `<div class="mech"><h4>Mechanism links (curated + ChEMBL)</h4>
+    html += `<div class="mech"><h4>Mechanism links (curated · ChEMBL · OmniPath)</h4>
       ${mech(ent.mechanism_out || [], "out")}${mech(ent.mechanism_in || [], "in")}</div>`;
   }
   if ((ent.top_related || []).length) {

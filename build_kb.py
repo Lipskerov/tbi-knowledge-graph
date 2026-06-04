@@ -121,6 +121,8 @@ def main():
                         help="Where to fetch from (v2.0): pubmed (default), biorxiv, or both")
     parser.add_argument("--chembl",     action="store_true",
                         help="Also fetch NQO2 inhibitor bioactivity from ChEMBL (v2.1)")
+    parser.add_argument("--omnipath",   action="store_true",
+                        help="Also fetch signed/directed protein interactions from OmniPath (v2.2)")
     args = parser.parse_args()
 
     db_path   = ROOT / "data" / "tbi_papers.db"
@@ -191,6 +193,12 @@ def main():
         print("\n[3b] Fetching NQO2 inhibitor bioactivity from ChEMBL...")
         from kb.fetch_chembl import run as fetch_chembl_run
         fetch_chembl_run(str(db_path))
+
+    # ── Step 3c: OmniPath signed/directed interactions (v2.2, optional) ───────
+    if args.omnipath:
+        print("\n[3c] Fetching signed/directed interactions from OmniPath...")
+        from kb.fetch_omnipath import run as fetch_omnipath_run
+        fetch_omnipath_run(str(db_path))
 
     # ── Step 4: Build graph ───────────────────────────────────────────────────
     print("\n[4/5] Building knowledge graph...")

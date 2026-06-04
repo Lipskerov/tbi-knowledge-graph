@@ -72,6 +72,8 @@ main { display: flex; height: calc(100vh - 57px); }
 .swatch.curated { background: var(--curated); height: 4px; }
 .swatch.chembl  { background: #4dd0a0; height: 4px;
   background-image: linear-gradient(90deg, #4dd0a0 60%, transparent 60%); background-size: 8px 100%; }
+.swatch.omnipath { background: #7e9cff; height: 4px;
+  background-image: linear-gradient(90deg, #7e9cff 50%, transparent 50%); background-size: 4px 100%; }
 .swatch.cooccur { background: #5a6b7d; }
 
 /* detail panel */

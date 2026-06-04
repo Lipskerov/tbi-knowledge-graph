@@ -317,7 +317,7 @@
 **Authors:** Liu PP, Liu XH, Ren MJ, Liu XT, Shi XQ et al.  
 **Journal:** Aging cell (2025)  
 **PMID:** 39453382  **DOI:** 10.1111/acel.14393
-**Entities:** neuroinflammation, Alzheimer, aging  
+**Entities:** Aβ42, neuroinflammation, Alzheimer, aging  
 **Abstract:** Aging is an intricate process involving interactions among multiple factors, which is one of the main risks for chronic diseases, including Alzheimer's disease (AD). As a member of cysteine protease, ...
 
 ### A deep-learning retinal aging biomarker for cognitive decline and incident dementia.
@@ -856,7 +856,7 @@
 **Authors:** Bartman, S.; Hunter, D.; Gaspar, L.; Tobias-Wallingford, H.; Zamor, D.; Sinclair, D. A.; Coppotelli, G.; Ross, J. M.  
 **Journal:** bioRxiv (2025)  
 **PMID:** biorxiv:10.1101/2025.10.21.683739  **DOI:** 10.1101/2025.10.21.683739
-**Entities:** neuroinflammation, Alzheimer, aging  
+**Entities:** Aβ42, neuroinflammation, Alzheimer, aging  
 **Abstract:** The dramatic increase in human longevity over recent decades has contributed to a rising prevalence of age-related diseases, including neurodegenerative disorders such as Alzheimers disease (AD). Whil...
 
 ### Preserved synaptic architecture but impaired ketamine-induced synaptic plasticity of layer 5 pyramidal neurons in the aged frontal cortex
@@ -975,7 +975,7 @@
 **Authors:** Duncan, M. J.; Hawkins, M. R.; Bytyqi, L.; Whitlock, H. R.; Shepard, S.; Cox, M. F.; Drinkard, E. G.; Macheda, T.; Roberts, K. N.; Kohler, K.; Schmidt, M.-C. M.; Johnson, C. E.; Sunderam, S.; O'Hara, B. F.; Murphy, M. P.; Bachstetter, A. D.  
 **Journal:** bioRxiv (2025)  
 **PMID:** biorxiv:10.1101/2025.10.02.680043  **DOI:** 10.1101/2025.10.02.680043
-**Entities:** neuroinflammation, Alzheimer, aging  
+**Entities:** Aβ42, neuroinflammation, Alzheimer, aging  
 **Abstract:** Artificial light at night (light pollution) is widespread but understudied in the context of Alzheimers disease (AD). Sleep and circadian disruption have been linked to amyloid-{beta} (A{beta}) accumu...
 
 ### Cognitive Resilience in Aging Degus is Linked to CA3 Hippocampal GABAergic Integrity
@@ -1010,7 +1010,7 @@
 **Authors:** de Bakker, D. E. M.; Mihaljevic, M.; Gharat, K.; Richter, J.; Bagnoli, S.; van Bebber, F.; Adam, L.; Shamim-Schulze, F.; Ohlenschlaeger, O.; Bens, M.; Cirri, E.; Antebi, A.; Matic, I.; Schneider, A.; Schmid, B.; Cellerino, A.; Kirstein, J.; Valenzano, D. R.  
 **Journal:** bioRxiv (2025)  
 **PMID:** biorxiv:10.1101/2024.10.11.617841  **DOI:** 10.1101/2024.10.11.617841
-**Entities:** aging  
+**Entities:** Aβ42, aging  
 **Abstract:** Brain aging is a key risk factor for many neurodegenerative diseases, yet its molecular and cellular mechanisms remain elusive. Amyloid-beta precursor protein (APP) is among the most studied proteins ...
 
 ### Paracrine Bone-Derived Senescent Secretome Induces Spatially Patterned ECM and Biomechanical Vulnerability in Human Brain Organoids
@@ -1626,7 +1626,7 @@
 **Authors:** Daniels AJ, McDade E, Llibre-Guerra JJ, Xiong C, Perrin RJ, Ibanez L, Supnet-Bell C, Cruchaga C, Goate A, Renton AE, Benzinger TL, Gordon BA, Hassenstab J, Karch C, Popp B, Levey A, Morris J, Buckles V, Allegri RF, Chrem P, Berman SB, Chhatwal JP, Farlow MR, Fox NC, Day GS, Ikeuchi T, Jucker M, Lee J, Levin J, Lopera F, Takada L, Sosa AL, Martins R, Mori H, Noble JM, Salloway S, Huey E, Rosa-Neto P, Sánchez-Valle R, Schofield PR, Roh JH, Bateman RJ, the Dominantly Inherited Alzheimer Network.  
 **Journal:** bioRxiv (2024)  
 **PMID:** biorxiv:10.1101/2024.08.08.24311689  **DOI:** 10.1101/2024.08.08.24311689
-**Entities:** tau, Alzheimer, aging  
+**Entities:** tau, Aβ42, Alzheimer, aging  
 **Abstract:** This manuscript describes and summarizes the Dominantly Inherited Alzheimer Network Observational Study (DIAN Obs), highlighting the wealth of longitudinal data, samples, and results from this human c...
 
 ### A disease similarity approach identifies short-lived Niemann-Pick type C disease mice with accelerated brain aging as a novel mouse model for Alzheimer's disease and aging research
@@ -1689,7 +1689,7 @@
 **Authors:** Blackmer-Raynolds, L.; Lipson, L. D.; Fraccaroli, I.; Krout, I. N.; Chan, J.; Sampson, T. R.  
 **Journal:** bioRxiv (2024)  
 **PMID:** biorxiv:10.1101/2024.05.24.595745  **DOI:** 10.1101/2024.05.24.595745
-**Entities:** neuroinflammation, aging  
+**Entities:** Aβ42, neuroinflammation, aging  
 **Abstract:** APP knock-in (KI) mice serve as an exciting new model system to understand amyloid beta (A{beta}) pathology, overcoming many of the limitations of previous overexpression-based model systems. The APPS...
 
 ### Metabolic connectivity has greater predictive utility for age and cognition than functional connectivity.
@@ -2277,7 +2277,7 @@
 **Authors:** Nithianandam, V.; Bukhari, H.; Leventhal, M. J.; Battaglia, R. A.; Dong, X.; Fraenkel, E.; Feany, M. B.  
 **Journal:** bioRxiv (2023)  
 **PMID:** biorxiv:10.1101/2023.10.06.560646  **DOI:** 10.1101/2023.10.06.560646
-**Entities:** Alzheimer, aging  
+**Entities:** Aβ42, Alzheimer, aging  
 **Abstract:** A{beta} peptides derived from the amyloid precursor protein (APP) have been strongly implicated in the pathogenesis of Alzheimers disease. However, the normal function of APP and the importance of tha...
 
 ### Endothelial cell derived microvesicles modulate cerebrovascular and brain aging via miR-17-5p and serve as potential biomarkers for vascular aging
@@ -2858,7 +2858,7 @@
 **Authors:** Janeiro, M. H.; Puerta, E.; Lanz, M.; Milagro, F. I.; Ramirez, M. J.; Solas, M.  
 **Journal:** bioRxiv (2021)  
 **PMID:** biorxiv:10.1101/2021.11.17.469001  **DOI:** 10.1101/2021.11.17.469001
-**Entities:** TNF-α, neuroinflammation, BBB, Alzheimer, aging  
+**Entities:** IL-6, TNF-α, neuroinflammation, BBB, Alzheimer  
 **Abstract:** It has been established that ageing is the major risk factor for cognitive deficiency or neurodegenerative diseases such as Alzheimers disease (AD) and it is becoming increasingly evident that insulin...
 
 ### Association between plasma phospho-tau181 and cognitive change from age 73 to 82: Lothian Birth Cohort 1936
@@ -2928,7 +2928,7 @@
 **Authors:** Milà-Alomà M, Salvadó G, Gispert JD, Vilor-Tejedor N, Grau-Rivera O et al.  
 **Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2020)  
 **PMID:** 32573951  **DOI:** 10.1002/alz.12131
-**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Entities:** GFAP, NfL, tau, p-tau, IL-6  
 **Abstract:** INTRODUCTION: The biological pathways involved in the preclinical stage of the Alzheimer's continuum are not well understood. METHODS: We used NeuroToolKit and Elecsys® immunoassays to measure cerebro...
 
 ### Mfn2 Ablation in the Adult Mouse Hippocampus and Cortex Causes Neuronal Death.
@@ -3026,7 +3026,7 @@
 **Authors:** Puigoriol-Illamola, D.; Companys-Alemany, J.; McGuire, K.; Homer, N.; Leiva, R.; Vazquez, S.; Mole, D. J.; Grinan-Ferre, C.; Pallas, M.  
 **Journal:** bioRxiv (2020)  
 **PMID:** biorxiv:10.1101/2020.10.27.356881  **DOI:** 10.1101/2020.10.27.356881
-**Entities:** ROS, GFAP, Alzheimer, aging  
+**Entities:** ROS, GFAP, Aβ42, Alzheimer, aging  
 **Abstract:** 1.Taking into consideration the convergence of ageing, stress and neurodegenerative diseases, such as AD, there is impaired GC signalling. Therefore, the study of GC-mediated stress response to chroni...
 
 ### Exifone is a Potent HDAC1 Activator with Neuroprotective Activity in Human Neuronal Models of Neurodegeneration
@@ -3117,7 +3117,7 @@
 **Authors:** Logan S, Royce GH, Owen D, Farley J, Ranjo-Bishop M et al.  
 **Journal:** GeroScience (2019)  
 **PMID:** 31641924  **DOI:** 10.1007/s11357-019-00105-y
-**Entities:** ROS, IL-1β, neuroinflammation, oxidative stress, SOD  
+**Entities:** ROS, IL-6, IL-1β, neuroinflammation, oxidative stress  
 **Abstract:** Mice deficient in the antioxidant enzyme Cu/Zn-superoxide dismutase (Sod1KO mice) have a significant reduction in lifespan, exhibit many phenotypes of accelerated aging, and have high levels of oxidat...
 
 ### Nutrient biomarker patterns, cognitive function, and fMRI measures of network efficiency in the aging brain.
@@ -3222,7 +3222,7 @@
 **Authors:** Midani-Kurçak JS, Dinekov M, Puladi B, Arzberger T, Köhler C  
 **Journal:** Brain research (2019)  
 **PMID:** 30414727  **DOI:** 10.1016/j.brainres.2018.11.008
-**Entities:** tau, p-tau, Alzheimer, aging  
+**Entities:** tau, p-tau, Aβ42, Alzheimer, aging  
 **Abstract:** Charged multivesicular body protein 2b (CHMP2B) is a subunit of the endosomal sorting complex required for transport (ESCRT)-III that mediates scission of budded membranes. Neurons with CHMP2B-positiv...
 
 ### Caloric restriction and redox homeostasis in various regions of aging male rat brain: Is caloric restriction still worth trying even after early-adulthood?: Redox homeostasis and caloric restriction in brain.
@@ -3285,7 +3285,7 @@
 **Authors:** Cardoso AL, Fernandes A, Aguilar-Pimentel JA, de Angelis MH, Guedes JR et al.  
 **Journal:** Ageing research reviews (2018)  
 **PMID:** 30071357  **DOI:** 10.1016/j.arr.2018.07.004
-**Entities:** S100B, BDNF, IL-6, aging  
+**Entities:** S100B, BDNF, IL-6, Aβ42, aging  
 **Abstract:** OBJECTIVE: Use of the frailty index to measure an accumulation of deficits has been proven a valuable method for identifying elderly people at risk for increased vulnerability, disease, injury, and mo...
 
 ### Role of D-galactose-induced brain aging and its potential used for therapeutic interventions.
@@ -3950,7 +3950,7 @@
 **Authors:** Swerdlow RH, Burns JM, Khan SM  
 **Journal:** Biochimica et biophysica acta (2014)  
 **PMID:** 24071439  **DOI:** 10.1016/j.bbadis.2013.09.010
-**Entities:** Alzheimer, aging  
+**Entities:** Aβ42, Alzheimer, aging  
 **Abstract:** Ten years ago we first proposed the Alzheimer's disease (AD) mitochondrial cascade hypothesis. This hypothesis maintains that gene inheritance defines an individual's baseline mitochondrial function; ...
 
 ### Unraveling the complexity of neurodegeneration in brains of subjects with Down syndrome: insights from proteomics.
@@ -4685,7 +4685,7 @@
 **Authors:** Poon HF, Joshi G, Sultana R, Farr SA, Banks WA et al.  
 **Journal:** Brain research (2004)  
 **PMID:** 15262209  
-**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Entities:** ROS, Aβ42, oxidative stress, Alzheimer, aging  
 **Abstract:** Amyloid beta-peptide (Abeta) is known to induce free radical-mediated oxidative stress in the brain. Free radical-mediated damage to the neuronal membrane components has been implicated in the etiolog...
 
 ### Neuroactive steroids: new biomarkers of cognitive aging.
@@ -5283,7 +5283,7 @@
 **Authors:** Cyr B, Cabrera Ranaldi EDLRM, Hadad R, Dietrich WD, Keane RW et al.  
 **Journal:** Frontiers in molecular neuroscience (2024)  
 **PMID:** 38660388  **DOI:** 10.3389/fnmol.2024.1369781
-**Entities:** TNF-α, IL-1β, TBI, Alzheimer  
+**Entities:** TNF-α, IL-1β, Aβ42, TBI, Alzheimer  
 **Abstract:** INTRODUCTION: Alzheimer's disease (AD) is an inflammatory neurodegenerative disease characterized by memory loss and cognitive impairment that worsens over time. AD is associated with many comorbiditi...
 
 ### Exploring New and Promising Genetic Biomarkers for Evaluating Traumatic Brain Injuries: A Case-Control Study.
@@ -7505,7 +7505,7 @@
 **Authors:** Fairbrother-Browne, A.; Grant-Peters, M.; Brenton, J. W.; Nelvagal, H.; Reynolds, R. H.; Lim, Y. M.; Gustavsson, E. K.; Macpherson, H.; Montgomery, K.; Evans, J. R.; Hicks, A. R.; Chiraki, N.; Curless, T.; Real, R.; Xenakis, T.; Houlden, H.; Morris, H. R.; Gandhi, S.; Wood, N. W.; Hardy, J.; Jaunmuktane, Z.; Ryten, M.  
 **Journal:** bioRxiv (2025)  
 **PMID:** biorxiv:10.1101/2025.03.04.641379  **DOI:** 10.1101/2025.03.04.641379
-**Entities:** Alzheimer  
+**Entities:** Aβ42, Alzheimer  
 **Abstract:** Parkinsons disease (PD) affects millions of people worldwide, and up to 40% of these patients develop dementia, profoundly affecting their quality of life. Whether Parkinsons disease dementia (PDD) si...
 
 ### Prediction of clinical progression in nervous system diseases: plasma glial fibrillary acidic protein (GFAP).
@@ -8464,7 +8464,7 @@
 **Authors:** Button EB, Cheng WH, Barron C, Cheung H, Bashir A et al.  
 **Journal:** Alzheimer's research & therapy (2021)  
 **PMID:** 33678186  **DOI:** 10.1186/s13195-021-00793-9
-**Entities:** GFAP, TBI, Alzheimer  
+**Entities:** GFAP, Aβ42, TBI, Alzheimer  
 **Abstract:** BACKGROUND: Glial fibrillary acidic protein (GFAP) has emerged as a promising fluid biomarker for several neurological indications including traumatic brain injury (TBI), a leading cause of death and ...
 
 ### Traumatic Optic Nerve Injury Elevates Plasma Biomarkers of Traumatic Brain Injury in a Porcine Model.
@@ -8751,7 +8751,7 @@
 **Authors:** Tadepalli, S. A.; Bali, Z. K.; Bruszt, N.; Nagy, L. V.; Amrein, K.; Fazekas, B.; Büki, A.; Czeiter, E.; Hernadi, I.  
 **Journal:** bioRxiv (2019)  
 **PMID:** biorxiv:10.1101/695718  **DOI:** 10.1101/695718
-**Entities:** GFAP, tau, mTBI, TBI  
+**Entities:** GFAP, tau, Aβ42, mTBI, TBI  
 **Abstract:** Repetitive mild traumatic brain injuries (TBI) impair cognitive abilities and increase risk of neurodegenerative disorders in humans. We developed two repetitive mild TBI models in rats with different...
 
 ### An update on diagnostic and prognostic biomarkers for traumatic brain injury.
@@ -8856,7 +8856,7 @@
 **Authors:** Olczak M, Kwiatkowska M, Niderla-Bielińska J, Chutorański D, Tarka S et al.  
 **Journal:** Folia neuropathologica (2018)  
 **PMID:** 30509029  **DOI:** 10.5114/fn.2018.76613
-**Entities:** GFAP, NfL, tau, TBI, MBP  
+**Entities:** GFAP, NfL, tau, Aβ42, TBI  
 **Abstract:** The release of brain-originated peptides such as tau protein (MAPT), S-100β, neurofilament light chain (NFL), and glial fibrillary acidic protein (GFAP) into the cerebrospinal fluid (CSF) has been pos...
 
 ### Biofluid biomarkers of traumatic brain injury.
@@ -9398,7 +9398,7 @@
 **Authors:** Yue, J.; Carriquiriborde, V.; Cheng, W. H.; Yildirim, T.; Fan, J.; Tok, S.; Kelly, M.; Wellington, C.; Kent, B.  
 **Journal:** bioRxiv (2026)  
 **PMID:** biorxiv:10.1101/2025.06.06.658157  **DOI:** 10.1101/2025.06.06.658157
-**Entities:** GFAP, NfL, mTBI, TBI, Alzheimer  
+**Entities:** GFAP, NfL, Aβ42, mTBI, TBI  
 **Abstract:** Traumatic Brain Injury (TBI) is a known risk factor for Alzheimers disease and related neurodegenerative diseases. Sleep disturbances and epileptiform abnormalities can appear after TBI and may contri...
 
 ### In-vivo evidence for increased tau deposition in temporal lobe epilepsy
@@ -10329,7 +10329,7 @@
 **Authors:** Morgan JE, Gaynor-Metzinger SA, Beck SD, Scobercea IC, Austin IJ et al.  
 **Journal:** Sports (Basel, Switzerland) (2022)  
 **PMID:** 36548491  **DOI:** 10.3390/sports10120194
-**Entities:** NfL, mTBI, VILIP-1  
+**Entities:** NfL, Aβ42, mTBI, VILIP-1  
 **Abstract:** Concussion diagnosis is difficult and may be improved with the addition of a blood-based biomarker that indicates concussion. The purpose of this research was to investigate the capability of serum am...
 
 ### Functional brain activity constrained by structural connectivity reveals cohort-specific features for serum neurofilament light chain.
@@ -10532,7 +10532,7 @@
 **Authors:** Hiskens MI, Schneiders AG, Vella RK, Fenning AS  
 **Journal:** PloS one (2021)  
 **PMID:** 33961674  **DOI:** 10.1371/journal.pone.0251315
-**Entities:** GFAP, NfL, tau, p-tau, TNF-α  
+**Entities:** GFAP, NfL, tau, p-tau, Iba1  
 **Abstract:** The cumulative effect of mild traumatic brain injuries (mTBI) can result in chronic neurological damage, however the molecular mechanisms underpinning this detriment require further investigation. A c...
 
 ### Serum Neurofilament Light as a Biomarker of Traumatic Brain Injury in the Presence of Concomitant Peripheral Injury.
@@ -10616,7 +10616,7 @@
 **Authors:** Beach TG, DeTure M, Walker JE, Arce R, Glass MJ, Sue LI, Intorcia AJ, Nelson CM, Suszczewicz KE, Borja CI, Serrano GE, Dickson DW.  
 **Journal:** bioRxiv (2021)  
 **PMID:** biorxiv:10.1101/2021.12.16.21266656  **DOI:** 10.1101/2021.12.16.21266656
-**Entities:** TBI  
+**Entities:** Aβ42, TBI  
 **Abstract:** <h4>ABSTRACT</h4> The coronavirus SARS-CoV-2 causes COVID-19, a predominantly respiratory disease that has been reported to be associated with numerous neurological signs, symptoms and syndromes. More...
 
 ### Neurofilament light as a biomarker in traumatic brain injury.
@@ -10700,7 +10700,7 @@
 **Authors:** Tadepalli SA, Bali ZK, Bruszt N, Nagy LV, Amrein K et al.  
 **Journal:** Behavioural brain research (2020)  
 **PMID:** 31580914  **DOI:** 10.1016/j.bbr.2019.112268
-**Entities:** GFAP, S100B, tau, mTBI, TBI  
+**Entities:** GFAP, S100B, tau, Aβ42, mTBI  
 **Abstract:** Repetitive mild traumatic brain injuries (TBI) impair cognitive abilities and increase risk of neurodegenerative disorders in humans. We developed two repetitive mild TBI models in rats with different...
 
 ### The relationship between fluid biomarkers and clinical outcomes in sports-related concussions: a systematic review.
@@ -11085,7 +11085,7 @@
 **Authors:** Johnson VE, Stewart W, Weber MT, Cullen DK, Siman R et al.  
 **Journal:** Acta neuropathologica (2016)  
 **PMID:** 26589592  **DOI:** 10.1007/s00401-015-1506-0
-**Entities:** mTBI, TBI  
+**Entities:** Aβ42, mTBI, TBI  
 **Abstract:** Diffuse axonal injury (DAI) is a common feature of severe traumatic brain injury (TBI) and may also be a predominant pathology in mild TBI or "concussion". The rapid deformation of white matter at the...
 
 ### Serum Tau Fragments Predict Return to Play in Concussed Professional Ice Hockey Players.
@@ -11284,7 +11284,7 @@
 **Authors:** Wang J, Chen S, Lai W, Feng X, Zhao Q et al.  
 **Journal:** Frontiers in immunology (2026)  
 **PMID:** 41884841  **DOI:** 10.3389/fimmu.2026.1763258
-**Entities:** NQO2  
+**Entities:** NQO2, IL-1β  
 **Abstract:** BACKGROUND: Persistently infected (PI) calves resulting from maternal Bovine viral diarrhea virus (BVDV) infection during early gestation are the main source of viral transmission and pose a serious t...
 
 ### Regioselective triclocarban-catalyzed synthesis of spiroindeno- and spirooxindolo-pyrrolizidines with apoptosis induction in MCF-7 cells.
@@ -12621,7 +12621,7 @@
 **Authors:** Lin ZY, Chuang WL  
 **Journal:** Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie (2012)  
 **PMID:** 23089469  **DOI:** 10.1016/j.biopha.2011.09.006
-**Entities:** NQO2, ROS, oxidative stress, melatonin, MT3  
+**Entities:** NQO2, ROS, IL-6, oxidative stress, melatonin  
 **Abstract:** Alteration of the oxidative stress of hepatocellular carcinoma (HCC) cells can influence the expressions of genes favored angiogenesis. Quinone reductase 2 which can activate quinones leading to react...
 
 ### Association of superoxide dismutases and NAD(P)H quinone oxidoreductases with prognosis of patients with breast carcinomas.
@@ -12978,7 +12978,7 @@
 **Authors:** Carter CJ  
 **Journal:** Schizophrenia bulletin (2009)  
 **PMID:** 18552348  **DOI:** 10.1093/schbul/sbn054
-**Entities:** NQO2, TNF-α  
+**Entities:** NQO2, TNF-α, IL-1β  
 **Abstract:** Many genes implicated in schizophrenia can be related to glutamatergic transmission and neuroplasticity, oligodendrocyte function, and other families clearly related to neurobiology and schizophrenia ...
 
 ### The structure of the leukemia drug imatinib bound to human quinone reductase 2 (NQO2).
@@ -14157,7 +14157,7 @@
 **Authors:** Bertò G, Rooks LT, Broglio SP, McAllister TA, McCrea MA et al.  
 **Journal:** NeuroImage. Clinical (2024)  
 **PMID:** 39106542  **DOI:** 10.1016/j.nicl.2024.103646
-**Entities:** mTBI, PPCS  
+**Entities:** Aβ42, mTBI, PPCS  
 **Abstract:** BACKGROUND AND OBJECTIVES: After a concussion diagnosis, the most important issue for patients and loved ones is how long it will take them to recover. The main objective of this study is to develop a...
 
 ### Optimizing the Combination of Common Clinical Concussion Batteries to Predict Persistent Postconcussion Symptoms in a Prospective Cohort of Concussed Youth.
@@ -14584,7 +14584,7 @@
 **Authors:** Usmani S, Balcer L, Galetta S, Minen M  
 **Journal:** Journal of neurotrauma (2021)  
 **PMID:** 32484070  **DOI:** 10.1089/neu.2019.6601
-**Entities:** mTBI, TBI  
+**Entities:** Aβ42, mTBI, TBI  
 **Abstract:** Persistent post-traumatic headache (PPTH) is often the most common injury after mild traumatic brain injury (mTBI), reported by 47-95% of patients. Progressive muscle relaxation (PMR) has level A evid...
 
 ### The diagnostic and prognostic utility of the dual-task tandem gait test for pediatric concussion.
@@ -16060,7 +16060,7 @@
 **Authors:** Chiollaz AC, Pouillard V, Seiler M, Habre C, Romano F et al.  
 **Journal:** Journal of neurotrauma (2026)  
 **PMID:** 41054843  **DOI:** 10.1177/08977151251385576
-**Entities:** GFAP, NfL, mTBI, TBI  
+**Entities:** GFAP, NfL, IL-6, mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) in children is a public health concern resulting in one of the main causes of pediatric emergency department (PED) visits. However, the acute care of mTBI patients r...
 
 ### Use of plasma-based brain biomarkers in the emergency department to rule out the need for unnecessary head CT imaging in acute mild traumatic brain injury patients.
@@ -18989,7 +18989,7 @@
 **Authors:** Supraja P, Tripathy S, Govind Singh S  
 **Journal:** Bioelectrochemistry (Amsterdam, Netherlands) (2023)  
 **PMID:** 36805206  **DOI:** 10.1016/j.bioelechem.2023.108391
-**Entities:** TBI  
+**Entities:** Aβ42, TBI  
 **Abstract:** Traumatic Brain Injury, one of the significant causes of mortality and morbidity, affects worldwide and continues to be a diagnostic challenge. The most desirable and partially met clinical need is to...
 
 ### Takotsubo Cardiomyopathy in a Polytrauma Patient With Subarachnoid Hemorrhage.
@@ -20525,7 +20525,7 @@
 **Authors:** Lacovich V, Čarna M, Novotný SJ, Wang S, Texlová K et al.  
 **Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
 **PMID:** 40271543  **DOI:** 10.1002/alz.70093
-**Entities:** TBI  
+**Entities:** Aβ42, TBI  
 **Abstract:** INTRODUCTION: Amyloid precursor protein (APP) undergoes striking changes following traumatic brain injury (TBI). Considering its role in the control of gene expression, we investigated whether APP reg...
 
 ### Common lipidomic signatures across distinct acute brain injuries in patient outcome prediction.
@@ -20623,7 +20623,7 @@
 **Authors:** de Jager C, Soliman E, Theus MH  
 **Journal:** Molecular and cellular neurosciences (2025)  
 **PMID:** 40090391  **DOI:** 10.1016/j.mcn.2025.104003
-**Entities:** GFAP, TBI  
+**Entities:** GFAP, Aβ42, TBI  
 **Abstract:** Traumatic brain injury (TBI) induces complex cellular and molecular changes, challenging recovery and therapeutic development. Although molecular pathways have been implicated in TBI pathology, the ce...
 
 ### Unveiling the role of PSD95 phosphorylation after traumatic brain injury: insights from phosphoproteomic analysis.
@@ -20728,7 +20728,7 @@
 **Authors:** Hinrichsen DS, Jun S, Anamala CC, Thielen MD, Garcia A et al.  
 **Journal:** bioRxiv : the preprint server for biology (2025)  
 **PMID:** 40894680  **DOI:** 10.1101/2025.08.18.670951
-**Entities:** neuroinflammation, TBI  
+**Entities:** Aβ42, neuroinflammation, TBI  
 **Abstract:** Traumatic brain injury (TBI) frequently leads to chronic neurovascular dysfunction, yet mechanistic insights into human-specific responses have been limited by the absence of long-term, multicellular ...
 
 ### Exploring the Impact of Mitoquinone Supplementation on Glycan Profiles in a Repeated Mild Traumatic Brain Injury Mouse Model.
@@ -22331,7 +22331,7 @@
 **Authors:** Dyhrfort P, Shen Q, Clausen F, Thulin M, Enblad P et al.  
 **Journal:** Journal of neurotrauma (2019)  
 **PMID:** 31017044  **DOI:** 10.1089/neu.2018.6320
-**Entities:** neuroinflammation, TBI, Olink  
+**Entities:** IL-6, neuroinflammation, TBI, Olink  
 **Abstract:** Traumatic brain injury (TBI) is followed by secondary injury mechanisms strongly involving neuroinflammation. To monitor the complex inflammatory cascade in human TBI, we used cerebral microdialysis (...
 
 ### Detection of brain specific cardiolipins in plasma after experimental pediatric head injury.
@@ -22499,7 +22499,7 @@
 **Authors:** Thelin EP, Just D, Frostell A, Häggmark-Månberg A, Risling M et al.  
 **Journal:** Behavioural brain research (2018)  
 **PMID:** 27591967  **DOI:** 10.1016/j.bbr.2016.08.058
-**Entities:** TBI  
+**Entities:** Aβ42, TBI  
 **Abstract:** INTRODUCTION: The serum proteome following traumatic brain injury (TBI) could provide information for outcome prediction and injury monitoring. The aim with this affinity proteomic study was to identi...
 
 ### Predicting Concussion Recovery in Children and Adolescents in the Emergency Department.
@@ -22653,7 +22653,7 @@
 **Authors:** Ojo JO, Crynen G, Reed JM, Ajoy R, Vallabhaneni P et al.  
 **Journal:** Frontiers in aging neuroscience (2018)  
 **PMID:** 30618712  **DOI:** 10.3389/fnagi.2018.00405
-**Entities:** ROS, tau, mTBI, TBI, Alzheimer  
+**Entities:** ROS, tau, Aβ42, mTBI, TBI  
 **Abstract:** The relationship between repetitive mild traumatic brain injury (r-mTBI) and Alzheimer's disease (AD) is well-recognized. However, the precise nature of how r-mTBI leads to or precipitates AD pathogen...
 
 ### Integration of 1H NMR- and UPLC-Q-TOF/MS-based plasma metabonomics study to identify diffuse axonal injury biomarkers in rat.
@@ -23192,7 +23192,7 @@
 **Authors:** Wang E, Gao J, Yang Q, Parsley MO, Dunn TJ et al.  
 **Journal:** Journal of neurotrauma (2012)  
 **PMID:** 22077363  **DOI:** 10.1089/neu.2011.2043
-**Entities:** TBI  
+**Entities:** Aβ42, TBI  
 **Abstract:** Transplantation of neural stem cells (NSCs) improves functional outcomes following traumatic brain injury (TBI). Previously we demonstrated that human NSCs (hNSCs) via releasing glial cell line-derive...
 
 ### Proteomic analysis and brain-specific systems biology in a rodent model of penetrating ballistic-like brain injury.
