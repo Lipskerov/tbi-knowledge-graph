@@ -263,7 +263,7 @@
         "authors": "Yue, J.; Carriquiriborde, V.; Cheng, W. H.; Yildirim, T.; Fan, J.; Tok, S.; Kelly, M.; Wellington, C.; Kent, B.",
         "year": 2026,
         "journal": "bioRxiv",
-        "entities": "GFAP, NfL, mTBI, TBI, Alzheimer"
+        "entities": "GFAP, NfL, A\u03b242, mTBI, TBI, Alzheimer"
       },
       {
         "pmid": "biorxiv:10.1101/2025.05.14.654095",
@@ -361,7 +361,7 @@
         "authors": "Wang J, Chen S, Lai W, Feng X, Zhao Q et al.",
         "year": 2026,
         "journal": "Frontiers in immunology",
-        "entities": "NQO2"
+        "entities": "NQO2, IL-1\u03b2"
       },
       {
         "pmid": "41777491",
@@ -890,12 +890,17 @@
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 86
+      "paper_count": 92
     },
     {
       "name": "CTE",
       "type": "disease",
       "paper_count": 83
+    },
+    {
+      "name": "A\u03b242",
+      "type": "protein",
+      "paper_count": 80
     },
     {
       "name": "melatonin",
@@ -921,11 +926,6 @@
       "name": "GOS-E",
       "type": "disease",
       "paper_count": 54
-    },
-    {
-      "name": "A\u03b242",
-      "type": "protein",
-      "paper_count": 49
     },
     {
       "name": "dopamine",
@@ -1065,6 +1065,11 @@
       "weight": 113.0
     },
     {
+      "source": "PERK",
+      "target": "eIF2\u03b1",
+      "weight": 111.0
+    },
+    {
       "source": "ROS",
       "target": "aging",
       "weight": 102.0
@@ -1077,6 +1082,11 @@
     {
       "source": "BBB",
       "target": "TBI",
+      "weight": 100.0
+    },
+    {
+      "source": "PKR",
+      "target": "eIF2\u03b1",
       "weight": 100.0
     },
     {
@@ -1182,17 +1192,7 @@
     {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 63.0
-    },
-    {
-      "source": "p-tau",
-      "target": "Alzheimer",
-      "weight": 60.0
-    },
-    {
-      "source": "S100B",
-      "target": "tau",
-      "weight": 59.0
+      "weight": 65.0
     }
   ]
 }

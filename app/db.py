@@ -43,7 +43,7 @@ def _has_col(conn: sqlite3.Connection, table: str, col: str) -> bool:
 
 
 # Edge kinds rendered as directed mechanism links (always shown, ignore min_edge).
-MECH_KINDS = ("curated", "chembl")
+MECH_KINDS = ("curated", "chembl", "omnipath")
 
 
 # ── /api/stats ──────────────────────────────────────────────────────────────────
@@ -72,6 +72,7 @@ def stats() -> dict:
             "edges":         g("SELECT COUNT(*) FROM entity_relations"),
             "curated_edges": g("SELECT COUNT(*) FROM entity_relations WHERE edge_kind='curated'"),
             "chembl_edges":  g("SELECT COUNT(*) FROM entity_relations WHERE edge_kind='chembl'"),
+            "omnipath_edges": g("SELECT COUNT(*) FROM entity_relations WHERE edge_kind='omnipath'"),
             "clusters":      g("SELECT COUNT(DISTINCT cluster) FROM paper_clusters"),
             "year_range":    [yr[0], yr[1]],
             "by_cluster":    by_cluster,

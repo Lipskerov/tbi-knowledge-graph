@@ -341,9 +341,12 @@ Python 3.10+. No other dependencies — uses only `sqlite3` from the standard li
 Papers are fetched from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) (NCBI E-utilities)
 and [bioRxiv](https://www.biorxiv.org/) (via Europe PMC). Quantitative NQO2 inhibitor
 bioactivity (IC50/Ki/Kd) is pulled from [ChEMBL](https://www.ebi.ac.uk/chembl/)
-(`kb/fetch_chembl.py`; run `python build_kb.py --chembl`) and added as directed,
-potency-annotated `compound → NQO2` mechanism edges. Three foundational papers from the
-Rosenblum lab are pre-loaded:
+(`kb/fetch_chembl.py`; `python build_kb.py --chembl`) and added as directed,
+potency-annotated `compound → NQO2` edges. Curated **signed/directed** protein
+interactions among the entities (who activates/inhibits whom) come from
+[OmniPath](https://omnipathdb.org/) — aggregating SIGNOR, Reactome, SignaLink and
+others (`kb/fetch_omnipath.py`; `python build_kb.py --omnipath`). Three foundational
+papers from the Rosenblum lab are pre-loaded:
 
 - Gould et al., *eNeuro* 2021 — QR2 in SST interneurons and taste memory
 - Gould et al., *JCI* 2022 — QR2 inhibitors reverse AD phenotype in 5xFAD mice
