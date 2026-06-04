@@ -33,6 +33,10 @@ html, body {
 .years input { width: 64px; padding: 6px 8px; border-radius: 6px;
   border: 1px solid var(--line); background: var(--panel2); color: var(--text); }
 
+.logout { color: var(--muted); text-decoration: none; font-size: 12px;
+  border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; white-space: nowrap; }
+.logout:hover { color: var(--text); border-color: var(--accent); }
+
 button {
   padding: 7px 13px; border-radius: 6px; border: 1px solid var(--accent);
   background: var(--accent); color: #06121f; font-weight: 600; cursor: pointer;
@@ -66,6 +70,8 @@ main { display: flex; height: calc(100vh - 57px); }
 .legend div { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
 .swatch { width: 22px; height: 3px; display: inline-block; border-radius: 2px; }
 .swatch.curated { background: var(--curated); height: 4px; }
+.swatch.chembl  { background: #4dd0a0; height: 4px;
+  background-image: linear-gradient(90deg, #4dd0a0 60%, transparent 60%); background-size: 8px 100%; }
 .swatch.cooccur { background: #5a6b7d; }
 
 /* detail panel */
@@ -76,6 +82,8 @@ main { display: flex; height: calc(100vh - 57px); }
 .mech h4 { margin: 0 0 6px; font-size: 13px; color: var(--muted); }
 .mech .edge { font-size: 13px; margin: 3px 0; }
 .mech .rel { color: var(--curated); font-style: italic; }
+.mech .potency { display: inline-block; font-size: 11px; color: #8ee7c4;
+  background: #1d3a30; border-radius: 8px; padding: 0 6px; margin-left: 4px; }
 
 .papers { margin-top: 14px; }
 .papers h4 { margin: 0 0 8px; }

@@ -119,6 +119,8 @@ def main():
     parser.add_argument("--limit",      type=int, default=None, help="Max PMIDs per cluster (for testing)")
     parser.add_argument("--source",     default="pubmed", choices=["pubmed", "biorxiv", "both"],
                         help="Where to fetch from (v2.0): pubmed (default), biorxiv, or both")
+    parser.add_argument("--chembl",     action="store_true",
+                        help="Also fetch NQO2 inhibitor bioactivity from ChEMBL (v2.1)")
     args = parser.parse_args()
 
     db_path   = ROOT / "data" / "tbi_papers.db"
@@ -183,6 +185,12 @@ def main():
     if args.dry_run:
         print("\nDry run complete. Re-run without --dry-run to fetch.")
         return
+
+    # ── Step 3b: ChEMBL inhibitor bioactivity (v2.1, optional) ────────────────
+    if args.chembl:
+        print("\n[3b] Fetching NQO2 inhibitor bioactivity from ChEMBL...")
+        from kb.fetch_chembl import run as fetch_chembl_run
+        fetch_chembl_run(str(db_path))
 
     # ── Step 4: Build graph ───────────────────────────────────────────────────
     print("\n[4/5] Building knowledge graph...")

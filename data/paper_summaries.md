@@ -12103,7 +12103,7 @@
 **Authors:** Katayama K, Noguchi K, Sugimoto Y  
 **Journal:** Oncotarget (2018)  
 **PMID:** 30344940  **DOI:** 10.18632/oncotarget.26045
-**Entities:** NQO2, NQO1  
+**Entities:** NQO2, NQO1, GILTERITINIB  
 **Abstract:** Internal tandem duplication (ITD) in Fms-like tyrosine kinase 3 (FLT3) is frequently observed in acute myeloid leukemia (AML). Quizartinib, gilteritinib, and midostaurin are inhibitors against FLT3-IT...
 
 ### Green light inhibits GnRH-I expression by stimulating the melatonin-GnIH pathway in the chick brain.
@@ -12600,7 +12600,7 @@
 **Authors:** Reddy PV, Jensen KC, Mesecar AD, Fanwick PE, Cushman M  
 **Journal:** Journal of medicinal chemistry (2012)  
 **PMID:** 22206487  **DOI:** 10.1021/jm201251c
-**Entities:** NQO2, QR2 inhibitor  
+**Entities:** NQO2, QR2 inhibitor, AMMOSAMIDE B  
 **Abstract:** A variety of ammosamide B analogues have been synthesized and evaluated as inhibitors of quinone reductase 2 (QR2). The potencies of the resulting series of QR2 inhibitors range from 4.1 to 25,200 nM....
 
 ### Steroidal pyrazolines evaluated as aromatase and quinone reductase-2 inhibitors for chemoprevention of cancer.
@@ -12614,7 +12614,7 @@
 **Authors:** Michaelis S, Marais A, Schrey AK, Graebner OY, Schaudt C et al.  
 **Journal:** Journal of medicinal chemistry (2012)  
 **PMID:** 22494098  **DOI:** 10.1021/jm3001339
-**Entities:** NQO2  
+**Entities:** NQO2, DABIGATRAN ETHYL ESTER  
 **Abstract:** Recent studies have revealed that compounds believed to be highly selective frequently address multiple target proteins. We investigated the protein interaction profile of the widely prescribed thromb...
 
 ### High therapeutic concentration of prazosin up-regulates angiogenic IL6 and CCL2 genes in hepatocellular carcinoma cells.
@@ -12656,7 +12656,7 @@
 **Authors:** Sampaio RV, Conceição S, Miranda MS, Sampaio Lde F, Ohashi OM  
 **Journal:** Reproductive biology and endocrinology : RB&E (2012)  
 **PMID:** 23207065  **DOI:** 10.1186/1477-7827-10-103
-**Entities:** NQO2, melatonin, MT3  
+**Entities:** NQO2, melatonin, MT3, IODOMELATONIN  
 **Abstract:** BACKGROUND: Melatonin inclusion into in vitro oocyte maturation (IVM) protocols has been suggested because it possesses a powerful free radical scavenger capability that improves the quality of the oo...
 
 ### Mechanism-based inhibition of quinone reductase 2 (NQO2): selectivity for NQO2 over NQO1 and structural basis for flavoprotein inhibition.
@@ -12922,7 +12922,7 @@
 **Authors:** Rix U, Remsing Rix LL, Terker AS, Fernbach NV, Hantschel O et al.  
 **Journal:** Leukemia (2010)  
 **PMID:** 19890374  **DOI:** 10.1038/leu.2009.228
-**Entities:** NQO2, imatinib  
+**Entities:** NQO2, imatinib, NILOTINIB  
 **Abstract:** Resistance to the BCR-ABL tyrosine kinase inhibitor imatinib poses a pressing challenge in treating chronic myeloid leukemia (CML). This resistance is often caused by point mutations in the ABL kinase...
 
 ### Pyrimidine biosynthesis links mitochondrial respiration to the p53 pathway.
@@ -12985,7 +12985,7 @@
 **Authors:** Winger JA, Hantschel O, Superti-Furga G, Kuriyan J  
 **Journal:** BMC structural biology (2009)  
 **PMID:** 19236722  **DOI:** 10.1186/1472-6807-9-7
-**Entities:** NQO2, NQO1, imatinib  
+**Entities:** NQO2, NQO1, imatinib, NILOTINIB  
 **Abstract:** BACKGROUND: Imatinib represents the first in a class of drugs targeted against chronic myelogenous leukemia to enter the clinic, showing excellent efficacy and specificity for Abl, Kit, and PDGFR kina...
 
 ### Functional polymorphisms, altered gene expression and genetic association link NRH:quinone oxidoreductase 2 to breast cancer with wild-type p53.
@@ -13132,7 +13132,7 @@
 **Authors:** Calamini B, Santarsiero BD, Boutin JA, Mesecar AD  
 **Journal:** The Biochemical journal (2008)  
 **PMID:** 18254726  **DOI:** 10.1042/BJ20071373
-**Entities:** NQO2, NQO1, melatonin, MT3  
+**Entities:** NQO2, NQO1, melatonin, MT3, IODOMELATONIN  
 **Abstract:** Melatonin exerts its biological effects through at least two transmembrane G-protein-coupled receptors, MT1 and MT2, and a lower-affinity cytosolic binding site, designated MT3. MT3 has recently been ...
 
 ### MT3/QR2 melatonin binding site does not use melatonin as a substrate or a co-substrate.
@@ -13300,7 +13300,7 @@
 **Authors:** Rix U, Hantschel O, Dürnberger G, Remsing Rix LL, Planyavsky M et al.  
 **Journal:** Blood (2007)  
 **PMID:** 17720881  
-**Entities:** NQO2, imatinib  
+**Entities:** NQO2, imatinib, NILOTINIB  
 **Abstract:** The BCR-ABL tyrosine kinase inhibitor imatinib represents the current frontline therapy in chronic myeloid leukemia. Because many patients develop imatinib resistance, 2 second-generation drugs, nilot...
 
 ### In vivo role of NAD(P)H:quinone oxidoreductase 1 in metabolic activation of mitomycin C and bone marrow cytotoxicity.
@@ -13412,7 +13412,7 @@
 **Authors:** Mailliet F, Ferry G, Vella F, Berger S, Cogé F et al.  
 **Journal:** Biochemical pharmacology (2005)  
 **PMID:** 16293234  
-**Entities:** NQO2, NRH, melatonin, MT3  
+**Entities:** NQO2, NRH, melatonin, MT3, IODOMELATONIN  
 **Abstract:** Melatonin acts through a series of molecular targets: the G-protein coupled receptors, MT1 and MT2, and a third binding site, MT3, recently identified as the enzyme NRH:quinone oxydoreductase 2 (QR2)....
 
 ### Crystal structure of quinone reductase 2 in complex with cancer prodrug CB1954.
@@ -13608,7 +13608,7 @@
 **Authors:** Nosjean O, Nicolas JP, Klupsch F, Delagrange P, Canet E et al.  
 **Journal:** Biochemical pharmacology (2001)  
 **PMID:** 11331072  
-**Entities:** NQO2, melatonin, MT3  
+**Entities:** NQO2, melatonin, MT3, IODOMELATONIN  
 **Abstract:** The neurohormone melatonin is the central switch of the circadian rhythm and presumably exerts its activities through a series of receptors among which MT1 and MT2 have been widely studied. The third ...
 
 ### Aerobic nitroreduction by flavoproteins: enzyme structure, mechanisms and role in cancer chemotherapy.
@@ -23178,7 +23178,7 @@
 **Authors:** Raad M, El Tal T, Gul R, Mondello S, Zhang Z et al.  
 **Journal:** Electrophoresis (2012)  
 **PMID:** 23161464  **DOI:** 10.1002/elps.201200470
-**Entities:** TBI, Alzheimer  
+**Entities:** TBI, Alzheimer, FASUDIL  
 **Abstract:** Several common degenerative mechanisms and mediators underlying the neuronal injury pathways characterize several neurodegenerative diseases including Alzheimer's, Parkinson's, and Huntington's diseas...
 
 ### Acute minocycline treatment mitigates the symptoms of mild blast-induced traumatic brain injury.
