@@ -15,7 +15,11 @@
       border-radius:12px; padding:26px 24px; }
     .brand { font-weight:700; font-size:18px; margin-bottom:2px; }
     .brand span { color:var(--accent); }
-    .sub { color:var(--muted); font-size:12px; margin-bottom:20px; }
+    .sub { color:var(--muted); font-size:12px; margin-bottom:12px; }
+    .blurb { color:var(--text); font-size:12px; line-height:1.5; margin-bottom:18px;
+      padding-bottom:14px; border-bottom:1px solid var(--line); }
+    .blurb a { color:var(--accent); text-decoration:none; white-space:nowrap; }
+    .blurb a:hover { text-decoration:underline; }
     label { display:block; color:var(--muted); font-size:12px; margin-bottom:6px; }
     input[type=password] { width:100%; padding:10px 12px; border-radius:7px;
       border:1px solid var(--line); background:var(--panel2); color:var(--text); font-size:14px; }
@@ -31,8 +35,15 @@
 <body>
   <div class="wrap">
     <form class="card" id="login-form" autocomplete="off">
-      <div class="brand">TBI&nbsp;KG <span>v2.0</span></div>
+      <div class="brand">TBI&nbsp;KG <span>v2.2</span></div>
       <div class="sub">Rosenblum&nbsp;×&nbsp;Liraz-Zaltsman lab · sign in to continue</div>
+      <div class="blurb">
+        A knowledge graph of TBI-diagnostic literature centred on the
+        <strong>NQO2&nbsp;/&nbsp;QR2 pathway</strong> as a novel blood biomarker —
+        3,300+ papers with curated mechanisms, ChEMBL inhibitor potencies, and
+        signed OmniPath protein interactions.
+        <a href="https://github.com/Lipskerov/tbi-knowledge-graph" target="_blank" rel="noopener">Learn more&nbsp;↗</a>
+      </div>
 
       <label for="password">Lab password</label>
       <input id="password" type="password" autocomplete="current-password" autofocus required />
