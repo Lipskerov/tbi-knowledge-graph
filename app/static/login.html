@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sign in — TBI Knowledge Graph</title>
+  <style>
+    :root { --bg:#0f1419; --panel:#1a2029; --panel2:#222b36; --line:#2d3947;
+            --text:#e6edf3; --muted:#93a1b0; --accent:#4ea1ff; --err:#ef5d8f; }
+    * { box-sizing: border-box; }
+    html, body { margin:0; height:100%; background:var(--bg); color:var(--text);
+      font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }
+    .wrap { min-height:100%; display:flex; align-items:center; justify-content:center; padding:24px; }
+    .card { width:340px; background:var(--panel); border:1px solid var(--line);
+      border-radius:12px; padding:26px 24px; }
+    .brand { font-weight:700; font-size:18px; margin-bottom:2px; }
+    .brand span { color:var(--accent); }
+    .sub { color:var(--muted); font-size:12px; margin-bottom:20px; }
+    label { display:block; color:var(--muted); font-size:12px; margin-bottom:6px; }
+    input[type=password] { width:100%; padding:10px 12px; border-radius:7px;
+      border:1px solid var(--line); background:var(--panel2); color:var(--text); font-size:14px; }
+    input[type=password]:focus { outline:none; border-color:var(--accent); }
+    button { width:100%; margin-top:16px; padding:10px 13px; border-radius:7px;
+      border:1px solid var(--accent); background:var(--accent); color:#06121f;
+      font-weight:600; font-size:14px; cursor:pointer; }
+    button:disabled { opacity:.6; cursor:default; }
+    .msg { min-height:18px; margin-top:12px; font-size:13px; color:var(--err); }
+    .foot { margin-top:18px; color:var(--muted); font-size:11px; text-align:center; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <form class="card" id="login-form" autocomplete="off">
+      <div class="brand">TBI&nbsp;KG <span>v2.0</span></div>
+      <div class="sub">Rosenblum&nbsp;×&nbsp;Liraz-Zaltsman lab · sign in to continue</div>
+
+      <label for="password">Lab password</label>
+      <input id="password" type="password" autocomplete="current-password" autofocus required />
+
+      <button id="submit" type="submit">Sign in</button>
+      <div class="msg" id="msg" role="alert"></div>
+      <div class="foot">Shared access — do not distribute outside the lab.</div>
+    </form>
+  </div>
+
+  <script>
+    "use strict";
+    const form = document.getElementById("login-form");
+    const pw   = document.getElementById("password");
+    const btn  = document.getElementById("submit");
+    const msg  = document.getElementById("msg");
+
+    // Carry a safe ?next=/path through to the server (same-origin paths only).
+    const params = new URLSearchParams(location.search);
+    let next = params.get("next") || "/";
+    if (!next.startsWith("/") || next.startsWith("//")) next = "/";
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      msg.textContent = "";
+      btn.disabled = true; btn.textContent = "Signing in…";
+      try {
+        const res = await fetch("/login", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ password: pw.value, next }),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (res.ok && data.ok) {
+          location.assign(data.next || "/");
+          return;
+        }
+        msg.textContent = data.error || "Sign-in failed.";
+      } catch (err) {
+        msg.textContent = "Network error — try again.";
+      }
+      btn.disabled = false; btn.textContent = "Sign in";
+      pw.value = ""; pw.focus();
+    });
+  </script>
+</body>
+</html>

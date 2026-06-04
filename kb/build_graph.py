@@ -313,6 +313,7 @@ def build_entity_relations(conn: sqlite3.Connection):
 
     print(f"  Building {len(cooccur)} entity co-occurrence edges...")
 
+    _ensure_annotation_column(conn)
     conn.execute("DELETE FROM entity_relations")
     for (src, tgt), pmids in cooccur.items():
         conn.execute("""
@@ -322,7 +323,74 @@ def build_entity_relations(conn: sqlite3.Connection):
         """, (src, tgt, json.dumps(pmids[:20]), len(pmids)))
 
     add_pathway_edges(conn)
+    add_chembl_edges(conn)
     conn.commit()
+
+
+def _ensure_annotation_column(conn: sqlite3.Connection):
+    """Idempotent migration: entity_relations.annotation holds e.g. ChEMBL potency."""
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(entity_relations)")]
+    if "annotation" not in cols:
+        conn.execute("ALTER TABLE entity_relations ADD COLUMN annotation TEXT")
+
+
+def _format_potency(median_nm, pchembl, n_acts, std_type) -> str:
+    """Human-readable potency annotation for a ChEMBL inhibitor edge."""
+    if median_nm is None:
+        pot = ""
+    elif median_nm < 1:
+        pot = f"{median_nm:.2f} nM"
+    elif median_nm < 1000:
+        pot = f"{median_nm:.0f} nM"
+    else:
+        pot = f"{median_nm/1000:.1f} µM"
+    bits = []
+    if pot:
+        bits.append(f"{std_type} ≈ {pot}")
+    if pchembl is not None:
+        bits.append(f"pChEMBL {pchembl}")
+    bits.append(f"n={n_acts}")
+    return " · ".join(bits) + " (ChEMBL)"
+
+
+def add_chembl_edges(conn: sqlite3.Connection):
+    """Emit directed, potency-annotated inhibitor edges (compound → NQO2) from
+    the `chembl_activities` table. Regenerated every build (the table is the
+    source of truth; see kb/fetch_chembl.py). No-op if the table is absent."""
+    has_table = conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='chembl_activities'"
+    ).fetchone()
+    if not has_table:
+        return
+    nqo2 = _resolve_entity_id(conn, "NQO2")
+    if nqo2 is None:
+        print("  ! ChEMBL edges skipped (NQO2 entity not found)")
+        return
+    inserted = 0
+    for r in conn.execute("""
+        SELECT entity_id, relation, standard_type, median_nm, pchembl_median,
+               n_acts, evidence_pmids
+        FROM chembl_activities WHERE entity_id IS NOT NULL
+    """):
+        src = r["entity_id"]
+        if src == nqo2:
+            continue
+        annotation = _format_potency(r["median_nm"], r["pchembl_median"],
+                                     r["n_acts"], r["standard_type"])
+        # ChEMBL's quantitative edge supersedes any hand-curated inhibitor edge for
+        # the same compound → NQO2 pair, so the graph shows one richer arrow, not two.
+        conn.execute(
+            "DELETE FROM entity_relations WHERE source_id=? AND target_id=? AND edge_kind='curated'",
+            (src, nqo2))
+        conn.execute("""
+            INSERT OR REPLACE INTO entity_relations
+                (source_id, target_id, relation, evidence_pmids, weight,
+                 edge_kind, directed, annotation)
+            VALUES (?, ?, ?, ?, ?, 'chembl', 1, ?)
+        """, (src, nqo2, r["relation"], r["evidence_pmids"] or "[]",
+              max(r["n_acts"] or 1, 1), annotation))
+        inserted += 1
+    print(f"  Added {inserted} ChEMBL inhibitor edges (compound → NQO2, with potency)")
 
 
 def _resolve_entity_id(conn: sqlite3.Connection, name: str):
@@ -405,9 +473,9 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
     # (an undirected nx.Graph would collapse parallel relations).
     edges = []
     for row in conn.execute("""
-        SELECT source_id, target_id, relation, weight, edge_kind, directed
+        SELECT source_id, target_id, relation, weight, edge_kind, directed, annotation
         FROM entity_relations
-        WHERE weight >= 2 OR edge_kind = 'curated'
+        WHERE weight >= 2 OR edge_kind IN ('curated', 'chembl')
     """):
         src_name = entity_map.get(row["source_id"], {}).get("name")
         tgt_name = entity_map.get(row["target_id"], {}).get("name")
@@ -421,6 +489,7 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
             "directed":  bool(row["directed"]),
             "weight":    row["weight"],
             "n_papers":  row["weight"],
+            "annotation": row["annotation"],
         })
 
     # Per-cluster stats
@@ -436,8 +505,8 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
         "n_edges":       len(edges),
         "cluster_stats": cluster_stats,
         "nodes":         sorted(nodes, key=lambda x: -x["paper_count"]),
-        # curated mechanism edges first so they always survive the 500-edge cap
-        "edges":         sorted(edges, key=lambda x: (x["edge_kind"] != "curated", -x["weight"]))[:500],
+        # curated + ChEMBL mechanism edges first so they always survive the 500-edge cap
+        "edges":         sorted(edges, key=lambda x: (x["edge_kind"] not in ("curated", "chembl"), -x["weight"]))[:500],
     }
 
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)

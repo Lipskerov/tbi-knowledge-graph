@@ -1,5 +1,6 @@
 fastapi>=0.110
 uvicorn[standard]>=0.27
+itsdangerous>=2.1          # signs the session cookie (Starlette SessionMiddleware)
 requests>=2.31
 networkx>=3.0
 pyvis==0.3.2

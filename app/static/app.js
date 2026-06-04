@@ -65,7 +65,9 @@ async function loadStats() {
   const s = await getJSON("/api/stats");
   document.getElementById("stats").innerHTML =
     `<b>${s.papers.toLocaleString()}</b> papers · <b>${s.entities}</b> entities<br>` +
-    `<b>${s.edges}</b> edges (<b>${s.curated_edges}</b> curated) · <b>${s.clusters}</b> clusters<br>` +
+    `<b>${s.edges}</b> edges (<b>${s.curated_edges}</b> curated` +
+    (s.chembl_edges ? ` · <b>${s.chembl_edges}</b> ChEMBL` : ``) +
+    `) · <b>${s.clusters}</b> clusters<br>` +
     `sources: ` + Object.entries(s.by_source).map(([k, v]) => `${k} ${v}`).join(" · ");
 
   // cluster facet from real paper_clusters counts
@@ -135,17 +137,20 @@ function renderGraph(g) {
   }));
 
   const edges = g.edges.map((e) => {
-    const curated = e.edge_kind === "curated";
+    const chembl = e.edge_kind === "chembl";
+    const mech = e.edge_kind === "curated" || chembl;   // typed/directed mechanism
+    const color = chembl ? "#4dd0a0" : (e.edge_kind === "curated" ? "#ff7043" : "rgba(120,140,160,0.35)");
+    const hi    = chembl ? "#8ee7c4" : (e.edge_kind === "curated" ? "#ffab91" : "#8aa");
     return {
       from: e.source,
       to: e.target,
-      label: curated ? e.relation : undefined,
+      label: mech ? e.relation : undefined,
+      title: chembl && e.annotation ? e.annotation : undefined,   // hover → potency
       arrows: e.directed ? "to" : undefined,
-      width: curated ? 2.5 : Math.min(0.5 + Math.log2((e.weight || 1) + 1), 5),
-      color: { color: curated ? "#ff7043" : "rgba(120,140,160,0.35)",
-               highlight: curated ? "#ffab91" : "#8aa" },
-      dashes: false,
-      font: curated ? { color: "#ffab91", size: 11, strokeWidth: 0, align: "middle" } : undefined,
+      width: mech ? 2.5 : Math.min(0.5 + Math.log2((e.weight || 1) + 1), 5),
+      color: { color, highlight: hi },
+      dashes: chembl ? [5, 3] : false,
+      font: mech ? { color: hi, size: 11, strokeWidth: 0, align: "middle" } : undefined,
       smooth: { type: "continuous" },
     };
   });
@@ -196,11 +201,13 @@ async function openNode(entityId) {
 }
 
 function renderEntity(ent) {
+  const potency = (m) =>
+    m.annotation ? ` <span class="potency">${esc(m.annotation)}</span>` : "";
   const mech = (arr, dir) =>
     arr.map((m) =>
       dir === "out"
-        ? `<div class="edge">${esc(ent.name)} <span class="rel">${esc(m.relation)}</span> → ${esc(m.target)}</div>`
-        : `<div class="edge">${esc(m.source)} <span class="rel">${esc(m.relation)}</span> → ${esc(ent.name)}</div>`
+        ? `<div class="edge">${esc(ent.name)} <span class="rel">${esc(m.relation)}</span> → ${esc(m.target)}${potency(m)}</div>`
+        : `<div class="edge">${esc(m.source)} <span class="rel">${esc(m.relation)}</span> → ${esc(ent.name)}${potency(m)}</div>`
     ).join("");
 
   let html = `<div class="detail-head">
@@ -211,7 +218,7 @@ function renderEntity(ent) {
     </div>`;
 
   if ((ent.mechanism_out || []).length || (ent.mechanism_in || []).length) {
-    html += `<div class="mech"><h4>Mechanism links (curated)</h4>
+    html += `<div class="mech"><h4>Mechanism links (curated + ChEMBL)</h4>
       ${mech(ent.mechanism_out || [], "out")}${mech(ent.mechanism_in || [], "in")}</div>`;
   }
   if ((ent.top_related || []).length) {

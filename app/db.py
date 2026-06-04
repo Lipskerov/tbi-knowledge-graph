@@ -37,6 +37,15 @@ def _fts_match(q: str) -> str:
     return " AND ".join(f'"{t}"' for t in tokens)
 
 
+def _has_col(conn: sqlite3.Connection, table: str, col: str) -> bool:
+    """Whether a column exists (tolerates DBs built before a migration)."""
+    return any(r[1] == col for r in conn.execute(f"PRAGMA table_info({table})"))
+
+
+# Edge kinds rendered as directed mechanism links (always shown, ignore min_edge).
+MECH_KINDS = ("curated", "chembl")
+
+
 # ── /api/stats ──────────────────────────────────────────────────────────────────
 
 def stats() -> dict:
@@ -62,6 +71,7 @@ def stats() -> dict:
             "entities":      g("SELECT COUNT(*) FROM entities"),
             "edges":         g("SELECT COUNT(*) FROM entity_relations"),
             "curated_edges": g("SELECT COUNT(*) FROM entity_relations WHERE edge_kind='curated'"),
+            "chembl_edges":  g("SELECT COUNT(*) FROM entity_relations WHERE edge_kind='chembl'"),
             "clusters":      g("SELECT COUNT(DISTINCT cluster) FROM paper_clusters"),
             "year_range":    [yr[0], yr[1]],
             "by_cluster":    by_cluster,
@@ -146,22 +156,26 @@ def graph(min_papers: int = 0, min_edge: int = 1, types: str | None = None,
             active.add(eid)
             nodes.append({"id": eid, "name": row["name"], "type": row["type"], "paper_count": pc})
 
+        has_ann = _has_col(conn, "entity_relations", "annotation")
+        ann_sel = ", annotation" if has_ann else ""
         edges = []
         for row in conn.execute(
-            "SELECT source_id, target_id, relation, weight, edge_kind, directed FROM entity_relations"
+            f"SELECT source_id, target_id, relation, weight, edge_kind, directed{ann_sel} "
+            "FROM entity_relations"
         ):
             s, t = row["source_id"], row["target_id"]
             if s not in active or t not in active:
                 continue
-            if row["edge_kind"] != "curated" and (row["weight"] or 0) < min_edge:
+            if row["edge_kind"] not in MECH_KINDS and (row["weight"] or 0) < min_edge:
                 continue
             edges.append({
-                "source":    s,
-                "target":    t,
-                "relation":  row["relation"],
-                "edge_kind": row["edge_kind"],
-                "directed":  bool(row["directed"]),
-                "weight":    row["weight"],
+                "source":     s,
+                "target":     t,
+                "relation":   row["relation"],
+                "edge_kind":  row["edge_kind"],
+                "directed":   bool(row["directed"]),
+                "weight":     row["weight"],
+                "annotation": row["annotation"] if has_ann else None,
             })
         return {"nodes": nodes, "edges": edges}
     finally:
@@ -241,20 +255,25 @@ def entity(entity_id: int) -> dict:
             "SELECT COUNT(DISTINCT pmid) FROM paper_entity WHERE entity_id=?", (eid,)
         ).fetchone()[0]
 
-        # Typed (curated) mechanism links — directional
+        # Typed mechanism links (curated + ChEMBL inhibitor) — directional, with potency
+        has_ann = _has_col(conn, "entity_relations", "annotation")
+        ann_sel = ", er.annotation" if has_ann else ""
+        kinds_ph = ",".join("?" * len(MECH_KINDS))
         out_links = [
-            {"target": r["name"], "relation": r["relation"], "directed": bool(r["directed"])}
+            {"target": r["name"], "relation": r["relation"], "directed": bool(r["directed"]),
+             "edge_kind": r["edge_kind"], "annotation": (r["annotation"] if has_ann else None)}
             for r in conn.execute(
-                "SELECT e.name, er.relation, er.directed FROM entity_relations er "
-                "JOIN entities e ON e.id = er.target_id "
-                "WHERE er.source_id = ? AND er.edge_kind = 'curated'", (eid,))
+                f"SELECT e.name, er.relation, er.directed, er.edge_kind{ann_sel} "
+                "FROM entity_relations er JOIN entities e ON e.id = er.target_id "
+                f"WHERE er.source_id = ? AND er.edge_kind IN ({kinds_ph})", (eid, *MECH_KINDS))
         ]
         in_links = [
-            {"source": r["name"], "relation": r["relation"], "directed": bool(r["directed"])}
+            {"source": r["name"], "relation": r["relation"], "directed": bool(r["directed"]),
+             "edge_kind": r["edge_kind"], "annotation": (r["annotation"] if has_ann else None)}
             for r in conn.execute(
-                "SELECT e.name, er.relation, er.directed FROM entity_relations er "
-                "JOIN entities e ON e.id = er.source_id "
-                "WHERE er.target_id = ? AND er.edge_kind = 'curated'", (eid,))
+                f"SELECT e.name, er.relation, er.directed, er.edge_kind{ann_sel} "
+                "FROM entity_relations er JOIN entities e ON e.id = er.source_id "
+                f"WHERE er.target_id = ? AND er.edge_kind IN ({kinds_ph})", (eid, *MECH_KINDS))
         ]
         # Top co-occurring entities
         related = [

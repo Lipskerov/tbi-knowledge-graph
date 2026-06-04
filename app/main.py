@@ -2,22 +2,100 @@
 TBI Knowledge Graph — FastAPI web app (v2.0).
 
 Thin HTTP layer over `app/db.py`. Serves a read-only REST API plus the static
-two-pane frontend. Run:  uvicorn app.main:app --host 0.0.0.0 --port 8000
+two-pane frontend, gated behind a shared-password login (see app/auth.py).
+Run:  uvicorn app.main:app --host 0.0.0.0 --port 8000
 """
 
 from pathlib import Path
 
-from fastapi import FastAPI, Query
-from fastapi.responses import JSONResponse
+from fastapi import FastAPI, Query, Request
+from fastapi.responses import JSONResponse, HTMLResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
+from pydantic import BaseModel
+from starlette.middleware.sessions import SessionMiddleware
 
-from app import db
+from app import auth, db
 
 ROOT       = Path(__file__).resolve().parent.parent
 STATIC_DIR = Path(__file__).resolve().parent / "static"
 LIB_DIR    = ROOT / "lib"
+LOGIN_HTML = STATIC_DIR / "login.html"
 
 app = FastAPI(title="TBI Knowledge Graph", version="2.0")
+
+# ── Authentication ───────────────────────────────────────────────────────────
+# Paths reachable without a session (the login flow + health check). Everything
+# else — the API, the frontend and the vendored libs — requires a valid session.
+PUBLIC_PATHS = {"/login", "/logout", "/healthz"}
+
+
+@app.middleware("http")
+async def require_login(request: Request, call_next):
+    path = request.url.path
+    if path in PUBLIC_PATHS or request.session.get("authed"):
+        return await call_next(request)
+    if path.startswith("/api/"):
+        return JSONResponse({"error": "authentication required"}, status_code=401)
+    return RedirectResponse(url=f"/login?next={path}", status_code=303)
+
+
+# Added AFTER the gate so it wraps it: SessionMiddleware runs first and populates
+# request.session before require_login reads it.
+app.add_middleware(
+    SessionMiddleware,
+    secret_key=auth.get_session_secret(),
+    session_cookie="tbi_session",
+    max_age=auth.session_max_age(),
+    same_site="lax",
+    https_only=auth.https_only(),
+)
+
+
+@app.get("/healthz")
+def healthz():
+    return {"ok": True, "auth_configured": auth.is_configured()}
+
+
+@app.get("/login", response_class=HTMLResponse)
+def login_page():
+    return LOGIN_HTML.read_text(encoding="utf-8")
+
+
+class LoginBody(BaseModel):
+    password: str
+    next: str | None = "/"
+
+
+@app.post("/login")
+async def login_submit(body: LoginBody, request: Request):
+    client = request.client.host if request.client else "anon"
+    allowed, retry_after = auth.check_rate_limit(client)
+    if not allowed:
+        return JSONResponse(
+            {"error": f"Too many attempts. Try again in {retry_after}s."},
+            status_code=429,
+        )
+    stored = auth.get_password_hash()
+    if not stored:
+        return JSONResponse(
+            {"error": "Login is not configured on the server yet."},
+            status_code=503,
+        )
+    if auth.verify_password(body.password, stored):
+        auth.reset_rate_limit(client)
+        request.session["authed"] = True
+        nxt = body.next or "/"
+        if not nxt.startswith("/") or nxt.startswith("//"):  # block open redirects
+            nxt = "/"
+        return {"ok": True, "next": nxt}
+    auth.register_failure(client)
+    return JSONResponse({"error": "Incorrect password."}, status_code=401)
+
+
+@app.get("/logout")
+def logout(request: Request):
+    request.session.clear()
+    return RedirectResponse(url="/login", status_code=303)
 
 
 # ── API ─────────────────────────────────────────────────────────────────────────

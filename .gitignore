@@ -1,3 +1,6 @@
+# Secrets — auth password hash + session key (never commit)
+.env
+
 # PDFs — copyright, not versioned
 *.pdf
 
