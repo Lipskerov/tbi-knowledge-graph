@@ -20,6 +20,7 @@ let nodesDS = null;
 let edgesDS = null;
 let allNodeIds = [];
 let tomTypes = null, tomClusters = null;
+let physicsOn = true;   // false = frozen layout: drag nodes and they stay put
 
 // ── boot ─────────────────────────────────────────────────────────────────────
 window.addEventListener("DOMContentLoaded", async () => {
@@ -47,6 +48,8 @@ function wireControls() {
   });
   document.getElementById("reset-btn").addEventListener("click", resetAll);
   document.getElementById("apply-btn").addEventListener("click", loadGraph);
+  document.getElementById("physics-btn").addEventListener("click", togglePhysics);
+  updatePhysicsBtn();
 
   const mp = document.getElementById("f-minpapers");
   const me = document.getElementById("f-minedge");
@@ -169,16 +172,41 @@ function renderGraph(g) {
   const options = {
     nodes: { shape: "dot", scaling: { min: 6, max: 42 }, borderWidth: 1.5 },
     edges: { selectionWidth: 2 },
+    // Always lay out with physics first; we honour the freeze choice once stable.
     physics: {
+      enabled: true,
       barnesHut: { gravitationalConstant: -9000, springLength: 130, springConstant: 0.03 },
       stabilization: { iterations: 180 },
     },
-    interaction: { hover: true, tooltipDelay: 120, multiselect: false },
+    interaction: { hover: true, tooltipDelay: 120, multiselect: false, dragNodes: true },
   };
   network = new vis.Network(container, { nodes: nodesDS, edges: edgesDS }, options);
+  // After the initial layout settles, apply the current freeze preference so a
+  // re-rendered graph (e.g. after filtering) still respects "frozen".
+  network.once("stabilizationIterationsDone", () => {
+    network.setOptions({ physics: { enabled: physicsOn } });
+  });
   network.on("click", (params) => {
     if (params.nodes.length) openNode(params.nodes[0]);
   });
+}
+
+// Toggle layout physics. On = auto-arrange (wobbly). Off = frozen: drag a node
+// anywhere and it stays exactly where you drop it.
+function togglePhysics() {
+  physicsOn = !physicsOn;
+  if (network) network.setOptions({ physics: { enabled: physicsOn } });
+  updatePhysicsBtn();
+}
+
+function updatePhysicsBtn() {
+  const b = document.getElementById("physics-btn");
+  if (!b) return;
+  b.textContent = physicsOn ? "🌀 Physics: on" : "🔒 Physics: off";
+  b.classList.toggle("active", !physicsOn);
+  b.title = physicsOn
+    ? "Layout is live (nodes auto-arrange). Click to FREEZE — then drag nodes and they stay put."
+    : "Layout is frozen — drag nodes anywhere and they stay. Click to re-enable auto-arrange.";
 }
 
 function highlightNodes(ids) {
