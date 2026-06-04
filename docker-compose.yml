@@ -1,0 +1,14 @@
+services:
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data        # live read-only DB; keeps the image small
+    environment:
+      - TBI_DB=/app/data/tbi_papers.db
+    # Auth secrets (TBI_AUTH_PASSWORD_HASH, TBI_SESSION_SECRET, TBI_HTTPS_ONLY)
+    # come from the gitignored .env — set them with `python -m app.auth set-password`.
+    env_file:
+      - .env
+    restart: unless-stopped

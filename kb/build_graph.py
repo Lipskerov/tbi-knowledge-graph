@@ -158,6 +158,43 @@ ENTITY_SEEDS = [
     ("QR2 inhibitor","drug",     ["QR2 inhibitor", "QR2i", "quinone reductase inhibitor"]),
     ("lecanemab",    "drug",     ["lecanemab", "Leqembi", "BAN2401"]),
     ("donanemab",    "drug",     ["donanemab", "Kisunla"]),
+
+    # ── QR2 / NQO2 inhibitor space (v2.0) ────────────────────────────────────
+    ("melatonin",    "drug",       ["melatonin", "N-acetyl-5-methoxytryptamine"]),
+    ("MT3",          "protein",    ["MT3", "melatonin binding site MT3", "ML2"]),
+    ("chloroquine",  "drug",       ["chloroquine", "hydroxychloroquine"]),
+    ("primaquine",   "drug",       ["primaquine"]),
+    ("quinacrine",   "drug",       ["quinacrine", "mepacrine"]),
+    ("casimiroin",   "drug",       ["casimiroin"]),
+    ("prazosin",     "drug",       ["prazosin"]),
+    ("imatinib",     "drug",       ["imatinib", "Gleevec"]),
+    ("FAD",          "metabolite", ["FAD", "flavin adenine dinucleotide"]),
+    # Referenced by PATHWAY_EDGES (Part B) — added so curated edges resolve
+    ("cAMP/PKA",     "pathway",    ["cAMP/PKA", "cAMP-PKA", "cyclic AMP/PKA", "PKA signaling"]),
+    ("GOS-E",        "disease",    ["GOS-E", "GOSE", "Glasgow Outcome Scale Extended",
+                                    "Glasgow Outcome Scale-Extended"]),
+]
+
+
+# ── Curated directed mechanism edges (Part B, v2.0) ─────────────────────────────
+# (source_name, target_name, relation, directed)
+PATHWAY_EDGES = [
+    ("dopamine",   "DRD1",     "activates",       True),
+    ("DRD1",       "cAMP/PKA", "signals_via",     True),
+    ("cAMP/PKA",   "miR-182",  "upregulates",     True),
+    ("miR-182",    "NQO2",     "suppresses",      True),
+    ("NQO2",       "ROS",      "generates",       True),
+    ("ROS",        "Kv2.1",    "oxidizes",        True),
+    ("ROS",        "Nrf2",     "activates",       True),
+    ("NQO2",       "NRH",      "uses_substrate",  True),
+    ("S29434",     "NQO2",     "inhibits",        True),
+    ("melatonin",  "NQO2",     "binds",           True),
+    ("quercetin",  "NQO2",     "inhibits",        True),
+    ("resveratrol","NQO2",     "inhibits",        True),
+    ("chloroquine","NQO2",     "binds",           True),
+    ("casimiroin", "NQO2",     "inhibits",        True),
+    ("GFAP",       "PPCS",     "predicts",        True),
+    ("NfL",        "GOS-E",    "correlates_with", True),
 ]
 
 
@@ -276,14 +313,164 @@ def build_entity_relations(conn: sqlite3.Connection):
 
     print(f"  Building {len(cooccur)} entity co-occurrence edges...")
 
+    _ensure_annotation_column(conn)
     conn.execute("DELETE FROM entity_relations")
     for (src, tgt), pmids in cooccur.items():
         conn.execute("""
             INSERT OR REPLACE INTO entity_relations
-                (source_id, target_id, relation, evidence_pmids, weight)
-            VALUES (?, ?, 'co-occurs', ?, ?)
+                (source_id, target_id, relation, evidence_pmids, weight, edge_kind, directed)
+            VALUES (?, ?, 'co-occurs', ?, ?, 'cooccur', 0)
         """, (src, tgt, json.dumps(pmids[:20]), len(pmids)))
+
+    add_pathway_edges(conn)
+    add_chembl_edges(conn)
+    add_omnipath_edges(conn)
     conn.commit()
+
+
+def _ensure_annotation_column(conn: sqlite3.Connection):
+    """Idempotent migration: entity_relations.annotation holds e.g. ChEMBL potency."""
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(entity_relations)")]
+    if "annotation" not in cols:
+        conn.execute("ALTER TABLE entity_relations ADD COLUMN annotation TEXT")
+
+
+def _format_potency(median_nm, pchembl, n_acts, std_type) -> str:
+    """Human-readable potency annotation for a ChEMBL inhibitor edge."""
+    if median_nm is None:
+        pot = ""
+    elif median_nm < 1:
+        pot = f"{median_nm:.2f} nM"
+    elif median_nm < 1000:
+        pot = f"{median_nm:.0f} nM"
+    else:
+        pot = f"{median_nm/1000:.1f} µM"
+    bits = []
+    if pot:
+        bits.append(f"{std_type} ≈ {pot}")
+    if pchembl is not None:
+        bits.append(f"pChEMBL {pchembl}")
+    bits.append(f"n={n_acts}")
+    return " · ".join(bits) + " (ChEMBL)"
+
+
+def add_chembl_edges(conn: sqlite3.Connection):
+    """Emit directed, potency-annotated inhibitor edges (compound → NQO2) from
+    the `chembl_activities` table. Regenerated every build (the table is the
+    source of truth; see kb/fetch_chembl.py). No-op if the table is absent."""
+    has_table = conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='chembl_activities'"
+    ).fetchone()
+    if not has_table:
+        return
+    nqo2 = _resolve_entity_id(conn, "NQO2")
+    if nqo2 is None:
+        print("  ! ChEMBL edges skipped (NQO2 entity not found)")
+        return
+    inserted = 0
+    for r in conn.execute("""
+        SELECT entity_id, relation, standard_type, median_nm, pchembl_median,
+               n_acts, evidence_pmids
+        FROM chembl_activities WHERE entity_id IS NOT NULL
+    """):
+        src = r["entity_id"]
+        if src == nqo2:
+            continue
+        annotation = _format_potency(r["median_nm"], r["pchembl_median"],
+                                     r["n_acts"], r["standard_type"])
+        # ChEMBL's quantitative edge supersedes any hand-curated inhibitor edge for
+        # the same compound → NQO2 pair, so the graph shows one richer arrow, not two.
+        conn.execute(
+            "DELETE FROM entity_relations WHERE source_id=? AND target_id=? AND edge_kind='curated'",
+            (src, nqo2))
+        conn.execute("""
+            INSERT OR REPLACE INTO entity_relations
+                (source_id, target_id, relation, evidence_pmids, weight,
+                 edge_kind, directed, annotation)
+            VALUES (?, ?, ?, ?, ?, 'chembl', 1, ?)
+        """, (src, nqo2, r["relation"], r["evidence_pmids"] or "[]",
+              max(r["n_acts"] or 1, 1), annotation))
+        inserted += 1
+    print(f"  Added {inserted} ChEMBL inhibitor edges (compound → NQO2, with potency)")
+
+
+def add_omnipath_edges(conn: sqlite3.Connection):
+    """Emit curated signed/directed protein interactions among entities from the
+    `omnipath_interactions` table (SIGNOR/Reactome/etc. via OmniPath). Regenerated
+    every build. A hand-curated or ChEMBL edge for the same ordered pair takes
+    precedence, so the project's core mechanism is never overwritten by an
+    aggregator. No-op if the table is absent."""
+    has_table = conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='omnipath_interactions'"
+    ).fetchone()
+    if not has_table:
+        return
+    inserted = skipped = 0
+    for r in conn.execute("""
+        SELECT source_entity_id, target_entity_id, relation, directed,
+               sources, references_pmids, curation_effort
+        FROM omnipath_interactions
+    """):
+        src, tgt = r["source_entity_id"], r["target_entity_id"]
+        # never override the curated / ChEMBL core for the same ordered pair
+        clash = conn.execute(
+            "SELECT 1 FROM entity_relations WHERE source_id=? AND target_id=? "
+            "AND edge_kind IN ('curated','chembl') LIMIT 1", (src, tgt)).fetchone()
+        if clash:
+            skipped += 1
+            continue
+        pmids = json.loads(r["references_pmids"] or "[]")
+        dbs = [d for d in (r["sources"] or "").split(";") if d]
+        annotation = f"{', '.join(dbs[:4])} · {len(pmids)} refs (OmniPath)"
+        weight = max(r["curation_effort"] or 0, len(pmids), 1)
+        conn.execute("""
+            INSERT OR REPLACE INTO entity_relations
+                (source_id, target_id, relation, evidence_pmids, weight,
+                 edge_kind, directed, annotation)
+            VALUES (?, ?, ?, ?, ?, 'omnipath', ?, ?)
+        """, (src, tgt, r["relation"], json.dumps(pmids[:20]), weight,
+              r["directed"], annotation))
+        inserted += 1
+    print(f"  Added {inserted} OmniPath signed/directed edges "
+          f"({skipped} skipped — curated/ChEMBL takes precedence)")
+
+
+def _resolve_entity_id(conn: sqlite3.Connection, name: str):
+    """Resolve a PATHWAY_EDGES endpoint name to an entity id (by name, then alias)."""
+    row = conn.execute(
+        "SELECT id FROM entities WHERE name = ? COLLATE NOCASE", (name,)
+    ).fetchone()
+    if row:
+        return row["id"]
+    for e in conn.execute("SELECT id, aliases FROM entities").fetchall():
+        aliases = json.loads(e["aliases"] or "[]")
+        if any(name.lower() == a.lower() for a in aliases):
+            return e["id"]
+    return None
+
+
+def add_pathway_edges(conn: sqlite3.Connection):
+    """Insert curated, directed mechanism edges (Part B). Coexist with cooccur edges."""
+    inserted = 0
+    for src_name, tgt_name, relation, directed in PATHWAY_EDGES:
+        src = _resolve_entity_id(conn, src_name)
+        tgt = _resolve_entity_id(conn, tgt_name)
+        if src is None or tgt is None:
+            print(f"  ! curated edge skipped (missing entity): {src_name} -> {tgt_name}")
+            continue
+        # Evidence = papers where both endpoints are mentioned (co-mentions)
+        pmids = [r[0] for r in conn.execute("""
+            SELECT a.pmid FROM paper_entity a
+            JOIN paper_entity b ON a.pmid = b.pmid
+            WHERE a.entity_id = ? AND b.entity_id = ?
+        """, (src, tgt)).fetchall()]
+        conn.execute("""
+            INSERT OR REPLACE INTO entity_relations
+                (source_id, target_id, relation, evidence_pmids, weight, edge_kind, directed)
+            VALUES (?, ?, ?, ?, ?, 'curated', ?)
+        """, (src, tgt, relation, json.dumps(pmids[:20]), max(len(pmids), 1), 1 if directed else 0))
+        inserted += 1
+    print(f"  Added {inserted} curated directed mechanism edges")
 
 
 def export_graph_json(conn: sqlite3.Connection, out_path: str):
@@ -324,13 +511,27 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
             "centrality":   round(centrality.get(node_id, 0), 4),
         })
 
+    # Edges straight from the DB so typed/directed curated edges survive
+    # (an undirected nx.Graph would collapse parallel relations).
     edges = []
-    for u, v, data in G.edges(data=True):
+    for row in conn.execute("""
+        SELECT source_id, target_id, relation, weight, edge_kind, directed, annotation
+        FROM entity_relations
+        WHERE weight >= 2 OR edge_kind IN ('curated', 'chembl', 'omnipath')
+    """):
+        src_name = entity_map.get(row["source_id"], {}).get("name")
+        tgt_name = entity_map.get(row["target_id"], {}).get("name")
+        if not src_name or not tgt_name:
+            continue
         edges.append({
-            "source":   entity_map.get(u, {}).get("name"),
-            "target":   entity_map.get(v, {}).get("name"),
-            "weight":   data.get("weight", 1),
-            "n_papers": data.get("weight", 1),
+            "source":    src_name,
+            "target":    tgt_name,
+            "relation":  row["relation"],
+            "edge_kind": row["edge_kind"],
+            "directed":  bool(row["directed"]),
+            "weight":    row["weight"],
+            "n_papers":  row["weight"],
+            "annotation": row["annotation"],
         })
 
     # Per-cluster stats
@@ -346,7 +547,8 @@ def export_graph_json(conn: sqlite3.Connection, out_path: str):
         "n_edges":       len(edges),
         "cluster_stats": cluster_stats,
         "nodes":         sorted(nodes, key=lambda x: -x["paper_count"]),
-        "edges":         sorted(edges, key=lambda x: -x["weight"])[:500],
+        # curated + ChEMBL + OmniPath mechanism edges first so they survive the 500-edge cap
+        "edges":         sorted(edges, key=lambda x: (x["edge_kind"] not in ("curated", "chembl", "omnipath"), -x["weight"]))[:500],
     }
 
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)

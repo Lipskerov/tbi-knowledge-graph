@@ -114,9 +114,15 @@ def main():
     parser = argparse.ArgumentParser(description="Build TBI knowledge base end-to-end")
     parser.add_argument("--api-key",    default=None, help="NCBI API key (10 req/s vs 3 req/s)")
     parser.add_argument("--dry-run",    action="store_true", help="Show plan only, no fetching")
-    parser.add_argument("--skip-fetch", action="store_true", help="Skip PubMed fetch, rebuild graph only")
+    parser.add_argument("--skip-fetch", action="store_true", help="Skip fetch, rebuild graph/FTS/edges only")
     parser.add_argument("--cluster",    default=None, help="Fetch only this cluster")
     parser.add_argument("--limit",      type=int, default=None, help="Max PMIDs per cluster (for testing)")
+    parser.add_argument("--source",     default="pubmed", choices=["pubmed", "biorxiv", "both"],
+                        help="Where to fetch from (v2.0): pubmed (default), biorxiv, or both")
+    parser.add_argument("--chembl",     action="store_true",
+                        help="Also fetch NQO2 inhibitor bioactivity from ChEMBL (v2.1)")
+    parser.add_argument("--omnipath",   action="store_true",
+                        help="Also fetch signed/directed protein interactions from OmniPath (v2.2)")
     args = parser.parse_args()
 
     db_path   = ROOT / "data" / "tbi_papers.db"
@@ -137,8 +143,14 @@ def main():
     db_path.parent.mkdir(parents=True, exist_ok=True)
     conn = get_db(str(db_path))
     init_schema(conn)
+    # v2.0: one-time backfill of the m2m junction from legacy single-value cluster
+    conn.execute(
+        "INSERT OR IGNORE INTO paper_clusters (pmid, cluster) "
+        "SELECT pmid, topic_cluster FROM papers WHERE topic_cluster IS NOT NULL"
+    )
+    conn.commit()
     conn.close()
-    print("[1/5] Schema initialized")
+    print("[1/5] Schema initialized (paper_clusters backfilled)")
 
     # ── Step 2: Add local PDFs ────────────────────────────────────────────────
     print("\n[2/5] Adding local Rosenblum lab papers...")
@@ -147,25 +159,46 @@ def main():
     else:
         print("  (skipped — dry run)")
 
-    # ── Step 3: Fetch from PubMed ─────────────────────────────────────────────
+    # ── Step 3: Fetch papers (PubMed and/or bioRxiv) ──────────────────────────
     if not args.skip_fetch:
-        print("\n[3/5] Fetching papers from PubMed...")
-        if args.dry_run:
-            print("  (dry run — showing queries only)")
-
         from kb.fetch_papers import CLUSTERS, fetch_cluster
         clusters = {args.cluster: CLUSTERS[args.cluster]} if args.cluster else CLUSTERS
-        for cluster, query in clusters.items():
-            fetch_cluster(cluster, query, str(db_path),
-                          api_key=args.api_key,
-                          limit=args.limit,
-                          dry_run=args.dry_run)
+
+        if args.source in ("pubmed", "both"):
+            print("\n[3/5] Fetching papers from PubMed...")
+            if args.dry_run:
+                print("  (dry run — showing queries only)")
+            for cluster, query in clusters.items():
+                fetch_cluster(cluster, query, str(db_path),
+                              api_key=args.api_key,
+                              limit=args.limit,
+                              dry_run=args.dry_run)
+
+        if args.source in ("biorxiv", "both"):
+            print("\n[3/5] Fetching preprints from bioRxiv (Europe PMC + biorxiv enrich)...")
+            from kb.fetch_preprints import fetch_cluster_preprints
+            for cluster, query in clusters.items():
+                fetch_cluster_preprints(cluster, query, str(db_path),
+                                        limit=args.limit,
+                                        dry_run=args.dry_run)
     else:
-        print("\n[3/5] Skipping PubMed fetch (--skip-fetch)")
+        print("\n[3/5] Skipping fetch (--skip-fetch)")
 
     if args.dry_run:
         print("\nDry run complete. Re-run without --dry-run to fetch.")
         return
+
+    # ── Step 3b: ChEMBL inhibitor bioactivity (v2.1, optional) ────────────────
+    if args.chembl:
+        print("\n[3b] Fetching NQO2 inhibitor bioactivity from ChEMBL...")
+        from kb.fetch_chembl import run as fetch_chembl_run
+        fetch_chembl_run(str(db_path))
+
+    # ── Step 3c: OmniPath signed/directed interactions (v2.2, optional) ───────
+    if args.omnipath:
+        print("\n[3c] Fetching signed/directed interactions from OmniPath...")
+        from kb.fetch_omnipath import run as fetch_omnipath_run
+        fetch_omnipath_run(str(db_path))
 
     # ── Step 4: Build graph ───────────────────────────────────────────────────
     print("\n[4/5] Building knowledge graph...")
@@ -179,6 +212,10 @@ def main():
     entities = load_entities(conn)
     populate_paper_entity(conn, entities)
     build_entity_relations(conn)
+    # v2.0: rebuild the FTS5 full-text index over papers (Part C)
+    conn.execute("INSERT INTO papers_fts(papers_fts) VALUES('rebuild');")
+    conn.commit()
+    print("  Rebuilt papers_fts full-text index")
     export_graph_json(conn, str(graph_out))
     export_paper_summaries(conn, str(md_out))
     conn.close()

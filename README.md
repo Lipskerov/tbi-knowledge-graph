@@ -18,6 +18,58 @@ Built to support a research project on TBI diagnostics at the [Rosenblum Lab](ht
 
 ---
 
+## v2.0 — Containerized web app
+
+v2.0 adds a FastAPI + SQLite-FTS5 web app on top of the same database. See
+[`docs/V2_BUILD_SPEC.md`](docs/V2_BUILD_SPEC.md) for the full spec and
+[`CHANGELOG.md`](CHANGELOG.md) for the full version history.
+
+```bash
+# 1. Rebuild the DB additively (junction table, FTS index, typed edges) — no network
+python build_kb.py --skip-fetch
+
+# 2. (optional) fetch new QR2/NQO2 clusters from PubMed and/or bioRxiv
+python build_kb.py --cluster qr2_inhibitors --api-key <NCBI_KEY>   # PubMed
+python build_kb.py --source biorxiv                                # bioRxiv (Europe PMC + api.biorxiv.org)
+
+# 3. Build & run the app
+docker compose up --build      # → http://localhost:8000
+```
+
+**What's new**
+- **Click a node → its papers** with DOI / PubMed / bioRxiv links (`/api/node/{id}/papers`).
+- **Full-text search** over all abstracts via SQLite FTS5 (`/api/search`).
+- **Typed, directed mechanism edges** (e.g. `S29434 —inhibits→ NQO2`) alongside co-occurrence edges.
+- **Multi-cluster faceting** via a `paper_clusters` junction table (a paper can be in many clusters).
+- **bioRxiv preprints** ingested into the same graph (tagged `source='biorxiv'`).
+- Endpoints: `/api/stats`, `/api/graph`, `/api/node/{id}/papers`, `/api/entity/{id}`, `/api/search`.
+
+The v1.0 CLI (`kb/query_kb.py`), the static `visualize_graph.py` export, and the daily-sync
+GitHub Action are unchanged — v2.0 is purely additive.
+
+### Authentication (shared lab password)
+
+The app is gated behind a **single shared password**. Set or rotate it (this also
+generates a persistent session secret on first run), then restart:
+
+```bash
+python -m app.auth set-password           # prompts for the password (hidden)
+docker compose up -d --build              # restart to apply
+```
+
+Secrets are written to a **gitignored `.env`** (`TBI_AUTH_PASSWORD_HASH`,
+`TBI_SESSION_SECRET`) and injected via compose `env_file` — never committed, never
+baked into the image. Passwords are stored only as a salted PBKDF2-HMAC-SHA256 hash;
+the session is a signed HttpOnly cookie (8 h). Members sign in at `/login`; `/logout`
+ends the session.
+
+> ⚠️ **No TLS yet.** The login is currently served over HTTP, so the password is
+> cleartext on the wire — acceptable only on the firewall-restricted lab subnet.
+> Add an HTTPS reverse proxy (Caddy) and set `TBI_HTTPS_ONLY=1` before any wider
+> exposure. See [`CHANGELOG.md`](CHANGELOG.md) for the full security notes.
+
+---
+
 ## Quick start
 
 ```bash
@@ -286,7 +338,15 @@ Python 3.10+. No other dependencies — uses only `sqlite3` from the standard li
 
 ## Data sources
 
-All papers fetched from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) via the NCBI E-utilities API. Three foundational papers from the Rosenblum lab are pre-loaded:
+Papers are fetched from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) (NCBI E-utilities)
+and [bioRxiv](https://www.biorxiv.org/) (via Europe PMC). Quantitative NQO2 inhibitor
+bioactivity (IC50/Ki/Kd) is pulled from [ChEMBL](https://www.ebi.ac.uk/chembl/)
+(`kb/fetch_chembl.py`; `python build_kb.py --chembl`) and added as directed,
+potency-annotated `compound → NQO2` edges. Curated **signed/directed** protein
+interactions among the entities (who activates/inhibits whom) come from
+[OmniPath](https://omnipathdb.org/) — aggregating SIGNOR, Reactome, SignaLink and
+others (`kb/fetch_omnipath.py`; `python build_kb.py --omnipath`). Three foundational
+papers from the Rosenblum lab are pre-loaded:
 
 - Gould et al., *eNeuro* 2021 — QR2 in SST interneurons and taste memory
 - Gould et al., *JCI* 2022 — QR2 inhibitors reverse AD phenotype in 5xFAD mice
