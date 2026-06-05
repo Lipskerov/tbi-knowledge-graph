@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-04*
-*Total papers: 3368*
+*Generated: 2026-06-05*
+*Total papers: 3370*
 
 
 ## Cluster: aging_neuro
@@ -4540,6 +4540,13 @@
 **PMID:** 17822846  
 **Entities:** tau, Alzheimer  
 **Abstract:** Evidence was recently presented from in vitro studies that 24S-hydroxycholesterol acts as a signalling molecule inducing apoE-mediated cholesterol efflux from astrocytoma cells, and that there is a di...
+
+### Alteration of peripheral markers of copper homeostasis in Alzheimer's disease patients: implications in aetiology and therapy.
+**Authors:** Rossi L, Squitti R, Calabrese L, Rotilio G, Rossini PM  
+**Journal:** The journal of nutrition, health & aging (2007)  
+**PMID:** 17657362  
+**Entities:** ROS, oxidative stress, Alzheimer  
+**Abstract:** Alzheimer's disease represents a growing health problem because of the ongoing increase in life expectancy. Therefore understanding the molecular alterations responsible for neurodegeneration has beco...
 
 ### Oxidative stress and brain aging: is zinc the link?
 **Authors:** Frazzini V, Rockabrand E, Mocchegiani E, Sensi SL  
@@ -20471,6 +20478,13 @@
 **PMID:** 42204700  **DOI:** 10.1186/s12974-026-03846-8
 **Entities:** IL-6, TBI, aging  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) of any severity is associated with long-term systemic inflammation and increased risk of peripheral comorbidities, yet the mechanisms driving immune dysregulat...
+
+### Protein Predictors of Worsening Cerebral Edema in Traumatic Brain Injury in Critically Ill Patients.
+**Authors:** Radabaugh HL, Abdelhak A, Ning K, Jha RM, Rowell SE et al.  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42244667  **DOI:** 10.64898/2026.05.23.727416
+**Entities:** GFAP, NfL, TBI, Olink  
+**Abstract:** Cerebral edema (CE) is a major determinant of poor outcomes after traumatic brain injury (TBI). CE affects approximately 60% of patients with mass lesions on head computed tomography (hCT) and confers...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
