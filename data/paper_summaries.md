@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-05*
-*Total papers: 3370*
+*Generated: 2026-06-06*
+*Total papers: 3371*
 
 
 ## Cluster: aging_neuro
@@ -8676,6 +8676,13 @@
 **PMID:** 32326450  **DOI:** 10.3390/cells9040977
 **Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** Brain injury exosomal proteins are promising blood biomarker candidates in traumatic brain injury (TBI). A better understanding of their role in the diagnosis, characterization, and management of TBI ...
+
+### Case Study of a Breacher: Investigation of Neurotrauma Biomarker Levels, Self-reported Symptoms, and Functional MRI Analysis Before and After Exposure to Measured Low-Level Blast.
+**Authors:** Eonta SE, Kamimori GH, Wang KKW, Carr W, LaValle CR et al.  
+**Journal:** Military medicine (2020)  
+**PMID:** 31429467  **DOI:** 10.1093/milmed/usz185
+**Entities:** GFAP, mTBI, TBI  
+**Abstract:** We report a case study on a single military member who received moderate blast overpressure (OP) exposure during routine breacher training. We extend previous research on blast exposure during trainin...
 
 ### Multi-Biomarker Detection Following Traumatic Brain Injury.
 **Authors:** Cardinell BA, Addington CP, Stabenfeldt SE, La Belle JT  

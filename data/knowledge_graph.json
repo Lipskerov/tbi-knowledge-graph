@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-05T10:53:37.882135",
-  "n_papers": 3370,
+  "generated_at": "2026-06-06T09:30:00.678671",
+  "n_papers": 3371,
   "n_entities": 115,
   "n_edges": 640,
   "cluster_stats": {
     "aging_neuro": 702,
     "exosomal_rna": 294,
-    "gfap_uchl1": 338,
+    "gfap_uchl1": 339,
     "nfl_tau": 269,
     "nqo2": 374,
     "ppcs_prognosis": 292,
@@ -20,14 +20,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1815,
+      "paper_count": 1816,
       "centrality": 0.3947
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1043,
+      "paper_count": 1044,
       "centrality": 0.3333
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 450,
+      "paper_count": 451,
       "centrality": 0.2895
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 761.0,
-      "n_papers": 761.0,
+      "weight": 762.0,
+      "n_papers": 762.0,
       "annotation": null
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 373.0,
-      "n_papers": 373.0,
+      "weight": 374.0,
+      "n_papers": 374.0,
       "annotation": null
     },
     {
@@ -1834,18 +1834,18 @@
       "annotation": null
     },
     {
-      "source": "TBI",
-      "target": "Alzheimer",
+      "source": "GFAP",
+      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 184.0,
-      "n_papers": 184.0,
+      "weight": 185.0,
+      "n_papers": 185.0,
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "mTBI",
+      "source": "TBI",
+      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

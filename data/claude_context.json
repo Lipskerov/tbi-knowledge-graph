@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3370,
+  "n_papers": 3371,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1815
+      "paper_count": 1816
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1043
+      "paper_count": 1044
     },
     {
       "name": "Alzheimer",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 450
+      "paper_count": 451
     },
     {
       "name": "tau",
@@ -947,12 +947,12 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 761.0
+      "weight": 762.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 373.0
+      "weight": 374.0
     },
     {
       "source": "Alzheimer",
@@ -985,13 +985,13 @@
       "weight": 186.0
     },
     {
-      "source": "TBI",
-      "target": "Alzheimer",
-      "weight": 184.0
-    },
-    {
       "source": "GFAP",
       "target": "mTBI",
+      "weight": 185.0
+    },
+    {
+      "source": "TBI",
+      "target": "Alzheimer",
       "weight": 184.0
     },
     {
