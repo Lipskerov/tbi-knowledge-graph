@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3371,
+  "n_papers": 3372,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -805,12 +805,12 @@
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 641
+      "paper_count": 642
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 614
+      "paper_count": 615
     },
     {
       "name": "GFAP",
@@ -830,7 +830,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 305
+      "paper_count": 306
     },
     {
       "name": "NfL",
@@ -865,7 +865,7 @@
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 134
+      "paper_count": 135
     },
     {
       "name": "NQO1",
@@ -957,7 +957,7 @@
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 327.0
+      "weight": 328.0
     },
     {
       "source": "ROS",
@@ -1052,7 +1052,7 @@
     {
       "source": "neuroinflammation",
       "target": "aging",
-      "weight": 115.0
+      "weight": 116.0
     },
     {
       "source": "NQO2",
@@ -1062,7 +1062,7 @@
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 113.0
+      "weight": 114.0
     },
     {
       "source": "PERK",

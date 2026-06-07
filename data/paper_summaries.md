@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-06*
-*Total papers: 3371*
+*Generated: 2026-06-07*
+*Total papers: 3372*
 
 
 ## Cluster: aging_neuro
@@ -305,6 +305,13 @@
 **PMID:** biorxiv:10.1101/2025.03.28.645908  **DOI:** 10.1101/2025.03.28.645908
 **Entities:** aging  
 **Abstract:** The operation of the human brain relies on functional networks enabled by inter-areal oscillatory synchronization between neuronal populations. Although disruptions in this functional connectivity are...
+
+### Chronic periodontitis and systemic inflammation in the elderly: implications for neurodegeneration.
+**Authors:** Kwon HJ, Ahn JH, Won MH, Kim DW  
+**Journal:** Journal of neuroinflammation (2026)  
+**PMID:** 41612446  **DOI:** 10.1186/s12974-025-03664-4
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Chronic periodontitis is increasingly recognized as a potential upstream contributor to neurodegenerative processes through sustained systemic inflammation, microbial dysbiosis, and blood-brain barrie...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
