@@ -45,6 +45,30 @@ def _has_col(conn: sqlite3.Connection, table: str, col: str) -> bool:
 # Edge kinds rendered as directed mechanism links (always shown, ignore min_edge).
 MECH_KINDS = ("curated", "chembl", "omnipath")
 
+# The canonical NQO2 / QR2 pathway node set (the "amber" pathway from the v1
+# visualizer). Matched case-insensitively against each entity's name and aliases.
+NQO2_PATHWAY = {
+    "nqo2", "nqo1", "nrh", "mir-182", "ros", "kv2.1", "dopamine", "drd1",
+    "camp", "camp/pka", "nrf2", "ho-1", "sod", "glutathione", "eif2α", "eif2a",
+    "pkr", "perk", "eef2", "atf4", "chop", "s29434", "quercetin", "resveratrol",
+    "qr2 inhibitor", "4-hne", "catalase",
+}
+
+
+def _pathway_ids(conn: sqlite3.Connection) -> set[int]:
+    """Entity ids whose name or any alias is in the NQO2/QR2 pathway set."""
+    import json
+    ids: set[int] = set()
+    for r in conn.execute("SELECT id, name, aliases FROM entities"):
+        names = [(r["name"] or "").lower()]
+        try:
+            names += [str(a).lower() for a in json.loads(r["aliases"] or "[]")]
+        except (ValueError, TypeError):
+            pass
+        if any(n in NQO2_PATHWAY for n in names):
+            ids.add(r["id"])
+    return ids
+
 
 # ── /api/stats ──────────────────────────────────────────────────────────────────
 
@@ -87,11 +111,15 @@ def stats() -> dict:
 def graph(min_papers: int = 0, min_edge: int = 1, types: str | None = None,
           clusters: str | None = None, disease: str | None = None,
           q: str | None = None, year_min: int | None = None,
-          year_max: int | None = None) -> dict:
+          year_max: int | None = None, pathway: str | None = None) -> dict:
     conn = connect()
     try:
         type_list    = _split(types)
         cluster_list = _split(clusters)
+
+        # QR2/NQO2 pathway: annotate every node, and optionally restrict to it.
+        pathway_set    = _pathway_ids(conn)
+        pathway_filter = bool(pathway) and pathway.lower() in ("qr2", "nqo2", "1", "true", "yes")
 
         # Year window. When set, both the per-node paper counts and the
         # co-occurrence edges are scoped to papers published in [min, max], so the
@@ -177,8 +205,11 @@ def graph(min_papers: int = 0, min_edge: int = 1, types: str | None = None,
                 continue
             if disease_set is not None and eid not in disease_set:
                 continue
+            if pathway_filter and eid not in pathway_set:
+                continue
             active.add(eid)
-            nodes.append({"id": eid, "name": row["name"], "type": row["type"], "paper_count": pc})
+            nodes.append({"id": eid, "name": row["name"], "type": row["type"],
+                          "paper_count": pc, "pathway": eid in pathway_set})
 
         has_ann = _has_col(conn, "entity_relations", "annotation")
         ann_sel = ", annotation" if has_ann else ""
@@ -237,32 +268,36 @@ def graph(min_papers: int = 0, min_edge: int = 1, types: str | None = None,
 # ── /api/node/{id}/papers ───────────────────────────────────────────────────────
 
 def node_papers(entity_id: int, year_min: int | None = None, year_max: int | None = None,
-                cluster: str | None = None, limit: int = 50) -> dict:
+                cluster: str | None = None, limit: int = 50, offset: int = 0) -> dict:
     conn = connect()
     try:
         ent = conn.execute("SELECT id, name, type FROM entities WHERE id=?", (entity_id,)).fetchone()
         if not ent:
             return {"error": f"entity {entity_id} not found"}
 
-        sql = [
-            "SELECT p.pmid, p.title, p.authors, p.journal, p.year, p.doi, p.source, pe.relation,",
-            " (SELECT GROUP_CONCAT(cluster) FROM paper_clusters WHERE pmid = p.pmid) AS clusters",
-            "FROM paper_entity pe JOIN papers p ON p.pmid = pe.pmid",
-            "WHERE pe.entity_id = ?",
-        ]
-        params: list = [entity_id]
+        where = ["FROM paper_entity pe JOIN papers p ON p.pmid = pe.pmid",
+                 "WHERE pe.entity_id = ?"]
+        wparams: list = [entity_id]
         if year_min is not None:
-            sql.append("AND p.year >= ?"); params.append(year_min)
+            where.append("AND p.year >= ?"); wparams.append(year_min)
         if year_max is not None:
-            sql.append("AND p.year <= ?"); params.append(year_max)
+            where.append("AND p.year <= ?"); wparams.append(year_max)
         if cluster:
-            sql.append("AND EXISTS (SELECT 1 FROM paper_clusters pc "
-                       "WHERE pc.pmid = p.pmid AND pc.cluster = ?)")
-            params.append(cluster)
-        sql.append("ORDER BY p.year DESC LIMIT ?"); params.append(limit)
+            where.append("AND EXISTS (SELECT 1 FROM paper_clusters pc "
+                         "WHERE pc.pmid = p.pmid AND pc.cluster = ?)")
+            wparams.append(cluster)
+        where_sql = " ".join(where)
 
-        papers = [_paper_row(r) for r in conn.execute(" ".join(sql), params)]
-        return {"entity": ent["name"], "type": ent["type"], "n_papers": len(papers), "papers": papers}
+        total = conn.execute(f"SELECT COUNT(*) {where_sql}", wparams).fetchone()[0]
+
+        page_sql = (
+            "SELECT p.pmid, p.title, p.authors, p.journal, p.year, p.doi, p.source, pe.relation, "
+            " (SELECT GROUP_CONCAT(cluster) FROM paper_clusters WHERE pmid = p.pmid) AS clusters "
+            f"{where_sql} ORDER BY p.year DESC LIMIT ? OFFSET ?"
+        )
+        papers = [_paper_row(r) for r in conn.execute(page_sql, [*wparams, limit, offset])]
+        return {"entity": ent["name"], "type": ent["type"], "total": total,
+                "offset": offset, "n_papers": len(papers), "papers": papers}
     finally:
         conn.close()
 

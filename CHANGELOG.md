@@ -11,6 +11,20 @@ Dates are ISO-8601 (`YYYY-MM-DD`). Paper counts reflect the database at each rel
 
 ## [Unreleased]
 
+### Changed — Search now filters the graph (was: highlight only)
+- Searching re-renders the graph to show **only** the nodes hit by the query (via the
+  existing `q` graph param), instead of dimming non-matches. The matching papers still
+  list in the detail panel. Reset/empty search restores the full graph.
+
+### Added — Paged paper list for nodes
+- `GET /api/node/{id}/papers` gained `offset` and returns `total`; clicking a node now
+  shows a **Load more** list (50/page), year-scoped — same pager as the edge view.
+
+### Added — QR2 / NQO2 pathway highlight & filter
+- Every `/api/graph` node carries a `pathway` flag (the canonical NQO2/QR2 "amber" set:
+  27 entities matched by name/alias). New sidebar controls: **Highlight pathway (amber)**
+  (recolours pathway nodes in place) and **Show pathway only** (`pathway=qr2` graph filter).
+
 ### Added — Click an edge to see shared papers (paged)
 - New `GET /api/edge/{a}/{b}/papers`: papers in which the two endpoint entities
   **co-occur**, newest first, year-scoped (`year_min`/`year_max`) and **paged**

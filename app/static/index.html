@@ -49,6 +49,10 @@
       <label class="facet-label" for="f-disease">Focus disease</label>
       <select id="f-disease"><option value="">— none —</option></select>
 
+      <label class="facet-label">QR2 / NQO2 pathway</label>
+      <label class="check"><input type="checkbox" id="qr2-highlight" /> Highlight pathway (amber)</label>
+      <label class="check"><input type="checkbox" id="qr2-only" /> Show pathway only</label>
+
       <label class="facet-label" for="f-phase">Phase</label>
       <select id="f-phase" disabled title="Reserved for the BIKO annotation track (v2.1)">
         <option value="">— n/a —</option>
@@ -68,6 +72,7 @@
         <div><span class="swatch chembl"></span> ChEMBL inhibitor (potency)</div>
         <div><span class="swatch omnipath"></span> OmniPath interaction (signed)</div>
         <div><span class="swatch cooccur"></span> co-occurrence</div>
+        <div><span class="swatch dot-pathway"></span> QR2/NQO2 pathway node (when highlighted)</div>
       </div>
     </aside>
 

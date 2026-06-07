@@ -15,12 +15,20 @@ const TYPE_COLORS = {
   other:      "#90a4ae",
 };
 
+const PATHWAY_COLOR = "#ffb02e";   // amber for QR2/NQO2 pathway nodes when highlighted
+const PATHWAY_BORDER = "#ffe08a";
+
 let network = null;
 let nodesDS = null;
 let edgesDS = null;
 let allNodeIds = [];
 let tomTypes = null, tomClusters = null;
 let physicsOn = true;   // false = frozen layout: drag nodes and they stay put
+let qr2Highlight = false;   // amber-highlight the QR2/NQO2 pathway nodes
+
+function nodeBg(n) {
+  return (qr2Highlight && n.pathway) ? PATHWAY_COLOR : (TYPE_COLORS[n.type] || TYPE_COLORS.other);
+}
 
 // ── boot ─────────────────────────────────────────────────────────────────────
 window.addEventListener("DOMContentLoaded", async () => {
@@ -63,6 +71,10 @@ function wireControls() {
     el.addEventListener("change", loadGraph);
     el.addEventListener("keydown", (e) => { if (e.key === "Enter") loadGraph(); });
   });
+
+  // QR2/NQO2 pathway: highlight (re-colour in place) and filter (reload graph).
+  document.getElementById("qr2-highlight").addEventListener("change", applyPathwayHighlight);
+  document.getElementById("qr2-only").addEventListener("change", loadGraph);
 }
 
 // ── data loads ───────────────────────────────────────────────────────────────
@@ -114,6 +126,11 @@ function currentFilters() {
   const ymax = val("year-max");
   if (ymin) p.set("year_min", ymin);
   if (ymax) p.set("year_max", ymax);
+  // Search text filters the graph to matching nodes (not just highlight).
+  const q = val("search-input").trim();
+  if (q) p.set("q", q);
+  // QR2/NQO2 pathway-only filter.
+  if (document.getElementById("qr2-only").checked) p.set("pathway", "qr2");
   p.set("min_papers", val("f-minpapers"));
   p.set("min_edge", val("f-minedge"));
   return p;
@@ -142,15 +159,20 @@ function populateTypeAndDiseaseFacets(nodes) {
 
 // ── graph rendering ──────────────────────────────────────────────────────────
 function renderGraph(g) {
-  const nodes = g.nodes.map((n) => ({
-    id: n.id,
-    label: n.name,
-    title: `${n.name} · ${n.type} · ${n.paper_count} papers`,
-    value: Math.max(n.paper_count, 1),
-    group: n.type,
-    color: { background: TYPE_COLORS[n.type] || TYPE_COLORS.other, border: "#0c1117" },
-    font: { color: "#e6edf3" },
-  }));
+  const nodes = g.nodes.map((n) => {
+    const onP = qr2Highlight && n.pathway;
+    return {
+      id: n.id,
+      label: n.name,
+      title: `${n.name} · ${n.type} · ${n.paper_count} papers${n.pathway ? " · QR2 pathway" : ""}`,
+      value: Math.max(n.paper_count, 1),
+      group: n.type,
+      pathway: !!n.pathway,
+      color: { background: nodeBg(n), border: onP ? PATHWAY_BORDER : "#0c1117" },
+      borderWidth: onP ? 3 : 1.5,
+      font: { color: "#e6edf3" },
+    };
+  });
 
   // edge styling by provenance: solid orange = curated, dashed green = ChEMBL,
   // finely-dashed blue = OmniPath, faint grey = co-occurrence.
@@ -235,79 +257,108 @@ function highlightNodes(ids) {
   })));
 }
 
-// ── detail panel ─────────────────────────────────────────────────────────────
+// Re-colour the QR2/NQO2 pathway nodes amber (or back to type colour) in place,
+// without re-fetching the graph.
+function applyPathwayHighlight() {
+  qr2Highlight = document.getElementById("qr2-highlight").checked;
+  if (!nodesDS) return;
+  nodesDS.update(nodesDS.getIds().map((id) => {
+    const n = nodesDS.get(id);
+    const onP = qr2Highlight && n.pathway;
+    return {
+      id,
+      color: { background: onP ? PATHWAY_COLOR : (TYPE_COLORS[n.group] || TYPE_COLORS.other),
+               border: onP ? PATHWAY_BORDER : "#0c1117" },
+      borderWidth: onP ? 3 : 1.5,
+    };
+  }));
+}
+
+// ── detail panel: paged paper lists ──────────────────────────────────────────
+// One shared pager drives both the node view and the edge (shared-papers) view.
+// `pager.fetchPage(offset)` returns {papers, total}; results append via "Load more".
+const PAGE = 50;
+let pager = null;
+
+function yearParams(p) {
+  const ymin = document.getElementById("year-min").value;
+  const ymax = document.getElementById("year-max").value;
+  if (ymin) p.set("year_min", ymin);
+  if (ymax) p.set("year_max", ymax);
+  return p;
+}
+
+function yearSpanLabel() {
+  const ymin = document.getElementById("year-min").value;
+  const ymax = document.getElementById("year-max").value;
+  return (ymin || ymax) ? ` <span class="meta">(${ymin || "…"}–${ymax || "…"})</span>` : "";
+}
+
+function papersBlock(title) {
+  return `<div class="papers"><h4>${esc(title)}</h4><div id="paper-list"></div>` +
+    `<button id="more-btn" class="ghost" type="button" style="display:none;margin-top:8px">Load more</button></div>`;
+}
+
+function syncMoreBtn(total) {
+  const btn = document.getElementById("more-btn");
+  if (!btn) return;
+  const remaining = total - pager.offset;
+  if (remaining > 0) { btn.style.display = ""; btn.textContent = `Load more (${remaining} more)`; }
+  else btn.style.display = "none";
+}
+
+async function loadMore() {
+  if (!pager) return;
+  const res = await pager.fetchPage(pager.offset);
+  document.getElementById("paper-list").insertAdjacentHTML("beforeend", papersItems(res.papers));
+  pager.offset += res.papers.length;
+  syncMoreBtn(res.total);
+}
+
+// Render the first page into #paper-list and wire the Load-more button.
+function mountFirstPage(res) {
+  pager.offset = res.papers.length;
+  document.getElementById("paper-list").innerHTML =
+    papersItems(res.papers) || '<div class="placeholder">No papers.</div>';
+  document.getElementById("more-btn").addEventListener("click", loadMore);
+  syncMoreBtn(res.total);
+}
+
 async function openNode(entityId) {
   const panel = document.getElementById("detail");
   panel.innerHTML = `<div class="placeholder">Loading…</div>`;
+  pager = { offset: 0, fetchPage: (off) => {
+    const p = yearParams(new URLSearchParams());
+    p.set("limit", PAGE); p.set("offset", off);
+    return getJSON(`/api/node/${entityId}/papers?` + p.toString());
+  }};
   try {
-    const [ent, pap] = await Promise.all([
-      getJSON(`/api/entity/${entityId}`),
-      getJSON(`/api/node/${entityId}/papers?limit=50`),
-    ]);
-    panel.innerHTML = renderEntity(ent) + renderPapers(pap.papers, `Papers (${pap.n_papers})`);
+    const [ent, first] = await Promise.all([getJSON(`/api/entity/${entityId}`), pager.fetchPage(0)]);
+    panel.innerHTML = renderEntity(ent) + papersBlock(`Papers (${first.total})${yearSpanLabel()}`);
+    mountFirstPage(first);
   } catch (e) {
     panel.innerHTML = `<div class="placeholder">Error: ${e.message}</div>`;
   }
 }
 
-// Click an edge → papers where the two endpoint entities co-occur. Honours the
-// current year range so the shared-paper list matches the filtered graph, and
-// pages through results 50 at a time via a "Load more" button.
-const EDGE_PAGE = 50;
-let edgeState = null;
-
-async function fetchEdgePage() {
-  const p = new URLSearchParams();
-  if (edgeState.ymin) p.set("year_min", edgeState.ymin);
-  if (edgeState.ymax) p.set("year_max", edgeState.ymax);
-  p.set("limit", EDGE_PAGE);
-  p.set("offset", edgeState.offset);
-  return getJSON(`/api/edge/${edgeState.a}/${edgeState.b}/papers?` + p.toString());
-}
-
-function updateMoreBtn(total) {
-  const btn = document.getElementById("more-btn");
-  if (!btn) return;
-  const remaining = total - edgeState.offset;
-  if (remaining > 0) {
-    btn.style.display = "";
-    btn.textContent = `Load more (${remaining} more)`;
-  } else {
-    btn.style.display = "none";
-  }
-}
-
-async function loadMoreEdge() {
-  const res = await fetchEdgePage();
-  document.getElementById("edge-papers").insertAdjacentHTML("beforeend", papersItems(res.papers));
-  edgeState.offset += res.papers.length;
-  updateMoreBtn(res.total);
-}
-
+// Click an edge → papers where the two endpoint entities co-occur, year-scoped
+// and paged like the node view.
 async function openEdge(aId, bId) {
   const panel = document.getElementById("detail");
   panel.innerHTML = `<div class="placeholder">Loading…</div>`;
-  edgeState = {
-    a: aId, b: bId, offset: 0,
-    ymin: document.getElementById("year-min").value,
-    ymax: document.getElementById("year-max").value,
-  };
+  pager = { offset: 0, fetchPage: (off) => {
+    const p = yearParams(new URLSearchParams());
+    p.set("limit", PAGE); p.set("offset", off);
+    return getJSON(`/api/edge/${aId}/${bId}/papers?` + p.toString());
+  }};
   try {
-    const res = await fetchEdgePage();
-    edgeState.offset = res.papers.length;
-    const span = (edgeState.ymin || edgeState.ymax)
-      ? ` <span class="meta">(${edgeState.ymin || "…"}–${edgeState.ymax || "…"})</span>` : "";
+    const res = await pager.fetchPage(0);
     panel.innerHTML =
       `<div class="detail-head"><div class="type">co-occurrence</div>` +
       `<h2>${esc(res.a)} ↔ ${esc(res.b)}</h2>` +
-      `<div class="aliases">${res.total} shared paper${res.total === 1 ? "" : "s"}${span}</div></div>` +
-      `<div class="papers"><h4>Shared papers</h4>` +
-      `<div id="edge-papers">${papersItems(res.papers) || '<div class="placeholder">No papers.</div>'}</div>` +
-      `<button id="more-btn" class="ghost" type="button" style="display:none;margin-top:8px">Load more</button>` +
-      `</div>`;
-    const btn = document.getElementById("more-btn");
-    if (btn) btn.addEventListener("click", loadMoreEdge);
-    updateMoreBtn(res.total);
+      `<div class="aliases">${res.total} shared paper${res.total === 1 ? "" : "s"}${yearSpanLabel()}</div></div>` +
+      papersBlock("Shared papers");
+    mountFirstPage(res);
   } catch (e) {
     panel.innerHTML = `<div class="placeholder">Error: ${e.message}</div>`;
   }
@@ -367,22 +418,24 @@ function renderPapers(papers, title) {
 }
 
 // ── search ───────────────────────────────────────────────────────────────────
+// Search now FILTERS the graph to the matching nodes (via the q graph param in
+// currentFilters), then lists the matching papers in the detail panel.
 async function runSearch() {
   const q = document.getElementById("search-input").value.trim();
-  if (!q) { highlightNodes([]); return; }
-  const p = new URLSearchParams({ q });
-  const ymin = document.getElementById("year-min").value;
-  const ymax = document.getElementById("year-max").value;
+  await loadGraph();   // re-renders the graph restricted to nodes hit by q
+  if (!q) {
+    document.getElementById("detail").innerHTML =
+      `<div class="placeholder">Click a node to see its papers and mechanism links.</div>`;
+    return;
+  }
+  const p = yearParams(new URLSearchParams({ q }));
   const clusters = tomClusters ? tomClusters.getValue() : [];
-  if (ymin) p.set("year_min", ymin);
-  if (ymax) p.set("year_max", ymax);
   if (clusters.length) p.set("clusters", clusters.join(","));
 
   const res = await getJSON("/api/search?" + p.toString());
-  highlightNodes(res.node_ids || []);
   document.getElementById("detail").innerHTML =
     `<div class="detail-head"><h2>Search</h2><div class="aliases">“${esc(q)}” — ${res.n_results} hits, ` +
-    `${(res.node_ids || []).length} nodes highlighted</div></div>` +
+    `${(res.node_ids || []).length} nodes shown</div></div>` +
     renderPapers(res.papers, "Matching papers");
 }
 
@@ -395,6 +448,9 @@ function resetAll() {
   document.getElementById("f-minedge").value = 1;
   document.getElementById("mp-val").textContent = "0";
   document.getElementById("me-val").textContent = "1";
+  document.getElementById("qr2-highlight").checked = false;
+  document.getElementById("qr2-only").checked = false;
+  qr2Highlight = false;
   if (tomTypes) tomTypes.clear();
   if (tomClusters) tomClusters.clear();
   document.getElementById("detail").innerHTML =

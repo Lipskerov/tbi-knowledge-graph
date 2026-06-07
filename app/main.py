@@ -115,10 +115,11 @@ def api_graph(
     q: str | None = None,
     year_min: int | None = None,
     year_max: int | None = None,
+    pathway: str | None = None,
 ):
     return db.graph(min_papers=min_papers, min_edge=min_edge, types=types,
                     clusters=clusters, disease=disease, q=q,
-                    year_min=year_min, year_max=year_max)
+                    year_min=year_min, year_max=year_max, pathway=pathway)
 
 
 @app.get("/api/node/{entity_id}/papers")
@@ -128,9 +129,10 @@ def api_node_papers(
     year_max: int | None = None,
     cluster: str | None = None,
     limit: int = 50,
+    offset: int = 0,
 ):
     result = db.node_papers(entity_id, year_min=year_min, year_max=year_max,
-                            cluster=cluster, limit=limit)
+                            cluster=cluster, limit=limit, offset=offset)
     if "error" in result:
         return JSONResponse(result, status_code=404)
     return result
