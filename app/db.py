@@ -267,6 +267,53 @@ def node_papers(entity_id: int, year_min: int | None = None, year_max: int | Non
         conn.close()
 
 
+# ── /api/edge/{a}/{b}/papers ────────────────────────────────────────────────────
+
+def edge_papers(a_id: int, b_id: int, year_min: int | None = None,
+                year_max: int | None = None, limit: int = 50, offset: int = 0) -> dict:
+    """Papers in which entities a and b co-occur (both mentioned in the paper).
+
+    Paged: returns `total` (all matching papers) plus the `papers` slice for the
+    given limit/offset, newest first.
+    """
+    conn = connect()
+    try:
+        ea = conn.execute("SELECT name, type FROM entities WHERE id=?", (a_id,)).fetchone()
+        eb = conn.execute("SELECT name, type FROM entities WHERE id=?", (b_id,)).fetchone()
+        if not ea or not eb:
+            return {"error": "one or both entities not found"}
+
+        # Shared WHERE fragment (the co-occurrence join + year window).
+        where = [
+            "FROM papers p",
+            "JOIN paper_entity pa ON pa.pmid = p.pmid AND pa.entity_id = ?",
+            "JOIN paper_entity pb ON pb.pmid = p.pmid AND pb.entity_id = ?",
+            "WHERE 1=1",
+        ]
+        wparams: list = [a_id, b_id]
+        if year_min is not None:
+            where.append("AND p.year >= ?"); wparams.append(year_min)
+        if year_max is not None:
+            where.append("AND p.year <= ?"); wparams.append(year_max)
+        where_sql = " ".join(where)
+
+        total = conn.execute(f"SELECT COUNT(*) {where_sql}", wparams).fetchone()[0]
+
+        page_sql = (
+            "SELECT p.pmid, p.title, p.authors, p.journal, p.year, p.doi, p.source, "
+            " (SELECT GROUP_CONCAT(cluster) FROM paper_clusters WHERE pmid = p.pmid) AS clusters "
+            f"{where_sql} ORDER BY p.year DESC LIMIT ? OFFSET ?"
+        )
+        papers = [_paper_row(r) for r in conn.execute(page_sql, [*wparams, limit, offset])]
+        return {
+            "a": ea["name"], "b": eb["name"],
+            "total": total, "offset": offset,
+            "n_papers": len(papers), "papers": papers,
+        }
+    finally:
+        conn.close()
+
+
 def _paper_row(r: sqlite3.Row) -> dict:
     """Shape a paper row + build PubMed/DOI/bioRxiv links by source."""
     pmid, source, doi = r["pmid"], (r["source"] or "pubmed"), r["doi"]

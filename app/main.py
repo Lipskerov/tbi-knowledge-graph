@@ -136,6 +136,22 @@ def api_node_papers(
     return result
 
 
+@app.get("/api/edge/{a_id}/{b_id}/papers")
+def api_edge_papers(
+    a_id: int,
+    b_id: int,
+    year_min: int | None = None,
+    year_max: int | None = None,
+    limit: int = 50,
+    offset: int = 0,
+):
+    result = db.edge_papers(a_id, b_id, year_min=year_min, year_max=year_max,
+                            limit=limit, offset=offset)
+    if "error" in result:
+        return JSONResponse(result, status_code=404)
+    return result
+
+
 @app.get("/api/entity/{entity_id}")
 def api_entity(entity_id: int):
     result = db.entity(entity_id)

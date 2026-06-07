@@ -200,6 +200,10 @@ function renderGraph(g) {
   });
   network.on("click", (params) => {
     if (params.nodes.length) openNode(params.nodes[0]);
+    else if (params.edges.length) {
+      const e = edgesDS.get(params.edges[0]);
+      if (e) openEdge(e.from, e.to);
+    }
   });
 }
 
@@ -246,6 +250,69 @@ async function openNode(entityId) {
   }
 }
 
+// Click an edge → papers where the two endpoint entities co-occur. Honours the
+// current year range so the shared-paper list matches the filtered graph, and
+// pages through results 50 at a time via a "Load more" button.
+const EDGE_PAGE = 50;
+let edgeState = null;
+
+async function fetchEdgePage() {
+  const p = new URLSearchParams();
+  if (edgeState.ymin) p.set("year_min", edgeState.ymin);
+  if (edgeState.ymax) p.set("year_max", edgeState.ymax);
+  p.set("limit", EDGE_PAGE);
+  p.set("offset", edgeState.offset);
+  return getJSON(`/api/edge/${edgeState.a}/${edgeState.b}/papers?` + p.toString());
+}
+
+function updateMoreBtn(total) {
+  const btn = document.getElementById("more-btn");
+  if (!btn) return;
+  const remaining = total - edgeState.offset;
+  if (remaining > 0) {
+    btn.style.display = "";
+    btn.textContent = `Load more (${remaining} more)`;
+  } else {
+    btn.style.display = "none";
+  }
+}
+
+async function loadMoreEdge() {
+  const res = await fetchEdgePage();
+  document.getElementById("edge-papers").insertAdjacentHTML("beforeend", papersItems(res.papers));
+  edgeState.offset += res.papers.length;
+  updateMoreBtn(res.total);
+}
+
+async function openEdge(aId, bId) {
+  const panel = document.getElementById("detail");
+  panel.innerHTML = `<div class="placeholder">Loading…</div>`;
+  edgeState = {
+    a: aId, b: bId, offset: 0,
+    ymin: document.getElementById("year-min").value,
+    ymax: document.getElementById("year-max").value,
+  };
+  try {
+    const res = await fetchEdgePage();
+    edgeState.offset = res.papers.length;
+    const span = (edgeState.ymin || edgeState.ymax)
+      ? ` <span class="meta">(${edgeState.ymin || "…"}–${edgeState.ymax || "…"})</span>` : "";
+    panel.innerHTML =
+      `<div class="detail-head"><div class="type">co-occurrence</div>` +
+      `<h2>${esc(res.a)} ↔ ${esc(res.b)}</h2>` +
+      `<div class="aliases">${res.total} shared paper${res.total === 1 ? "" : "s"}${span}</div></div>` +
+      `<div class="papers"><h4>Shared papers</h4>` +
+      `<div id="edge-papers">${papersItems(res.papers) || '<div class="placeholder">No papers.</div>'}</div>` +
+      `<button id="more-btn" class="ghost" type="button" style="display:none;margin-top:8px">Load more</button>` +
+      `</div>`;
+    const btn = document.getElementById("more-btn");
+    if (btn) btn.addEventListener("click", loadMoreEdge);
+    updateMoreBtn(res.total);
+  } catch (e) {
+    panel.innerHTML = `<div class="placeholder">Error: ${e.message}</div>`;
+  }
+}
+
 function renderEntity(ent) {
   const potency = (m) =>
     m.annotation ? ` <span class="potency">${esc(m.annotation)}</span>` : "";
@@ -276,9 +343,9 @@ function renderEntity(ent) {
   return html;
 }
 
-function renderPapers(papers, title) {
-  if (!papers || !papers.length) return `<div class="papers"><h4>${title}</h4><div class="placeholder">No papers.</div></div>`;
-  const items = papers.map((p) => {
+// Just the <div.paper> items (no wrapper) — reused for paged "Load more" appends.
+function papersItems(papers) {
+  return (papers || []).map((p) => {
     const links = Object.entries(p.links || {})
       .map(([k, url]) => `<a href="${url}" target="_blank" rel="noopener">${k.toUpperCase()}</a>`).join("");
     const tag = p.source === "biorxiv"
@@ -292,7 +359,11 @@ function renderPapers(papers, title) {
         <div class="links">${links || '<span class="meta">no links</span>'}</div>
       </div>`;
   }).join("");
-  return `<div class="papers"><h4>${title}</h4>${items}</div>`;
+}
+
+function renderPapers(papers, title) {
+  if (!papers || !papers.length) return `<div class="papers"><h4>${title}</h4><div class="placeholder">No papers.</div></div>`;
+  return `<div class="papers"><h4>${title}</h4>${papersItems(papers)}</div>`;
 }
 
 // ── search ───────────────────────────────────────────────────────────────────

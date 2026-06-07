@@ -11,6 +11,18 @@ Dates are ISO-8601 (`YYYY-MM-DD`). Paper counts reflect the database at each rel
 
 ## [Unreleased]
 
+### Added — Click an edge to see shared papers (paged)
+- New `GET /api/edge/{a}/{b}/papers`: papers in which the two endpoint entities
+  **co-occur**, newest first, year-scoped (`year_min`/`year_max`) and **paged**
+  (`limit`/`offset`, returns `total`). Clicking any connection in the graph opens the
+  shared-paper list in the detail panel with a **Load more** button.
+- Frontend: edge-click handler + `openEdge()` paging; `renderPapers` refactored to share
+  a `papersItems()` helper for appends (`app/static/app.js`).
+
+### Added — GitHub link in the main app UI
+- The header now carries an explicit **GitHub ↗** link (previously the project link was
+  only on the version badge and the login screen).
+
 ### Added — Year-range graph filtering
 - The **min/max year** controls now filter the **graph itself**, not just full-text
   search. `/api/graph` gained `year_min` / `year_max`: a node appears only if it has
