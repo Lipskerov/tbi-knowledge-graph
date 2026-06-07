@@ -82,7 +82,7 @@ quantitative inhibitor data and the surrounding signalling context respectively.
 | Method | Path | Purpose |
 |--------|------|---------|
 | GET | `/api/stats` | counts (papers, entities, edges by kind, clusters, sources) |
-| GET | `/api/graph` | nodes + edges (filters: `min_papers`, `min_edge`, `types`, `clusters`, `disease`, `q`) |
+| GET | `/api/graph` | nodes + edges (filters: `min_papers`, `min_edge`, `types`, `clusters`, `disease`, `q`, `year_min`, `year_max`) |
 | GET | `/api/node/{id}/papers` | papers for an entity (filters: `year_min/max`, `cluster`, `limit`) |
 | GET | `/api/entity/{id}` | entity detail: aliases, mechanism in/out (with annotations), top co-occurring |
 | GET | `/api/search` | FTS5 full-text search over abstracts |
@@ -91,6 +91,43 @@ quantitative inhibitor data and the surrounding signalling context respectively.
 
 All `/api/*` and the frontend require a valid session; unauthenticated requests get
 `401` (API) or a redirect to `/login`.
+
+`year_min` / `year_max` on `/api/graph` scope the graph to papers in that span: a
+node appears only if it has a paper in the window, and co-occurrence edges are
+recomputed within it (so a connection is only drawn when in-range papers support it).
+Mechanism edges are shown between in-range nodes.
+
+### Programmatic access
+
+The API is read-only and gated by the shared password. POST it once to `/login` to
+get a session cookie, then reuse the cookie for `/api/*` calls.
+
+```python
+import requests
+
+BASE = "http://132.74.113.206:8000"     # or http://localhost:8000 on the host
+s = requests.Session()
+s.post(f"{BASE}/login", json={"password": "YOUR_SHARED_PASSWORD"})
+
+# whole-graph stats
+print(s.get(f"{BASE}/api/stats").json())
+
+# graph scoped to 2018–2026, hubs only
+print(s.get(f"{BASE}/api/graph",
+            params={"min_papers": 3, "year_min": 2018, "year_max": 2026}).json())
+
+# full-text search over abstracts
+print(s.get(f"{BASE}/api/search",
+            params={"q": "NQO2 blood biomarker", "limit": 5}).json())
+```
+
+Equivalent with `curl` (cookie jar carries the session):
+
+```bash
+curl -s -c cookies.txt -X POST http://localhost:8000/login \
+     -H "Content-Type: application/json" -d '{"password":"YOUR_SHARED_PASSWORD"}'
+curl -s -b cookies.txt "http://localhost:8000/api/graph?min_papers=3&year_min=2018&year_max=2026"
+```
 
 ---
 

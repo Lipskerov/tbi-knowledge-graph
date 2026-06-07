@@ -11,6 +11,42 @@ Dates are ISO-8601 (`YYYY-MM-DD`). Paper counts reflect the database at each rel
 
 ## [Unreleased]
 
+### Changed — Search now filters the graph (was: highlight only)
+- Searching re-renders the graph to show **only** the nodes hit by the query (via the
+  existing `q` graph param), instead of dimming non-matches. The matching papers still
+  list in the detail panel. Reset/empty search restores the full graph.
+
+### Added — Paged paper list for nodes
+- `GET /api/node/{id}/papers` gained `offset` and returns `total`; clicking a node now
+  shows a **Load more** list (50/page), year-scoped — same pager as the edge view.
+
+### Added — QR2 / NQO2 pathway highlight & filter
+- Every `/api/graph` node carries a `pathway` flag (the canonical NQO2/QR2 "amber" set:
+  27 entities matched by name/alias). New sidebar controls: **Highlight pathway (amber)**
+  (recolours pathway nodes in place) and **Show pathway only** (`pathway=qr2` graph filter).
+
+### Added — Click an edge to see shared papers (paged)
+- New `GET /api/edge/{a}/{b}/papers`: papers in which the two endpoint entities
+  **co-occur**, newest first, year-scoped (`year_min`/`year_max`) and **paged**
+  (`limit`/`offset`, returns `total`). Clicking any connection in the graph opens the
+  shared-paper list in the detail panel with a **Load more** button.
+- Frontend: edge-click handler + `openEdge()` paging; `renderPapers` refactored to share
+  a `papersItems()` helper for appends (`app/static/app.js`).
+
+### Added — GitHub link in the main app UI
+- The header now carries an explicit **GitHub ↗** link (previously the project link was
+  only on the version badge and the login screen).
+
+### Added — Year-range graph filtering
+- The **min/max year** controls now filter the **graph itself**, not just full-text
+  search. `/api/graph` gained `year_min` / `year_max`: a node appears only if it has
+  ≥1 paper in the window, and **co-occurrence edges are recomputed within that span**
+  (from `paper_entity` × `papers.year`) so a connection is only drawn when papers from
+  those years actually support it. Mechanism edges (curated / ChEMBL / OmniPath) are
+  shown between in-range nodes. All-time behaviour is unchanged when no year is set.
+- Frontend: the topbar year inputs reload the graph on change/Enter and are included in
+  the sidebar **Apply filters** / **Reset** flow (`app/static/app.js`).
+
 ### Added — OmniPath signed/directed interactions (data enrichment, v2.2)
 - New `kb/fetch_omnipath.py`: pulls **curated, signed, directed** protein–protein
   interactions (who *activates* / *inhibits* whom) among the graph's entities from
