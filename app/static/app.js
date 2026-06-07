@@ -55,6 +55,14 @@ function wireControls() {
   const me = document.getElementById("f-minedge");
   mp.addEventListener("input", () => (document.getElementById("mp-val").textContent = mp.value));
   me.addEventListener("input", () => (document.getElementById("me-val").textContent = me.value));
+
+  // Year range filters the graph itself (nodes + co-occurrence), not just search.
+  // Reload on change/Enter so the year acts as a live graph filter.
+  ["year-min", "year-max"].forEach((id) => {
+    const el = document.getElementById(id);
+    el.addEventListener("change", loadGraph);
+    el.addEventListener("keydown", (e) => { if (e.key === "Enter") loadGraph(); });
+  });
 }
 
 // ── data loads ───────────────────────────────────────────────────────────────
@@ -102,6 +110,10 @@ function currentFilters() {
   if (clusters.length) p.set("clusters", clusters.join(","));
   const disease = val("f-disease");
   if (disease) p.set("disease", disease);
+  const ymin = val("year-min");
+  const ymax = val("year-max");
+  if (ymin) p.set("year_min", ymin);
+  if (ymax) p.set("year_max", ymax);
   p.set("min_papers", val("f-minpapers"));
   p.set("min_edge", val("f-minedge"));
   return p;

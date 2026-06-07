@@ -113,9 +113,12 @@ def api_graph(
     clusters: str | None = None,
     disease: str | None = None,
     q: str | None = None,
+    year_min: int | None = None,
+    year_max: int | None = None,
 ):
     return db.graph(min_papers=min_papers, min_edge=min_edge, types=types,
-                    clusters=clusters, disease=disease, q=q)
+                    clusters=clusters, disease=disease, q=q,
+                    year_min=year_min, year_max=year_max)
 
 
 @app.get("/api/node/{entity_id}/papers")

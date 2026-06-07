@@ -86,19 +86,40 @@ def stats() -> dict:
 
 def graph(min_papers: int = 0, min_edge: int = 1, types: str | None = None,
           clusters: str | None = None, disease: str | None = None,
-          q: str | None = None) -> dict:
+          q: str | None = None, year_min: int | None = None,
+          year_max: int | None = None) -> dict:
     conn = connect()
     try:
         type_list    = _split(types)
         cluster_list = _split(clusters)
 
-        # paper_count per entity (distinct papers mentioning it)
-        counts = {
-            r["entity_id"]: r["n"]
-            for r in conn.execute(
-                "SELECT entity_id, COUNT(DISTINCT pmid) AS n FROM paper_entity GROUP BY entity_id"
-            )
-        }
+        # Year window. When set, both the per-node paper counts and the
+        # co-occurrence edges are scoped to papers published in [min, max], so the
+        # graph only shows connections actually supported by papers in that span.
+        year_active = year_min is not None or year_max is not None
+        yclause, yparams = "", []
+        if year_min is not None:
+            yclause += " AND p.year >= ?"; yparams.append(year_min)
+        if year_max is not None:
+            yclause += " AND p.year <= ?"; yparams.append(year_max)
+
+        # paper_count per entity (distinct papers mentioning it), year-scoped if set
+        if year_active:
+            counts = {
+                r[0]: r[1]
+                for r in conn.execute(
+                    f"SELECT pe.entity_id, COUNT(DISTINCT pe.pmid) "
+                    f"FROM paper_entity pe JOIN papers p ON p.pmid = pe.pmid "
+                    f"WHERE 1=1 {yclause} GROUP BY pe.entity_id", yparams
+                )
+            }
+        else:
+            counts = {
+                r["entity_id"]: r["n"]
+                for r in conn.execute(
+                    "SELECT entity_id, COUNT(DISTINCT pmid) AS n FROM paper_entity GROUP BY entity_id"
+                )
+            }
 
         # entities in a given cluster set (OR within the facet)
         in_clusters = None
@@ -148,6 +169,8 @@ def graph(min_papers: int = 0, min_edge: int = 1, types: str | None = None,
                 continue
             if pc < min_papers:
                 continue
+            if year_active and pc == 0:   # no papers in the chosen year window
+                continue
             if in_clusters is not None and eid not in in_clusters:
                 continue
             if q_hits is not None and eid not in q_hits:
@@ -167,8 +190,13 @@ def graph(min_papers: int = 0, min_edge: int = 1, types: str | None = None,
             s, t = row["source_id"], row["target_id"]
             if s not in active or t not in active:
                 continue
-            if row["edge_kind"] not in MECH_KINDS and (row["weight"] or 0) < min_edge:
-                continue
+            if row["edge_kind"] not in MECH_KINDS:
+                # Co-occurrence is recomputed within the year window below; the
+                # stored all-time weight would not reflect the chosen span.
+                if year_active:
+                    continue
+                if (row["weight"] or 0) < min_edge:
+                    continue
             edges.append({
                 "source":     s,
                 "target":     t,
@@ -178,6 +206,29 @@ def graph(min_papers: int = 0, min_edge: int = 1, types: str | None = None,
                 "weight":     row["weight"],
                 "annotation": row["annotation"] if has_ann else None,
             })
+
+        # Year-scoped co-occurrence: shared papers counted only within the window.
+        if year_active:
+            for r in conn.execute(
+                f"SELECT a.entity_id AS s, b.entity_id AS t, COUNT(DISTINCT a.pmid) AS w "
+                f"FROM paper_entity a "
+                f"JOIN paper_entity b ON a.pmid = b.pmid AND a.entity_id < b.entity_id "
+                f"JOIN papers p ON p.pmid = a.pmid "
+                f"WHERE 1=1 {yclause} "
+                f"GROUP BY a.entity_id, b.entity_id HAVING w >= ?",
+                (*yparams, max(min_edge, 1)),
+            ):
+                s, t = r["s"], r["t"]
+                if s in active and t in active:
+                    edges.append({
+                        "source":     s,
+                        "target":     t,
+                        "relation":   "co-occurrence",
+                        "edge_kind":  "cooccur",
+                        "directed":   False,
+                        "weight":     r["w"],
+                        "annotation": None,
+                    })
         return {"nodes": nodes, "edges": edges}
     finally:
         conn.close()

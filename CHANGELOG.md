@@ -11,6 +11,16 @@ Dates are ISO-8601 (`YYYY-MM-DD`). Paper counts reflect the database at each rel
 
 ## [Unreleased]
 
+### Added — Year-range graph filtering
+- The **min/max year** controls now filter the **graph itself**, not just full-text
+  search. `/api/graph` gained `year_min` / `year_max`: a node appears only if it has
+  ≥1 paper in the window, and **co-occurrence edges are recomputed within that span**
+  (from `paper_entity` × `papers.year`) so a connection is only drawn when papers from
+  those years actually support it. Mechanism edges (curated / ChEMBL / OmniPath) are
+  shown between in-range nodes. All-time behaviour is unchanged when no year is set.
+- Frontend: the topbar year inputs reload the graph on change/Enter and are included in
+  the sidebar **Apply filters** / **Reset** flow (`app/static/app.js`).
+
 ### Added — OmniPath signed/directed interactions (data enrichment, v2.2)
 - New `kb/fetch_omnipath.py`: pulls **curated, signed, directed** protein–protein
   interactions (who *activates* / *inhibits* whom) among the graph's entities from
