@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T10:09:30.082723",
-  "n_papers": 3372,
+  "generated_at": "2026-06-08T12:05:40.174441",
+  "n_papers": 3373,
   "n_entities": 115,
   "n_edges": 640,
   "cluster_stats": {
@@ -9,7 +9,7 @@
     "gfap_uchl1": 339,
     "nfl_tau": 269,
     "nqo2": 374,
-    "ppcs_prognosis": 292,
+    "ppcs_prognosis": 293,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 363,
     "tbi_panel_poc": 231,

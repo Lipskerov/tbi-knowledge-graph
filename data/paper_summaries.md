@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-07*
-*Total papers: 3372*
+*Generated: 2026-06-08*
+*Total papers: 3373*
 
 
 ## Cluster: aging_neuro
@@ -14509,6 +14509,13 @@
 **PMID:** biorxiv:10.1101/2022.09.24.22280310  **DOI:** 10.1101/2022.09.24.22280310
 **Entities:** neuroinflammation, mTBI, PPCS  
 **Abstract:** <h4>Introduction</h4> Despite first coming into view over two years ago, effective diagnostic and treatment pathways for Long COVID continue to evade the medical community. The overlap in neurological...
+
+### How Can Emergency Department Personnel Determine Who Will Develop Persistent Post-Concussive Symptoms? The Critical Importance of Validated Prognostic Clinical Decision Rules.
+**Authors:** Brody DL  
+**Journal:** Journal of neurotrauma (2022)  
+**PMID:** 36083274  **DOI:** 10.1089/neu.2022.29131.editorial
+**Entities:** —  
+**Abstract:** 
 
 ### Behavioral and Cognitive Aspects of Concussion.
 **Authors:** Bauer RM, Jaffee MS  
