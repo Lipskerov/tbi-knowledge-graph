@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3373,
+  "n_papers": 3377,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -142,6 +142,14 @@
         "entities": "BBB, TBI"
       },
       {
+        "pmid": "41751518",
+        "title": "MicroRNA Markers of Previous Traumatic Brain Injury in Juvenile Offenders: Implications for Neuronal Dysfunction and Repair.",
+        "authors": "Schmidt AT, Hicks SD, Dennis VE, Bergquist BK, Bammel AC et al.",
+        "year": 2026,
+        "journal": "Genes",
+        "entities": "TBI"
+      },
+      {
         "pmid": "41675841",
         "title": "Targeting neuroinflammation to enhance recovery after brain injury.",
         "authors": "Khizar M, Zaib M, Babar M, Fatima M",
@@ -164,14 +172,6 @@
         "year": 2026,
         "journal": "Journal of neurochemistry",
         "entities": "tau, neuroinflammation, BBB, TBI, Alzheimer, SOD"
-      },
-      {
-        "pmid": "40783155",
-        "title": "Exosomal non-coding RNA biomarkers in traumatic brain injury.",
-        "authors": "Sadriddin P, Umida B, Izzat M, Muso U, Jaxongirbek T et al.",
-        "year": 2026,
-        "journal": "Clinica chimica acta; international journal of clinical chemistry",
-        "entities": "neuroinflammation, TBI"
       }
     ],
     "gfap_uchl1": [
@@ -248,12 +248,12 @@
         "entities": "GFAP, UCH-L1, S100B, mTBI, TBI"
       },
       {
-        "pmid": "41739474",
-        "title": "Plasma Biomarkers, Brain Volume, and Cognitive Performance in Service Members and Veterans With mTBI: A LIMBIC-CENC Study.",
-        "authors": "Dark HE, Kenney K, de Souza NL, Esopenko C, Edwards KA et al.",
+        "pmid": "41752185",
+        "title": "The Dynamics of Neuroinflammation in Traumatic Brain Injury: Molecular Markers Useful for Establishing the Post-Traumatic Interval in Forensic Practice.",
+        "authors": "Hostiuc S, Rusu MC",
         "year": 2026,
-        "journal": "JAMA network open",
-        "entities": "GFAP, UCH-L1, NfL, tau, mTBI, TBI, Simoa, Quanterix"
+        "journal": "International journal of molecular sciences",
+        "entities": "GFAP, IL-6, TNF-\u03b1, IL-1\u03b2, neuroinflammation, BBB, TBI"
       }
     ],
     "nfl_tau": [
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1816
+      "paper_count": 1820
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1044
+      "paper_count": 1045
     },
     {
       "name": "Alzheimer",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 451
+      "paper_count": 454
     },
     {
       "name": "tau",
@@ -830,7 +830,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 306
+      "paper_count": 307
     },
     {
       "name": "NfL",
@@ -865,7 +865,7 @@
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 135
+      "paper_count": 137
     },
     {
       "name": "NQO1",
@@ -875,7 +875,7 @@
     {
       "name": "NSE",
       "type": "protein",
-      "paper_count": 96
+      "paper_count": 97
     },
     {
       "name": "p-tau",
@@ -883,14 +883,14 @@
       "paper_count": 94
     },
     {
+      "name": "IL-6",
+      "type": "protein",
+      "paper_count": 94
+    },
+    {
       "name": "NRH",
       "type": "metabolite",
       "paper_count": 93
-    },
-    {
-      "name": "IL-6",
-      "type": "protein",
-      "paper_count": 92
     },
     {
       "name": "CTE",
@@ -910,7 +910,7 @@
     {
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 64
+      "paper_count": 65
     },
     {
       "name": "MBP",
@@ -938,8 +938,8 @@
       "paper_count": 46
     },
     {
-      "name": "resveratrol",
-      "type": "drug",
+      "name": "IL-1\u03b2",
+      "type": "protein",
       "paper_count": 39
     }
   ],
@@ -947,12 +947,12 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 762.0
+      "weight": 763.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 374.0
+      "weight": 377.0
     },
     {
       "source": "Alzheimer",
@@ -981,13 +981,13 @@
     },
     {
       "source": "GFAP",
-      "target": "UCH-L1",
+      "target": "mTBI",
       "weight": 186.0
     },
     {
       "source": "GFAP",
-      "target": "mTBI",
-      "weight": 185.0
+      "target": "UCH-L1",
+      "weight": 186.0
     },
     {
       "source": "TBI",
@@ -1012,7 +1012,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 159.0
+      "weight": 160.0
     },
     {
       "source": "S100B",
@@ -1075,14 +1075,14 @@
       "weight": 102.0
     },
     {
+      "source": "BBB",
+      "target": "TBI",
+      "weight": 102.0
+    },
+    {
       "source": "UCH-L1",
       "target": "mTBI",
       "weight": 101.0
-    },
-    {
-      "source": "BBB",
-      "target": "TBI",
-      "weight": 100.0
     },
     {
       "source": "PKR",
@@ -1122,7 +1122,7 @@
     {
       "source": "TBI",
       "target": "NSE",
-      "weight": 86.0
+      "weight": 87.0
     },
     {
       "source": "UCH-L1",
@@ -1177,7 +1177,7 @@
     {
       "source": "GFAP",
       "target": "NSE",
-      "weight": 69.0
+      "weight": 70.0
     },
     {
       "source": "UCH-L1",
@@ -1192,7 +1192,7 @@
     {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 65.0
+      "weight": 67.0
     }
   ]
 }

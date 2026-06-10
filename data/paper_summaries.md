@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-08*
-*Total papers: 3373*
+*Generated: 2026-06-10*
+*Total papers: 3377*
 
 
 ## Cluster: aging_neuro
@@ -5006,6 +5006,13 @@
 **Entities:** —  
 **Abstract:** Circulating microRNAs (miRNAs) are promising biomarkers for disease diagnosis, but their small size and instability hinder direct detection. The detection of small RNA, such as miRNA, using solid-stat...
 
+### MicroRNA Markers of Previous Traumatic Brain Injury in Juvenile Offenders: Implications for Neuronal Dysfunction and Repair.
+**Authors:** Schmidt AT, Hicks SD, Dennis VE, Bergquist BK, Bammel AC et al.  
+**Journal:** Genes (2026)  
+**PMID:** 41751518  **DOI:** 10.3390/genes17020134
+**Entities:** TBI  
+**Abstract:** 
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7144,6 +7151,13 @@
 **Entities:** TBI, dopamine  
 **Abstract:** Single-cell spatial proteomics (scSP) holds substantial potential for profiling healthy and diseased tissues. The emerging method of molecularly-guided unbiased scSP has mostly been applied to periphe...
 
+### The Dynamics of Neuroinflammation in Traumatic Brain Injury: Molecular Markers Useful for Establishing the Post-Traumatic Interval in Forensic Practice.
+**Authors:** Hostiuc S, Rusu MC  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 41752185  **DOI:** 10.3390/ijms27042049
+**Entities:** GFAP, IL-6, TNF-α, IL-1β, neuroinflammation  
+**Abstract:** In forensic pathology, accurately estimating the time since injury is essential. Current histological and imaging approaches commonly miss subtle temporal changes, especially in deaths occurring withi...
+
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -8880,6 +8894,13 @@
 **Entities:** GFAP, NfL, tau, Aβ42, TBI  
 **Abstract:** The release of brain-originated peptides such as tau protein (MAPT), S-100β, neurofilament light chain (NFL), and glial fibrillary acidic protein (GFAP) into the cerebrospinal fluid (CSF) has been pos...
 
+### Measurement of Cerebral Biomarkers Proving Traumatic Brain Injuries in Post-Mortem Body Fluids.
+**Authors:** Ondruschka B, Sieber M, Kirsten H, Franke H, Dreßler J  
+**Journal:** Journal of neurotrauma (2018)  
+**PMID:** 29732941  **DOI:** 10.1089/neu.2017.5441
+**Entities:** GFAP, BDNF, TBI  
+**Abstract:** Until now, it is impossible to identify a fatal traumatic brain injury (TBI) before post-mortem radiological investigations or an autopsy take place. It would be preferable to have an additional diagn...
+
 ### Biofluid biomarkers of traumatic brain injury.
 **Authors:** Agoston DV, Shutes-David A, Peskind ER  
 **Journal:** Brain injury (2017)  
@@ -9194,6 +9215,13 @@
 **PMID:** 22920679  **DOI:** 10.1016/j.eplepsyres.2012.08.001
 **Entities:** UCH-L1, TBI  
 **Abstract:** BACKGROUND: Ubiquitin carboxy-terminal hydrolase (UCH-L1) has been established as a reliable and potential biomarker of neuronal damage after acute neurologic insults such as ischemic stroke, subarach...
+
+### A murine model of mild traumatic brain injury exhibiting cognitive and motor deficits.
+**Authors:** Yang SH, Gustafson J, Gangidine M, Stepien D, Schuster R et al.  
+**Journal:** The Journal of surgical research (2013)  
+**PMID:** 23622728  **DOI:** 10.1016/j.jss.2013.03.075
+**Entities:** GFAP, IL-6, BBB, mTBI, TBI  
+**Abstract:** BACKGROUND: Mild traumatic brain injury (TBI) is a serious public health concern affecting more than 1.7 million people in the United States annually. Mild TBI is difficult to diagnose and is clinical...
 
 ### A literature review of the feasibility of glial fibrillary acidic protein as a biomarker for stroke and traumatic brain injury.
 **Authors:** Schiff L, Hadker N, Weiser S, Rausch C  
