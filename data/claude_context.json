@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3377,
+  "n_papers": 3380,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -76,20 +76,20 @@
         "entities": "tau, neuroinflammation, Alzheimer, aging"
       },
       {
+        "pmid": "42082100",
+        "title": "\u03b22-Microglobulin and the ageing brain.",
+        "authors": "You Y",
+        "year": 2026,
+        "journal": "Translational research : the journal of laboratory and clinical medicine",
+        "entities": "Alzheimer, aging"
+      },
+      {
         "pmid": "42054746",
         "title": "From necroptosis to neuroinflammation: Unraveling mechanisms and therapeutic targets in age-related cognitive decline.",
         "authors": "Biscetti L, Gambuzza ME, Princiotto M, Sabbatinelli J, Olivieri F et al.",
         "year": 2026,
         "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
         "entities": "ROS, neuroinflammation, oxidative stress, BBB, Alzheimer, aging"
-      },
-      {
-        "pmid": "42044335",
-        "title": "Unveiling the glymphatic system's role in brain aging: A comprehensive biomarker and modifiable intervention target.",
-        "authors": "Fang Y, Luo W, Huang H, Ran L, He Y et al.",
-        "year": 2026,
-        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-        "entities": "aging"
       }
     ],
     "exosomal_rna": [
@@ -586,6 +586,14 @@
         "entities": "GFAP, UCH-L1, S100B, mTBI, TBI"
       },
       {
+        "pmid": "41758770",
+        "title": "Food-based multisensory stimulation ameliorates cognitive impairment after mild traumatic brain injury in male rats by modulating intestinal and brain inflammation.",
+        "authors": "Wei Y, Ullah H, Liao G, Xiao X, Yao J et al.",
+        "year": 2026,
+        "journal": "PloS one",
+        "entities": "S100B, TNF-\u03b1, IL-1\u03b2, neuroinflammation, mTBI, TBI, NSE"
+      },
+      {
         "pmid": "41707328",
         "title": "Use of plasma-based brain biomarkers in the emergency department to rule out the need for unnecessary head CT imaging in acute mild traumatic brain injury patients.",
         "authors": "Elkhodair S, Lalor J, Altaher M, Limbad C, Pradhan-Bhatt S et al.",
@@ -616,14 +624,6 @@
         "year": 2026,
         "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
         "entities": "mTBI"
-      },
-      {
-        "pmid": "41618644",
-        "title": "A Regional Approach to Resource Management, Stewardship, and Outcomes Among Mild TBI Admissions: A Preliminary Report.",
-        "authors": "Poudel S, Fernandez LG, Nalbach SV, Pero BN, Swindall RJ et al.",
-        "year": 2026,
-        "journal": "The American surgeon",
-        "entities": "mTBI, TBI"
       }
     ],
     "tbi_panel_poc": [
@@ -795,22 +795,22 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1820
+      "paper_count": 1822
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1045
+      "paper_count": 1046
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 642
+      "paper_count": 643
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 615
+      "paper_count": 616
     },
     {
       "name": "GFAP",
@@ -830,7 +830,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 307
+      "paper_count": 308
     },
     {
       "name": "NfL",
@@ -860,7 +860,7 @@
     {
       "name": "S100B",
       "type": "protein",
-      "paper_count": 174
+      "paper_count": 175
     },
     {
       "name": "BBB",
@@ -875,7 +875,7 @@
     {
       "name": "NSE",
       "type": "protein",
-      "paper_count": 97
+      "paper_count": 98
     },
     {
       "name": "p-tau",
@@ -910,7 +910,7 @@
     {
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 65
+      "paper_count": 66
     },
     {
       "name": "MBP",
@@ -940,14 +940,14 @@
     {
       "name": "IL-1\u03b2",
       "type": "protein",
-      "paper_count": 39
+      "paper_count": 40
     }
   ],
   "top_cooccurrences": [
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 763.0
+      "weight": 764.0
     },
     {
       "source": "GFAP",
@@ -957,7 +957,7 @@
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 328.0
+      "weight": 329.0
     },
     {
       "source": "ROS",
@@ -1012,12 +1012,12 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 160.0
+      "weight": 161.0
     },
     {
       "source": "S100B",
       "target": "TBI",
-      "weight": 152.0
+      "weight": 153.0
     },
     {
       "source": "GFAP",
@@ -1095,14 +1095,14 @@
       "weight": 94.0
     },
     {
-      "source": "NfL",
-      "target": "Alzheimer",
+      "source": "S100B",
+      "target": "mTBI",
       "weight": 94.0
     },
     {
-      "source": "S100B",
-      "target": "mTBI",
-      "weight": 93.0
+      "source": "NfL",
+      "target": "Alzheimer",
+      "weight": 94.0
     },
     {
       "source": "tau",
@@ -1115,14 +1115,14 @@
       "weight": 88.0
     },
     {
-      "source": "NQO2",
-      "target": "NRH",
+      "source": "TBI",
+      "target": "NSE",
       "weight": 88.0
     },
     {
-      "source": "TBI",
-      "target": "NSE",
-      "weight": 87.0
+      "source": "NQO2",
+      "target": "NRH",
+      "weight": 88.0
     },
     {
       "source": "UCH-L1",

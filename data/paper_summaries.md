@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-10*
-*Total papers: 3377*
+*Generated: 2026-06-11*
+*Total papers: 3380*
 
 
 ## Cluster: aging_neuro
@@ -312,6 +312,13 @@
 **PMID:** 41612446  **DOI:** 10.1186/s12974-025-03664-4
 **Entities:** neuroinflammation, BBB, Alzheimer, aging  
 **Abstract:** Chronic periodontitis is increasingly recognized as a potential upstream contributor to neurodegenerative processes through sustained systemic inflammation, microbial dysbiosis, and blood-brain barrie...
+
+### β2-Microglobulin and the ageing brain.
+**Authors:** You Y  
+**Journal:** Translational research : the journal of laboratory and clinical medicine (2026)  
+**PMID:** 42082100  **DOI:** 10.1016/j.trsl.2026.05.001
+**Entities:** Alzheimer, aging  
+**Abstract:** β2-microglobulin (β2M) has long been treated as a generic marker of immune activation, kidney function, or cancer prognosis. However, emerging mechanistic evidence suggests that β2M may actively contr...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -16147,6 +16154,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** BackgroundThe Brain Injuries in Greater East Texas (BIGTEX) criteria were developed to identify patients with mild traumatic brain injury (mTBI) who may be managed at Level IV trauma centers (L4TCs). ...
 
+### Food-based multisensory stimulation ameliorates cognitive impairment after mild traumatic brain injury in male rats by modulating intestinal and brain inflammation.
+**Authors:** Wei Y, Ullah H, Liao G, Xiao X, Yao J et al.  
+**Journal:** PloS one (2026)  
+**PMID:** 41758770  **DOI:** 10.1371/journal.pone.0343814
+**Entities:** S100B, TNF-α, IL-1β, neuroinflammation, mTBI  
+**Abstract:** Mild traumatic brain injury (mTBI) often leads to cognitive impairment (CI), with neuroinflammation and gut microbiota dysbiosis playing pivotal roles in its pathogenesis. This study aimed to investig...
+
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
 **Journal:** Neurocritical care (2025)  
@@ -20153,6 +20167,13 @@
 **PMID:** 40237628  **DOI:** 10.1097/HTR.0000000000001055
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: The Workplace Safety and Insurance Board (WSIB) in Ontario, Canada, launched a new community-based mild traumatic brain injury (mTBI) program of care (POC) in November 2020. The new progra...
+
+### Bedside Neurological Check Frequency Does Not Explain Outcomes for Patients With Coma and Disorders of Consciousness: A Curing Coma Campaign Scoping Review.
+**Authors:** Murtaugh B, Olson D, Sharma K, Lewis A, Zink E et al.  
+**Journal:** The Journal of neuroscience nursing : journal of the American Association of Neuroscience Nurses (—)  
+**PMID:** 41671576  **DOI:** 10.1097/JNN.0000000000000877
+**Entities:** TBI  
+**Abstract:** The frequency and nature of neurological exams (neuro-checks) in patients with severe acquired brain injury resulting in coma or disorders of consciousness (DoC) remain variable, with limited evidence...
 
 
 ## Cluster: tbi_proteomics
