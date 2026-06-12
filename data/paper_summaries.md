@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-11*
-*Total papers: 3380*
+*Generated: 2026-06-12*
+*Total papers: 3383*
 
 
 ## Cluster: aging_neuro
@@ -319,6 +319,13 @@
 **PMID:** 42082100  **DOI:** 10.1016/j.trsl.2026.05.001
 **Entities:** Alzheimer, aging  
 **Abstract:** β2-microglobulin (β2M) has long been treated as a generic marker of immune activation, kidney function, or cancer prognosis. However, emerging mechanistic evidence suggests that β2M may actively contr...
+
+### Postoperative cognitive dysfunction and neurodegeneration: From inflammation to precision medicine.
+**Authors:** Lin X, Luo Y, Zhu Q  
+**Journal:** Brain research bulletin (2026)  
+**PMID:** 41679672  **DOI:** 10.1016/j.brainresbull.2026.111776
+**Entities:** tau, neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Postoperative cognitive dysfunction (POCD) is a prevalent neurocognitive complication in elderly surgical patients, marked by memory, attention, and executive function impairments. Its pathophysiology...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -7164,6 +7171,20 @@
 **PMID:** 41752185  **DOI:** 10.3390/ijms27042049
 **Entities:** GFAP, IL-6, TNF-α, IL-1β, neuroinflammation  
 **Abstract:** In forensic pathology, accurately estimating the time since injury is essential. Current histological and imaging approaches commonly miss subtle temporal changes, especially in deaths occurring withi...
+
+### TBI Biomarker Improvements Following Rodent Decompressive Craniectomy and Motor Outcome Validation of Early Cranioplasty.
+**Authors:** Osborn SG, Bartelt DC, Hong L, Howard MA, Zanaty M et al.  
+**Journal:** The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association (2026)  
+**PMID:** 40660848  **DOI:** 10.1177/10556656251357992
+**Entities:** GFAP, neuroinflammation, TBI  
+**Abstract:** BackgroundDecompressive craniectomy (DC) is a venerable clinical tool to manage moderate-to-severe traumatic brain injury (TBI). The utility of recently approved neuroinflammatory biomarkers glial fib...
+
+### Age- and Sex-Related Differences in GFAP and UCH-L1 Levels in Mild Traumatic Brain Injury.
+**Authors:** Espinar-Barranco C, Álvarez-Corral G, Rio-Rico MD, Manjón MIR, Gutiérrez E et al.  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 42278473  **DOI:** 10.3390/ijms27114944
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** Blood-based biomarkers such as glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) are increasingly used to rule out intracranial injury in patients with mild t...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
