@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-12*
-*Total papers: 3383*
+*Generated: 2026-06-13*
+*Total papers: 3388*
 
 
 ## Cluster: aging_neuro
@@ -326,6 +326,13 @@
 **PMID:** 41679672  **DOI:** 10.1016/j.brainresbull.2026.111776
 **Entities:** tau, neuroinflammation, BBB, Alzheimer, aging  
 **Abstract:** Postoperative cognitive dysfunction (POCD) is a prevalent neurocognitive complication in elderly surgical patients, marked by memory, attention, and executive function impairments. Its pathophysiology...
+
+### Adipose tissue as a systemic modulator of brain aging: mechanistic links between metabolism, inflammation and neurodegeneration.
+**Authors:** Andreea-Ramona T, Mirabela MM  
+**Journal:** Brain research (2026)  
+**PMID:** 42229697  **DOI:** 10.1016/j.brainres.2026.150414
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Brain aging involves progressive declines in neuroplasticity, metabolic flexibility, cerebrovascular integrity and immune homeostasis. Although traditionally viewed as brain-intrinsic, growing evidenc...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -7564,6 +7571,13 @@
 **Entities:** Aβ42, Alzheimer  
 **Abstract:** Parkinsons disease (PD) affects millions of people worldwide, and up to 40% of these patients develop dementia, profoundly affecting their quality of life. Whether Parkinsons disease dementia (PDD) si...
 
+### Budget Impact Analysis of the Use of Specific Biomarkers GFAP and UCH-L1 in the Management of Mild Traumatic Brain Injury in Spain.
+**Authors:** Moya Torrecilla F, Álvarez-Corral G, Gutiérrez Pérez E, Morell-Garcia D, Ortega Pérez J et al.  
+**Journal:** Journal of clinical medicine (2025)  
+**PMID:** 40565840  **DOI:** 10.3390/jcm14124095
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** 
+
 ### Prediction of clinical progression in nervous system diseases: plasma glial fibrillary acidic protein (GFAP).
 **Authors:** Zheng X, Yang J, Hou Y, Shi X, Liu K  
 **Journal:** European journal of medical research (2024)  
@@ -9485,6 +9499,13 @@
 **Entities:** tau, p-tau, Alzheimer  
 **Abstract:** Temporal lobe epilepsy (TLE), the most common pharmaco-resistant epilepsy in adults, has been linked to structural brain changes extending beyond the mesiotemporal areas. While not traditionally viewe...
 
+### Clinical assessment tools for concussion in adults.
+**Authors:** Bradylyons A, Stillman A, Galica A, Dwyer B  
+**Journal:** Seminars in pediatric neurology (2026)  
+**PMID:** 42264870  **DOI:** 10.1016/j.spen.2026.101268
+**Entities:** GFAP, UCH-L1, S100B, NfL, tau  
+**Abstract:** Clinical assessment tools have important roles in the identification of concussion as well as the characterization of problematic residual symptoms and impairments. Research into blood-based biomarker...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -11370,6 +11391,13 @@
 **PMID:** 42180593  **DOI:** 10.1039/d6md00132g
 **Entities:** —  
 **Abstract:** The design of new molecules from known structural motifs
+
+### Identification of ubiquitination-related biomarkers in osteoarthritis: combining transcriptome and Mendelian randomization analysis.
+**Authors:** Yin H, Mei Y, Du J, Xiao L, Bian S  
+**Journal:** SLAS technology (2026)  
+**PMID:** 42285256  **DOI:** 10.1016/j.slast.2026.100444
+**Entities:** NQO2  
+**Abstract:** BACKGROUND: Osteoarthritis is the predominant joint ailment. Multiple studies demonstrate that the dysregulation of catalytic regulators of ubiquitination and deubiquitination disrupts cartilage imbal...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
@@ -13984,6 +14012,13 @@
 **PMID:** 41518095  **DOI:** 10.1080/02699052.2026.2614067
 **Entities:** mTBI, PPCS  
 **Abstract:** OBJECTIVE: To determine the effects of persistent post-concussion symptoms (PPCS) on neurocognitive, motor, and neurophysiological outcomes compared to healthy controls. Sex-related differences were a...
+
+### Multimodal symptom-targeted treatment for young people with persisting post-concussion symptoms: a randomised clinical trial.
+**Authors:** Anderson V, Davies K, Rausa VC, Anderson N, Barlow KM et al.  
+**Journal:** British journal of sports medicine (2026)  
+**PMID:** 42191347  **DOI:** 10.1136/bjsports-2025-110880
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: To evaluate the effectiveness of Concussion Essentials (CE), a symptom-targeted, multidisciplinary treatment for persisting post-concussion symptoms (PPCS). METHODS: This single-site, open-...
 
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
