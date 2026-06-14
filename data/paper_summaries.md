@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-13*
-*Total papers: 3388*
+*Generated: 2026-06-14*
+*Total papers: 3389*
 
 
 ## Cluster: aging_neuro
@@ -333,6 +333,13 @@
 **PMID:** 42229697  **DOI:** 10.1016/j.brainres.2026.150414
 **Entities:** neuroinflammation, BBB, Alzheimer, aging  
 **Abstract:** Brain aging involves progressive declines in neuroplasticity, metabolic flexibility, cerebrovascular integrity and immune homeostasis. Although traditionally viewed as brain-intrinsic, growing evidenc...
+
+### Neurovascular unit dysfunction in vascular cognitive impairment: Mechanisms, biomarkers, and translational strategies.
+**Authors:** Hoyer-Kimura C, Hay M  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 42105801  **DOI:** 10.1016/j.expneurol.2026.115815
+**Entities:** neuroinflammation, BBB, Alzheimer  
+**Abstract:** Vascular cognitive impairment and dementia (VCID) encompasses a heterogeneous spectrum of cognitive disorders driven by cerebrovascular pathology and represents a major contributor to late-life cognit...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
