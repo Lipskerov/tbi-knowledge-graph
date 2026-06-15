@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-14T10:30:17.147440",
-  "n_papers": 3389,
+  "generated_at": "2026-06-15T13:23:42.545928",
+  "n_papers": 3391,
   "n_entities": 115,
   "n_edges": 643,
   "cluster_stats": {
     "aging_neuro": 707,
-    "exosomal_rna": 295,
+    "exosomal_rna": 296,
     "gfap_uchl1": 345,
-    "nfl_tau": 270,
+    "nfl_tau": 271,
     "nqo2": 375,
     "ppcs_prognosis": 294,
     "qr2_inhibitors": 5,
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1825,
+      "paper_count": 1826,
       "centrality": 0.3947
     },
     {
@@ -76,7 +76,7 @@
       "id": 12,
       "name": "NfL",
       "type": "protein",
-      "paper_count": 284,
+      "paper_count": 285,
       "centrality": 0.2895
     },
     {

@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-14*
-*Total papers: 3389*
+*Generated: 2026-06-15*
+*Total papers: 3391*
 
 
 ## Cluster: aging_neuro
@@ -5250,6 +5250,13 @@
 **PMID:** 41199286  **DOI:** 10.1186/s13000-025-01714-2
 **Entities:** TBI  
 **Abstract:** BACKGROUND: Long non-coding RNAs (lncRNA) H19 has drawn special attention because of its varied role in several malignancies, including OSCC. Therefore, this study was conducted to assess the associat...
+
+### Standardization of preclinical methodologies for discovery and validation of circulating microRNA biomarkers for post-traumatic epileptogenesis - Lessons learned from the EpiBioS4Rx Project 1.
+**Authors:** Puhakka N, Heiskanen M, Ndode-Ekane XE, Ali I, Santana-Gomez C et al.  
+**Journal:** Epilepsy research (2025)  
+**PMID:** 40992209  **DOI:** 10.1016/j.eplepsyres.2025.107667
+**Entities:** TBI  
+**Abstract:** OBJECTIVE: To analyze the success of harmonization and standardization of plasma miRNA biomarker discovery and validation for post-traumatic epilepsy (PTE) in the EpiBioS4Rx international multicenter ...
 
 ### M2 Microglia-Derived Exosomes Protect Against Glutamate-Induced HT22 Cell Injury via Exosomal miR-124-3p.
 **Authors:** Zhu L, Ma L, Du X, Jiang Y, Gao J et al.  
@@ -11304,6 +11311,13 @@
 **PMID:** 21074091  **DOI:** 10.1016/j.csm.2010.09.007
 **Entities:** tau, CTE, Alzheimer  
 **Abstract:** Chronic traumatic encephalopathy (CTE) is a form of neurodegeneration believed to result from repeated head injuries. Originally termed dementia pugilistica because of its association with boxing, the...
+
+### Injury, pain, and prescription opioid use among former National Football League (NFL) players.
+**Authors:** Cottler LB, Ben Abdallah A, Cummings SM, Barr J, Banks R et al.  
+**Journal:** Drug and alcohol dependence (2011)  
+**PMID:** 21277121  **DOI:** 10.1016/j.drugalcdep.2010.12.003
+**Entities:** NfL  
+**Abstract:** BACKGROUND: Athletes with injury-related pain, especially National Football League (NFL) players, are at increased risk for opioid use and misuse which may result in medical, psychiatric and social pr...
 
 ### Boxing-acute complications and late sequelae: from concussion to dementia.
 **Authors:** Förstl H, Haass C, Hemmer B, Meyer B, Halle M  
