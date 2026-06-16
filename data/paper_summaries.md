@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-15*
-*Total papers: 3391*
+*Generated: 2026-06-16*
+*Total papers: 3398*
 
 
 ## Cluster: aging_neuro
@@ -5041,6 +5041,13 @@
 **Entities:** TBI  
 **Abstract:** 
 
+### Wireless Electromagnetic Generation of miRNA Sponges and Nerve Stimulation by an Adaptable Electrical Scaffold for Repair of Traumatic Brain Injury.
+**Authors:** Iao HM, Pan WC, Chang YH, Tran NT, Liu HC et al.  
+**Journal:** ACS nano (2026)  
+**PMID:** 42185203  **DOI:** 10.1021/acsnano.6c04759
+**Entities:** TBI  
+**Abstract:** Bioelectronic transduction and microRNA (miRNA) regulation play crucial roles in shaping neuronal cell fate and supporting brain repair. However, clinical progress remains limited due to the lack of t...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7206,6 +7213,20 @@
 **PMID:** 42278473  **DOI:** 10.3390/ijms27114944
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** Blood-based biomarkers such as glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) are increasingly used to rule out intracranial injury in patients with mild t...
+
+### Development of a monoclonal antibody-based time-resolved fluorescence immunochromatographic assay strip for rapid and quantitative determination of ubiquitin C-terminal hydrolase L1 in serum.
+**Authors:** Guo W, Li T, Chen Y, Lin W, Wang Z et al.  
+**Journal:** Mikrochimica acta (2026)  
+**PMID:** 41774187  **DOI:** 10.1007/s00604-026-07883-1
+**Entities:** GFAP, UCH-L1, S100B, tau, mTBI  
+**Abstract:** Traumatic brain injury (TBI) represents a major global health challenge requiring rapid and accurate diagnostic tools. Current detection methods for ubiquitin carboxyl-terminal hydrolase L1 (UCH-L1), ...
+
+### Proteomic blood-based biomarkers of brain damage in traumatic brain injury: are they suitable surrogate endpoints for cerebral pressure autoregulatory-guided therapy?
+**Authors:** Kevci R, Hånell A, Aries M, Åkerlund C, Buki A et al.  
+**Journal:** Critical care (London, England) (2026)  
+**PMID:** 42288919  **DOI:** 10.1186/s13054-026-06132-4
+**Entities:** GFAP, UCH-L1, S100B, NfL, tau  
+**Abstract:** BACKGROUND: Management after severe traumatic brain injury (TBI) aims to prevent secondary injury by optimizing cerebral physiology, yet conventional metrics such as intracranial pressure (ICP) and ce...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -9519,6 +9540,13 @@
 **PMID:** 42264870  **DOI:** 10.1016/j.spen.2026.101268
 **Entities:** GFAP, UCH-L1, S100B, NfL, tau  
 **Abstract:** Clinical assessment tools have important roles in the identification of concussion as well as the characterization of problematic residual symptoms and impairments. Research into blood-based biomarker...
+
+### Concussion pathophysiology: From biomechanical insult to clinical phenotype - or is injury truly the beginning?
+**Authors:** Khambadkone SG, Piantino JA  
+**Journal:** Seminars in pediatric neurology (2026)  
+**PMID:** 42264871  **DOI:** 10.1016/j.spen.2026.101266
+**Entities:** tau, neuroinflammation, mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) is associated with substantial morbidity worldwide. Emerging evidence demonstrates that both impact- and blast-related mTBI produce diffuse microstructural and funct...
 
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
@@ -20632,6 +20660,27 @@
 **PMID:** 42244667  **DOI:** 10.64898/2026.05.23.727416
 **Entities:** GFAP, NfL, TBI, Olink  
 **Abstract:** Cerebral edema (CE) is a major determinant of poor outcomes after traumatic brain injury (TBI). CE affects approximately 60% of patients with mass lesions on head computed tomography (hCT) and confers...
+
+### Utility of selected neuroinflammatory markers following lethal traumatic brain injury: a combined biofluid and tissue-based assessment of TNF-α, CX3CL1, TNFR1, TNFR2 and CX3CR1 expression.
+**Authors:** Poniatowski ŁA, Kwiatkowska M, Siwińska A, Acewicz A, Olczak M  
+**Journal:** International journal of legal medicine (2026)  
+**PMID:** 42020873  **DOI:** 10.1007/s00414-026-03810-4
+**Entities:** TNF-α, neuroinflammation, TBI  
+**Abstract:** Traumatic brain injury (TBI) represents a neuropathological entity with multifactorial consequences, encompassing immediate mechanical insult (primary injury) and a complex and temporally dynamic casc...
+
+### GPR124 Alleviates Blood-Brain Barrier Disruption by Enhancing Microvascular Endothelial Function after Traumatic Brain Injury.
+**Authors:** Wang C, Cai L, Gong Q, Yang Y, Liang Y et al.  
+**Journal:** Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026)  
+**PMID:** 42294584  **DOI:** 10.1002/advs.202501197
+**Entities:** BBB, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a leading cause of death among young adults worldwide. However, the role of G protein-coupled receptor 124 (GPR124), a key regulator of the nervous system, in TBI remai...
+
+### Aging reprograms microglia toward an inflammasome-linked response to traumatic brain injury.
+**Authors:** Morganti JM, Bachstetter AD  
+**Journal:** The Journal of clinical investigation (2026)  
+**PMID:** 42294901  **DOI:** 10.1172/JCI207022
+**Entities:** IL-1β, TBI, aging  
+**Abstract:** Traumatic brain injury (TBI) disproportionately kills and disables older adults, yet the biology driving this vulnerability remains unresolved. In this issue of the JCI, Lu et al. combined single-cell...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
