@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-16*
-*Total papers: 3398*
+*Generated: 2026-06-17*
+*Total papers: 3403*
 
 
 ## Cluster: aging_neuro
@@ -340,6 +340,13 @@
 **PMID:** 42105801  **DOI:** 10.1016/j.expneurol.2026.115815
 **Entities:** neuroinflammation, BBB, Alzheimer  
 **Abstract:** Vascular cognitive impairment and dementia (VCID) encompasses a heterogeneous spectrum of cognitive disorders driven by cerebrovascular pathology and represents a major contributor to late-life cognit...
+
+### Lactiplantibacillus plantarum HY7715 Attenuates Oxidative Stress-Induced Neurobiological Aging-Related Changes by Modulating Senescence-Associated Markers and Gut Microbiota.
+**Authors:** Lee D, Jeong H, Gwon H, Lee K, Kim JY et al.  
+**Journal:** Journal of microbiology and biotechnology (2026)  
+**PMID:** 42305046  **DOI:** 10.4014/jmb.2604.04063
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** External stressors can accelerate biological aging-related processes by promoting oxidative stress and senescence-associated molecular alterations in the brain. This study investigated the potential o...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -5048,6 +5055,20 @@
 **Entities:** TBI  
 **Abstract:** Bioelectronic transduction and microRNA (miRNA) regulation play crucial roles in shaping neuronal cell fate and supporting brain repair. However, clinical progress remains limited due to the lack of t...
 
+### Beneficial Effects of Intravenous Immunoglobulin Treatment in a Mouse Preclinical Model of Severe Traumatic Brain Injury.
+**Authors:** Chen M, Puhakka N, Edson J, Cui X, Lai A et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41467983  **DOI:** 10.1177/08977151251401566
+**Entities:** IL-1β, TBI  
+**Abstract:** The long-term sequelae of severe penetrating traumatic brain injury (TBI) include neurological and psychiatric disability, impaired cognitive function, and the development of post-traumatic epilepsy. ...
+
+### Comprehensive analysis of brain tissue transcriptome and serum miRNA reveals molecular signatures of cognitive impairment after traumatic brain injury.
+**Authors:** Ou Z, Tan T, Liang F  
+**Journal:** Brain research (2026)  
+**PMID:** 42303152  **DOI:** 10.1016/j.brainres.2026.150430
+**Entities:** TNF-α, TBI  
+**Abstract:** BACKGROUND: Cognitive impairment after traumatic brain injury (TBI) lacks early biomarkers. Integrating brain transcriptome and serum miRNA data may reveal molecular signatures for early prediction. M...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7227,6 +7248,13 @@
 **PMID:** 42288919  **DOI:** 10.1186/s13054-026-06132-4
 **Entities:** GFAP, UCH-L1, S100B, NfL, tau  
 **Abstract:** BACKGROUND: Management after severe traumatic brain injury (TBI) aims to prevent secondary injury by optimizing cerebral physiology, yet conventional metrics such as intracranial pressure (ICP) and ce...
+
+### Plasma and Imaging Biomarker Changes Following Rotational and Contusional Models of Traumatic Brain Injury in Adolescent Pigs.
+**Authors:** Shin SS, Browne KD, Viaene AN, Keim G, Han DJ et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41371769  **DOI:** 10.1177/08977151251401236
+**Entities:** GFAP, NfL, TBI  
+**Abstract:** Given the heterogeneity of traumatic brain injury (TBI), the development of a therapeutic strategy has been difficult despite decades of research. To develop an accurate classification system to guide...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -18760,6 +18788,13 @@
 **PMID:** 41991757  **DOI:** 10.1007/s10140-026-02474-2
 **Entities:** —  
 **Abstract:** 
+
+### Management of arterial hypotension in critically Ill children: a narrative review and practical approach.
+**Authors:** Schneider H  
+**Journal:** Frontiers in pediatrics (2026)  
+**PMID:** 42305569  **DOI:** 10.3389/fped.2026.1845899
+**Entities:** TBI, aging  
+**Abstract:** BACKGROUND: Arterial hypotension in critically ill children is a frequent and high-risk clinical finding, yet universally accepted definitions, thresholds, and management strategies remain lacking. Bl...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
