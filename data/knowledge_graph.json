@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T11:56:38.108061",
-  "n_papers": 3403,
+  "generated_at": "2026-06-18T11:13:59.493098",
+  "n_papers": 3404,
   "n_entities": 115,
   "n_edges": 643,
   "cluster_stats": {
@@ -12,7 +12,7 @@
     "ppcs_prognosis": 294,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 364,
-    "tbi_panel_poc": 233,
+    "tbi_panel_poc": 234,
     "tbi_proteomics": 505
   },
   "nodes": [
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1837,
+      "paper_count": 1838,
       "centrality": 0.3947
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 461,
+      "paper_count": 462,
       "centrality": 0.2895
     },
     {
@@ -97,7 +97,7 @@
       "id": 10,
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 221,
+      "paper_count": 222,
       "centrality": 0.2544
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 383.0,
-      "n_papers": 383.0,
+      "weight": 384.0,
+      "n_papers": 384.0,
       "annotation": null
     },
     {
@@ -1819,8 +1819,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 200.0,
-      "n_papers": 200.0,
+      "weight": 201.0,
+      "n_papers": 201.0,
       "annotation": null
     },
     {
@@ -1829,8 +1829,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 191.0,
-      "n_papers": 191.0,
+      "weight": 192.0,
+      "n_papers": 192.0,
       "annotation": null
     },
     {

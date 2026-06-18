@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3403,
+  "n_papers": 3404,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -628,6 +628,14 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42311103",
+        "title": "Point of Care UCHL1/GFAP for Rapid Assessment of Undifferentiated Trauma Patients.",
+        "authors": "Wetmore GC, Beyeler JT, Becker ER, Wakefield D, Black T et al.",
+        "year": 2026,
+        "journal": "Journal of the American College of Surgeons",
+        "entities": "GFAP, UCH-L1, TBI"
+      },
+      {
         "pmid": "42305569",
         "title": "Management of arterial hypotension in critically Ill children: a narrative review and practical approach.",
         "authors": "Schneider H",
@@ -697,14 +705,6 @@
         "authors": "Herman ST",
         "year": 2026,
         "journal": "Journal of clinical neurophysiology : official publication of the American Electroencephalographic Society",
-        "entities": "TBI"
-      },
-      {
-        "pmid": "41770246",
-        "title": "Multicenter survey on viscoelastic assays access and use in trauma in Swiss emergency departments.",
-        "authors": "Lyon M, De Valence T, Fehlmann CA",
-        "year": 2026,
-        "journal": "European journal of trauma and emergency surgery : official publication of the European Trauma Society",
         "entities": "TBI"
       }
     ],
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1837
+      "paper_count": 1838
     },
     {
       "name": "mTBI",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 461
+      "paper_count": 462
     },
     {
       "name": "tau",
@@ -850,7 +850,7 @@
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 221
+      "paper_count": 222
     },
     {
       "name": "PPCS",
@@ -952,7 +952,7 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 383.0
+      "weight": 384.0
     },
     {
       "source": "Alzheimer",
@@ -977,12 +977,12 @@
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 200.0
+      "weight": 201.0
     },
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 191.0
+      "weight": 192.0
     },
     {
       "source": "GFAP",

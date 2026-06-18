@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-17*
-*Total papers: 3403*
+*Generated: 2026-06-18*
+*Total papers: 3404*
 
 
 ## Cluster: aging_neuro
@@ -18795,6 +18795,13 @@
 **PMID:** 42305569  **DOI:** 10.3389/fped.2026.1845899
 **Entities:** TBI, aging  
 **Abstract:** BACKGROUND: Arterial hypotension in critically ill children is a frequent and high-risk clinical finding, yet universally accepted definitions, thresholds, and management strategies remain lacking. Bl...
+
+### Point of Care UCHL1/GFAP for Rapid Assessment of Undifferentiated Trauma Patients.
+**Authors:** Wetmore GC, Beyeler JT, Becker ER, Wakefield D, Black T et al.  
+**Journal:** Journal of the American College of Surgeons (2026)  
+**PMID:** 42311103  **DOI:** 10.1097/XCS.0000000000002073
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** BACKGROUND: Rapid discrimination of traumatic brain injury (TBI) from hemorrhagic shock remains challenging during initial trauma evaluation. Ubiquitin carboxyl-terminal hydrolase L1 (UCHL1) and glial...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
