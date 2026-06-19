@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-18*
-*Total papers: 3404*
+*Generated: 2026-06-19*
+*Total papers: 3408*
 
 
 ## Cluster: aging_neuro
@@ -7256,6 +7256,20 @@
 **Entities:** GFAP, NfL, TBI  
 **Abstract:** Given the heterogeneity of traumatic brain injury (TBI), the development of a therapeutic strategy has been difficult despite decades of research. To develop an accurate classification system to guide...
 
+### Study protocol for investigating real-world implementation of a combined glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) blood test in the management of adult mild traumatic brain injury in a single-centre European emergency department: the IMPACTS-BRAINI study.
+**Authors:** Lagares A, Maldonado M, Baciu A, Tosi L, Loynaz C et al.  
+**Journal:** BMJ open (2026)  
+**PMID:** 42315262  **DOI:** 10.1136/bmjopen-2026-120021
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** INTRODUCTION: Glial fibrillar acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) have been shown to rule out CT-detectable intracranial lesions in patients with mild traumatic ...
+
+### Capillary UCH-L1 protein blood measurement is affected by sample hemolysis.
+**Authors:** Bouthors B, Puravet A, Chabanne R, Durif J, Bouvier D et al.  
+**Journal:** Clinical chemistry and laboratory medicine (2026)  
+**PMID:** 42316320  **DOI:** 10.1515/cclm-2026-0471
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** OBJECTIVES: Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) are internationally validated blood biomarkers for the management of mild traumatic brain injury (mTBI...
+
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -9771,6 +9785,13 @@
 **PMID:** biorxiv:10.1101/2025.08.29.25334735  **DOI:** 10.1101/2025.08.29.25334735
 **Entities:** Alzheimer, aging  
 **Abstract:** <h4>BACKGROUND</h4>  Sleep disturbances and altered circadian rhythms are well-documented in both physiological and biological studies of dementia. The exact causal relationship remains unclear. Sever...
+
+### Characterizing positive and negative quantitative susceptibility values in the cortex following mild traumatic brain injury: a depth- and curvature-based study.
+**Authors:** Essex CA, Merenstein JL, Overson DK, Truong TK, Madden DJ et al.  
+**Journal:** Cerebral cortex (New York, N.Y. : 1991) (2025)  
+**PMID:** 40099836  **DOI:** 10.1093/cercor/bhaf059
+**Entities:** tau, mTBI, TBI, CTE, Alzheimer  
+**Abstract:** Evidence has linked head trauma to increased risk factors for neuropathology, including mechanical deformation of the sulcal fundus and, later, perivascular accumulation of hyperphosphorylated tau adj...
 
 ### Duration of Ice Hockey Play and Chronic Traumatic Encephalopathy.
 **Authors:** Abdolmohammadi B, Tuz-Zahra F, Uretsky M, Nicks R, Mosaheb S et al.  
@@ -14096,6 +14117,13 @@
 **PMID:** 42191347  **DOI:** 10.1136/bjsports-2025-110880
 **Entities:** mTBI, PPCS  
 **Abstract:** OBJECTIVE: To evaluate the effectiveness of Concussion Essentials (CE), a symptom-targeted, multidisciplinary treatment for persisting post-concussion symptoms (PPCS). METHODS: This single-site, open-...
+
+### Effects of cognitive-vocational rehabilitation on post-concussion symptoms and emotional distress: a secondary RCT analysis.
+**Authors:** Andelic N, Lu J, Fure SCR, Brunborg C, Løvstad M et al.  
+**Journal:** Brain injury (2026)  
+**PMID:** 42003267  **DOI:** 10.1080/02699052.2026.2654829
+**Entities:** tau, mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: To examine the long-term effects of a combined Compensatory Cognitive Training and Supported Employment (CCT-SE) intervention on post-concussion symptoms (PCS) and emotional distress in ind...
 
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
