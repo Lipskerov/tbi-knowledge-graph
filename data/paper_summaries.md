@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-22*
-*Total papers: 3447*
+*Generated: 2026-06-23*
+*Total papers: 3451*
 
 
 ## Cluster: aging_neuro
@@ -347,6 +347,20 @@
 **PMID:** 42305046  **DOI:** 10.4014/jmb.2604.04063
 **Entities:** ROS, oxidative stress, aging  
 **Abstract:** External stressors can accelerate biological aging-related processes by promoting oxidative stress and senescence-associated molecular alterations in the brain. This study investigated the potential o...
+
+### Co-pathologies and biological processes beyond amyloid-beta and tau in people with Alzheimer's disease: Evidence from clinical cohort studies.
+**Authors:** Ferreira D, Chmiela T, Eriksdotter M, Jack CR, Kalpouzos G et al.  
+**Journal:** Journal of internal medicine (2026)  
+**PMID:** 41988825  **DOI:** 10.1111/joim.70096
+**Entities:** tau, neuroinflammation, TBI, Alzheimer  
+**Abstract:** Alzheimer's disease (AD) is neuropathologically defined by amyloid-beta (Aβ) plaques and tau neurofibrillary tangles. However, co-pathologies and other pathobiological processes are involved in the pa...
+
+### The Role of Dopamine Signaling and Neuroinflammation in Age-Related Cognitive Dysfunction.
+**Authors:** Bowen J, Hanna K, Young AMJ, Helfer G, McLean SL  
+**Journal:** Brain and behavior (2026)  
+**PMID:** 41981941  **DOI:** 10.1002/brb3.71395
+**Entities:** BDNF, IL-6, neuroinflammation, dopamine, aging  
+**Abstract:** PURPOSE: Age-related cognitive decline is a growing public health concern, yet early molecular indicators remain poorly defined. Since brain changes often precede behavioral symptoms, identifying earl...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -14314,6 +14328,13 @@
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: Although traditionally associated with mild head trauma, post-concussive symptoms are commonly reported across both healthy and other clinical populations. Existing research indicates that ...
 
+### Feasibility and preliminary efficacy of telehealth interdisciplinary rehabilitation for concussion recovery: a single-case experimental design.
+**Authors:** Macheras S, Ponsford J, Peverill T, Davies K, Brusco N et al.  
+**Journal:** Annals of physical and rehabilitation medicine (2026)  
+**PMID:** 42019192  **DOI:** 10.1016/j.rehab.2026.102126
+**Entities:** tau, mTBI, TBI, PPCS  
+**Abstract:** BACKGROUND: Persistent post-concussion symptoms (pPCS) affect one-third of individuals following mild traumatic brain injury (mTBI), yet interdisciplinary treatment is difficult to access in non-metro...
+
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
 **Journal:** Expert review of neurotherapeutics (2025)  
@@ -16594,6 +16615,13 @@
 **PMID:** 42322082  **DOI:** 10.1002/hbm.70584
 **Entities:** mTBI  
 **Abstract:** The susceptibility of athletes to long-term adverse outcomes following recurrent concussion remains controversial. Acute concussion precipitates a transient reduction in cerebral blood flow (CBF) that...
+
+### Youth Soccer Participation and Brain Health Outcomes in Adolescent Athletes.
+**Authors:** Koerte IK, Wiegand TLT, Bonke EM, Sandmo SK, Kaufmann D et al.  
+**Journal:** JAMA network open (2026)  
+**PMID:** 42329650  **DOI:** 10.1001/jamanetworkopen.2026.19569
+**Entities:** GFAP, NfL, Alzheimer  
+**Abstract:** IMPORTANCE: Repetitive head impacts (RHIs) are associated with later-life neurodegeneration. Because soccer is the most widely played sport among youth worldwide, identifying early changes associated ...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  

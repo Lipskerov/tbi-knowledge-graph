@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3447,
+  "n_papers": 3451,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -430,6 +430,14 @@
         "entities": "mTBI, PPCS"
       },
       {
+        "pmid": "42019192",
+        "title": "Feasibility and preliminary efficacy of telehealth interdisciplinary rehabilitation for concussion recovery: a single-case experimental design.",
+        "authors": "Macheras S, Ponsford J, Peverill T, Davies K, Brusco N et al.",
+        "year": 2026,
+        "journal": "Annals of physical and rehabilitation medicine",
+        "entities": "tau, mTBI, TBI, PPCS"
+      },
+      {
         "pmid": "42003267",
         "title": "Effects of cognitive-vocational rehabilitation on post-concussion symptoms and emotional distress: a secondary RCT analysis.",
         "authors": "Andelic N, Lu J, Fure SCR, Brunborg C, L\u00f8vstad M et al.",
@@ -492,14 +500,6 @@
         "year": 2026,
         "journal": "The American journal of emergency medicine",
         "entities": "GFAP, UCH-L1, mTBI, TBI, PPCS"
-      },
-      {
-        "pmid": "41297111",
-        "title": "Use of In-Hospital Mild Traumatic Brain Injury Symptom Checklist Within 24 Hours of Injury to Predict 3-Month Symptom Outcome.",
-        "authors": "Gray S, Amadon G, Temkin N, Darsie M, Giacino JT et al.",
-        "year": 2026,
-        "journal": "The Journal of emergency medicine",
-        "entities": "mTBI, TBI, PPCS"
       }
     ],
     "qr2_inhibitors": [
@@ -545,6 +545,14 @@
       }
     ],
     "tbi_mild_blood": [
+      {
+        "pmid": "42329650",
+        "title": "Youth Soccer Participation and Brain Health Outcomes in Adolescent Athletes.",
+        "authors": "Koerte IK, Wiegand TLT, Bonke EM, Sandmo SK, Kaufmann D et al.",
+        "year": 2026,
+        "journal": "JAMA network open",
+        "entities": "GFAP, NfL, Alzheimer"
+      },
       {
         "pmid": "42322082",
         "title": "Reduced Cerebral Blood Flow in the Early Chronic Phase of Recurrent Concussion Among Female Collegiate-Aged Athletes.",
@@ -616,14 +624,6 @@
         "year": 2026,
         "journal": "Acta neurochirurgica",
         "entities": "mTBI, TBI, aging"
-      },
-      {
-        "pmid": "41698173",
-        "title": "Potential salivary protein biomarkers for the identification of mild traumatic brain injury: A systematic review.",
-        "authors": "Fabiyi O, Kalinina D, Kontos AP, Zynda AJ, Ali S et al.",
-        "year": 2026,
-        "journal": "Advances in clinical and experimental medicine : official organ Wroclaw Medical University",
-        "entities": "BBB, mTBI, TBI"
       }
     ],
     "tbi_panel_poc": [
@@ -795,37 +795,37 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1868
+      "paper_count": 1870
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1076
+      "paper_count": 1077
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 652
+      "paper_count": 654
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 623
+      "paper_count": 624
     },
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 469
+      "paper_count": 470
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 370
+      "paper_count": 372
     },
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 316
+      "paper_count": 318
     },
     {
       "name": "NQO2",
@@ -835,7 +835,7 @@
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 293
+      "paper_count": 294
     },
     {
       "name": "ROS",
@@ -855,7 +855,7 @@
     {
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 214
+      "paper_count": 215
     },
     {
       "name": "S100B",
@@ -878,12 +878,12 @@
       "paper_count": 101
     },
     {
-      "name": "p-tau",
+      "name": "IL-6",
       "type": "protein",
-      "paper_count": 94
+      "paper_count": 95
     },
     {
-      "name": "IL-6",
+      "name": "p-tau",
       "type": "protein",
       "paper_count": 94
     },
@@ -930,7 +930,7 @@
     {
       "name": "dopamine",
       "type": "metabolite",
-      "paper_count": 50
+      "paper_count": 51
     },
     {
       "name": "glutathione",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 781.0
+      "weight": 782.0
     },
     {
       "source": "GFAP",
@@ -967,12 +967,12 @@
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 211.0
+      "weight": 212.0
     },
     {
       "source": "tau",
       "target": "TBI",
-      "weight": 210.0
+      "weight": 212.0
     },
     {
       "source": "UCH-L1",
@@ -992,12 +992,12 @@
     {
       "source": "TBI",
       "target": "Alzheimer",
-      "weight": 190.0
+      "weight": 191.0
     },
     {
       "source": "tau",
       "target": "Alzheimer",
-      "weight": 176.0
+      "weight": 177.0
     },
     {
       "source": "NfL",
@@ -1007,12 +1007,12 @@
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 169.0
+      "weight": 170.0
     },
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 166.0
+      "weight": 167.0
     },
     {
       "source": "S100B",
@@ -1032,12 +1032,12 @@
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 148.0
+      "weight": 149.0
     },
     {
       "source": "TBI",
       "target": "PPCS",
-      "weight": 145.0
+      "weight": 146.0
     },
     {
       "source": "NfL",
@@ -1052,12 +1052,12 @@
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 118.0
+      "weight": 119.0
     },
     {
       "source": "neuroinflammation",
       "target": "aging",
-      "weight": 118.0
+      "weight": 119.0
     },
     {
       "source": "NQO2",
@@ -1102,7 +1102,7 @@
     {
       "source": "NfL",
       "target": "Alzheimer",
-      "weight": 94.0
+      "weight": 95.0
     },
     {
       "source": "TBI",
@@ -1140,14 +1140,14 @@
       "weight": 78.0
     },
     {
-      "source": "ROS",
+      "source": "GFAP",
       "target": "Alzheimer",
       "weight": 76.0
     },
     {
-      "source": "GFAP",
+      "source": "ROS",
       "target": "Alzheimer",
-      "weight": 75.0
+      "weight": 76.0
     },
     {
       "source": "NQO2",
