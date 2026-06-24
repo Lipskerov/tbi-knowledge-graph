@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-23*
-*Total papers: 3451*
+*Generated: 2026-06-24*
+*Total papers: 3454*
 
 
 ## Cluster: aging_neuro
@@ -14447,6 +14447,13 @@
 **Entities:** neuroinflammation, mTBI, TBI, PPCS, Alzheimer  
 **Abstract:** Mild traumatic brain injury (mTBI) is common diagnosis across all age groups and while most symptoms resolve within a few weeks; between 10 and 25 percent of mTBI patients suffer long-term problems. K...
 
+### Intensive exposure therapy for individuals with persistent concussion symptoms following concussion: a replicated single-case experimental design (SCED) study.
+**Authors:** King S, Winkens I, van der Naalt J, van Heugten CM, Rijkeboer MM  
+**Journal:** Brain injury (2025)  
+**PMID:** 40801321  **DOI:** 10.1080/02699052.2025.2544624
+**Entities:** tau, mTBI, TBI, PPCS  
+**Abstract:** INTRODUCTION: Persistent concussion symptoms (PCS) after mild traumatic brain injury (mTBI) interfere with daily functioning. The study aimed to replicate findings of our previous work showing the eff...
+
 ### The search for blood-biomarkers of persistent post-concussion symptoms.
 **Authors:** Meier TB  
 **Journal:** Journal of the neurological sciences (2024)  
@@ -16406,6 +16413,20 @@
 **PMID:** 31394601  
 **Entities:** mTBI, TBI  
 **Abstract:** To date, several Department of Defense (DoD) and civilian studies have evaluated hyperbaric oxygen for mild forms of traumatic brain injury. Prior to the DoD-sponsored "Brain Injury and Mechanisms of ...
+
+### Responsivity of Concussion Symptom Domains to a Mind-Body Intervention for Young Adults With a Recent Concussion and Anxiety: A Pilot RCT.
+**Authors:** Lovette BC, Bakhshaie J, Vranceanu AM, Greenberg J  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 40853262  **DOI:** 10.1097/HTR.0000000000001101
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Given the heterogeneity of concussion symptoms and the variety of associated multidisciplinary treatment needs, classifying concussion symptoms into domains (eg, cognitive, physical, affec...
+
+### Can Exposure Therapy Be Effective for Persistent Post-Concussion Symptoms? A Nonconcurrent Multiple Baseline Design Across 4 Cases.
+**Authors:** Hecker L, King S, Stapert S, Geusgens C, den Hollander M et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 39616436  **DOI:** 10.1097/HTR.0000000000001023
+**Entities:** tau, mTBI, PPCS  
+**Abstract:** OBJECTIVE: After a concussion, some patients develop persistent post-concussion symptoms, which interferes with functioning in daily life. A biopsychosocial explanation for the development and continu...
 
 
 ## Cluster: qr2_inhibitors

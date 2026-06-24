@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3451,
+  "n_papers": 3454,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1870
+      "paper_count": 1871
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1077
+      "paper_count": 1080
     },
     {
       "name": "Alzheimer",
@@ -820,7 +820,7 @@
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 372
+      "paper_count": 374
     },
     {
       "name": "neuroinflammation",
@@ -855,7 +855,7 @@
     {
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 215
+      "paper_count": 217
     },
     {
       "name": "S100B",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 782.0
+      "weight": 783.0
     },
     {
       "source": "GFAP",
@@ -967,12 +967,12 @@
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 212.0
+      "weight": 214.0
     },
     {
       "source": "tau",
       "target": "TBI",
-      "weight": 212.0
+      "weight": 213.0
     },
     {
       "source": "UCH-L1",
@@ -1025,19 +1025,19 @@
       "weight": 156.0
     },
     {
+      "source": "tau",
+      "target": "mTBI",
+      "weight": 151.0
+    },
+    {
       "source": "NfL",
       "target": "tau",
       "weight": 151.0
     },
     {
-      "source": "tau",
-      "target": "mTBI",
-      "weight": 149.0
-    },
-    {
       "source": "TBI",
       "target": "PPCS",
-      "weight": 146.0
+      "weight": 147.0
     },
     {
       "source": "NfL",
