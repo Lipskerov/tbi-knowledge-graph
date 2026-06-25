@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-24*
-*Total papers: 3454*
+*Generated: 2026-06-25*
+*Total papers: 3458*
 
 
 ## Cluster: aging_neuro
@@ -5104,6 +5104,13 @@
 **Entities:** TNF-α, BBB, TBI, Alzheimer  
 **Abstract:** The voltage-gated sodium channel Nav1.6, encoded by the sodium voltage-gated channel alpha subunit 8 gene, is a crucial regulator of neuronal excitability, with widespread expression throughout the ce...
 
+### Clinical association of serum miR-524-5p levels with injury severity and prognostic outcomes in traumatic brain injury.
+**Authors:** Yu X, Hu Z  
+**Journal:** The International journal of neuroscience (2026)  
+**PMID:** 42015739  **DOI:** 10.1080/00207454.2026.2659359
+**Entities:** ROS, IL-6, TNF-α, IL-1β, neuroinflammation  
+**Abstract:** BACKGROUND: Traumatic Brain Injury (TBI) has a complex pathology, with no specific biomarkers for diagnosis/prognostic stratification. miRNAs are key regulators of TBI pathological progression. OBJECT...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7353,6 +7360,13 @@
 **PMID:** 41966542  **DOI:** 10.1016/j.bios.2026.118677
 **Entities:** GFAP, TBI  
 **Abstract:** To prevent neurological damage and enable effective treatment, especially for military personnel, there is a clinical requirement for rapid, accurate, and early diagnosis of blast-exposed traumatic br...
+
+### Blood-based biomarkers GFAP/UCH-L1 for the diagnosis of mild traumatic brain injury (mTBI): a single-center implementation experience.
+**Authors:** Maegele M, Breidenbach L, Kaufmann J, Keles Y, Uhl E et al.  
+**Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2026)  
+**PMID:** 42340459  **DOI:** 10.1007/s00068-026-03244-y
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** INTRODUCTION: Mild traumatic brain injuries (mTBI) affect millions of people worldwide every year as one of the most common clinical presentations in the emergency department. Diagnosis is mainly base...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -16644,6 +16658,13 @@
 **Entities:** GFAP, NfL, Alzheimer  
 **Abstract:** IMPORTANCE: Repetitive head impacts (RHIs) are associated with later-life neurodegeneration. Because soccer is the most widely played sport among youth worldwide, identifying early changes associated ...
 
+### Comparative Analysis of Repeat Cranial Imaging in Mild Traumatic Brain Injury: Evaluating Risk Factors, Costs, and Radiation Exposure Between 2017 and 2023.
+**Authors:** Jehli E, Kupka M, Bellut D, Stienen MN, Delgado Chavez NC et al.  
+**Journal:** World neurosurgery (2026)  
+**PMID:** 42019915  **DOI:** 10.1016/j.wneu.2026.124993
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: A high number of repeat cranial imaging studies are performed on mild traumatic brain injury (mTBI) patients, but their diagnostic yield is often poor. This study assesses the impact of re...
+
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
 **Journal:** Neurocritical care (2025)  
@@ -19152,6 +19173,13 @@
 **PMID:** 42311103  **DOI:** 10.1097/XCS.0000000000002073
 **Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** BACKGROUND: Rapid discrimination of traumatic brain injury (TBI) from hemorrhagic shock remains challenging during initial trauma evaluation. Ubiquitin carboxyl-terminal hydrolase L1 (UCHL1) and glial...
+
+### Diagnostic performance of point-of-care ultrasound for pediatric skull fractures: A systematic review and meta-analysis.
+**Authors:** Wang X, Rao G, Yang G, Ye Y, Jiang X et al.  
+**Journal:** The Journal of international medical research (2026)  
+**PMID:** 42339785  **DOI:** 10.1177/03000605261460310
+**Entities:** —  
+**Abstract:** ObjectivePediatric head trauma is common, but computed tomography exposes children to ionizing radiation. This systematic review and meta-analysis evaluated the diagnostic accuracy of point-of-care ul...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
