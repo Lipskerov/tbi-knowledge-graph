@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-25*
-*Total papers: 3458*
+*Generated: 2026-06-26*
+*Total papers: 3461*
 
 
 ## Cluster: aging_neuro
@@ -7368,6 +7368,13 @@
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** INTRODUCTION: Mild traumatic brain injuries (mTBI) affect millions of people worldwide every year as one of the most common clinical presentations in the emergency department. Diagnosis is mainly base...
 
+### Temporal Biomarker Profiles Following Non-Surgical Spinal Cord Concussion.
+**Authors:** Dickson TM, Loos A, Amin M, Lopez JV, Murphy SF et al.  
+**Journal:** Journal of molecular neuroscience : MN (2026)  
+**PMID:** 41989634  **DOI:** 10.1007/s12031-026-02520-1
+**Entities:** ROS, GFAP, BDNF, neuroinflammation, oxidative stress  
+**Abstract:** Traumatic spinal cord concussion (SCC) can result from motor vehicle accidents, contact sports, falls, and other mild traumatic events. Although clinically significant, the relationship between SCC se...
+
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -14349,6 +14356,13 @@
 **Entities:** tau, mTBI, TBI, PPCS  
 **Abstract:** BACKGROUND: Persistent post-concussion symptoms (pPCS) affect one-third of individuals following mild traumatic brain injury (mTBI), yet interdisciplinary treatment is difficult to access in non-metro...
 
+### The Clinical Utility of a Novel Multimodal Assessment Battery for Acute Sport-Related Concussion.
+**Authors:** Bertagnolli J, Dukelow SP, Smith DJ, Richer L, Benson BW  
+**Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2026)  
+**PMID:** 41489911  **DOI:** 10.1097/JSM.0000000000001402
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: Determine the clinical utility of a novel, multimodal assessment battery in detecting acute post-concussion impairment relative to baseline performance. DESIGN: Prospective observational co...
+
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
 **Journal:** Expert review of neurotherapeutics (2025)  
@@ -19180,6 +19194,13 @@
 **PMID:** 42339785  **DOI:** 10.1177/03000605261460310
 **Entities:** —  
 **Abstract:** ObjectivePediatric head trauma is common, but computed tomography exposes children to ionizing radiation. This systematic review and meta-analysis evaluated the diagnostic accuracy of point-of-care ul...
+
+### A Decision Tree Cost Analysis of Intracranial Bleed Detection Using a Near-Infrared Device Across Various Healthcare Levels.
+**Authors:** Patel M, Mittal AK, Agrawal M, Sachin O, Rajsekar K et al.  
+**Journal:** Journal of market access & health policy (2026)  
+**PMID:** 42346702  **DOI:** 10.3390/jmahp14020033
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI), mainly caused by road traffic accidents, is a serious global public health concern. Computed tomography (CT) is the best way to detect intracranial haemorrhage (ICH), but...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  

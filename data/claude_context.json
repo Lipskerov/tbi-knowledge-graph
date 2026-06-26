@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3458,
+  "n_papers": 3461,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -486,20 +486,20 @@
         "entities": "mTBI, PPCS"
       },
       {
+        "pmid": "41489911",
+        "title": "The Clinical Utility of a Novel Multimodal Assessment Battery for Acute Sport-Related Concussion.",
+        "authors": "Bertagnolli J, Dukelow SP, Smith DJ, Richer L, Benson BW",
+        "year": 2026,
+        "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+        "entities": "mTBI"
+      },
+      {
         "pmid": "41475040",
         "title": "Effectiveness of intensive exposure therapy for persistent post-concussion symptoms: an aggregated single-case design approach.",
         "authors": "King S, Rijkeboer M, Winkens I, Tuts N, Ford M et al.",
         "year": 2026,
         "journal": "Behaviour research and therapy",
         "entities": "mTBI, TBI, PPCS"
-      },
-      {
-        "pmid": "41455435",
-        "title": "Prognostic value of GFAP and UCHL-1 biomarkers in high-risk mild traumatic brain injury: A prospective longitudinal study of short- and long-term outcomes.",
-        "authors": "Spaziani G, Rozzi G, Baroni S, Napoli G, De Ninno G et al.",
-        "year": 2026,
-        "journal": "The American journal of emergency medicine",
-        "entities": "GFAP, UCH-L1, mTBI, TBI, PPCS"
       }
     ],
     "qr2_inhibitors": [
@@ -628,6 +628,14 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42346702",
+        "title": "A Decision Tree Cost Analysis of Intracranial Bleed Detection Using a Near-Infrared Device Across Various Healthcare Levels.",
+        "authors": "Patel M, Mittal AK, Agrawal M, Sachin O, Rajsekar K et al.",
+        "year": 2026,
+        "journal": "Journal of market access & health policy",
+        "entities": "TBI"
+      },
+      {
         "pmid": "42339785",
         "title": "Diagnostic performance of point-of-care ultrasound for pediatric skull fractures: A systematic review and meta-analysis.",
         "authors": "Wang X, Rao G, Yang G, Ye Y, Jiang X et al.",
@@ -698,14 +706,6 @@
         "year": 2026,
         "journal": "Analytical and bioanalytical chemistry",
         "entities": "S100B, TBI"
-      },
-      {
-        "pmid": "41786783",
-        "title": "A handheld near infrared scanner for the detection of acute traumatic intracranial hemorrhage.",
-        "authors": "D'Amario S, Bougadis J, Coverdale NS, Hoffman B, Nashed JY et al.",
-        "year": 2026,
-        "journal": "Scientific reports",
-        "entities": "TBI"
       }
     ],
     "tbi_proteomics": [
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1874
+      "paper_count": 1876
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1082
+      "paper_count": 1084
     },
     {
       "name": "Alzheimer",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 471
+      "paper_count": 472
     },
     {
       "name": "tau",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 319
+      "paper_count": 320
     },
     {
       "name": "NQO2",
@@ -840,12 +840,12 @@
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 257
+      "paper_count": 258
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 238
+      "paper_count": 239
     },
     {
       "name": "UCH-L1",
@@ -947,12 +947,12 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 785.0
+      "weight": 786.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 392.0
+      "weight": 393.0
     },
     {
       "source": "Alzheimer",
@@ -962,7 +962,7 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 221.0
+      "weight": 222.0
     },
     {
       "source": "mTBI",
@@ -987,7 +987,7 @@
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 195.0
+      "weight": 196.0
     },
     {
       "source": "TBI",
@@ -1012,7 +1012,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 168.0
+      "weight": 169.0
     },
     {
       "source": "S100B",
@@ -1160,6 +1160,11 @@
       "weight": 73.0
     },
     {
+      "source": "oxidative stress",
+      "target": "TBI",
+      "weight": 73.0
+    },
+    {
       "source": "tau",
       "target": "aging",
       "weight": 73.0
@@ -1168,11 +1173,6 @@
       "source": "NQO2",
       "target": "ROS",
       "weight": 73.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "TBI",
-      "weight": 72.0
     },
     {
       "source": "UCH-L1",
@@ -1187,7 +1187,7 @@
     {
       "source": "ROS",
       "target": "TBI",
-      "weight": 68.0
+      "weight": 69.0
     },
     {
       "source": "IL-6",
