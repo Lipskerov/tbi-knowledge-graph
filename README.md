@@ -1,44 +1,149 @@
 # TBI Knowledge Graph
 
-A local, queryable knowledge base of **2,679 TBI diagnostic papers** organised around the **NQO2 (Quinone Reductase 2) pathway** as a novel blood biomarker entry point.
+A queryable knowledge base of **3,368 TBI-diagnostic papers** organised around the
+**NQO2 (Quinone Reductase 2 / QR2) pathway** as a novel blood-biomarker entry point —
+served as a **containerised web app** with an interactive, provenance-labelled graph.
 
-Built to support a research project on TBI diagnostics at the [Rosenblum Lab](https://neurosenblum.haifa.ac.il) (University of Haifa) × [Liraz-Zaltsman Lab](https://www.sheba.co.il) (Sheba Medical Center).
+Built to support a research project on TBI diagnostics at the
+[Rosenblum Lab](https://neurosenblum.haifa.ac.il) (University of Haifa) ×
+[Liraz-Zaltsman Lab](https://www.sheba.co.il) (Sheba Medical Center).
+
+> **Current version: v2.2.** See [`CHANGELOG.md`](CHANGELOG.md) for the full version
+> history and [`docs/V2_BUILD_SPEC.md`](docs/V2_BUILD_SPEC.md) for the v2 build spec.
+
+---
+
+## At a glance
+
+| | |
+|---|---|
+| **Papers** | **3,368** — 3,040 PubMed · 325 bioRxiv · 3 pre-loaded Rosenblum-lab papers |
+| **Years** | 1975 – 2026 |
+| **Entities (graph nodes)** | **115** — 52 drug · 37 protein · 7 RNA · 7 metabolite · 7 disease · 4 pathway · 1 process |
+| **Edges** | **892** — 799 co-occurrence · 13 curated mechanism · 40 ChEMBL inhibitor · 40 OmniPath signed |
+| **Clusters** | 14 topic clusters (multi-cluster faceting) |
+| **Interfaces** | FastAPI web app (`localhost:8000`) · v1 CLI (`kb/query_kb.py`) · static HTML graph |
 
 ---
 
 ## What's inside
 
-| File | Contents |
-|------|----------|
-| `data/tbi_papers.db` | SQLite — 2,679 papers, 74 entities, 767 graph edges |
+| File / dir | Contents |
+|------------|----------|
+| `app/` | FastAPI web app — REST API + two-pane vis.js frontend + shared-password login |
+| `kb/` | Fetchers (PubMed, bioRxiv, ChEMBL, OmniPath) + graph builder + CLI |
+| `data/tbi_papers.db` | SQLite — papers, entities, typed edges, FTS5 index, ChEMBL & OmniPath tables |
 | `data/knowledge_graph.json` | Full entity-relation graph export |
 | `data/paper_summaries.md` | Human-readable index of all papers with entity tags |
 | `data/claude_context.json` | Compact JSON for loading as Claude context |
-| `data/tbi_graph.html` | Pre-built interactive graph — open in any browser |
+| `data/tbi_graph.html` | Pre-built static interactive graph (v1, offline) |
+| `Dockerfile`, `docker-compose.yml` | Container build + run |
 
 ---
 
-## Quick start
+## The web app (v2.2)
+
+A FastAPI + SQLite-FTS5 app on top of the database, gated behind a shared lab password.
 
 ```bash
-# 1. Install dependencies
-pip install requests networkx pyvis
+# 1. Set the shared password (writes a gitignored .env with the hash + session secret)
+python -m app.auth set-password
 
-# 2. Open the pre-built interactive graph
-open data/tbi_graph.html      # macOS
-# or just double-click the file in Finder
+# 2. Build & run the container
+docker compose up --build -d        # → http://localhost:8000
+```
 
-# 3. Query the database
+### Capabilities
+- **Interactive graph** (vis.js) — nodes sized by paper count, coloured by entity type.
+- **Provenance-labelled edges** — every edge is one of four kinds (see below), colour-coded.
+- **Click a node → its papers** with DOI / PubMed / bioRxiv links, plus its directed
+  mechanism links (curated / ChEMBL / OmniPath) with annotations.
+- **Full-text search** over all abstracts (SQLite FTS5).
+- **Multi-cluster faceting** — filter by node type, cluster, focus disease, min papers/edge.
+- **Physics toggle** — freeze the layout to drag nodes into place and pin them, or
+  re-enable auto-arrange.
+- **Shared-password login** — `/login`, `/logout`; 8-hour signed HttpOnly session cookie.
+
+### Edge provenance (the four edge kinds)
+
+| Kind | UI style | Meaning | Count |
+|------|----------|---------|-------|
+| `cooccur` | faint grey | two entities co-mentioned in a paper (weight = shared papers) | 799 |
+| `curated` | solid orange, directed | hand-curated mechanism edges — the **novel NQO2 biology** | 13 |
+| `chembl` | dashed green, directed | `compound → NQO2` inhibition with potency (IC50/Ki/Kd · pChEMBL · n) | 40 |
+| `omnipath` | dashed blue, directed/signed | curated **activates/inhibits** protein interactions (SIGNOR/Reactome/…) | 40 |
+
+The curated edges carry the project's unique knowledge (the dopamine→DRD1→miR-182→NQO2→
+ROS→Kv2.1 pathway), which public databases do not contain; ChEMBL and OmniPath enrich the
+quantitative inhibitor data and the surrounding signalling context respectively.
+
+### API endpoints
+
+| Method | Path | Purpose |
+|--------|------|---------|
+| GET | `/api/stats` | counts (papers, entities, edges by kind, clusters, sources) |
+| GET | `/api/graph` | nodes + edges (filters: `min_papers`, `min_edge`, `types`, `clusters`, `disease`, `q`, `year_min`, `year_max`) |
+| GET | `/api/node/{id}/papers` | papers for an entity (filters: `year_min/max`, `cluster`, `limit`) |
+| GET | `/api/entity/{id}` | entity detail: aliases, mechanism in/out (with annotations), top co-occurring |
+| GET | `/api/search` | FTS5 full-text search over abstracts |
+| GET/POST | `/login`, `/logout` | auth flow (public) |
+| GET | `/healthz` | health check (public) |
+
+All `/api/*` and the frontend require a valid session; unauthenticated requests get
+`401` (API) or a redirect to `/login`.
+
+`year_min` / `year_max` on `/api/graph` scope the graph to papers in that span: a
+node appears only if it has a paper in the window, and co-occurrence edges are
+recomputed within it (so a connection is only drawn when in-range papers support it).
+Mechanism edges are shown between in-range nodes.
+
+### Programmatic access
+
+The API is read-only and gated by the shared password. POST it once to `/login` to
+get a session cookie, then reuse the cookie for `/api/*` calls.
+
+```python
+import requests
+
+BASE = "http://132.74.113.206:8000"     # or http://localhost:8000 on the host
+s = requests.Session()
+s.post(f"{BASE}/login", json={"password": "YOUR_SHARED_PASSWORD"})
+
+# whole-graph stats
+print(s.get(f"{BASE}/api/stats").json())
+
+# graph scoped to 2018–2026, hubs only
+print(s.get(f"{BASE}/api/graph",
+            params={"min_papers": 3, "year_min": 2018, "year_max": 2026}).json())
+
+# full-text search over abstracts
+print(s.get(f"{BASE}/api/search",
+            params={"q": "NQO2 blood biomarker", "limit": 5}).json())
+```
+
+Equivalent with `curl` (cookie jar carries the session):
+
+```bash
+curl -s -c cookies.txt -X POST http://localhost:8000/login \
+     -H "Content-Type: application/json" -d '{"password":"YOUR_SHARED_PASSWORD"}'
+curl -s -b cookies.txt "http://localhost:8000/api/graph?min_papers=3&year_min=2018&year_max=2026"
+```
+
+---
+
+## Quick start (CLI, no container)
+
+```bash
+pip install -r requirements.txt
+
+# query the database from the command line (v1 interface, unchanged)
 python kb/query_kb.py --stats
 python kb/query_kb.py --q "NQO2 blood TBI biomarker"
 python kb/query_kb.py --entity NQO2 --show-papers
 python kb/query_kb.py --cluster nqo2
 
-# 4. Rebuild the graph visualization
-python visualize_graph.py
-
-# 5. Rebuild the full database (re-fetches PubMed)
-python build_kb.py
+# open the pre-built static graph
+open data/tbi_graph.html          # macOS (or just double-click the file)
 ```
 
 ---
@@ -87,169 +192,113 @@ PPCS patients cost **5–10× more** over 12 months than recovered patients — 
 
 ---
 
-## Paper clusters
+## Paper clusters (14)
+
+A paper can belong to multiple clusters (`paper_clusters` junction table), so counts sum to more than the 3,368 unique papers.
 
 | Cluster | Papers | Description |
 |---------|--------|-------------|
-| `nqo2` | 370 | **All NQO2/QR2 papers** — full enzyme biology, no filter |
-| `gfap_uchl1` | 300 | GFAP + UCH-L1 as TBI blood diagnostics |
-| `ppcs_prognosis` | 287 | Post-concussion syndrome biomarkers and prognosis |
-| `exosomal_rna` | 283 | Exosomal / extracellular vesicle RNA in TBI |
-| `tbi_mild_blood` | 335 | mTBI + blood biomarkers 2018–2026 |
-| `tbi_proteomics` | 471 | TBI + proteomics / metabolomics |
-| `tbi_panel_poc` | 224 | Multi-marker panels + point-of-care TBI tests |
-| `nfl_tau` | 217 | NfL and tau in TBI blood diagnosis / prognosis |
-| `proteostasis` | 192 | p62/SQSTM1, autophagy, UPS in TBI |
+| `aging_neuro` | 703 | Brain aging / age-related neurodegeneration |
+| `tbi_mild_blood` | 533 | mTBI + blood biomarkers |
+| `tbi_proteomics` | 533 | TBI + proteomics / metabolomics |
+| `nqo2` | 379 | **All NQO2/QR2 papers** — full enzyme biology |
+| `nfl_tau` | 363 | NfL and tau in TBI blood diagnosis / prognosis |
+| `gfap_uchl1` | 339 | GFAP + UCH-L1 as TBI blood diagnostics |
+| `exosomal_rna` | 313 | Exosomal / extracellular-vesicle RNA in TBI |
+| `ppcs_prognosis` | 303 | Post-concussion syndrome biomarkers and prognosis |
+| `qr2_structure_kinetics` | 297 | QR2 enzyme structure / kinetics |
+| `tbi_panel_poc` | 290 | Multi-marker panels + point-of-care TBI tests |
+| `qr2_inhibitors` | 249 | QR2 inhibitor pharmacology |
+| `qr2_melatonin_mt3` | 68 | Melatonin / MT3 binding site |
+| `qr2_flavonoids` | 64 | Flavonoid QR2 inhibitors (quercetin, resveratrol, …) |
+| `qr2_antimalarials` | 26 | Antimalarial QR2 inhibitors (chloroquine, primaquine, …) |
 
 ---
 
-## Knowledge graph entities (74 total)
+## Knowledge graph entities (115)
 
-### NQO2/QR2 pathway (amber nodes in the graph)
+Entities are seeded in `kb/build_graph.py` (`ENTITY_SEEDS`) and extended by the ChEMBL /
+OmniPath fetchers. Key arms of the graph:
 
 ```
-Upstream:    dopamine → DRD1 → cAMP/PKA → miR-182 → NQO2 suppression
-Enzyme:      NQO2 (vs NQO1 — selectivity problem; substrate: NRH not NADPH)
-Downstream:  NQO2 → ROS → Kv2.1 oxidation → interneuron excitability
-Antioxidant: ROS → Nrf2 → HO-1 / SOD / glutathione / catalase
-ISR arm:     PKR / PERK / GCN2 → eIF2α-P → eEF2↓ / ATF4↑ / CHOP↑
-Inhibitors:  S29434 (Rosenblum lab), quercetin, resveratrol
+NQO2/QR2 enzyme:  NQO2 · NQO1 · NRH (substrate) · FAD
+Upstream signal:  dopamine → DRD1 → cAMP/PKA → miR-182 → NQO2 (suppression)
+Downstream:       NQO2 → ROS → Kv2.1 oxidation → interneuron excitability
+Antioxidant arm:  ROS → Nrf2 → HO-1 / SOD / glutathione / catalase / 4-HNE
+ISR arm:          PKR / PERK / GCN2 → eIF2α → ATF4 / CHOP / eEF2 / eIF2B
+Plasticity:       CaMKII · Arc · AMPA receptor · NMDA receptor
+Inhibitors:       S29434, melatonin, quercetin, resveratrol, chloroquine, imatinib,
+                  prazosin … + 40 ChEMBL compounds with measured potencies
 ```
 
-### Established TBI blood biomarkers
+**Established TBI blood biomarkers:** `GFAP` · `UCH-L1` · `NfL` · `NfH` · `tau` · `p-tau` · `S100B` · `NSE` · `MBP` · `VILIP-1` · `BDNF`
 
-`GFAP` · `UCH-L1` · `NfL` · `tau` · `p-tau` · `S100B` · `NSE` · `MBP`
+**Neuroinflammation:** `Iba1` · `IL-6` · `TNF-α` · `IL-1β` · `Aβ42` · `neuroinflammation`
 
-### Proteostasis axis (Fedor's PhD biology)
+**RNA biomarkers:** `VLDLR-AS1` · `MALAT1` · `GAS5` · `NEAT1` · `miR-21` · `miR-182` · `let-7`
 
-`p62/SQSTM1` · `LC3` · `beclin-1` · `ubiquitin` · `UPS`
+**Clinical / platforms:** `mTBI` · `TBI` · `PPCS` · `CTE` · `Alzheimer` · `aging` · `GOS-E` · `i-STAT TBI` · `Simoa` · `Olink` · `Quanterix`
 
-### Neuroinflammation
-
-`Iba1` · `GFAP` · `IL-6` · `TNF-α` · `IL-1β` · `neuroinflammation`
-
-### RNA biomarkers
-
-`VLDLR-AS1` · `MALAT1` · `GAS5` · `NEAT1` · `miR-21` · `miR-182`
+> Entities mapped to genes carry their **HGNC symbol** as an alias (added by the OmniPath
+> normalisation step), e.g. Nrf2→NFE2L2, Kv2.1→KCNB1, UCH-L1→UCHL1.
 
 ---
 
-## Query reference
+## CLI query reference
 
 ```bash
-# Statistics
 python kb/query_kb.py --stats
-
-# Keyword search (ranked by relevance)
 python kb/query_kb.py --q "NQO2 blood TBI"
 python kb/query_kb.py --q "PPCS prognosis 6 months"
-python kb/query_kb.py --q "exosomal miRNA mild TBI"
-python kb/query_kb.py --q "multi-marker panel point of care"
-
-# Entity lookup
-python kb/query_kb.py --entity NQO2
+python kb/query_kb.py --entity NQO2 --show-papers
 python kb/query_kb.py --entity GFAP --show-papers
-python kb/query_kb.py --entity Nrf2 --show-papers
-python kb/query_kb.py --entity p62 --show-papers
-
-# Co-occurrence (what appears alongside an entity)
-python kb/query_kb.py --related NQO2
-python kb/query_kb.py --related GFAP
-
-# Browse cluster
+python kb/query_kb.py --related NQO2            # co-occurring entities
 python kb/query_kb.py --cluster nqo2
 python kb/query_kb.py --cluster tbi_mild_blood --year-min 2022
-python kb/query_kb.py --cluster ppcs_prognosis --limit 20
-
-# Full record for a paper
-python kb/query_kb.py --pmid 35617003
-
-# Export compact JSON for Claude context
-python kb/query_kb.py --export-context
+python kb/query_kb.py --pmid 35617003          # full record for a paper
+python kb/query_kb.py --export-context         # compact JSON for Claude
 ```
 
 ---
 
-## Visualization
+## Rebuilding & extending the database
 
 ```bash
-# Default: full graph, min 2 papers per node, min 2 shared papers per edge
-python visualize_graph.py
-
-# Tighter — major hubs only (good for presentations)
-python visualize_graph.py --min-papers 5 --min-edge 3
-
-# Highlight entities that appear in NQO2 cluster papers
-python visualize_graph.py --cluster nqo2
-
-# Highlight PPCS prognosis cluster
-python visualize_graph.py --cluster ppcs_prognosis
-```
-
-**Graph legend:**
-- **Amber nodes** — NQO2/QR2 pathway
-- Blue — protein | Teal — metabolite | Orange — RNA
-- Red-orange — pathway/process | Red — disease | Purple — drug/platform
-- Node size ∝ paper count · Edge thickness ∝ shared papers
-
----
-
-## Rebuilding the database
-
-```bash
-# Full rebuild (re-queries PubMed, only fetches new PMIDs)
+# Full rebuild (re-queries PubMed; only fetches new PMIDs)
 python build_kb.py
+python build_kb.py --api-key YOUR_KEY          # NCBI key → 10 req/s vs 3 req/s
 
-# Faster with NCBI API key (10 req/s vs 3 req/s)
-# Get a free key at: https://www.ncbi.nlm.nih.gov/account/
-python build_kb.py --api-key YOUR_KEY
-
-# Rebuild graph only (skip PubMed fetch)
+# Rebuild graph only (no network) — re-extracts entities, rebuilds all edge kinds + FTS
 python build_kb.py --skip-fetch
 
-# Single cluster refresh
-python build_kb.py --cluster nqo2
+# Add data sources
+python build_kb.py --source biorxiv            # bioRxiv preprints (Europe PMC + api.biorxiv.org)
+python build_kb.py --chembl                    # ChEMBL NQO2 inhibitor bioactivity → potency edges
+python build_kb.py --omnipath                  # OmniPath signed/directed protein interactions
+python build_kb.py --cluster nqo2              # refresh a single cluster
 ```
+
+The fetchers can also be run standalone: `kb/fetch_papers.py`, `kb/fetch_preprints.py`,
+`kb/fetch_chembl.py`, `kb/fetch_omnipath.py`. Each writes to the same DB; the graph build
+regenerates edges from the source tables (`PATHWAY_EDGES`, `chembl_activities`,
+`omnipath_interactions`) on every run.
+
+**Add a search cluster** — edit `CLUSTERS` in `kb/fetch_papers.py`, then
+`python build_kb.py --cluster new_cluster`.
+**Add curated entities/edges** — edit `ENTITY_SEEDS` / `PATHWAY_EDGES` in
+`kb/build_graph.py`, then `python build_kb.py --skip-fetch`.
 
 ---
 
-## Extending the knowledge base
+## Static visualization (v1, offline)
 
-### Add a new search cluster
+The original PyVis static export still works, independent of the web app:
 
-Edit `kb/fetch_papers.py`, add to `CLUSTERS`:
-```python
-"new_cluster": '("your query") AND (additional terms)',
-```
-Add the fetch cap to `CLUSTER_CAPS` (or `None` to fetch all). Then:
 ```bash
-python build_kb.py --cluster new_cluster
+python visualize_graph.py                       # full graph → data/tbi_graph.html
+python visualize_graph.py --min-papers 5 --min-edge 3   # major hubs only
+python visualize_graph.py --cluster nqo2        # highlight a cluster
 ```
-
-### Add new entities
-
-Edit `ENTITY_SEEDS` in `kb/build_graph.py`:
-```python
-("EntityName", "protein", ["alias1", "alias2", "alias 3"]),
-```
-Then:
-```bash
-python build_kb.py --skip-fetch
-```
-
-### Add a paper manually
-
-```python
-import sqlite3
-conn = sqlite3.connect("data/tbi_papers.db")
-conn.execute("""
-    INSERT OR IGNORE INTO papers
-        (pmid, title, abstract, authors, journal, year, doi, source, topic_cluster, fetched_at)
-    VALUES (?, ?, ?, ?, ?, ?, ?, 'manual', 'nqo2', datetime('now'))
-""", ("PMID", "Title", "Abstract...", "Author et al.", "Journal", 2025, "10.xxx/xxx"))
-conn.commit()
-```
-Then rebuild the graph: `python build_kb.py --skip-fetch`
 
 ---
 
@@ -257,19 +306,28 @@ Then rebuild the graph: `python build_kb.py --skip-fetch`
 
 ```
 .
-├── build_kb.py              # Main pipeline: fetch → graph → export
-├── visualize_graph.py       # PyVis interactive HTML graph
-├── CLAUDE.md                # Claude Code context file
+├── build_kb.py              # Main pipeline: schema → fetch → graph → export
+├── visualize_graph.py       # PyVis static HTML graph (v1)
+├── Dockerfile               # Container image (uvicorn serving app.main)
+├── docker-compose.yml       # Service: web (port 8000, .env, data volume)
+├── requirements.txt         # fastapi, uvicorn, itsdangerous, requests, networkx, pyvis
+├── CHANGELOG.md             # Version history (Keep a Changelog)
+├── docs/V2_BUILD_SPEC.md    # v2 build specification
+├── app/                     # FastAPI web app
+│   ├── main.py              #   routes, auth gate, session middleware
+│   ├── db.py                #   read-only SQLite data access
+│   ├── auth.py              #   shared-password auth (PBKDF2) + CLI
+│   └── static/              #   index.html · app.js · styles.css · login.html
 ├── kb/
-│   ├── fetch_papers.py      # PubMed E-utilities fetcher (9 clusters)
-│   ├── build_graph.py       # Entity extraction + NetworkX graph builder
+│   ├── fetch_papers.py      # PubMed E-utilities fetcher (14 clusters)
+│   ├── fetch_preprints.py   # bioRxiv via Europe PMC + api.biorxiv.org
+│   ├── fetch_chembl.py      # ChEMBL NQO2 inhibitor bioactivity → potency edges
+│   ├── fetch_omnipath.py    # OmniPath signed/directed protein interactions
+│   ├── build_graph.py       # Entity extraction + co-occurrence + curated/ChEMBL/OmniPath edges
 │   └── query_kb.py          # CLI query interface
-└── data/
-    ├── tbi_papers.db        # SQLite database
-    ├── knowledge_graph.json # Full graph (nodes + edges + centrality)
-    ├── paper_summaries.md   # All papers with abstracts + entity tags
-    ├── claude_context.json  # Compact context for Claude queries
-    └── tbi_graph.html       # Interactive graph (open in browser)
+├── scripts/vendor_lib.py    # Materialise vendored vis.js/tom-select libs at build time
+├── .github/workflows/daily_sync.yml   # Daily PubMed sync (auto-commits new papers)
+└── data/                    # DB + exports (see "What's inside")
 ```
 
 ---
@@ -277,17 +335,50 @@ Then rebuild the graph: `python build_kb.py --skip-fetch`
 ## Dependencies
 
 ```bash
-pip install requests networkx pyvis
+pip install -r requirements.txt
+# fastapi · uvicorn[standard] · itsdangerous · requests · networkx · pyvis
 ```
 
-Python 3.10+. No other dependencies — uses only `sqlite3` from the standard library.
+Python 3.10+. The container build also materialises the vis.js / tom-select frontend libs
+from the installed `pyvis` package (no CDN download) via `scripts/vendor_lib.py`.
 
 ---
 
 ## Data sources
 
-All papers fetched from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) via the NCBI E-utilities API. Three foundational papers from the Rosenblum lab are pre-loaded:
+Papers are fetched from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) (NCBI E-utilities) and
+[bioRxiv](https://www.biorxiv.org/) (via Europe PMC). Quantitative NQO2 inhibitor
+bioactivity (IC50/Ki/Kd) comes from [ChEMBL](https://www.ebi.ac.uk/chembl/)
+(`kb/fetch_chembl.py`), added as directed, potency-annotated `compound → NQO2` edges.
+Curated **signed/directed** protein interactions among the entities come from
+[OmniPath](https://omnipathdb.org/) — aggregating SIGNOR, Reactome, SignaLink and others
+(`kb/fetch_omnipath.py`). Three foundational Rosenblum-lab papers are pre-loaded:
 
 - Gould et al., *eNeuro* 2021 — QR2 in SST interneurons and taste memory
 - Gould et al., *JCI* 2022 — QR2 inhibitors reverse AD phenotype in 5xFAD mice
 - Gould et al., *J Neuroscience* 2020 — Dopamine-dependent QR2 pathway in CA1
+
+---
+
+## Security & deployment
+
+The app is gated behind a single shared password (PBKDF2-HMAC-SHA256 hash; signed HttpOnly
+session cookie). Secrets live in a **gitignored `.env`** (`TBI_AUTH_PASSWORD_HASH`,
+`TBI_SESSION_SECRET`, optional `NCBI_API_KEY`), injected via compose `env_file` — never
+committed, never baked into the image. Rotate the password with
+`python -m app.auth set-password`.
+
+> ⚠️ **No TLS yet.** Login is served over HTTP, so the password is cleartext on the wire —
+> acceptable only on a firewall-restricted trusted subnet. Add an HTTPS reverse proxy
+> (e.g. Caddy) and set `TBI_HTTPS_ONLY=1` (adds the `Secure` cookie flag) before any wider
+> exposure; for off-subnet access prefer a private mesh (e.g. Tailscale) over opening the
+> port. See [`CHANGELOG.md`](CHANGELOG.md) for full security notes.
+
+---
+
+## Version history
+
+See [`CHANGELOG.md`](CHANGELOG.md). Highlights: **v2.0** containerised web app (typed edges,
+FTS5, multi-cluster, bioRxiv) · **v2.1** shared-password auth + ChEMBL inhibitor potencies ·
+**v2.2** OmniPath signed/directed interactions + entity gene-symbol normalisation +
+graph physics toggle.

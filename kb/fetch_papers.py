@@ -68,6 +68,31 @@ CLUSTERS = {
         'AND (biomarker OR "oxidative stress" OR neurodegeneration OR "synaptic plasticity" '
         'OR neuroinflammation OR mitochondria OR senescence)'
     ),
+    # ── QR2 / NQO2 inhibitor space (v2.0) ───────────────────────────────────
+    "qr2_inhibitors": (
+        '(NQO2 OR "quinone reductase 2" OR QR2 OR "NRH:quinone oxidoreductase 2") '
+        'AND (inhibitor OR inhibition OR antagonist OR "small molecule" OR pharmacolog* '
+        'OR IC50 OR Ki OR potency OR "drug discovery")'
+    ),
+    "qr2_melatonin_mt3": (
+        '("quinone reductase 2" OR NQO2 OR QR2) '
+        'AND (melatonin OR "MT3 binding" OR "melatonin binding site" OR "2-iodomelatonin" '
+        'OR prazosin OR "N-acetylserotonin")'
+    ),
+    "qr2_antimalarials": (
+        '(NQO2 OR QR2 OR "quinone reductase 2") '
+        'AND (chloroquine OR primaquine OR quinacrine OR antimalarial OR imatinib OR mefloquine)'
+    ),
+    "qr2_flavonoids": (
+        '(NQO2 OR QR2 OR "quinone reductase 2") '
+        'AND (quercetin OR resveratrol OR flavonoid OR casimiroin OR polyphenol '
+        'OR genistein OR curcumin OR apigenin OR kaempferol)'
+    ),
+    "qr2_structure_kinetics": (
+        '(NQO2 OR QR2 OR "quinone reductase 2") '
+        'AND (crystal OR structure OR "X-ray" OR kinetics OR "active site" '
+        'OR "structure-activity" OR cofactor OR FAD OR NRH OR mechanism OR substrate)'
+    ),
 }
 
 # Per-cluster fetch caps (None = fetch all available)
@@ -77,6 +102,12 @@ CLUSTER_CAPS = {
     "tbi_mild_blood": 500,
     "tbi_panel_poc":  None,   # ~300 total — fetch all
     "aging_neuro":    500,
+    # QR2/NQO2 inhibitor space — small corpora, fetch all (v2.0)
+    "qr2_inhibitors":        None,
+    "qr2_melatonin_mt3":     None,
+    "qr2_antimalarials":     None,
+    "qr2_flavonoids":        None,
+    "qr2_structure_kinetics": None,
 }
 MAX_PER_CLUSTER = 300
 
@@ -133,9 +164,27 @@ def init_schema(conn: sqlite3.Connection):
             relation       TEXT,
             evidence_pmids TEXT,
             weight         REAL DEFAULT 1.0,
+            edge_kind      TEXT DEFAULT 'cooccur',
+            directed       INTEGER DEFAULT 0,
             PRIMARY KEY (source_id, target_id, relation),
             FOREIGN KEY (source_id) REFERENCES entities(id),
             FOREIGN KEY (target_id) REFERENCES entities(id)
+        );
+
+        -- v2.0: many-to-many cluster tagging (replaces single-value topic_cluster
+        -- for faceting; papers.topic_cluster kept for v1.0 back-compat)
+        CREATE TABLE IF NOT EXISTS paper_clusters (
+            pmid    TEXT,
+            cluster TEXT,
+            PRIMARY KEY (pmid, cluster),
+            FOREIGN KEY (pmid) REFERENCES papers(pmid)
+        );
+        CREATE INDEX IF NOT EXISTS idx_pc_cluster ON paper_clusters(cluster);
+
+        -- v2.0: SQLite FTS5 full-text index over abstracts (stdlib sqlite3)
+        CREATE VIRTUAL TABLE IF NOT EXISTS papers_fts USING fts5(
+            pmid UNINDEXED, title, abstract, authors,
+            content='papers', content_rowid='rowid'
         );
 
         CREATE TABLE IF NOT EXISTS clinical_context (
@@ -150,7 +199,17 @@ def init_schema(conn: sqlite3.Connection):
             FOREIGN KEY (pmid) REFERENCES papers(pmid)
         );
     """)
+    _migrate_schema(conn)
     conn.commit()
+
+
+def _migrate_schema(conn: sqlite3.Connection):
+    """Additive migrations for DBs created by v1.0 (no-op on fresh DBs)."""
+    cols = {row[1] for row in conn.execute("PRAGMA table_info(entity_relations)")}
+    if "edge_kind" not in cols:
+        conn.execute("ALTER TABLE entity_relations ADD COLUMN edge_kind TEXT DEFAULT 'cooccur'")
+    if "directed" not in cols:
+        conn.execute("ALTER TABLE entity_relations ADD COLUMN directed INTEGER DEFAULT 0")
 
 
 # ── PubMed E-utilities ─────────────────────────────────────────────────────────
@@ -319,6 +378,11 @@ def upsert_papers(conn: sqlite3.Connection, records: list, cluster: str):
                                  ELSE papers.topic_cluster END,
             fetched_at    = excluded.fetched_at
     """, [{**r, "cluster": cluster, "now": now} for r in records])
+    # v2.0: many-to-many cluster tag — a PMID may belong to several clusters
+    conn.executemany(
+        "INSERT OR IGNORE INTO paper_clusters (pmid, cluster) VALUES (?, ?)",
+        [(r["pmid"], cluster) for r in records],
+    )
     conn.commit()
 
 
@@ -339,6 +403,17 @@ def fetch_cluster(cluster: str, query: str, db_path: str, api_key: str = None,
     existing = {row["pmid"] for row in conn.execute("SELECT pmid FROM papers")}
     new_pmids = [p for p in pmids if p not in existing]
     print(f"  New PMIDs to fetch: {len(new_pmids)} ({len(pmids) - len(new_pmids)} already in DB)")
+
+    # v2.0: tag already-present papers under this cluster too, so a PMID retrieved
+    # by several cluster queries becomes multi-cluster (enables faceting). New PMIDs
+    # are tagged by upsert_papers below.
+    already = [p for p in pmids if p in existing]
+    if already:
+        conn.executemany(
+            "INSERT OR IGNORE INTO paper_clusters (pmid, cluster) VALUES (?, ?)",
+            [(p, cluster) for p in already],
+        )
+        conn.commit()
 
     rate = 10 if api_key else 3
     delay = 1.0 / rate

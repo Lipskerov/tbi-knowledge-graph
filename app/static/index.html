@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TBI Knowledge Graph v2.2</title>
+
+  <!-- Vendored PyVis libs (served from /lib). CDN fallback wired in app.js. -->
+  <link rel="stylesheet" href="/lib/vis-9.1.2/vis-network.css" />
+  <link rel="stylesheet" href="/lib/tom-select/tom-select.css" />
+  <link rel="stylesheet" href="/styles.css" />
+
+  <script src="/lib/vis-9.1.2/vis-network.min.js"></script>
+  <script src="/lib/tom-select/tom-select.complete.min.js"></script>
+</head>
+<body>
+  <header id="topbar">
+    <div class="brand">TBI&nbsp;KG
+      <a href="https://github.com/Lipskerov/tbi-knowledge-graph" target="_blank"
+         rel="noopener" title="View the project on GitHub"><span>v2.2</span></a></div>
+    <div class="search">
+      <input id="search-input" type="text"
+             placeholder="Full-text search abstracts (e.g. melatonin quinone reductase)…" />
+      <button id="search-btn">Search</button>
+      <button id="reset-btn" class="ghost">Reset</button>
+    </div>
+    <div class="years">
+      <label>Year</label>
+      <input id="year-min" type="number" placeholder="min" min="1900" max="2100" />
+      <span>–</span>
+      <input id="year-max" type="number" placeholder="max" min="1900" max="2100" />
+    </div>
+    <button id="physics-btn" class="ghost" type="button">🌀 Physics: on</button>
+    <a href="https://github.com/Lipskerov/tbi-knowledge-graph" target="_blank" rel="noopener"
+       class="logout" title="Project source, docs &amp; API reference on GitHub">GitHub&nbsp;↗</a>
+    <a id="logout" href="/logout" class="logout" title="End your session">Log out</a>
+  </header>
+
+  <main>
+    <aside id="facets">
+      <h3>Filters</h3>
+
+      <label class="facet-label" for="f-types">Node types</label>
+      <select id="f-types" multiple placeholder="All types"></select>
+
+      <label class="facet-label" for="f-clusters">Clusters</label>
+      <select id="f-clusters" multiple placeholder="All clusters"></select>
+
+      <label class="facet-label" for="f-disease">Focus disease</label>
+      <select id="f-disease"><option value="">— none —</option></select>
+
+      <label class="facet-label">QR2 / NQO2 pathway</label>
+      <label class="check"><input type="checkbox" id="qr2-highlight" /> Highlight pathway (amber)</label>
+      <label class="check"><input type="checkbox" id="qr2-only" /> Show pathway only</label>
+
+      <label class="facet-label" for="f-phase">Phase</label>
+      <select id="f-phase" disabled title="Reserved for the BIKO annotation track (v2.1)">
+        <option value="">— n/a —</option>
+      </select>
+
+      <label class="facet-label">Min papers / node: <span id="mp-val">0</span></label>
+      <input id="f-minpapers" type="range" min="0" max="50" value="0" step="1" />
+
+      <label class="facet-label">Min edge weight: <span id="me-val">1</span></label>
+      <input id="f-minedge" type="range" min="1" max="30" value="1" step="1" />
+
+      <button id="apply-btn">Apply filters</button>
+
+      <div id="stats" class="stats"></div>
+      <div class="legend">
+        <div><span class="swatch curated"></span> curated mechanism (directed)</div>
+        <div><span class="swatch chembl"></span> ChEMBL inhibitor (potency)</div>
+        <div><span class="swatch omnipath"></span> OmniPath interaction (signed)</div>
+        <div><span class="swatch cooccur"></span> co-occurrence</div>
+        <div><span class="swatch dot-pathway"></span> QR2/NQO2 pathway node (when highlighted)</div>
+      </div>
+    </aside>
+
+    <section id="graph"></section>
+
+    <aside id="detail">
+      <div class="placeholder">Click a node to see its papers and mechanism links.</div>
+    </aside>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,3 +1,6 @@
+# Secrets — auth password hash + session key (never commit)
+.env
+
 # PDFs — copyright, not versioned
 *.pdf
 
@@ -19,3 +22,5 @@ venv/
 .vscode/
 *.db-wal
 *.db-shm
+*.db.bak
+*.bak
