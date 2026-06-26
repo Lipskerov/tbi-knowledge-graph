@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
 *Generated: 2026-06-26*
-*Total papers: 3461*
+*Total papers: 3462*
 
 
 ## Cluster: aging_neuro
@@ -21122,6 +21122,13 @@
 **PMID:** 42294901  **DOI:** 10.1172/JCI207022
 **Entities:** IL-1β, TBI, aging  
 **Abstract:** Traumatic brain injury (TBI) disproportionately kills and disables older adults, yet the biology driving this vulnerability remains unresolved. In this issue of the JCI, Lu et al. combined single-cell...
+
+### Clinical Prognostic Modeling and Paired Blood-CSF Metabolomic Profiling for Outcome Prediction in Isolated Moderate-to-Severe Traumatic Brain Injury: Implications for Neurocritical Care Management.
+**Authors:** Du Z, Chen Q, Wang Y, Fu P, Hu J et al.  
+**Journal:** Journal of clinical medicine (2026)  
+**PMID:** 42355761  **DOI:** 10.3390/jcm15124592
+**Entities:** TBI  
+**Abstract:** 
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
