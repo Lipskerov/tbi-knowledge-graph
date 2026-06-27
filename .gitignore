@@ -1,5 +1,15 @@
 # Secrets — auth password hash + session key (never commit)
 .env
+.env.*
+
+# Service-account / credential keys — NEVER commit
+*service-account*.json
+*credentials*.json
+genuine-flight-*.json
+**/genuine-flight-*.json
+
+# Internal context — confidential (investor/commercial positioning); do NOT publish
+CLAUDE.md
 
 # PDFs — copyright, not versioned
 *.pdf
