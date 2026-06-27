@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-26*
-*Total papers: 3462*
+*Generated: 2026-06-27*
+*Total papers: 3466*
 
 
 ## Cluster: aging_neuro
@@ -1334,6 +1334,13 @@
 **PMID:** biorxiv:10.1101/2025.08.19.669163  **DOI:** 10.1101/2025.08.19.669163
 **Entities:** Alzheimer  
 **Abstract:** The lipids and proteins that comprise lipid droplets regulate several cellular functions including lipid storage, stress responses, and inflammation. Glial lipid droplets have been implicated in the p...
+
+### CSF estrogens' relationships to neuroinflammatory markers and brain networks in middle-aged and older black and white women.
+**Authors:** Hu WT, Butts B, Misiura M, Verble DD, Swatson E et al.  
+**Journal:** Journal of neuroinflammation (2025)  
+**PMID:** 41437270  **DOI:** 10.1186/s12974-025-03657-3
+**Entities:** Aβ42, neuroinflammation, Alzheimer  
+**Abstract:** Neuroprotective properties of estrogen have poorly translated to reduced neurodegeneration in clinical trials of systemic estrogen replacement therapy. To more directly assess biological processes ass...
 
 ### Cellular senescence, DNA damage, and neuroinflammation in the aging brain.
 **Authors:** Zhang W, Sun HS, Wang X, Dumont AS, Liu Q  
@@ -5111,6 +5118,13 @@
 **Entities:** ROS, IL-6, TNF-α, IL-1β, neuroinflammation  
 **Abstract:** BACKGROUND: Traumatic Brain Injury (TBI) has a complex pathology, with no specific biomarkers for diagnosis/prognostic stratification. miRNAs are key regulators of TBI pathological progression. OBJECT...
 
+### Integrated analysis of porcine brain microRNA profiles following pediatric diffuse traumatic brain injury.
+**Authors:** Aderibigbe O, Wood LB, Margulies SS  
+**Journal:** Acta neuropathologica communications (2026)  
+**PMID:** 41749379  **DOI:** 10.1186/s40478-026-02260-8
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) is underdiagnosed and can lead to long-term symptoms in children. Currently, we lack diagnostic markers and effective therapies for pediatric mTBI. MicroRNAs (miRNAs...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7374,6 +7388,13 @@
 **PMID:** 41989634  **DOI:** 10.1007/s12031-026-02520-1
 **Entities:** ROS, GFAP, BDNF, neuroinflammation, oxidative stress  
 **Abstract:** Traumatic spinal cord concussion (SCC) can result from motor vehicle accidents, contact sports, falls, and other mild traumatic events. Although clinically significant, the relationship between SCC se...
+
+### Validation of Blood-Based Biomarkers After Mild Traumatic Brain Injury with GCS 15 in a Singapore Emergency Department: An Observational Study.
+**Authors:** Kuan WS, Yau YW, Lim DXY, Yeoh CK, Cheung NMT et al.  
+**Journal:** Medicina (Kaunas, Lithuania) (2026)  
+**PMID:** 42356108  **DOI:** 10.3390/medicina62061095
+**Entities:** mTBI, TBI  
+**Abstract:** 
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -11706,6 +11727,13 @@
 **PMID:** 42285256  **DOI:** 10.1016/j.slast.2026.100444
 **Entities:** NQO2  
 **Abstract:** BACKGROUND: Osteoarthritis is the predominant joint ailment. Multiple studies demonstrate that the dysregulation of catalytic regulators of ubiquitination and deubiquitination disrupts cartilage imbal...
+
+### Proteome profiling reveals NQO2 activity contributing to proteasome inhibitor resistance in multiple myeloma cell lines.
+**Authors:** Lee CY, Han S, Haertle L, Munawar U, Vogt C et al.  
+**Journal:** Molecular & cellular proteomics : MCP (2026)  
+**PMID:** 42362189  **DOI:** 10.1016/j.mcpro.2026.101615
+**Entities:** NQO2, NQO1, imatinib  
+**Abstract:** Proteasome inhibitors (PIs) are frontline therapies for multiple myeloma (MM). Although MM patients initially respond to PIs, resistance frequently emerges. While all PIs nominally target the same pro...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  

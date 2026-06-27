@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3462,
+  "n_papers": 3466,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -192,6 +192,14 @@
         "entities": "TBI, dopamine"
       },
       {
+        "pmid": "42356108",
+        "title": "Validation of Blood-Based Biomarkers After Mild Traumatic Brain Injury with GCS 15 in a Singapore Emergency Department: An Observational Study.",
+        "authors": "Kuan WS, Yau YW, Lim DXY, Yeoh CK, Cheung NMT et al.",
+        "year": 2026,
+        "journal": "Medicina (Kaunas, Lithuania)",
+        "entities": "mTBI, TBI"
+      },
+      {
         "pmid": "42340459",
         "title": "Blood-based biomarkers GFAP/UCH-L1 for the diagnosis of mild traumatic brain injury (mTBI): a single-center implementation experience.",
         "authors": "Maegele M, Breidenbach L, Kaufmann J, Keles Y, Uhl E et al.",
@@ -246,14 +254,6 @@
         "year": 2026,
         "journal": "International journal of molecular sciences",
         "entities": "GFAP, UCH-L1, NfL, tau, BDNF, neuroinflammation, TBI, Alzheimer, NSE"
-      },
-      {
-        "pmid": "42135614",
-        "title": "Apoptosis and Glial Marker Profiles in Hippocampus and Amygdala of Medically Intractable Temporal Lobe Epilepsy.",
-        "authors": "Alipour F, Modarres Mousavi SM, Nourbaksh F, Ghadipasha M, Gharehdaghi J et al.",
-        "year": 2026,
-        "journal": "Journal of cellular and molecular medicine",
-        "entities": "GFAP, Iba1, neuroinflammation, TBI"
       }
     ],
     "nfl_tau": [
@@ -340,6 +340,14 @@
     ],
     "nqo2": [
       {
+        "pmid": "42362189",
+        "title": "Proteome profiling reveals NQO2 activity contributing to proteasome inhibitor resistance in multiple myeloma cell lines.",
+        "authors": "Lee CY, Han S, Haertle L, Munawar U, Vogt C et al.",
+        "year": 2026,
+        "journal": "Molecular & cellular proteomics : MCP",
+        "entities": "NQO2, NQO1, imatinib"
+      },
+      {
         "pmid": "42285256",
         "title": "Identification of ubiquitination-related biomarkers in osteoarthritis: combining transcriptome and Mendelian randomization analysis.",
         "authors": "Yin H, Mei Y, Du J, Xiao L, Bian S",
@@ -410,14 +418,6 @@
         "year": 2026,
         "journal": "Dental materials : official publication of the Academy of Dental Materials",
         "entities": "NQO2, NQO1, quercetin, glutathione, melatonin"
-      },
-      {
-        "pmid": "41187370",
-        "title": "Indolequinone inhibitors of NRH:quinone oxidoreductase 2. Further structure-activity relationships.",
-        "authors": "Dias TA, Siegel D, Ross D, Moody CJ",
-        "year": 2026,
-        "journal": "Bioorganic & medicinal chemistry",
-        "entities": "NQO2, NRH"
       }
     ],
     "ppcs_prognosis": [
@@ -795,17 +795,17 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1877
+      "paper_count": 1879
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1084
+      "paper_count": 1086
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 654
+      "paper_count": 655
     },
     {
       "name": "aging",
@@ -825,12 +825,12 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 320
+      "paper_count": 321
     },
     {
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 312
+      "paper_count": 313
     },
     {
       "name": "NfL",
@@ -870,7 +870,7 @@
     {
       "name": "NQO1",
       "type": "protein",
-      "paper_count": 119
+      "paper_count": 120
     },
     {
       "name": "NSE",
@@ -900,7 +900,7 @@
     {
       "name": "A\u03b242",
       "type": "protein",
-      "paper_count": 80
+      "paper_count": 81
     },
     {
       "name": "melatonin",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 786.0
+      "weight": 788.0
     },
     {
       "source": "GFAP",
@@ -1052,7 +1052,7 @@
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 119.0
+      "weight": 120.0
     },
     {
       "source": "neuroinflammation",
@@ -1062,7 +1062,7 @@
     {
       "source": "NQO2",
       "target": "NQO1",
-      "weight": 114.0
+      "weight": 115.0
     },
     {
       "source": "PERK",
