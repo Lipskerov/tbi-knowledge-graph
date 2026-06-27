@@ -9,7 +9,7 @@ Built to support a research project on TBI diagnostics at the
 [Liraz-Zaltsman Lab](https://www.sheba.co.il) (Sheba Medical Center).
 
 > **Current version: v2.2.** See [`CHANGELOG.md`](CHANGELOG.md) for the full version
-> history and [`docs/V2_BUILD_SPEC.md`](docs/V2_BUILD_SPEC.md) for the v2 build spec.
+> history and [`04_reference/V2_BUILD_SPEC.md`](04_reference/V2_BUILD_SPEC.md) for the v2 build spec.
 
 ---
 
@@ -304,6 +304,10 @@ python visualize_graph.py --cluster nqo2        # highlight a cluster
 
 ## Project structure
 
+The repo holds two things: the **knowledge-graph codebase** (code + generated data, below)
+and the **research documents**, organised into numbered folders (`01_meeting_notes` …
+`05_analysis`).
+
 ```
 .
 ├── build_kb.py              # Main pipeline: schema → fetch → graph → export
@@ -312,7 +316,7 @@ python visualize_graph.py --cluster nqo2        # highlight a cluster
 ├── docker-compose.yml       # Service: web (port 8000, .env, data volume)
 ├── requirements.txt         # fastapi, uvicorn, itsdangerous, requests, networkx, pyvis
 ├── CHANGELOG.md             # Version history (Keep a Changelog)
-├── docs/V2_BUILD_SPEC.md    # v2 build specification
+├── 04_reference/V2_BUILD_SPEC.md   # v2 build specification (under research docs)
 ├── app/                     # FastAPI web app
 │   ├── main.py              #   routes, auth gate, session middleware
 │   ├── db.py                #   read-only SQLite data access
@@ -327,7 +331,14 @@ python visualize_graph.py --cluster nqo2        # highlight a cluster
 │   └── query_kb.py          # CLI query interface
 ├── scripts/vendor_lib.py    # Materialise vendored vis.js/tom-select libs at build time
 ├── .github/workflows/daily_sync.yml   # Daily PubMed sync (auto-commits new papers)
-└── data/                    # DB + exports (see "What's inside")
+├── data/                    # DB + exports (see "What's inside")
+│
+│   # --- research documents ---
+├── 01_meeting_notes/        # QR2/TBI meeting summaries & notes
+├── 02_data/                 # raw source data — proteomics / transcriptomics / biomarker lists
+├── 03_methods/              # QR2 sandwich-ELISA method, proteome figure
+├── 04_reference/            # research programs, KG build spec, reference papers
+└── 05_analysis/             # QR2 blood-biomarker panel sub-project (panel.db, scripts)
 ```
 
 ---
