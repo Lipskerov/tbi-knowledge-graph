@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-27*
-*Total papers: 3466*
+*Generated: 2026-06-28*
+*Total papers: 3471*
 
 
 ## Cluster: aging_neuro
@@ -361,6 +361,27 @@
 **PMID:** 41981941  **DOI:** 10.1002/brb3.71395
 **Entities:** BDNF, IL-6, neuroinflammation, dopamine, aging  
 **Abstract:** PURPOSE: Age-related cognitive decline is a growing public health concern, yet early molecular indicators remain poorly defined. Since brain changes often precede behavioral symptoms, identifying earl...
+
+### Preserving brain health in aging: structural and biochemical benefits of water based resistance training, a randomized controlled trial.
+**Authors:** Hosseini MH, Baghalishahi M, Moshrefi M, Pinto-Fraga J, Khajeh S et al.  
+**Journal:** BMC geriatrics (2026)  
+**PMID:** 41975304  **DOI:** 10.1186/s12877-026-07413-x
+**Entities:** ROS, BDNF, TNF-α, oxidative stress, glutathione  
+**Abstract:** BACKGROUND: Brain aging leads to structural changes, especially atrophy, which can result in dysfunction. Mitochondrial dysfunction is thought to explain the structural changes in brain aging. OBJECTI...
+
+### Associations between air pollution and markers of neuroinflammation, synaptic dysfunction and core Alzheimer's disease pathology vary by APOE genotype.
+**Authors:** Kimura K, Driscoll I, Cook N, Shahzad S, Betthauser TJ et al.  
+**Journal:** Neurotoxicity research (2026)  
+**PMID:** 41944915  **DOI:** 10.1007/s12640-026-00786-2
+**Entities:** GFAP, neuroinflammation, Alzheimer  
+**Abstract:** To determine whether long-term residential air pollution [AP; ozone (O₃) and fine particulate matter (PM₂.₅)] is associated with (1) incident mild cognitive impairment (MCI) or Alzheimer’s disease (AD...
+
+### Stages of objective memory impairment are associated with accelerated brain aging.
+**Authors:** Flo BK, Skouras S, Matziorinis AM, Bashevkin T, Gaser C et al.  
+**Journal:** Scientific reports (2026)  
+**PMID:** 41957047  **DOI:** 10.1038/s41598-026-41282-z
+**Entities:** tau, Aβ42, Alzheimer, aging  
+**Abstract:** Reliable staging of early memory decline is essential for identifying individuals at risk for Alzheimer’s disease. The Stages of Objective Memory Impairment (SOMI) framework provides a clinically scal...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -7395,6 +7416,13 @@
 **PMID:** 42356108  **DOI:** 10.3390/medicina62061095
 **Entities:** mTBI, TBI  
 **Abstract:** 
+
+### Plasma brain-derived tau: analytical and clinical validation of the first commercial immunoassay.
+**Authors:** Nafash MN, Svirsky SE, Zeng X, Chen Y, Kofler JK et al.  
+**Journal:** Scientific reports (2026)  
+**PMID:** 41723222  **DOI:** 10.1038/s41598-026-40271-6
+**Entities:** GFAP, NfL, tau, TBI, Alzheimer  
+**Abstract:** Brain-derived tau (BD-tau) is a promising blood-based biomarker for neurodegeneration/brain injury in neurodegenerative and acute neurological disorders. However, widespread use is hampered by lack of...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -16993,6 +17021,13 @@
 **PMID:** biorxiv:10.1101/2025.06.17.25329677  **DOI:** 10.1101/2025.06.17.25329677
 **Entities:** —  
 **Abstract:** In this study, we provide the first study to integrate molecular and functional neuroimaging during psychedelic drug effects in humans. Using simultaneous PET-MRI technology, we describe multiple brai...
+
+### External validation of the modified Brain Injury Guidelines: an observational study.
+**Authors:** Colombo G, Giuliani A, Gianni F, Casella R, Bertani GA et al.  
+**Journal:** BMC emergency medicine (2025)  
+**PMID:** 41449335  **DOI:** 10.1186/s12873-025-01454-y
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Mild traumatic brain injury (mTBI) is a frequent cause of emergency department (ED) admission, with most cases being uncomplicated. However, a subset of patients presents with intracranial...
 
 ### Macroscopic changes in aquaporin-4 underlie blast traumatic brain injury-related impairment in glymphatic function.
 **Authors:** Braun M, Sevao M, Keil SA, Gino E, Wang MX et al.  
