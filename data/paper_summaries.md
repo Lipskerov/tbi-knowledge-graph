@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-28*
-*Total papers: 3471*
+*Generated: 2026-06-29*
+*Total papers: 3474*
 
 
 ## Cluster: aging_neuro
@@ -382,6 +382,13 @@
 **PMID:** 41957047  **DOI:** 10.1038/s41598-026-41282-z
 **Entities:** tau, Aβ42, Alzheimer, aging  
 **Abstract:** Reliable staging of early memory decline is essential for identifying individuals at risk for Alzheimer’s disease. The Stages of Objective Memory Impairment (SOMI) framework provides a clinically scal...
+
+### Multiparametric CEST and Z-spectrum analysis proton (ZAP) as biomarkers of human brain aging.
+**Authors:** Jung HN, Malis V, Miyazaki M  
+**Journal:** Scientific reports (2026)  
+**PMID:** 41935128  **DOI:** 10.1038/s41598-026-46623-6
+**Entities:** Alzheimer, aging  
+**Abstract:** Chemical exchange saturation transfer (CEST) has been investigated to capture specific hydroxyl, amine, and amide protons. Z-spectrum analysis protons (ZAP) technique quantifies relaxation times of re...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -6742,6 +6749,13 @@
 **Entities:** tau, p-tau, IL-6, Aβ42, mTBI  
 **Abstract:** The recent recognition that Alzheimer disease-like pathology may be found in chronic traumatic encephalopathy (CTE) even after acute mild traumatic brain injury (mTBI) has increased the urgency of elu...
 
+### Significant changes in circular RNA in the mouse cerebral cortex around an injury site after traumatic brain injury.
+**Authors:** Chen Z, Wang H, Zhong J, Yang J, Darwazeh R et al.  
+**Journal:** Experimental neurology (2019)  
+**PMID:** 30529438  **DOI:** 10.1016/j.expneurol.2018.12.003
+**Entities:** TBI  
+**Abstract:** BACKGROUND AND OBJECTIVE: Circular RNA (circRNA) is an important type of non-coding RNA that has not been widely researched in traumatic brain injury (TBI). The present study aimd to detect the altere...
+
 ### Traumatic brain injury: classification, models, and markers.
 **Authors:** Najem D, Rennie K, Ribecco-Lutkiewicz M, Ly D, Haukenfrers J et al.  
 **Journal:** Biochemistry and cell biology = Biochimie et biologie cellulaire (2018)  
@@ -7423,6 +7437,13 @@
 **PMID:** 41723222  **DOI:** 10.1038/s41598-026-40271-6
 **Entities:** GFAP, NfL, tau, TBI, Alzheimer  
 **Abstract:** Brain-derived tau (BD-tau) is a promising blood-based biomarker for neurodegeneration/brain injury in neurodegenerative and acute neurological disorders. However, widespread use is hampered by lack of...
+
+### GFAP degradation in TBI: linking novel modified products to astrocyte pathology and patient outcome.
+**Authors:** Wanner IB, Halford J, Lopez J, Shen S, Chen Y et al.  
+**Journal:** Acta neuropathologica communications (2026)  
+**PMID:** 42032706  **DOI:** 10.1186/s40478-026-02240-y
+**Entities:** GFAP, TBI, Alzheimer  
+**Abstract:** Glial fibrillary acidic protein (GFAP) is a significant clinical biomarker of traumatic brain injury (TBI), yet understanding the nature, timing, and impact of its degraded and modified products would...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  

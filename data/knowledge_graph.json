@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-28T10:08:01.735796",
-  "n_papers": 3471,
+  "generated_at": "2026-06-29T12:05:20.607722",
+  "n_papers": 3474,
   "n_entities": 115,
   "n_edges": 647,
   "cluster_stats": {
-    "aging_neuro": 714,
-    "exosomal_rna": 310,
-    "gfap_uchl1": 358,
+    "aging_neuro": 715,
+    "exosomal_rna": 311,
+    "gfap_uchl1": 359,
     "nfl_tau": 285,
     "nqo2": 376,
     "ppcs_prognosis": 313,
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1881,
+      "paper_count": 1883,
       "centrality": 0.3947
     },
     {
@@ -34,21 +34,21 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 658,
+      "paper_count": 660,
       "centrality": 0.3509
     },
     {
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 626,
+      "paper_count": 627,
       "centrality": 0.3333
     },
     {
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 474,
+      "paper_count": 475,
       "centrality": 0.2895
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 394.0,
-      "n_papers": 394.0,
+      "weight": 395.0,
+      "n_papers": 395.0,
       "annotation": null
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 333.0,
-      "n_papers": 333.0,
+      "weight": 334.0,
+      "n_papers": 334.0,
       "annotation": null
     },
     {
@@ -1849,8 +1849,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 192.0,
-      "n_papers": 192.0,
+      "weight": 193.0,
+      "n_papers": 193.0,
       "annotation": null
     },
     {
@@ -2094,8 +2094,8 @@
       "annotation": null
     },
     {
-      "source": "UCH-L1",
-      "target": "S100B",
+      "source": "GFAP",
+      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2104,13 +2104,13 @@
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "Alzheimer",
+      "source": "UCH-L1",
+      "target": "S100B",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 78.0,
-      "n_papers": 78.0,
+      "weight": 79.0,
+      "n_papers": 79.0,
       "annotation": null
     },
     {
