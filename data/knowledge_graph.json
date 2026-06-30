@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-29T12:05:20.607722",
-  "n_papers": 3474,
+  "generated_at": "2026-06-30T10:35:28.088165",
+  "n_papers": 3477,
   "n_entities": 115,
   "n_edges": 647,
   "cluster_stats": {
-    "aging_neuro": 715,
+    "aging_neuro": 716,
     "exosomal_rna": 311,
     "gfap_uchl1": 359,
     "nfl_tau": 285,
-    "nqo2": 376,
+    "nqo2": 377,
     "ppcs_prognosis": 313,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 368,
     "tbi_panel_poc": 236,
-    "tbi_proteomics": 506
+    "tbi_proteomics": 507
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1883,
+      "paper_count": 1884,
       "centrality": 0.3947
     },
     {
@@ -34,14 +34,14 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 660,
+      "paper_count": 661,
       "centrality": 0.3509
     },
     {
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 627,
+      "paper_count": 628,
       "centrality": 0.3333
     },
     {
@@ -62,7 +62,7 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 322,
+      "paper_count": 323,
       "centrality": 0.2982
     },
     {
@@ -118,7 +118,7 @@
       "id": 37,
       "name": "BBB",
       "type": "process",
-      "paper_count": 144,
+      "paper_count": 145,
       "centrality": 0.2368
     },
     {
@@ -139,7 +139,7 @@
       "id": 18,
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 96,
+      "paper_count": 97,
       "centrality": 0.2719
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 334.0,
-      "n_papers": 334.0,
+      "weight": 335.0,
+      "n_papers": 335.0,
       "annotation": null
     },
     {
@@ -1969,8 +1969,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 121.0,
-      "n_papers": 121.0,
+      "weight": 122.0,
+      "n_papers": 122.0,
       "annotation": null
     },
     {
@@ -1979,8 +1979,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 119.0,
-      "n_papers": 119.0,
+      "weight": 120.0,
+      "n_papers": 120.0,
       "annotation": null
     },
     {
@@ -2209,8 +2209,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 68.0,
-      "n_papers": 68.0,
+      "weight": 69.0,
+      "n_papers": 69.0,
       "annotation": null
     },
     {
@@ -2329,8 +2329,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 50.0,
-      "n_papers": 50.0,
+      "weight": 51.0,
+      "n_papers": 51.0,
       "annotation": null
     },
     {
@@ -2499,8 +2499,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 39.0,
-      "n_papers": 39.0,
+      "weight": 40.0,
+      "n_papers": 40.0,
       "annotation": null
     },
     {
@@ -2754,6 +2754,16 @@
       "annotation": null
     },
     {
+      "source": "BBB",
+      "target": "aging",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 29.0,
+      "n_papers": 29.0,
+      "annotation": null
+    },
+    {
       "source": "melatonin",
       "target": "MT3",
       "relation": "co-occurs",
@@ -2766,16 +2776,6 @@
     {
       "source": "NfL",
       "target": "NSE",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 28.0,
-      "n_papers": 28.0,
-      "annotation": null
-    },
-    {
-      "source": "BBB",
-      "target": "aging",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

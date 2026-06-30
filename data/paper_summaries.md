@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-29*
-*Total papers: 3474*
+*Generated: 2026-06-30*
+*Total papers: 3477*
 
 
 ## Cluster: aging_neuro
@@ -389,6 +389,13 @@
 **PMID:** 41935128  **DOI:** 10.1038/s41598-026-46623-6
 **Entities:** Alzheimer, aging  
 **Abstract:** Chemical exchange saturation transfer (CEST) has been investigated to capture specific hydroxyl, amine, and amide protons. Z-spectrum analysis protons (ZAP) technique quantifies relaxation times of re...
+
+### Modulation of the immunological and neuroinflammatory microenvironment in older people with multiple sclerosis.
+**Authors:** Oreja-Guevara C, Meuth SG, Grigoriadis N, Vermersch P, Hartung HP et al.  
+**Journal:** Frontiers in immunology (2026)  
+**PMID:** 42367807  **DOI:** 10.3389/fimmu.2026.1832582
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Life expectancy and the age at onset of multiple sclerosis (MS) are increasing, and a growing proportion of people with MS (pwMS) are now older than 55-60 years. Aging modifies MS pathobiology, with t...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -11784,6 +11791,13 @@
 **Entities:** NQO2, NQO1, imatinib  
 **Abstract:** Proteasome inhibitors (PIs) are frontline therapies for multiple myeloma (MM). Although MM patients initially respond to PIs, resistance frequently emerges. While all PIs nominally target the same pro...
 
+### Development and validation of an event-specific detection method for WYN029GmA soybean based on TaqMan qPCR.
+**Authors:** Jiang H, Zhang H, Miao Y, Wang H, Fu F et al.  
+**Journal:** Frontiers in plant science (2026)  
+**PMID:** 42368545  **DOI:** 10.3389/fpls.2026.1862064
+**Entities:** —  
+**Abstract:** This study aimed to establish an event-specific detection method for the genetically modified soybean WYN029GmA. WYN029GmA is a glyphosate-resistant transgenic soybean carrying the
+
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
 **Journal:** The Biochemical journal (2025)  
@@ -21213,6 +21227,13 @@
 **PMID:** 42355761  **DOI:** 10.3390/jcm15124592
 **Entities:** TBI  
 **Abstract:** 
+
+### Pathway-level proteomics identifies subcellular trafficking dysregulation as a molecular signature in severe traumatic brain injury.
+**Authors:** Van Nynatten LR, Tweddell D, Daley M, Cepinskas G, Basmaji J et al.  
+**Journal:** Inflammation research : official journal of the European Histamine Research Society ... [et al.] (2026)  
+**PMID:** 42373949  **DOI:** 10.1007/s00011-026-02287-6
+**Entities:** IL-6, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) remains a leading cause of death and disability worldwide in intensive care units, yet no targeted neuroprotective therapies exist despite over 300 clinical tr...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

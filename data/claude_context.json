@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3474,
+  "n_papers": 3477,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -60,6 +60,14 @@
         "entities": "aging"
       },
       {
+        "pmid": "42367807",
+        "title": "Modulation of the immunological and neuroinflammatory microenvironment in older people with multiple sclerosis.",
+        "authors": "Oreja-Guevara C, Meuth SG, Grigoriadis N, Vermersch P, Hartung HP et al.",
+        "year": 2026,
+        "journal": "Frontiers in immunology",
+        "entities": "neuroinflammation, BBB, Alzheimer, aging"
+      },
+      {
         "pmid": "42305046",
         "title": "Lactiplantibacillus plantarum HY7715 Attenuates Oxidative Stress-Induced Neurobiological Aging-Related Changes by Modulating Senescence-Associated Markers and Gut Microbiota.",
         "authors": "Lee D, Jeong H, Gwon H, Lee K, Kim JY et al.",
@@ -82,14 +90,6 @@
         "year": 2026,
         "journal": "Aging brain",
         "entities": "Alzheimer"
-      },
-      {
-        "pmid": "42183640",
-        "title": "Metabolic Biomarkers in Captive Olive Baboons (Papio anubis): Characterization and Relationships With Biomarkers of Neurodegeneration and Neuroinflammation.",
-        "authors": "Neal SJ, Magden ER, Chitta S, Bisbal J, Simmons JH",
-        "year": 2026,
-        "journal": "American journal of primatology",
-        "entities": "tau, neuroinflammation, Alzheimer, aging"
       }
     ],
     "exosomal_rna": [
@@ -340,6 +340,14 @@
     ],
     "nqo2": [
       {
+        "pmid": "42368545",
+        "title": "Development and validation of an event-specific detection method for WYN029GmA soybean based on TaqMan qPCR.",
+        "authors": "Jiang H, Zhang H, Miao Y, Wang H, Fu F et al.",
+        "year": 2026,
+        "journal": "Frontiers in plant science",
+        "entities": null
+      },
+      {
         "pmid": "42362189",
         "title": "Proteome profiling reveals NQO2 activity contributing to proteasome inhibitor resistance in multiple myeloma cell lines.",
         "authors": "Lee CY, Han S, Haertle L, Munawar U, Vogt C et al.",
@@ -410,14 +418,6 @@
         "year": 2026,
         "journal": "Molecular oncology",
         "entities": "NQO2"
-      },
-      {
-        "pmid": "41314882",
-        "title": "Dentin bonding agents and camphorquinone-induced cytotoxicity, 8-isoprostane and prostaglandin production is associated with CYP450, NQO1, NQO2, GST, and GSH peroxidase in human dental pulp cells.",
-        "authors": "Chang MC, Lin TM, Liao WC, Wu JH, Chen SY et al.",
-        "year": 2026,
-        "journal": "Dental materials : official publication of the Academy of Dental Materials",
-        "entities": "NQO2, NQO1, quercetin, glutathione, melatonin"
       }
     ],
     "ppcs_prognosis": [
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42373949",
+        "title": "Pathway-level proteomics identifies subcellular trafficking dysregulation as a molecular signature in severe traumatic brain injury.",
+        "authors": "Van Nynatten LR, Tweddell D, Daley M, Cepinskas G, Basmaji J et al.",
+        "year": 2026,
+        "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+        "entities": "IL-6, TBI"
+      },
+      {
         "pmid": "42355761",
         "title": "Clinical Prognostic Modeling and Paired Blood-CSF Metabolomic Profiling for Outcome Prediction in Isolated Moderate-to-Severe Traumatic Brain Injury: Implications for Neurocritical Care Management.",
         "authors": "Du Z, Chen Q, Wang Y, Fu P, Hu J et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "The Biochemical journal",
         "entities": null
-      },
-      {
-        "pmid": "42135641",
-        "title": "Inflammatory-neurodegenerative crosstalk in pediatric severe traumatic brain injury: a multi-domain plasma proteomic study.",
-        "authors": "Cela E, Van Nynatten LR, Tweddell D, Daley M, Morello M et al.",
-        "year": 2026,
-        "journal": "Molecular medicine (Cambridge, Mass.)",
-        "entities": "GFAP, S100B, NfL, NfH, tau, IL-6, neuroinflammation, TBI, Alzheimer"
       }
     ]
   },
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1883
+      "paper_count": 1884
     },
     {
       "name": "mTBI",
@@ -805,12 +805,12 @@
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 660
+      "paper_count": 661
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 627
+      "paper_count": 628
     },
     {
       "name": "GFAP",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 322
+      "paper_count": 323
     },
     {
       "name": "NQO2",
@@ -865,7 +865,7 @@
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 144
+      "paper_count": 145
     },
     {
       "name": "NQO1",
@@ -880,7 +880,7 @@
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 96
+      "paper_count": 97
     },
     {
       "name": "p-tau",
@@ -957,7 +957,7 @@
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 334.0
+      "weight": 335.0
     },
     {
       "source": "ROS",
@@ -1052,12 +1052,12 @@
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 121.0
+      "weight": 122.0
     },
     {
       "source": "neuroinflammation",
       "target": "aging",
-      "weight": 119.0
+      "weight": 120.0
     },
     {
       "source": "NQO2",
@@ -1192,7 +1192,7 @@
     {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 68.0
+      "weight": 69.0
     }
   ]
 }
