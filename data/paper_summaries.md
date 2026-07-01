@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-06-30*
-*Total papers: 3477*
+*Generated: 2026-07-01*
+*Total papers: 3479*
 
 
 ## Cluster: aging_neuro
@@ -9793,6 +9793,13 @@
 **Entities:** tau, neuroinflammation, mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) is associated with substantial morbidity worldwide. Emerging evidence demonstrates that both impact- and blast-related mTBI produce diffuse microstructural and funct...
 
+### Reliable Change of Blood-Based Biomarkers Following Acute Sport-Related Concussion: A CARE Consortium Study.
+**Authors:** Croghan AE, Churchill R, Brett BL, Huber DL, Harezlak J et al.  
+**Journal:** Sports medicine (Auckland, N.Z.) (2026)  
+**PMID:** 42377763  **DOI:** 10.1007/s40279-026-02479-4
+**Entities:** GFAP, UCH-L1, NfL, tau, IL-6  
+**Abstract:** BACKGROUND: Growing evidence supports the potential of blood-based biomarkers for aiding in concussion diagnosis, though most work has focused on biomarker changes at the group level. Here, reliable c...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -14761,6 +14768,13 @@
 **PMID:** 38987676  **DOI:** 10.1186/s12883-024-03700-5
 **Entities:** mTBI, PPCS  
 **Abstract:** BACKGROUND: Symptoms reported by patients who sustain a concussion are non-specific. As such, clinicians are better able to manage patients when a standardized clinical exam is performed to sub-type t...
+
+### Factors Associated with Symptom Resolution after Aerobic Exercise Intervention in Adolescent and Young Adults with Concussion.
+**Authors:** Wingerson MJ, Hunt DL, Wilson JC, Mannix RC, Meehan WP et al.  
+**Journal:** Medicine and science in sports and exercise (2024)  
+**PMID:** 38109187  **DOI:** 10.1249/MSS.0000000000003358
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Aerobic exercise facilitates postconcussion symptom resolution at the group level, but patient-level characteristics may affect the likelihood of treatment efficacy. PURPOSE: This study ai...
 
 ### Thalamocortical coherence predicts persistent postconcussive symptoms.
 **Authors:** Li YT, Kuo DP, Tseng P, Chen YC, Cheng SJ et al.  

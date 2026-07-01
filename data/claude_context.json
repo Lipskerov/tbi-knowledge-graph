@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3477,
+  "n_papers": 3479,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -274,6 +274,14 @@
         "entities": "tau, p-tau, Alzheimer"
       },
       {
+        "pmid": "42377763",
+        "title": "Reliable Change of Blood-Based Biomarkers Following Acute Sport-Related Concussion: A CARE Consortium Study.",
+        "authors": "Croghan AE, Churchill R, Brett BL, Huber DL, Harezlak J et al.",
+        "year": 2026,
+        "journal": "Sports medicine (Auckland, N.Z.)",
+        "entities": "GFAP, UCH-L1, NfL, tau, IL-6, TNF-\u03b1, mTBI"
+      },
+      {
         "pmid": "42264871",
         "title": "Concussion pathophysiology: From biomechanical insult to clinical phenotype - or is injury truly the beginning?",
         "authors": "Khambadkone SG, Piantino JA",
@@ -328,14 +336,6 @@
         "year": 2026,
         "journal": "The Journal of pediatrics",
         "entities": "mTBI"
-      },
-      {
-        "pmid": "41218808",
-        "title": "Diffusion Alterations at the Gray Matter/White Matter Boundary in Traumatic Encephalopathy Syndrome.",
-        "authors": "Wiegand TLT, Pankatz L, Arciniega H, Jung LB, Tuz-Zahra F et al.",
-        "year": 2026,
-        "journal": "Journal of neurotrauma",
-        "entities": "tau, p-tau, A\u03b242, CTE"
       }
     ],
     "nqo2": [
@@ -800,7 +800,7 @@
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1087
+      "paper_count": 1089
     },
     {
       "name": "Alzheimer",
@@ -815,12 +815,12 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 475
+      "paper_count": 476
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 376
+      "paper_count": 377
     },
     {
       "name": "neuroinflammation",
@@ -835,7 +835,7 @@
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 295
+      "paper_count": 296
     },
     {
       "name": "ROS",
@@ -850,7 +850,7 @@
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 227
+      "paper_count": 228
     },
     {
       "name": "PPCS",
@@ -880,7 +880,7 @@
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 97
+      "paper_count": 98
     },
     {
       "name": "p-tau",
@@ -910,7 +910,7 @@
     {
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 71
+      "paper_count": 72
     },
     {
       "name": "MBP",
@@ -982,12 +982,12 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 197.0
+      "weight": 198.0
     },
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 196.0
+      "weight": 197.0
     },
     {
       "source": "TBI",
@@ -1007,7 +1007,7 @@
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 171.0
+      "weight": 172.0
     },
     {
       "source": "neuroinflammation",
@@ -1017,7 +1017,7 @@
     {
       "source": "GFAP",
       "target": "tau",
-      "weight": 157.0
+      "weight": 158.0
     },
     {
       "source": "S100B",
@@ -1027,12 +1027,12 @@
     {
       "source": "NfL",
       "target": "tau",
-      "weight": 152.0
+      "weight": 153.0
     },
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 151.0
+      "weight": 152.0
     },
     {
       "source": "TBI",
@@ -1042,7 +1042,7 @@
     {
       "source": "NfL",
       "target": "mTBI",
-      "weight": 133.0
+      "weight": 134.0
     },
     {
       "source": "GFAP",
@@ -1072,7 +1072,7 @@
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 109.0
+      "weight": 110.0
     },
     {
       "source": "BBB",
@@ -1127,7 +1127,7 @@
     {
       "source": "UCH-L1",
       "target": "tau",
-      "weight": 86.0
+      "weight": 87.0
     },
     {
       "source": "GFAP",
@@ -1170,14 +1170,14 @@
       "weight": 73.0
     },
     {
-      "source": "NQO2",
-      "target": "ROS",
+      "source": "UCH-L1",
+      "target": "NfL",
       "weight": 73.0
     },
     {
-      "source": "UCH-L1",
-      "target": "NfL",
-      "weight": 72.0
+      "source": "NQO2",
+      "target": "ROS",
+      "weight": 73.0
     },
     {
       "source": "oxidative stress",
