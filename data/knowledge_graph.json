@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T10:46:34.393098",
-  "n_papers": 3479,
+  "generated_at": "2026-07-03T10:10:07.440685",
+  "n_papers": 3480,
   "n_entities": 115,
   "n_edges": 647,
   "cluster_stats": {
@@ -13,14 +13,14 @@
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 368,
     "tbi_panel_poc": 236,
-    "tbi_proteomics": 507
+    "tbi_proteomics": 508
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1884,
+      "paper_count": 1885,
       "centrality": 0.3947
     },
     {
@@ -83,14 +83,14 @@
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 259,
+      "paper_count": 260,
       "centrality": 0.3772
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 240,
+      "paper_count": 241,
       "centrality": 0.3596
     },
     {
@@ -1789,8 +1789,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 223.0,
-      "n_papers": 223.0,
+      "weight": 224.0,
+      "n_papers": 224.0,
       "annotation": null
     },
     {
@@ -2134,6 +2134,16 @@
       "annotation": null
     },
     {
+      "source": "oxidative stress",
+      "target": "TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 74.0,
+      "n_papers": 74.0,
+      "annotation": null
+    },
+    {
       "source": "tau",
       "target": "aging",
       "relation": "co-occurs",
@@ -2156,16 +2166,6 @@
     {
       "source": "GFAP",
       "target": "NSE",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 73.0,
-      "n_papers": 73.0,
-      "annotation": null
-    },
-    {
-      "source": "oxidative stress",
-      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2199,8 +2199,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 69.0,
-      "n_papers": 69.0,
+      "weight": 70.0,
+      "n_papers": 70.0,
       "annotation": null
     },
     {

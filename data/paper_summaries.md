@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-01*
-*Total papers: 3479*
+*Generated: 2026-07-03*
+*Total papers: 3480*
 
 
 ## Cluster: aging_neuro
@@ -21248,6 +21248,13 @@
 **PMID:** 42373949  **DOI:** 10.1007/s00011-026-02287-6
 **Entities:** IL-6, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) remains a leading cause of death and disability worldwide in intensive care units, yet no targeted neuroprotective therapies exist despite over 300 clinical tr...
+
+### A Dural Extracellular Matrix Hydrogel with Neural Stem Cells Improves Recovery from Traumatic Brain Injury in Mice.
+**Authors:** Lee-Reeves C, Gregory HN, Gorup D, Chan M, Roche R et al.  
+**Journal:** ACS biomaterials science & engineering (2026)  
+**PMID:** 42391517  **DOI:** 10.1021/acsbiomaterials.6c00319
+**Entities:** ROS, oxidative stress, TBI  
+**Abstract:** Current clinical treatment options for traumatic brain injury (TBI) to limit permanent tissue damage and secondary injury remain inadequate. Intraparenchymal transplantation of neural stem cells is a ...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

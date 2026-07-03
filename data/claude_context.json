@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3479,
+  "n_papers": 3480,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42391517",
+        "title": "A Dural Extracellular Matrix Hydrogel with Neural Stem Cells Improves Recovery from Traumatic Brain Injury in Mice.",
+        "authors": "Lee-Reeves C, Gregory HN, Gorup D, Chan M, Roche R et al.",
+        "year": 2026,
+        "journal": "ACS biomaterials science & engineering",
+        "entities": "ROS, oxidative stress, TBI"
+      },
+      {
         "pmid": "42373949",
         "title": "Pathway-level proteomics identifies subcellular trafficking dysregulation as a molecular signature in severe traumatic brain injury.",
         "authors": "Van Nynatten LR, Tweddell D, Daley M, Cepinskas G, Basmaji J et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "Experimental neurology",
         "entities": "TBI"
-      },
-      {
-        "pmid": "42171014",
-        "title": "Retraction: Comparing calpain- and caspase-3-mediated degradation patterns in traumatic brain injury by differential proteome analysis.",
-        "authors": "Wang KKW, Liu MC, Akle V, Zheng W, Dave JR et al.",
-        "year": 2026,
-        "journal": "The Biochemical journal",
-        "entities": null
       }
     ]
   },
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1884
+      "paper_count": 1885
     },
     {
       "name": "mTBI",
@@ -840,12 +840,12 @@
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 259
+      "paper_count": 260
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 240
+      "paper_count": 241
     },
     {
       "name": "UCH-L1",
@@ -962,7 +962,7 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 223.0
+      "weight": 224.0
     },
     {
       "source": "mTBI",
@@ -1150,6 +1150,11 @@
       "weight": 76.0
     },
     {
+      "source": "oxidative stress",
+      "target": "TBI",
+      "weight": 74.0
+    },
+    {
       "source": "tau",
       "target": "aging",
       "weight": 74.0
@@ -1162,11 +1167,6 @@
     {
       "source": "GFAP",
       "target": "NSE",
-      "weight": 73.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "TBI",
       "weight": 73.0
     },
     {
@@ -1187,7 +1187,7 @@
     {
       "source": "ROS",
       "target": "TBI",
-      "weight": 69.0
+      "weight": 70.0
     },
     {
       "source": "IL-6",
