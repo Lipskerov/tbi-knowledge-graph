@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-03*
-*Total papers: 3480*
+*Generated: 2026-07-04*
+*Total papers: 3481*
 
 
 ## Cluster: aging_neuro
@@ -7451,6 +7451,13 @@
 **PMID:** 42032706  **DOI:** 10.1186/s40478-026-02240-y
 **Entities:** GFAP, TBI, Alzheimer  
 **Abstract:** Glial fibrillary acidic protein (GFAP) is a significant clinical biomarker of traumatic brain injury (TBI), yet understanding the nature, timing, and impact of its degraded and modified products would...
+
+### Consensus statements for the diagnosis of mild traumatic brain injury and clinical integration of blood-based biomarkers in the Asia-Pacific region: a modified Delphi study.
+**Authors:** Kuan WS, Veerasarn K, Joseph M, Musikatavorn K, Chung K et al.  
+**Journal:** International journal of emergency medicine (2026)  
+**PMID:** 42399783  **DOI:** 10.1186/s12245-026-01292-0
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** BACKGROUND: Timely and accurate diagnosis of mild traumatic brain injury (mTBI) remains challenging in acute care. In the Asia-Pacific (APAC) region, marked heterogeneity in healthcare infrastructure,...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
