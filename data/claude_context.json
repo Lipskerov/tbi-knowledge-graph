@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3481,
+  "n_papers": 3483,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -628,6 +628,14 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42404046",
+        "title": "Patient and Provider Satisfaction with BrainScope for Evaluation of Minor Head Injury.",
+        "authors": "Garra I, Gupta K, Borgese L, Ferrante S",
+        "year": 2026,
+        "journal": "Journal of emergencies, trauma, and shock",
+        "entities": "mTBI, TBI"
+      },
+      {
         "pmid": "42346702",
         "title": "A Decision Tree Cost Analysis of Intracranial Bleed Detection Using a Near-Infrared Device Across Various Healthcare Levels.",
         "authors": "Patel M, Mittal AK, Agrawal M, Sachin O, Rajsekar K et al.",
@@ -698,14 +706,6 @@
         "year": 2026,
         "journal": "Journal of the Intensive Care Society",
         "entities": "TBI"
-      },
-      {
-        "pmid": "41820699",
-        "title": "Development of a monoclonal antibody-based time-resolved fluorescence immunochromatographic assay strip for rapid and quantitative determination of S100B in serum.",
-        "authors": "Feng R, Wang Y, Chen Y, Li T, Zhou H et al.",
-        "year": 2026,
-        "journal": "Analytical and bioanalytical chemistry",
-        "entities": "S100B, TBI"
       }
     ],
     "tbi_proteomics": [
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1886
+      "paper_count": 1887
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1090
+      "paper_count": 1092
     },
     {
       "name": "Alzheimer",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 790.0
+      "weight": 791.0
     },
     {
       "source": "GFAP",

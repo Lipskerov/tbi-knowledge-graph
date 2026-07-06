@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-04*
-*Total papers: 3481*
+*Generated: 2026-07-06*
+*Total papers: 3483*
 
 
 ## Cluster: aging_neuro
@@ -10892,6 +10892,13 @@
 **Entities:** GFAP, NfL, Iba1, mTBI, TBI  
 **Abstract:** Repetitive subconcussive head impact exposure has been associated with clinical and MRI changes in some non-concussed contact sport athletes over the course of a season. However, analysis of human tol...
 
+### Is early activity resumption after paediatric concussion safe and does it reduce symptom burden at 2 weeks post injury? The Pediatric Concussion Assessment of Rest and Exertion (PedCARE) multicentre randomised clinical trial.
+**Authors:** Ledoux AA, Barrowman N, Bijelić V, Borghese MM, Davis A et al.  
+**Journal:** British journal of sports medicine (2022)  
+**PMID:** 34836880  **DOI:** 10.1136/bjsports-2021-105030
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: Investigate whether resuming physical activity (PA) at 72 hours post concussion is safe and reduces symptoms at 2 weeks, compared with resting until asymptomatic. METHODS: Real-life conditi...
+
 ### CSF and Blood Neurofilament Levels in Athletes Participating in Physical Contact Sports: A Systematic Review.
 **Authors:** Verduyn C, Bjerke M, Duerinck J, Engelborghs S, Peers K et al.  
 **Journal:** Neurology (2021)  
@@ -19320,6 +19327,13 @@
 **PMID:** 42346702  **DOI:** 10.3390/jmahp14020033
 **Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI), mainly caused by road traffic accidents, is a serious global public health concern. Computed tomography (CT) is the best way to detect intracranial haemorrhage (ICH), but...
+
+### Patient and Provider Satisfaction with BrainScope for Evaluation of Minor Head Injury.
+**Authors:** Garra I, Gupta K, Borgese L, Ferrante S  
+**Journal:** Journal of emergencies, trauma, and shock (2026)  
+**PMID:** 42404046  **DOI:** 10.4103/jets.jets_48_25
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: BrainScope (BSc) is an FDA-cleared noninvasive device utilizing artificial intelligence and machine learning-derived brain algorithms of brain electric activity to assist clinicians in d...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
