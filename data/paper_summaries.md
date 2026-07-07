@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-06*
-*Total papers: 3483*
+*Generated: 2026-07-07*
+*Total papers: 3492*
 
 
 ## Cluster: aging_neuro
@@ -7459,6 +7459,13 @@
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND: Timely and accurate diagnosis of mild traumatic brain injury (mTBI) remains challenging in acute care. In the Asia-Pacific (APAC) region, marked heterogeneity in healthcare infrastructure,...
 
+### Diagnostic Value of Neurofilament Light Chain and Glial Fibrillary Acidic Protein in Differentiating Primary From Serious Secondary Headache.
+**Authors:** Camerin SJ, Atila C, Blum CA, Sandgren S, Maleska A et al.  
+**Journal:** European journal of neurology (2026)  
+**PMID:** 42405663  **DOI:** 10.1111/ene.70691
+**Entities:** GFAP, NfL  
+**Abstract:** BACKGROUND: Headache is one of the most frequent reasons for emergency department (ED) visits, and distinguishing primary from secondary headache remains challenging. Blood biomarkers may improve earl...
+
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -9300,6 +9307,13 @@
 **Entities:** GFAP, TBI, NSE  
 **Abstract:** PRIMARY OBJECTIVE: to investigate the presence of circulating microparticles (MPs) of brain tissue origin in the systemic and cerebrovenous blood of patients with severe traumatic brain injury (TBI). ...
 
+### Prospective Assessment of Acute Blood Markers of Brain Injury in Sport-Related Concussion.
+**Authors:** Meier TB, Nelson LD, Huber DL, Bazarian JJ, Hayes RL et al.  
+**Journal:** Journal of neurotrauma (2017)  
+**PMID:** 28699381  **DOI:** 10.1089/neu.2017.5046
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
+**Abstract:** There is a pressing need to identify objective biomarkers for the assessment of sport-related concussion (SRC) to reduce the reliance on clinical judgment for the management of these injuries. The goa...
+
 ### Time Course and Diagnostic Accuracy of Glial and Neuronal Blood Biomarkers GFAP and UCH-L1 in a Large Cohort of Trauma Patients With and Without Mild Traumatic Brain Injury.
 **Authors:** Papa L, Brophy GM, Welch RD, Lewis LM, Braga CF et al.  
 **Journal:** JAMA neurology (2016)  
@@ -9552,6 +9566,13 @@
 **Entities:** GFAP, IL-6, BBB, mTBI, TBI  
 **Abstract:** BACKGROUND: Mild traumatic brain injury (TBI) is a serious public health concern affecting more than 1.7 million people in the United States annually. Mild TBI is difficult to diagnose and is clinical...
 
+### GFAP-BDP as an acute diagnostic marker in traumatic brain injury: results from the prospective transforming research and clinical knowledge in traumatic brain injury study.
+**Authors:** Okonkwo DO, Yue JK, Puccio AM, Panczykowski DM, Inoue T et al.  
+**Journal:** Journal of neurotrauma (2013)  
+**PMID:** 23489259  **DOI:** 10.1089/neu.2013.2883
+**Entities:** GFAP, TBI  
+**Abstract:** Reliable diagnosis of traumatic brain injury (TBI) is a major public health need. Glial fibrillary acidic protein (GFAP) is expressed in the central nervous system, and breakdown products (GFAP-BDP) a...
+
 ### A literature review of the feasibility of glial fibrillary acidic protein as a biomarker for stroke and traumatic brain injury.
 **Authors:** Schiff L, Hadker N, Weiser S, Rausch C  
 **Journal:** Molecular diagnosis & therapy (2012)  
@@ -9593,6 +9614,27 @@
 **PMID:** 22517109  **DOI:** 10.1212/WNL.0b013e318253d5c7
 **Entities:** GFAP, S100B, mTBI, TBI, GOS-E  
 **Abstract:** OBJECTIVE: The biomarkers glial fibrillary acid protein (GFAP) and S100B are increasingly used as prognostic tools in severe traumatic brain injury (TBI). Data for mild TBI are scarce. This study aims...
+
+### Serum concentrations of ubiquitin C-terminal hydrolase-L1 and αII-spectrin breakdown product 145 kDa correlate with outcome after pediatric TBI.
+**Authors:** Berger RP, Hayes RL, Richichi R, Beers SR, Wang KK  
+**Journal:** Journal of neurotrauma (2012)  
+**PMID:** 22022780  **DOI:** 10.1089/neu.2011.1989
+**Entities:** UCH-L1, S100B, mTBI, TBI, NSE  
+**Abstract:** Predicting outcome after pediatric traumatic brain injury (TBI) is important for providing information to families and prescribing rehabilitation services. Previously published studies evaluating the ...
+
+### Glial neuronal ratio: a novel index for differentiating injury type in patients with severe traumatic brain injury.
+**Authors:** Mondello S, Jeromin A, Buki A, Bullock R, Czeiter E et al.  
+**Journal:** Journal of neurotrauma (2012)  
+**PMID:** 22165978  **DOI:** 10.1089/neu.2011.2092
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** Neurobiochemical marker levels in blood after traumatic brain injury (TBI) may reflect structural changes detected by neuroimaging. This study evaluates whether correlations between neuronal (ubiquiti...
+
+### Brain injury biomarkers may improve the predictive power of the IMPACT outcome calculator.
+**Authors:** Czeiter E, Mondello S, Kovacs N, Sandor J, Gabrielli A et al.  
+**Journal:** Journal of neurotrauma (2012)  
+**PMID:** 22435839  **DOI:** 10.1089/neu.2011.2127
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** Outcome prediction following severe traumatic brain injury (sTBI) is a widely investigated field of research. A major breakthrough is represented by the IMPACT prognostic calculator based on admission...
 
 ### Factors affecting blast traumatic brain injury.
 **Authors:** Kamnaksh A, Kovesdi E, Kwon SK, Wingo D, Ahmed F et al.  
@@ -11500,6 +11542,20 @@
 **PMID:** 27541183  **DOI:** 10.1089/neu.2015.4308
 **Entities:** —  
 **Abstract:** As concerns about head impact in American football have grown, similar concerns have started to extend to other sports thought to experience less head impact, such as soccer and lacrosse. However, the...
+
+### Concussion Care Practices and Utilization of Evidence-Based Guidelines in the Evaluation and Management of Concussion: A Survey of New England Emergency Departments.
+**Authors:** Stern RA, Seichepine D, Tschoe C, Fritts NG, Alosco ML et al.  
+**Journal:** Journal of neurotrauma (2017)  
+**PMID:** 27112592  **DOI:** 10.1089/neu.2016.4475
+**Entities:** mTBI  
+**Abstract:** Evidence-based clinical practice guidelines can facilitate proper evaluation and management of concussions in the emergency department (ED), often the initial and primary point of contact for concussi...
+
+### Modeling the Long-Term Consequences of Repeated Blast-Induced Mild Traumatic Brain Injuries.
+**Authors:** Agoston DV  
+**Journal:** Journal of neurotrauma (2017)  
+**PMID:** 28937952  **DOI:** 10.1089/neu.2017.5317
+**Entities:** tau, p-tau, mTBI, TBI, CTE  
+**Abstract:** Repeated mild traumatic brain injury (rmTBI) caused by playing collision sports or by exposure to blasts during military operations can lead to late onset, chronic diseases such as chronic traumatic e...
 
 ### Potential Blood-based Biomarkers for Concussion.
 **Authors:** Papa L  
@@ -16077,6 +16133,13 @@
 **PMID:** 24955920  **DOI:** 10.1089/neu.2014.3449
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** Mild traumatic brain injury (mTBI) is typically followed by various postconcussive symptoms (PCS), including headache, depression, and cognitive deficits. In 15-25% of cases, PCS persists beyond the u...
+
+### Serum SNTF Increases in Concussed Professional Ice Hockey Players and Relates to the Severity of Postconcussion Symptoms.
+**Authors:** Siman R, Shahim P, Tegner Y, Blennow K, Zetterberg H et al.  
+**Journal:** Journal of neurotrauma (2015)  
+**PMID:** 25419578  **DOI:** 10.1089/neu.2014.3698
+**Entities:** tau, mTBI, TBI  
+**Abstract:** Biomarkers for diffuse axonal injury could have utilities for the acute diagnosis and clinical care of concussion, including those related to sports. The calpain-derived αII-spectrin N-terminal fragme...
 
 ### Violence-related mild traumatic brain injury in women: identifying a triad of postinjury disorders.
 **Authors:** Davis A  
