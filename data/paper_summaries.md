@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-07*
-*Total papers: 3492*
+*Generated: 2026-07-08*
+*Total papers: 3499*
 
 
 ## Cluster: aging_neuro
@@ -396,6 +396,13 @@
 **PMID:** 42367807  **DOI:** 10.3389/fimmu.2026.1832582
 **Entities:** neuroinflammation, BBB, Alzheimer, aging  
 **Abstract:** Life expectancy and the age at onset of multiple sclerosis (MS) are increasing, and a growing proportion of people with MS (pwMS) are now older than 55-60 years. Aging modifies MS pathobiology, with t...
+
+### Functional system-specific brain aging across the Alzheimer's disease continuum.
+**Authors:** Huo Y, Huang W, Liu Z, Chen H, Bai T et al.  
+**Journal:** Translational psychiatry (2026)  
+**PMID:** 42129136  **DOI:** 10.1038/s41398-026-04081-8
+**Entities:** Alzheimer, aging  
+**Abstract:** Accelerated brain aging is implicated in Alzheimer's disease (AD). However, the spatial heterogeneity of brain aging patterns across different functional systems along the AD continuum remains largely...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -8908,6 +8915,13 @@
 **Entities:** GFAP, NfL, tau, TBI, Simoa  
 **Abstract:** COVID-19 has been associated with many neurological complications including stroke, delirium and encephalitis. Furthermore, many individuals experience a protracted post-viral syndrome which is domina...
 
+### Progesterone Treatment Does Not Decrease Serum Levels of Biomarkers of Glial and Neuronal Cell Injury in Moderate and Severe Traumatic Brain Injury Subjects: A Secondary Analysis of the Progesterone for Traumatic Brain Injury, Experimental Clinical Treatment (ProTECT) III Trial.
+**Authors:** Korley F, Pauls Q, Yeatts SD, Jones CMC, Corbett-Valade E et al.  
+**Journal:** Journal of neurotrauma (2021)  
+**PMID:** 33319651  **DOI:** 10.1089/neu.2020.7072
+**Entities:** GFAP, UCH-L1, S100B, TBI, GOS-E  
+**Abstract:** Early treatment of moderate/severe traumatic brain injury (TBI) with progesterone does not improve clinical outcomes. This is in contrast with findings from pre-clinical studies of progesterone in TBI...
+
 ### A Biomarker for Concussion: The Good, the Bad, and the Unknown.
 **Authors:** Reece JT, Milone M, Wang P, Herman D, Petrov D et al.  
 **Journal:** The journal of applied laboratory medicine (2020)  
@@ -9117,6 +9131,13 @@
 **PMID:** biorxiv:10.1101/695718  **DOI:** 10.1101/695718
 **Entities:** GFAP, tau, Aβ42, mTBI, TBI  
 **Abstract:** Repetitive mild traumatic brain injuries (TBI) impair cognitive abilities and increase risk of neurodegenerative disorders in humans. We developed two repetitive mild TBI models in rats with different...
+
+### Performance Evaluation of a Multiplex Assay for Simultaneous Detection of Four Clinically Relevant Traumatic Brain Injury Biomarkers.
+**Authors:** Korley FK, Yue JK, Wilson DH, Hrusovsky K, Diaz-Arrastia R et al.  
+**Journal:** Journal of neurotrauma (2019)  
+**PMID:** 29690824  **DOI:** 10.1089/neu.2017.5623
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
+**Abstract:** Traumatic brain injury (TBI) results in heterogeneous pathology affecting multiple cells and tissue types in the brain. It is likely that assessment of such complexity will require simultaneous measur...
 
 ### An update on diagnostic and prognostic biomarkers for traumatic brain injury.
 **Authors:** Wang KK, Yang Z, Zhu T, Shi Y, Rubenstein R et al.  
@@ -11094,6 +11115,13 @@
 **PMID:** biorxiv:10.1101/2021.12.16.21266656  **DOI:** 10.1101/2021.12.16.21266656
 **Entities:** Aβ42, TBI  
 **Abstract:** <h4>ABSTRACT</h4> The coronavirus SARS-CoV-2 causes COVID-19, a predominantly respiratory disease that has been reported to be associated with numerous neurological signs, symptoms and syndromes. More...
+
+### Sex-Based Differences in Symptoms With Mouthguard Use After Pediatric Sport-Related Concussion.
+**Authors:** van Ierssel J, Ledoux AA, Tang K, Zemek R  
+**Journal:** Journal of athletic training (2021)  
+**PMID:** 33848349  **DOI:** 10.4085/1062-6050-0393.20
+**Entities:** tau, mTBI  
+**Abstract:** CONTEXT: Current evidence regarding the protective effect of mouthguard use on symptom severity in children and adolescents who sustain sport-related concussions is insufficient to make clinical recom...
 
 ### Neurofilament light as a biomarker in traumatic brain injury.
 **Authors:** Shahim P, Politis A, van der Merwe A, Moore B, Chou YY et al.  
@@ -14530,6 +14558,13 @@
 **PMID:** 41489911  **DOI:** 10.1097/JSM.0000000000001402
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: Determine the clinical utility of a novel, multimodal assessment battery in detecting acute post-concussion impairment relative to baseline performance. DESIGN: Prospective observational co...
+
+### Treatment-seeking and perceived helpfulness among individuals with persistent post-concussion symptoms.
+**Authors:** Rabinowitz A, Krasucki L, Buszkiewic M, Tracey AJ  
+**Journal:** Brain injury (2026)  
+**PMID:** 42007641  **DOI:** 10.1080/02699052.2026.2657930
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: To characterize treatment utilization and perceived helpfulness among individuals with persistent post-concussion symptoms (PPCS) during the first year post-injury and explore whether treat...
 
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
@@ -21339,6 +21374,20 @@
 **PMID:** 42391517  **DOI:** 10.1021/acsbiomaterials.6c00319
 **Entities:** ROS, oxidative stress, TBI  
 **Abstract:** Current clinical treatment options for traumatic brain injury (TBI) to limit permanent tissue damage and secondary injury remain inadequate. Intraparenchymal transplantation of neural stem cells is a ...
+
+### The molecular ICU: a primer on omics, informatics and the future of precision critical care.
+**Authors:** Van Nynatten LR, Raheel H, Basmaji J, Slessarev M, Fraser DD  
+**Journal:** Critical care (London, England) (2026)  
+**PMID:** 42410654  **DOI:** 10.1186/s13054-026-06169-5
+**Entities:** TBI  
+**Abstract:** Critical care has produced hundreds of neutral randomized trials, in part because therapies have been tested in biologically incoherent populations that dilute meaningful treatment effects. Syndromic ...
+
+### Intraoperative Lipoproteins Associated with Postoperative Delirium in a Prospective Observational Study of Older Adults Undergoing Cardiac Surgery.
+**Authors:** McKay TB, Kelly Graves O, Mitchell M, Mueller A, Simon C et al.  
+**Journal:** Journal of cardiothoracic and vascular anesthesia (2026)  
+**PMID:** 42411943  **DOI:** 10.1053/j.jvca.2025.09.235
+**Entities:** NfL  
+**Abstract:** OBJECTIVE: To evaluate serum lipoproteins and other metabolites and their potential associations with the development of postoperative delirium. DESIGN: Prospective observational cohort study. SETTING...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
