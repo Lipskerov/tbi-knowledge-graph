@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3499,
+  "n_papers": 3504,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -430,6 +430,14 @@
         "entities": "mTBI, PPCS"
       },
       {
+        "pmid": "42165680",
+        "title": "Long-term neurobehavioral and mental health outcomes in young athletes following sport-related concussion: the role of initial symptom severity.",
+        "authors": "De Oliveira N, Horsey J, Fitch S, Osama T, Williams KL et al.",
+        "year": 2026,
+        "journal": "Brain injury",
+        "entities": "mTBI"
+      },
+      {
         "pmid": "42019192",
         "title": "Feasibility and preliminary efficacy of telehealth interdisciplinary rehabilitation for concussion recovery: a single-case experimental design.",
         "authors": "Macheras S, Ponsford J, Peverill T, Davies K, Brusco N et al.",
@@ -492,14 +500,6 @@
         "year": 2026,
         "journal": "Brain injury",
         "entities": "mTBI, PPCS"
-      },
-      {
-        "pmid": "41489911",
-        "title": "The Clinical Utility of a Novel Multimodal Assessment Battery for Acute Sport-Related Concussion.",
-        "authors": "Bertagnolli J, Dukelow SP, Smith DJ, Richer L, Benson BW",
-        "year": 2026,
-        "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
-        "entities": "mTBI"
       }
     ],
     "qr2_inhibitors": [
@@ -750,6 +750,14 @@
         "entities": "TBI"
       },
       {
+        "pmid": "42342036",
+        "title": "Mesenchymal stem cell secretome attenuates disease-associated microglial activation and cognitive decline in TBI-associated neuroinflammation.",
+        "authors": "Rasiah PK, Ismael S, Elshaer S, Awad AM, Salman M et al.",
+        "year": 2026,
+        "journal": "Neurochemistry international",
+        "entities": "GFAP, neuroinflammation, TBI"
+      },
+      {
         "pmid": "42294901",
         "title": "Aging reprograms microglia toward an inflammasome-linked response to traumatic brain injury.",
         "authors": "Morganti JM, Bachstetter AD",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "Journal of neuroinflammation",
         "entities": "IL-6, TBI, aging"
-      },
-      {
-        "pmid": "42199099",
-        "title": "Activin A in the central nervous system: Mechanistic and therapeutic insights unveiled by emerging technologies.",
-        "authors": "Zou Z, Zhang Y, Qie X, Xie D, Liu H",
-        "year": 2026,
-        "journal": "Neural regeneration research",
-        "entities": "BBB, TBI"
       }
     ]
   },
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1897
+      "paper_count": 1899
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1099
+      "paper_count": 1102
     },
     {
       "name": "Alzheimer",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 484
+      "paper_count": 485
     },
     {
       "name": "tau",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 323
+      "paper_count": 324
     },
     {
       "name": "NQO2",
@@ -952,7 +952,7 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 402.0
+      "weight": 403.0
     },
     {
       "source": "Alzheimer",
@@ -1012,7 +1012,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 169.0
+      "weight": 170.0
     },
     {
       "source": "S100B",

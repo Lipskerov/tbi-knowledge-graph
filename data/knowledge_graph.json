@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-08T09:30:51.389218",
-  "n_papers": 3499,
+  "generated_at": "2026-07-09T10:29:33.810003",
+  "n_papers": 3504,
   "n_entities": 115,
   "n_edges": 647,
   "cluster_stats": {
     "aging_neuro": 717,
     "exosomal_rna": 311,
-    "gfap_uchl1": 368,
-    "nfl_tau": 290,
+    "gfap_uchl1": 369,
+    "nfl_tau": 291,
     "nqo2": 377,
-    "ppcs_prognosis": 316,
+    "ppcs_prognosis": 318,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 368,
     "tbi_panel_poc": 237,
-    "tbi_proteomics": 510
+    "tbi_proteomics": 511
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1897,
+      "paper_count": 1899,
       "centrality": 0.3947
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1099,
+      "paper_count": 1102,
       "centrality": 0.3333
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 484,
+      "paper_count": 485,
       "centrality": 0.2895
     },
     {
@@ -62,7 +62,7 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 323,
+      "paper_count": 324,
       "centrality": 0.2982
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 402.0,
-      "n_papers": 402.0,
+      "weight": 403.0,
+      "n_papers": 403.0,
       "annotation": null
     },
     {
@@ -1889,8 +1889,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 169.0,
-      "n_papers": 169.0,
+      "weight": 170.0,
+      "n_papers": 170.0,
       "annotation": null
     },
     {
@@ -2294,8 +2294,8 @@
       "annotation": null
     },
     {
-      "source": "mTBI",
-      "target": "CTE",
+      "source": "GFAP",
+      "target": "neuroinflammation",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2304,13 +2304,13 @@
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "neuroinflammation",
+      "source": "mTBI",
+      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 52.0,
-      "n_papers": 52.0,
+      "weight": 53.0,
+      "n_papers": 53.0,
       "annotation": null
     },
     {

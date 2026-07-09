@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-08*
-*Total papers: 3499*
+*Generated: 2026-07-09*
+*Total papers: 3504*
 
 
 ## Cluster: aging_neuro
@@ -7858,6 +7858,13 @@
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** 
 
+### Predictive Blood Biomarkers of Targeted Intervention for Chronic Mental Health Symptoms following Traumatic Brain Injury.
+**Authors:** Eagle SR, Svirsky SE, Puccio AM, Borrasso A, Edelman K et al.  
+**Journal:** Journal of neurotrauma (2025)  
+**PMID:** 39323312  **DOI:** 10.1089/neu.2024.0245
+**Entities:** TBI  
+**Abstract:** The purpose of this study was to assess the performance of predictive blood biomarkers for responsiveness to targeted treatments for chronic psychological issues years after traumatic brain injury (TB...
+
 ### Prediction of clinical progression in nervous system diseases: plasma glial fibrillary acidic protein (GFAP).
 **Authors:** Zheng X, Yang J, Hou Y, Shi X, Liu K  
 **Journal:** European journal of medical research (2024)  
@@ -10072,6 +10079,13 @@
 **PMID:** 40099836  **DOI:** 10.1093/cercor/bhaf059
 **Entities:** tau, mTBI, TBI, CTE, Alzheimer  
 **Abstract:** Evidence has linked head trauma to increased risk factors for neuropathology, including mechanical deformation of the sulcal fundus and, later, perivascular accumulation of hyperphosphorylated tau adj...
+
+### Association of Premorbid Anxiety and Depression Symptoms in Concussion Recovery in Collegiate Student-Athletes.
+**Authors:** Sawlani SP, Goldman JT, Babikian T, McArthur DL, Polster D et al.  
+**Journal:** Sports health (2025)  
+**PMID:** 38835137  **DOI:** 10.1177/19417381241255308
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Mental health disorders are linked to prolonged concussion symptoms. However, the association of premorbid anxiety/depression symptoms with postconcussion return-to-play timelines and tota...
 
 ### Duration of Ice Hockey Play and Chronic Traumatic Encephalopathy.
 **Authors:** Abdolmohammadi B, Tuz-Zahra F, Uretsky M, Nicks R, Mosaheb S et al.  
@@ -14566,6 +14580,13 @@
 **Entities:** mTBI, PPCS  
 **Abstract:** OBJECTIVE: To characterize treatment utilization and perceived helpfulness among individuals with persistent post-concussion symptoms (PPCS) during the first year post-injury and explore whether treat...
 
+### Long-term neurobehavioral and mental health outcomes in young athletes following sport-related concussion: the role of initial symptom severity.
+**Authors:** De Oliveira N, Horsey J, Fitch S, Osama T, Williams KL et al.  
+**Journal:** Brain injury (2026)  
+**PMID:** 42165680  **DOI:** 10.1080/02699052.2026.2675398
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To examine whether initial concussion symptom severity predicts long-term neurobehavioral, anxiety, and depressive symptoms in adolescents with sport-related concussion (SRC). METHODS: This...
+
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
 **Journal:** Expert review of neurotherapeutics (2025)  
@@ -14684,6 +14705,13 @@
 **PMID:** 40801321  **DOI:** 10.1080/02699052.2025.2544624
 **Entities:** tau, mTBI, TBI, PPCS  
 **Abstract:** INTRODUCTION: Persistent concussion symptoms (PCS) after mild traumatic brain injury (mTBI) interfere with daily functioning. The study aimed to replicate findings of our previous work showing the eff...
+
+### Concussion Outcomes 3 Months after an Intervention for Young Adults with Co-Occurring Anxiety: A Randomized Controlled Trial.
+**Authors:** Levey N, Bakhshaie J, Vranceanu AM, Greenberg J  
+**Journal:** Journal of integrative and complementary medicine (2025)  
+**PMID:** 40764049  **DOI:** 10.1177/27683605251363177
+**Entities:** mTBI  
+**Abstract:** 
 
 ### The search for blood-biomarkers of persistent post-concussion symptoms.
 **Authors:** Meier TB  
@@ -21388,6 +21416,13 @@
 **PMID:** 42411943  **DOI:** 10.1053/j.jvca.2025.09.235
 **Entities:** NfL  
 **Abstract:** OBJECTIVE: To evaluate serum lipoproteins and other metabolites and their potential associations with the development of postoperative delirium. DESIGN: Prospective observational cohort study. SETTING...
+
+### Mesenchymal stem cell secretome attenuates disease-associated microglial activation and cognitive decline in TBI-associated neuroinflammation.
+**Authors:** Rasiah PK, Ismael S, Elshaer S, Awad AM, Salman M et al.  
+**Journal:** Neurochemistry international (2026)  
+**PMID:** 42342036  **DOI:** 10.1016/j.neuint.2026.106210
+**Entities:** GFAP, neuroinflammation, TBI  
+**Abstract:** Therapeutic options for traumatic brain injury (TBI) remain limited, in part due to injury-induced activation of microglia toward disease-associated microglia (DAM) phenotypes that contribute to persi...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
