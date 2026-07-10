@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3504,
+  "n_papers": 3506,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -102,6 +102,14 @@
         "entities": null
       },
       {
+        "pmid": "42421562",
+        "title": "Cannabidiol alleviates ferroptosis after traumatic brain injury via the miR3203p/Negr1/ERK signaling axis.",
+        "authors": "Li J, Cao Y, Ling T, Luo X, Li H et al.",
+        "year": 2026,
+        "journal": "Acta biochimica et biophysica Sinica",
+        "entities": "TBI"
+      },
+      {
         "pmid": "42303152",
         "title": "Comprehensive analysis of brain tissue transcriptome and serum miRNA reveals molecular signatures of cognitive impairment after traumatic brain injury.",
         "authors": "Ou Z, Tan T, Liang F",
@@ -164,14 +172,6 @@
         "year": 2026,
         "journal": "International journal of nanomedicine",
         "entities": "BBB, TBI"
-      },
-      {
-        "pmid": "41751518",
-        "title": "MicroRNA Markers of Previous Traumatic Brain Injury in Juvenile Offenders: Implications for Neuronal Dysfunction and Repair.",
-        "authors": "Schmidt AT, Hicks SD, Dennis VE, Bergquist BK, Bammel AC et al.",
-        "year": 2026,
-        "journal": "Genes",
-        "entities": "TBI"
       }
     ],
     "gfap_uchl1": [
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42424231",
+        "title": "Neurofilament Light Chain as a Biomarker in Neurology.",
+        "authors": "Szy\u0142ak E, Czarnowska A, Kulczy\u0144ska-Przybik A, Kopitelow J, Mroczko B et al.",
+        "year": 2026,
+        "journal": "European neurology",
+        "entities": "GFAP, NfL, tau, TBI, Alzheimer"
+      },
+      {
         "pmid": "42411943",
         "title": "Intraoperative Lipoproteins Associated with Postoperative Delirium in a Prospective Observational Study of Older Adults Undergoing Cardiac Surgery.",
         "authors": "McKay TB, Kelly Graves O, Mitchell M, Mueller A, Simon C et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "bioRxiv : the preprint server for biology",
         "entities": "GFAP, NfL, TBI, Olink"
-      },
-      {
-        "pmid": "42204700",
-        "title": "Repeated head impacts establish a senescent cranial bone marrow niche that impairs brain metabolism.",
-        "authors": "Devlin PJ, Khan R, Do TH, West BE, Korf JM et al.",
-        "year": 2026,
-        "journal": "Journal of neuroinflammation",
-        "entities": "IL-6, TBI, aging"
       }
     ]
   },
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1899
+      "paper_count": 1901
     },
     {
       "name": "mTBI",
@@ -805,7 +805,7 @@
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 662
+      "paper_count": 663
     },
     {
       "name": "aging",
@@ -815,12 +815,12 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 485
+      "paper_count": 486
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 381
+      "paper_count": 382
     },
     {
       "name": "neuroinflammation",
@@ -835,7 +835,7 @@
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 299
+      "paper_count": 300
     },
     {
       "name": "ROS",
@@ -952,7 +952,7 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 403.0
+      "weight": 404.0
     },
     {
       "source": "Alzheimer",
@@ -967,7 +967,7 @@
     {
       "source": "tau",
       "target": "TBI",
-      "weight": 217.0
+      "weight": 218.0
     },
     {
       "source": "mTBI",
@@ -992,22 +992,22 @@
     {
       "source": "TBI",
       "target": "Alzheimer",
-      "weight": 193.0
+      "weight": 194.0
     },
     {
       "source": "tau",
       "target": "Alzheimer",
-      "weight": 179.0
+      "weight": 180.0
     },
     {
       "source": "NfL",
       "target": "TBI",
-      "weight": 178.0
+      "weight": 179.0
     },
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 174.0
+      "weight": 175.0
     },
     {
       "source": "neuroinflammation",
@@ -1015,13 +1015,13 @@
       "weight": 170.0
     },
     {
-      "source": "S100B",
-      "target": "TBI",
-      "weight": 159.0
-    },
-    {
       "source": "GFAP",
       "target": "tau",
+      "weight": 160.0
+    },
+    {
+      "source": "S100B",
+      "target": "TBI",
       "weight": 159.0
     },
     {
@@ -1032,7 +1032,7 @@
     {
       "source": "NfL",
       "target": "tau",
-      "weight": 154.0
+      "weight": 155.0
     },
     {
       "source": "TBI",
@@ -1095,13 +1095,13 @@
       "weight": 98.0
     },
     {
-      "source": "oxidative stress",
-      "target": "aging",
-      "weight": 96.0
-    },
-    {
       "source": "NfL",
       "target": "Alzheimer",
+      "weight": 97.0
+    },
+    {
+      "source": "oxidative stress",
+      "target": "aging",
       "weight": 96.0
     },
     {
@@ -1137,7 +1137,7 @@
     {
       "source": "GFAP",
       "target": "Alzheimer",
-      "weight": 79.0
+      "weight": 80.0
     },
     {
       "source": "mTBI",

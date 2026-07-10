@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-09*
-*Total papers: 3504*
+*Generated: 2026-07-10*
+*Total papers: 3506*
 
 
 ## Cluster: aging_neuro
@@ -5166,6 +5166,13 @@
 **PMID:** 41749379  **DOI:** 10.1186/s40478-026-02260-8
 **Entities:** mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) is underdiagnosed and can lead to long-term symptoms in children. Currently, we lack diagnostic markers and effective therapies for pediatric mTBI. MicroRNAs (miRNAs...
+
+### Cannabidiol alleviates ferroptosis after traumatic brain injury via the miR3203p/Negr1/ERK signaling axis.
+**Authors:** Li J, Cao Y, Ling T, Luo X, Li H et al.  
+**Journal:** Acta biochimica et biophysica Sinica (2026)  
+**PMID:** 42421562  **DOI:** 10.3724/abbs.2026067
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) can cause severe neurological damage. Ferroptosis, a recently discovered form of iron-regulated cell death, is closely associated with TBI. Cannabidiol (CBD) has been demo...
 
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
@@ -21423,6 +21430,13 @@
 **PMID:** 42342036  **DOI:** 10.1016/j.neuint.2026.106210
 **Entities:** GFAP, neuroinflammation, TBI  
 **Abstract:** Therapeutic options for traumatic brain injury (TBI) remain limited, in part due to injury-induced activation of microglia toward disease-associated microglia (DAM) phenotypes that contribute to persi...
+
+### Neurofilament Light Chain as a Biomarker in Neurology.
+**Authors:** Szyłak E, Czarnowska A, Kulczyńska-Przybik A, Kopitelow J, Mroczko B et al.  
+**Journal:** European neurology (2026)  
+**PMID:** 42424231  **DOI:** 10.1159/000552933
+**Entities:** GFAP, NfL, tau, TBI, Alzheimer  
+**Abstract:** Neurofilament light chain (NfL) has emerged as a highly sensitive biomarker of neuroaxonal injury across diverse neurological disorders. This review synthesizes current evidence regarding its diagnost...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

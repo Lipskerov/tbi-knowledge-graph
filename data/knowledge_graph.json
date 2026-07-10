@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T10:29:33.810003",
-  "n_papers": 3504,
+  "generated_at": "2026-07-10T10:28:14.469380",
+  "n_papers": 3506,
   "n_entities": 115,
   "n_edges": 647,
   "cluster_stats": {
     "aging_neuro": 717,
-    "exosomal_rna": 311,
+    "exosomal_rna": 312,
     "gfap_uchl1": 369,
     "nfl_tau": 291,
     "nqo2": 377,
@@ -13,14 +13,14 @@
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 368,
     "tbi_panel_poc": 237,
-    "tbi_proteomics": 511
+    "tbi_proteomics": 512
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1899,
+      "paper_count": 1901,
       "centrality": 0.3947
     },
     {
@@ -34,7 +34,7 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 662,
+      "paper_count": 663,
       "centrality": 0.3509
     },
     {
@@ -48,14 +48,14 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 485,
+      "paper_count": 486,
       "centrality": 0.2895
     },
     {
       "id": 14,
       "name": "tau",
       "type": "protein",
-      "paper_count": 381,
+      "paper_count": 382,
       "centrality": 0.2982
     },
     {
@@ -76,7 +76,7 @@
       "id": 12,
       "name": "NfL",
       "type": "protein",
-      "paper_count": 299,
+      "paper_count": 300,
       "centrality": 0.2895
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 403.0,
-      "n_papers": 403.0,
+      "weight": 404.0,
+      "n_papers": 404.0,
       "annotation": null
     },
     {
@@ -1799,8 +1799,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 217.0,
-      "n_papers": 217.0,
+      "weight": 218.0,
+      "n_papers": 218.0,
       "annotation": null
     },
     {
@@ -1849,8 +1849,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 193.0,
-      "n_papers": 193.0,
+      "weight": 194.0,
+      "n_papers": 194.0,
       "annotation": null
     },
     {
@@ -1859,8 +1859,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 179.0,
-      "n_papers": 179.0,
+      "weight": 180.0,
+      "n_papers": 180.0,
       "annotation": null
     },
     {
@@ -1869,8 +1869,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 178.0,
-      "n_papers": 178.0,
+      "weight": 179.0,
+      "n_papers": 179.0,
       "annotation": null
     },
     {
@@ -1879,8 +1879,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 174.0,
-      "n_papers": 174.0,
+      "weight": 175.0,
+      "n_papers": 175.0,
       "annotation": null
     },
     {
@@ -1894,18 +1894,18 @@
       "annotation": null
     },
     {
-      "source": "S100B",
-      "target": "TBI",
+      "source": "GFAP",
+      "target": "tau",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 159.0,
-      "n_papers": 159.0,
+      "weight": 160.0,
+      "n_papers": 160.0,
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "tau",
+      "source": "S100B",
+      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -1929,8 +1929,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 154.0,
-      "n_papers": 154.0,
+      "weight": 155.0,
+      "n_papers": 155.0,
       "annotation": null
     },
     {
@@ -2034,18 +2034,18 @@
       "annotation": null
     },
     {
-      "source": "oxidative stress",
-      "target": "aging",
+      "source": "NfL",
+      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 96.0,
-      "n_papers": 96.0,
+      "weight": 97.0,
+      "n_papers": 97.0,
       "annotation": null
     },
     {
-      "source": "NfL",
-      "target": "Alzheimer",
+      "source": "oxidative stress",
+      "target": "aging",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2109,8 +2109,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 79.0,
-      "n_papers": 79.0,
+      "weight": 80.0,
+      "n_papers": 80.0,
       "annotation": null
     },
     {
