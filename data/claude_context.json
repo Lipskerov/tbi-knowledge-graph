@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3506,
+  "n_papers": 3509,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -628,6 +628,14 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42426813",
+        "title": "Ocular ultrasound in the evaluation of anisocoria following head injury: a case report.",
+        "authors": "Ganesh MMS, Amrithanand VT, Raman KG, Muthanikkatt AM",
+        "year": 2026,
+        "journal": "Journal of medical case reports",
+        "entities": "TBI"
+      },
+      {
         "pmid": "42404046",
         "title": "Patient and Provider Satisfaction with BrainScope for Evaluation of Minor Head Injury.",
         "authors": "Garra I, Gupta K, Borgese L, Ferrante S",
@@ -698,17 +706,25 @@
         "year": 2026,
         "journal": "PloS one",
         "entities": "TBI"
-      },
-      {
-        "pmid": "41836679",
-        "title": "Paediatric and adult neurological point-of-care ultrasound: Review of the evidence, and the UK accreditation pathway.",
-        "authors": "Waraich M, Zoica B, Alexander E, Stephens J, Conway H et al.",
-        "year": 2026,
-        "journal": "Journal of the Intensive Care Society",
-        "entities": "TBI"
       }
     ],
     "tbi_proteomics": [
+      {
+        "pmid": "42430127",
+        "title": "Oral Lysozyme Attenuates Neuroinflammation and Brain Injury After Traumatic Brain Injury Through Gut Microbiota-Dependent Reprogramming of Tryptophan Metabolism.",
+        "authors": "Du Z, Yao H, Xi C, Yuan Q, Fu P et al.",
+        "year": 2026,
+        "journal": "CNS neuroscience & therapeutics",
+        "entities": "neuroinflammation, TBI"
+      },
+      {
+        "pmid": "42430077",
+        "title": "Targeting IL-33 in Precision Neuroimmunology: Cellular Mechanisms and Therapeutic Strategies for CNS Disorders.",
+        "authors": "Li L, Wang S, Duan L, Zhang L, Yan H et al.",
+        "year": 2026,
+        "journal": "Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology",
+        "entities": "neuroinflammation, TBI, Alzheimer"
+      },
       {
         "pmid": "42424231",
         "title": "Neurofilament Light Chain as a Biomarker in Neurology.",
@@ -772,22 +788,6 @@
         "year": 2026,
         "journal": "The Journal of clinical investigation",
         "entities": "IL-1\u03b2, TBI, aging"
-      },
-      {
-        "pmid": "42294584",
-        "title": "GPR124 Alleviates Blood-Brain Barrier Disruption by Enhancing Microvascular Endothelial Function after Traumatic Brain Injury.",
-        "authors": "Wang C, Cai L, Gong Q, Yang Y, Liang Y et al.",
-        "year": 2026,
-        "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-        "entities": "BBB, TBI"
-      },
-      {
-        "pmid": "42244667",
-        "title": "Protein Predictors of Worsening Cerebral Edema in Traumatic Brain Injury in Critically Ill Patients.",
-        "authors": "Radabaugh HL, Abdelhak A, Ning K, Jha RM, Rowell SE et al.",
-        "year": 2026,
-        "journal": "bioRxiv : the preprint server for biology",
-        "entities": "GFAP, NfL, TBI, Olink"
       }
     ]
   },
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1901
+      "paper_count": 1904
     },
     {
       "name": "mTBI",
@@ -805,7 +805,7 @@
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 663
+      "paper_count": 664
     },
     {
       "name": "aging",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 324
+      "paper_count": 326
     },
     {
       "name": "NQO2",
@@ -992,7 +992,7 @@
     {
       "source": "TBI",
       "target": "Alzheimer",
-      "weight": 194.0
+      "weight": 195.0
     },
     {
       "source": "tau",
@@ -1012,7 +1012,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 170.0
+      "weight": 172.0
     },
     {
       "source": "GFAP",
@@ -1052,7 +1052,7 @@
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 122.0
+      "weight": 123.0
     },
     {
       "source": "neuroinflammation",

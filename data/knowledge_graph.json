@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T10:28:14.469380",
-  "n_papers": 3506,
+  "generated_at": "2026-07-11T08:54:19.954057",
+  "n_papers": 3509,
   "n_entities": 115,
   "n_edges": 647,
   "cluster_stats": {
@@ -12,15 +12,15 @@
     "ppcs_prognosis": 318,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 368,
-    "tbi_panel_poc": 237,
-    "tbi_proteomics": 512
+    "tbi_panel_poc": 238,
+    "tbi_proteomics": 514
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1901,
+      "paper_count": 1904,
       "centrality": 0.3947
     },
     {
@@ -34,7 +34,7 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 663,
+      "paper_count": 664,
       "centrality": 0.3509
     },
     {
@@ -62,7 +62,7 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 324,
+      "paper_count": 326,
       "centrality": 0.2982
     },
     {
@@ -1849,8 +1849,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 194.0,
-      "n_papers": 194.0,
+      "weight": 195.0,
+      "n_papers": 195.0,
       "annotation": null
     },
     {
@@ -1889,8 +1889,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 170.0,
-      "n_papers": 170.0,
+      "weight": 172.0,
+      "n_papers": 172.0,
       "annotation": null
     },
     {
@@ -1969,8 +1969,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 122.0,
-      "n_papers": 122.0,
+      "weight": 123.0,
+      "n_papers": 123.0,
       "annotation": null
     },
     {

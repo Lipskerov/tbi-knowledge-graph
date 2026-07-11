@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-10*
-*Total papers: 3506*
+*Generated: 2026-07-11*
+*Total papers: 3509*
 
 
 ## Cluster: aging_neuro
@@ -19468,6 +19468,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** INTRODUCTION: BrainScope (BSc) is an FDA-cleared noninvasive device utilizing artificial intelligence and machine learning-derived brain algorithms of brain electric activity to assist clinicians in d...
 
+### Ocular ultrasound in the evaluation of anisocoria following head injury: a case report.
+**Authors:** Ganesh MMS, Amrithanand VT, Raman KG, Muthanikkatt AM  
+**Journal:** Journal of medical case reports (2026)  
+**PMID:** 42426813  **DOI:** 10.1186/s13256-026-06294-3
+**Entities:** TBI  
+**Abstract:** BACKGROUND: Anisocoria following severe head injury is traditionally interpreted as an impending neurological emergency, often prompting immediate empiric interventions for presumed intracranial hyper...
+
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
 **Journal:** Journal of neurology (2025)  
@@ -21437,6 +21444,20 @@
 **PMID:** 42424231  **DOI:** 10.1159/000552933
 **Entities:** GFAP, NfL, tau, TBI, Alzheimer  
 **Abstract:** Neurofilament light chain (NfL) has emerged as a highly sensitive biomarker of neuroaxonal injury across diverse neurological disorders. This review synthesizes current evidence regarding its diagnost...
+
+### Oral Lysozyme Attenuates Neuroinflammation and Brain Injury After Traumatic Brain Injury Through Gut Microbiota-Dependent Reprogramming of Tryptophan Metabolism.
+**Authors:** Du Z, Yao H, Xi C, Yuan Q, Fu P et al.  
+**Journal:** CNS neuroscience & therapeutics (2026)  
+**PMID:** 42430127  **DOI:** 10.1002/cns.71025
+**Entities:** neuroinflammation, TBI  
+**Abstract:** AIMS: Traumatic brain injury (TBI) induces secondary neuroinflammation and gut dysbiosis. This study investigated whether oral lysozyme confers neuroprotection after TBI through gut microbiota-depende...
+
+### Targeting IL-33 in Precision Neuroimmunology: Cellular Mechanisms and Therapeutic Strategies for CNS Disorders.
+**Authors:** Li L, Wang S, Duan L, Zhang L, Yan H et al.  
+**Journal:** Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology (2026)  
+**PMID:** 42430077  **DOI:** 10.1007/s11481-026-10302-0
+**Entities:** neuroinflammation, TBI, Alzheimer  
+**Abstract:** Interleukin-33 (IL-33), an alarmin cytokine of the IL-1 family, has emerged as a pivotal regulator of neuroimmune interactions in the central nervous system (CNS). Acting through its receptor ST2, IL-...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
