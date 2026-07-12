@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
 *Generated: 2026-07-12*
-*Total papers: 3511*
+*Total papers: 3508*
 
 
 ## Cluster: aging_neuro
@@ -12211,13 +12211,6 @@
 **Entities:** NQO2, NQO1, NRH, FAD  
 **Abstract:** Quinone reductases 1 and 2 (NQO1 and NQO2) are paralogous FAD-linked enzymes found in all amniotes. NQO1 and NQO2 have similar structures and can both catalyze reduction of quinones and other electrop...
 
-### Specific quinone reductase 2 inhibitors reduce metabolic burden and reverse Alzheimer's disease phenotype in mice
-**Authors:** Gould NL, Scherer GR, Carvalho S, Shurrush K, Kayyal H, Edry E et al.  
-**Journal:** Journal of Clinical Investigation (2022)  
-**PMID:** 35617003  **DOI:** 10.1172/JCI162120
-**Entities:** NQO2, NQO1, GFAP, tau, Iba1  
-**Abstract:** QR2 KO in HCT116 cells produces proteome shift antagonistic to Alzheimer's disease (AD), with increased mitochondrial function and reduced cell-junction proteins. Continuous oral QR2 inhibitor (QR2i) ...
-
 ### Cloning, Expression, Purification, Crystallization, and X-Ray Structural Determination of the Human NQO2 in Complex with Melatonin.
 **Authors:** Calamini B, Ferry G, Boutin JA  
 **Journal:** Methods in molecular biology (Clifton, N.J.) (2022)  
@@ -12365,13 +12358,6 @@
 **Entities:** NQO2  
 **Abstract:** Cell entry of SARS-CoV-2 causes genome-wide disruption of the transcriptional profiles of genes and biological pathways involved in the pathogenesis of COVID-19. Expression allelic imbalance is charac...
 
-### Somatostatin Interneurons of the Insula Mediate QR2-Dependent Novel Taste Memory Enhancement
-**Authors:** Gould NL, Kolatt Chandran S, Kayyal H, Edry E, Rosenblum K  
-**Journal:** eNeuro (2021)  
-**PMID:** 34493578  **DOI:** 10.1523/ENEURO.0152-21.2021
-**Entities:** NQO2, ROS, Kv2.1, aging  
-**Abstract:** Quinone reductase 2 (QR2) is removed from anterior insular cortex (aIC) excitatory and SST-expressing neurons 3 hours following novel taste learning. QR2 removal in somatostatin (SST) interneurons red...
-
 ### Somatostatin Interneurons of the Insula Mediate QR2-Dependent Novel Taste Memory Enhancement.
 **Authors:** Gould NL, Kolatt Chandran S, Kayyal H, Edry E, Rosenblum K  
 **Journal:** eNeuro (2021)  
@@ -12490,13 +12476,6 @@
 **PMID:** 34805270  **DOI:** 10.3389/fmolb.2021.743403
 **Entities:** —  
 **Abstract:** Endometrial cancer (EC) is the most common gynecological malignancy in resource-abundant countries. The majority of EC cases are estrogen dependent but the mechanisms of estrogen biosynthesis and oxid...
-
-### Dopamine-Dependent QR2 Pathway Activation in CA1 Interneurons Enhances Novel Memory Formation
-**Authors:** Gould NL, Sharma V, Hleihil M, Kolatt Chandran S, David O, Edry E, Rosenblum K  
-**Journal:** Journal of Neuroscience (2020)  
-**PMID:** 32948681  **DOI:** 10.1523/JNEUROSCI.0243-20.2020
-**Entities:** NQO2, miR-182, ROS, Kv2.1, oxidative stress  
-**Abstract:** Novel information acquisition triggers dopamine release in CA1 via locus coeruleus, activating D1 receptors, upregulating miR-182, and suppressing QR2 expression. QR2 is primarily expressed in inhibit...
 
 ### Dopamine-Dependent QR2 Pathway Activation in CA1 Interneurons Enhances Novel Memory Formation.
 **Authors:** Gould NL, Sharma V, Hleihil M, Kolatt Chandran S, David O et al.  

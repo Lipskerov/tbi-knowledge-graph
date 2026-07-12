@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3511,
+  "n_papers": 3508,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -805,22 +805,22 @@
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 665
+      "paper_count": 664
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 629
+      "paper_count": 627
     },
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 486
+      "paper_count": 485
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 382
+      "paper_count": 381
     },
     {
       "name": "neuroinflammation",
@@ -830,7 +830,7 @@
     {
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 313
+      "paper_count": 310
     },
     {
       "name": "NfL",
@@ -840,12 +840,12 @@
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 261
+      "paper_count": 259
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 242
+      "paper_count": 241
     },
     {
       "name": "UCH-L1",
@@ -870,7 +870,7 @@
     {
       "name": "NQO1",
       "type": "protein",
-      "paper_count": 120
+      "paper_count": 119
     },
     {
       "name": "NSE",
@@ -900,7 +900,7 @@
     {
       "name": "A\u03b242",
       "type": "protein",
-      "paper_count": 82
+      "paper_count": 81
     },
     {
       "name": "melatonin",
@@ -930,7 +930,7 @@
     {
       "name": "dopamine",
       "type": "metabolite",
-      "paper_count": 51
+      "paper_count": 50
     },
     {
       "name": "glutathione",
@@ -962,7 +962,7 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 225.0
+      "weight": 224.0
     },
     {
       "source": "tau",
@@ -997,7 +997,7 @@
     {
       "source": "tau",
       "target": "Alzheimer",
-      "weight": 180.0
+      "weight": 179.0
     },
     {
       "source": "NfL",
@@ -1015,13 +1015,13 @@
       "weight": 173.0
     },
     {
-      "source": "GFAP",
-      "target": "tau",
-      "weight": 160.0
-    },
-    {
       "source": "S100B",
       "target": "TBI",
+      "weight": 159.0
+    },
+    {
+      "source": "GFAP",
+      "target": "tau",
       "weight": 159.0
     },
     {
@@ -1062,7 +1062,7 @@
     {
       "source": "NQO2",
       "target": "NQO1",
-      "weight": 115.0
+      "weight": 114.0
     },
     {
       "source": "UCH-L1",
@@ -1082,7 +1082,7 @@
     {
       "source": "ROS",
       "target": "aging",
-      "weight": 104.0
+      "weight": 102.0
     },
     {
       "source": "PKR",
@@ -1102,7 +1102,7 @@
     {
       "source": "oxidative stress",
       "target": "aging",
-      "weight": 96.0
+      "weight": 95.0
     },
     {
       "source": "TBI",
@@ -1137,7 +1137,7 @@
     {
       "source": "GFAP",
       "target": "Alzheimer",
-      "weight": 80.0
+      "weight": 79.0
     },
     {
       "source": "mTBI",
@@ -1165,11 +1165,6 @@
       "weight": 74.0
     },
     {
-      "source": "NQO2",
-      "target": "ROS",
-      "weight": 73.0
-    },
-    {
       "source": "GFAP",
       "target": "NSE",
       "weight": 73.0
@@ -1177,11 +1172,16 @@
     {
       "source": "NQO2",
       "target": "ROS",
-      "weight": 73.0
+      "weight": 71.0
     },
     {
       "source": "ROS",
       "target": "TBI",
+      "weight": 71.0
+    },
+    {
+      "source": "NQO2",
+      "target": "ROS",
       "weight": 71.0
     },
     {
