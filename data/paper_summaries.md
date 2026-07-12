@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-11*
-*Total papers: 3509*
+*Generated: 2026-07-12*
+*Total papers: 3511*
 
 
 ## Cluster: aging_neuro
@@ -21458,6 +21458,20 @@
 **PMID:** 42430077  **DOI:** 10.1007/s11481-026-10302-0
 **Entities:** neuroinflammation, TBI, Alzheimer  
 **Abstract:** Interleukin-33 (IL-33), an alarmin cytokine of the IL-1 family, has emerged as a pivotal regulator of neuroimmune interactions in the central nervous system (CNS). Acting through its receptor ST2, IL-...
+
+### PERK deficiency amplifies molecular, structural, and network vulnerability to repetitive mild traumatic brain injury.
+**Authors:** Criado-Marrero M, Ravi S, Barroso D, Garza TN, Cuestas Torres DM et al.  
+**Journal:** Neurobiology of disease (2026)  
+**PMID:** 42435991  **DOI:** 10.1016/j.nbd.2026.107526
+**Entities:** mTBI, TBI, Alzheimer, PERK, MBP  
+**Abstract:** Repetitive mild traumatic brain injury (rmTBI) produces cumulative cellular stress that can lead to progressive brain dysfunction, yet the mechanisms governing vulnerability to repeated injury remain ...
+
+### Neddylation-dependent CUL3-KLHL12 E3 ligase drives microglial oxidative stress and neuroinflammation in traumatic brain injury by targeting GCLM for degradation.
+**Authors:** Ni Y, Liu Y, Zhang X, Huang Y, Kang H et al.  
+**Journal:** Journal of translational medicine (2026)  
+**PMID:** 42436517  **DOI:** 10.1186/s12967-026-08559-3
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, TBI  
+**Abstract:** BACKGROUND: Microglia-mediated neuroinflammation and oxidative stress are pivotal drivers of secondary injury following traumatic brain injury (TBI). While neddylation governs essential cellular funct...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
