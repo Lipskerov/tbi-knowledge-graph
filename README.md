@@ -222,14 +222,31 @@ OmniPath fetchers. Key arms of the graph:
 
 ```
 NQO2/QR2 enzyme:  NQO2 · NQO1 · NRH (substrate) · FAD
-Upstream signal:  dopamine → DRD1 → cAMP/PKA → miR-182 → NQO2 (suppression)
-Downstream:       NQO2 → ROS → Kv2.1 oxidation → interneuron excitability
-Antioxidant arm:  ROS → Nrf2 → HO-1 / SOD / glutathione / catalase / 4-HNE
-ISR arm:          PKR / PERK / GCN2 → eIF2α → ATF4 / CHOP / eEF2 / eIF2B
+Upstream (NOT downstream):  dopamine → DRD1 → cAMP/PKA → miR-182 ⊣ NQO2 (suppression);
+                  Nrf2 → NQO2 (ARE, PMID 16545679); TNF-α → NQO2
+Downstream cascade (restructured 2026-06-28 — directed tiers):
+  T1 direct product   NQO2 —generates→ ROS  (the only direct output; no transcriptional program)
+  T2 effectors        ROS → Kv2.1/KCNB1 oxidation (protein-level, mRNA-blind) · DJ-1/PARK7 · 4-HNE
+                      ROS → Nrf2 (feedback sensor)
+  T3 Nrf2/ARE battery NQO1 · HO-1/HMOX1 · GCLC · GCLM · GSR · SLC7A11 · TXNRD1 · G6PD · GSTP1 · FTH1
+                      (compensatory; the correct transcriptional / EV-mRNA readout of QR2 activity)
+  T4 ER/ISR (emerging) PERK/EIF2AK3 → eIF2α → ATF4 → CHOP/DDIT3
+  T5 distal pathology GFAP · Iba1 · IL-6 · IL-1β · TNF-α · Aβ42 · tau · memory/metabolic burden
 Plasticity:       CaMKII · Arc · AMPA receptor · NMDA receptor
 Inhibitors:       S29434, melatonin, quercetin, resveratrol, chloroquine, imatinib,
                   prazosin … + 40 ChEMBL compounds with measured potencies
 ```
+
+> **QR2 is an enzyme — its only direct product is ROS, so "downstream" = what ROS modifies.**
+> Common mislabels that are NOT downstream: **Nrf2** (upstream regulator), **NQO1 / HO-1** (Nrf2
+> siblings), **TXN / SOD1 / GLOD4 / PRXL2B / GSR** (parallel antioxidant machinery), **NOS1**
+> (parallel RNS source), **miR-182** (upstream repressor — moves *inversely*).
+> Directed pathway data: [`data/qr2_pathway.json`](data/qr2_pathway.json) + interactive
+> [`data/qr2_pathway_graph.html`](data/qr2_pathway_graph.html); full evidence-graded map in
+> [`05_analysis/exports/QR2_downstream_map.md`](05_analysis/exports/QR2_downstream_map.md).
+> **EV validation (GSE254880, severe TBI vs ctrl, neuron-derived serum EVs, 24–48h):** QR2 ↑2.5×
+> (p=0.02); Nrf2/ARE battery **9/10 up as a module** (~1.3×); terminal nodes (CHOP, Kv2.1) silent
+> → cascade active but pre-peak. Also significant: IL-6 ↑1.8×, tau/MAPT ↑1.2×.
 
 **Established TBI blood biomarkers:** `GFAP` · `UCH-L1` · `NfL` · `NfH` · `tau` · `p-tau` · `S100B` · `NSE` · `MBP` · `VILIP-1` · `BDNF`
 
@@ -255,7 +272,7 @@ python kb/query_kb.py --entity GFAP --show-papers
 python kb/query_kb.py --related NQO2            # co-occurring entities
 python kb/query_kb.py --cluster nqo2
 python kb/query_kb.py --cluster tbi_mild_blood --year-min 2022
-python kb/query_kb.py --pmid 35617003          # full record for a paper
+python kb/query_kb.py --pmid 37561584          # full record for a paper (JCI 2023, QR2 inhibitors)
 python kb/query_kb.py --export-context         # compact JSON for Claude
 ```
 

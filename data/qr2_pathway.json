@@ -1,0 +1,905 @@
+{
+ "built": "2026-06-28",
+ "focus": "QR2/NQO2 downstream pathway",
+ "nodes": [
+  {
+   "id": "DRD1",
+   "label": "DRD1 (D1R)",
+   "level": 1,
+   "color": "#7f8c8d",
+   "title": "DRD1 (D1R) | Upstream\nMechanism: D1-dopamine \u2192 cAMP/PKA \u2192 miR-182 (learning signal)\nEvidence: HIGH (KG curated)\nPMIDs: 33046554\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): n/a",
+   "shape": "box",
+   "size": 24,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "TNF",
+   "label": "TNF-\u03b1",
+   "level": 1,
+   "color": "#7f8c8d",
+   "title": "TNF-\u03b1 | Upstream\nMechanism: Inflammatory induction of NQO2/Nrf2\nEvidence: MED (KG omnipath (Wang))\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.32 p=0.574",
+   "shape": "box",
+   "size": 22.005379295837287,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "miR182",
+   "label": "miR-182",
+   "level": 2,
+   "color": "#7f8c8d",
+   "title": "miR-182 | Upstream\nMechanism: Suppresses NQO2 (moves INVERSELY; small-RNA assay only)\nEvidence: HIGH (KG curated)\nPMIDs: 32217627;33046554\nEV-mRNA: small-RNA only\nEV FC(STBI/ctrl): n/a",
+   "shape": "box",
+   "size": 24,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "NFE2L2",
+   "label": "Nrf2 / NFE2L2",
+   "level": 5,
+   "color": "#5dade2",
+   "title": "Nrf2 / NFE2L2 | Upstream+feedback\nMechanism: Transcribes NQO2 via ARE; also ROS-activated feedback sensor\nEvidence: HIGH (KG omnipath (SPIKE))\nPMIDs: 16545679\nEV-mRNA: mRNA (but activation post-translational)\nEV FC(STBI/ctrl): 1.11 p=0.721",
+   "shape": "box",
+   "size": 19.505596765753815,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "NQO2",
+   "label": "NQO2 / QR2 \u2605",
+   "level": 3,
+   "color": "#f1c40f",
+   "title": "NQO2 / QR2 \u2605 | Primary target\nMechanism: PRIMARY. Futile redox cycling \u2192 ROS\nEvidence: HIGH (KG curated)\nPMIDs: 37561584;29526807\nEV-mRNA: mRNA = primary EV readout\nEV FC(STBI/ctrl): 2.52 p=0.021",
+   "shape": "box",
+   "size": 31.334237337251917,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "ROS",
+   "label": "ROS",
+   "level": 4,
+   "color": "#e74c3c",
+   "title": "ROS | T1 direct product\nMechanism: NQO2 \u2014generates\u2192 ROS (the only direct output)\nEvidence: HIGH (KG curated)\nPMIDs: many\nEV-mRNA: metabolite (no mRNA)\nEV FC(STBI/ctrl): n/a",
+   "shape": "box",
+   "size": 24,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "KCNB1",
+   "label": "Kv2.1 / KCNB1",
+   "level": 5,
+   "color": "#e67e22",
+   "title": "Kv2.1 / KCNB1 | T2 effector\nMechanism: ROS oxidizes \u2192 disulfide oligomerization \u2192 channel inactivation \u2192 CA1 firing\nEvidence: HIGH (model) (KG curated)\nPMIDs: 33046554;34518366\nEV-mRNA: PROTEIN only (mRNA blind)\nEV FC(STBI/ctrl): 0.89 p=0.645",
+   "shape": "box",
+   "size": 19.68122758808327,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "PARK7",
+   "label": "DJ-1 / PARK7",
+   "level": 5,
+   "color": "#e67e22",
+   "title": "DJ-1 / PARK7 | T2 sensor\nMechanism: ROS sensor (Cys106 oxidation)\nEvidence: HIGH (canonical)\nPMIDs: -\nEV-mRNA: protein-level\nEV FC(STBI/ctrl): 1.47 p=0.442",
+   "shape": "box",
+   "size": 23.558161550616397,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "HNE",
+   "label": "4-HNE",
+   "level": 5,
+   "color": "#e67e22",
+   "title": "4-HNE | T2 damage\nMechanism: Lipid-peroxidation product of ROS\nEvidence: HIGH (KG cooccur)\nPMIDs: 19651797;19666106\nEV-mRNA: metabolite\nEV FC(STBI/ctrl): n/a",
+   "shape": "box",
+   "size": 24,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "NQO1",
+   "label": "NQO1",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "NQO1 | T3 ARE battery\nMechanism: Nrf2\u2192NQO1 (paralog, antioxidant)\nEvidence: HIGH (KG curated)\nPMIDs: 18241676;18535259\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 2.24 p=0.328",
+   "shape": "box",
+   "size": 29.634987322828795,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "HMOX1",
+   "label": "HO-1 / HMOX1",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "HO-1 / HMOX1 | T3 ARE battery\nMechanism: Nrf2\u2192HO-1\nEvidence: HIGH (KG curated)\nPMIDs: 10821856;18241676\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.04 p=0.645",
+   "shape": "box",
+   "size": 18.565835283663674,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "GCLC",
+   "label": "GCLC",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "GCLC | T3 ARE battery\nMechanism: ARE \u2014 glutathione synthesis\nEvidence: HIGH (canonical ARE)\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.21 p=0.234",
+   "shape": "box",
+   "size": 20.750070474998697,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "GCLM",
+   "label": "GCLM",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "GCLM | T3 ARE battery\nMechanism: ARE \u2014 glutathione synthesis\nEvidence: HIGH (canonical ARE)\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.20 p=0.798",
+   "shape": "box",
+   "size": 20.63034405833794,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "GSR",
+   "label": "GSR",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "GSR | T3 ARE battery\nMechanism: ARE \u2014 glutathione reductase\nEvidence: HIGH (sheet/canonical)\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.03 p=0.959",
+   "shape": "box",
+   "size": 18.426443374084936,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "SLC7A11",
+   "label": "SLC7A11 (xCT)",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "SLC7A11 (xCT) | T3 ARE battery\nMechanism: ARE \u2014 cystine import\nEvidence: HIGH (canonical ARE)\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.40 p=0.065",
+   "shape": "box",
+   "size": 22.854268271702416,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "TXNRD1",
+   "label": "TXNRD1",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "TXNRD1 | T3 ARE battery\nMechanism: ARE \u2014 thioredoxin system\nEvidence: HIGH (canonical ARE)\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.28 p=0.234",
+   "shape": "box",
+   "size": 21.561438102252755,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "G6PD",
+   "label": "G6PD",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "G6PD | T3 ARE battery\nMechanism: ARE \u2014 NADPH supply\nEvidence: HIGH (canonical ARE)\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.57 p=0.645",
+   "shape": "box",
+   "size": 24.507645591169023,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "GSTP1",
+   "label": "GSTP1",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "GSTP1 | T3 ARE battery\nMechanism: ARE \u2014 detoxification\nEvidence: HIGH (canonical ARE)\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 4.14 p=0.645",
+   "shape": "box",
+   "size": 38.49630767724601,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "FTH1",
+   "label": "FTH1",
+   "level": 6,
+   "color": "#27ae60",
+   "title": "FTH1 | T3 ARE battery\nMechanism: ARE \u2014 iron storage\nEvidence: HIGH (canonical ARE)\nPMIDs: -\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 0.39 p=0.130",
+   "shape": "box",
+   "size": 31.584539709124762,
+   "font": {
+    "color": "#0b3d0b",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "EIF2AK3",
+   "label": "PERK / EIF2AK3",
+   "level": 6,
+   "color": "#8e44ad",
+   "title": "PERK / EIF2AK3 | T4 ISR (emerging)\nMechanism: NQO2~PERK ER-stress axis\nEvidence: EMERGING (KG cooccur)\nPMIDs: 40749898\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.31 p=0.328",
+   "shape": "box",
+   "size": 21.895668117627256,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "ATF4",
+   "label": "ATF4",
+   "level": 6,
+   "color": "#8e44ad",
+   "title": "ATF4 | T4 ISR (emerging)\nMechanism: PERK\u2192eIF2\u03b1\u2192ATF4\nEvidence: EMERGING (canonical ISR)\nPMIDs: 40749898\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.42 p=0.721",
+   "shape": "box",
+   "size": 23.05890929729957,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "DDIT3",
+   "label": "CHOP / DDIT3",
+   "level": 6,
+   "color": "#8e44ad",
+   "title": "CHOP / DDIT3 | T4 ISR (emerging)\nMechanism: Terminal ISR\nEvidence: EMERGING (KG cooccur)\nPMIDs: 33240775;40749898\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 0.67 p=0.207",
+   "shape": "box",
+   "size": 23.77766999316952,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "IL6",
+   "label": "IL-6",
+   "level": 7,
+   "color": "#c0392b",
+   "title": "IL-6 | T5 pathology\nMechanism: Neuroinflammation\nEvidence: MED (KG cooccur)\nPMIDs: 16678022\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.83 p=0.038",
+   "shape": "box",
+   "size": 26.71843648509318,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "GFAP",
+   "label": "GFAP",
+   "level": 7,
+   "color": "#c0392b",
+   "title": "GFAP | T5 pathology\nMechanism: QR2 inhibition \u2193GFAP (5xFAD)\nEvidence: MED-causal (KG)\nPMIDs: 37561584\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 1.40 p=0.234",
+   "shape": "box",
+   "size": 22.854268271702416,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "IL1B",
+   "label": "IL-1\u03b2",
+   "level": 7,
+   "color": "#c0392b",
+   "title": "IL-1\u03b2 | T5 pathology\nMechanism: Neuroinflammation\nEvidence: MED (KG cooccur)\nPMIDs: 16678022;18552348\nEV-mRNA: mRNA\nEV FC(STBI/ctrl): 0.73 p=0.130",
+   "shape": "box",
+   "size": 22.540316308947077,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "IBA1",
+   "label": "Iba1",
+   "level": 7,
+   "color": "#c0392b",
+   "title": "Iba1 | T5 pathology\nMechanism: QR2 inhibition \u2193Iba1 (microglia)\nEvidence: MED-causal (KG)\nPMIDs: 37561584\nEV-mRNA: protein/IHC\nEV FC(STBI/ctrl): n/a",
+   "shape": "box",
+   "size": 24,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "AB42",
+   "label": "A\u03b242",
+   "level": 7,
+   "color": "#c0392b",
+   "title": "A\u03b242 | T5 pathology\nMechanism: QR2 inhibition \u2193A\u03b242\nEvidence: MED-causal (KG)\nPMIDs: 37561584\nEV-mRNA: peptide\nEV FC(STBI/ctrl): n/a",
+   "shape": "box",
+   "size": 24,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  },
+  {
+   "id": "TAU",
+   "label": "tau",
+   "level": 7,
+   "color": "#c0392b",
+   "title": "tau | T5 pathology\nMechanism: AD/TBI pathology co-axis\nEvidence: MED (KG cooccur)\nPMIDs: 14680136;37561584\nEV-mRNA: protein\nEV FC(STBI/ctrl): n/a",
+   "shape": "box",
+   "size": 24,
+   "font": {
+    "color": "#ffffff",
+    "size": 16,
+    "face": "arial"
+   }
+  }
+ ],
+ "edges": [
+  {
+   "from": "DRD1",
+   "to": "miR182",
+   "label": "\u2192 (via cAMP/PKA)",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "miR182",
+   "to": "NQO2",
+   "label": "\u22a3 suppresses",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "NQO2",
+   "label": "\u2192 ARE",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "TNF",
+   "to": "NQO2",
+   "label": "\u2192 induces",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NQO2",
+   "to": "ROS",
+   "label": "generates",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "KCNB1",
+   "label": "oxidizes",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "PARK7",
+   "label": "oxidizes",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "HNE",
+   "label": "forms",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "NFE2L2",
+   "label": "activates (feedback)",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "NQO1",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "HMOX1",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "GCLC",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "GCLM",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "GSR",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "SLC7A11",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "TXNRD1",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "G6PD",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "GSTP1",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "NFE2L2",
+   "to": "FTH1",
+   "label": "drives",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "EIF2AK3",
+   "label": "ER stress",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "EIF2AK3",
+   "to": "ATF4",
+   "label": "\u2192",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ATF4",
+   "to": "DDIT3",
+   "label": "\u2192",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "IL6",
+   "label": "neuroinflammation",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "GFAP",
+   "label": "astrogliosis",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "IL1B",
+   "label": "neuroinflammation",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "IBA1",
+   "label": "microgliosis",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "AB42",
+   "label": "amyloid",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  },
+  {
+   "from": "ROS",
+   "to": "TAU",
+   "label": "tauopathy",
+   "arrows": "to",
+   "font": {
+    "size": 10,
+    "color": "#aaa",
+    "strokeWidth": 0
+   },
+   "color": {
+    "color": "#bbb",
+    "opacity": 0.55
+   },
+   "smooth": {
+    "type": "cubicBezier"
+   }
+  }
+ ],
+ "source": "tbi_papers.db entity_relations/omnipath + canonical biology + GSE254880 EV-mRNA"
+}
