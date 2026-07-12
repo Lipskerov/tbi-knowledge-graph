@@ -21,12 +21,25 @@ ROOT = Path(__file__).parent
 
 def add_local_papers(db_path: str):
     """
-    Insert the 3 Rosenblum lab PDFs that are already on disk.
-    PMIDs are looked up from known DOIs/titles. Update when confirmed.
+    Fallback records for the 3 Rosenblum lab PDFs on disk.
+
+    All three are indexed in PubMed and are normally picked up by the `nqo2` cluster
+    fetch, which supplies the real abstracts. These entries use INSERT OR IGNORE, so
+    they are a no-op whenever the fetched records exist; they only matter if a fetch
+    misses them. The `abstract` fields below are hand-written SUMMARIES, not the real
+    PubMed abstracts -- entity extraction runs on whatever text is present, so a
+    fallback insert will produce a slightly different entity link set.
+
+    PMID correction (2026-07-09): the three PMIDs here were previously wrong -- they had
+    been pre-filled from DOIs and never verified, and pointed at unrelated articles
+    (35617003 = J Med Internet Res; 34493578 = J Neurointerv Surg; 32948681 = J Nucl Med).
+    Because this function runs on every build, it kept re-inserting duplicate stub rows
+    alongside the correctly-fetched papers. PMIDs below are verified against NCBI esummary.
+    The DOIs were always correct.
     """
     LOCAL_PAPERS = [
         {
-            "pmid":          "34493578",
+            "pmid":          "34518366",
             "title":         "Somatostatin Interneurons of the Insula Mediate QR2-Dependent Novel Taste Memory Enhancement",
             "authors":       "Gould NL, Kolatt Chandran S, Kayyal H, Edry E, Rosenblum K",
             "journal":       "eNeuro",
@@ -47,11 +60,11 @@ def add_local_papers(db_path: str):
             "article_types": json.dumps(["Journal Article", "Research Support, Non-U.S. Gov't"]),
         },
         {
-            "pmid":          "35617003",
+            "pmid":          "37561584",
             "title":         "Specific quinone reductase 2 inhibitors reduce metabolic burden and reverse Alzheimer's disease phenotype in mice",
             "authors":       "Gould NL, Scherer GR, Carvalho S, Shurrush K, Kayyal H, Edry E et al.",
             "journal":       "Journal of Clinical Investigation",
-            "year":          2022,
+            "year":          2023,
             "doi":           "10.1172/JCI162120",
             "pmc_id":        None,
             "source":        "local",
@@ -70,7 +83,7 @@ def add_local_papers(db_path: str):
             "article_types": json.dumps(["Journal Article", "Research Support, Non-U.S. Gov't"]),
         },
         {
-            "pmid":          "32948681",
+            "pmid":          "33046554",
             "title":         "Dopamine-Dependent QR2 Pathway Activation in CA1 Interneurons Enhances Novel Memory Formation",
             "authors":       "Gould NL, Sharma V, Hleihil M, Kolatt Chandran S, David O, Edry E, Rosenblum K",
             "journal":       "Journal of Neuroscience",
@@ -107,7 +120,8 @@ def add_local_papers(db_path: str):
         """, {**p, "now": now})
     conn.commit()
     conn.close()
-    print(f"  Added {len(LOCAL_PAPERS)} local Rosenblum lab papers (PMIDs pre-filled, verify if needed)")
+    print(f"  Ensured {len(LOCAL_PAPERS)} local Rosenblum lab papers present "
+          f"(no-op if already fetched from PubMed; PMIDs verified 2026-07-09)")
 
 
 def main():
