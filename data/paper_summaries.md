@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-12*
-*Total papers: 3508*
+*Generated: 2026-07-13*
+*Total papers: 3509*
 
 
 ## Cluster: aging_neuro
@@ -7479,6 +7479,13 @@
 **PMID:** 42405663  **DOI:** 10.1111/ene.70691
 **Entities:** GFAP, NfL  
 **Abstract:** BACKGROUND: Headache is one of the most frequent reasons for emergency department (ED) visits, and distinguishing primary from secondary headache remains challenging. Blood biomarkers may improve earl...
+
+### Updating Traumatic Brain Injury Classification for Surgeons: Integrating the CBI-M Framework Into Trauma and Acute Care Practice.
+**Authors:** Peralta R, Cardona-Collazos S, Msheik A, Gonzalez WD, Restrepo AS et al.  
+**Journal:** World journal of surgery (2026)  
+**PMID:** 42227605  **DOI:** 10.1002/wjs.70440
+**Entities:** GFAP, UCH-L1, NfL, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) remains a major cause of death and disability worldwide. Traditional classification based on the Glasgow Coma Scale (GCS) provides a shared clinical language b...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
