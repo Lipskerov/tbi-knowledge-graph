@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-13*
-*Total papers: 3509*
+*Generated: 2026-07-14*
+*Total papers: 3510*
 
 
 ## Cluster: aging_neuro
@@ -4239,6 +4239,13 @@
 **PMID:** 23667595  **DOI:** 10.1371/journal.pone.0063258
 **Entities:** —  
 **Abstract:** Although extremely interesting in adult neuro-glio-genesis and promising as an endogenous source for repair, parenchymal progenitors remain largely obscure in their identity and physiology, due to a s...
+
+### The aging eye: common degenerative mechanisms between the Alzheimer's brain and retinal disease.
+**Authors:** Sivak JM  
+**Journal:** Investigative ophthalmology & visual science (2013)  
+**PMID:** 23364356  **DOI:** 10.1167/iovs.12-10827
+**Entities:** Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) is a common, incurable, and progressive dementia, characterized by loss of learning and memory and the neuropathologic accumulation of amyloid plaques and neurofibrillary tang...
 
 ### Peripheral mitochondrial dysfunction in Alzheimer's disease: focus on lymphocytes.
 **Authors:** Leuner K, Schulz K, Schütt T, Pantel J, Prvulovic D et al.  
