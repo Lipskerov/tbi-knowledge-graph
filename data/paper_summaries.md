@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-14*
-*Total papers: 3510*
+*Generated: 2026-07-15*
+*Total papers: 3512*
 
 
 ## Cluster: aging_neuro
@@ -9897,6 +9897,13 @@
 **PMID:** 42377763  **DOI:** 10.1007/s40279-026-02479-4
 **Entities:** GFAP, UCH-L1, NfL, tau, IL-6  
 **Abstract:** BACKGROUND: Growing evidence supports the potential of blood-based biomarkers for aiding in concussion diagnosis, though most work has focused on biomarker changes at the group level. Here, reliable c...
+
+### Prevalence and Risk of Anxiety and Depression after Concussion: A TRANSCENDENT Study.
+**Authors:** van Ierssel JJ, Kutcher SA, Johnston S, Pham NK, Lamoureux M et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41622503  **DOI:** 10.1177/08977151261416446
+**Entities:** mTBI  
+**Abstract:** Anxiety and depression are associated with high symptom burden, functional limitations, and poor quality-of-life. Understanding the prevalence and risk factors for mental health symptoms after concuss...
 
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
@@ -21465,6 +21472,13 @@
 **PMID:** 42436517  **DOI:** 10.1186/s12967-026-08559-3
 **Entities:** ROS, neuroinflammation, oxidative stress, BBB, TBI  
 **Abstract:** BACKGROUND: Microglia-mediated neuroinflammation and oxidative stress are pivotal drivers of secondary injury following traumatic brain injury (TBI). While neddylation governs essential cellular funct...
+
+### Elovanoid neuroprotection targets cell transcriptomics and proteomics to sustain synaptic integrity after brain injury.
+**Authors:** Giles BL, Bhattacharjee S, Ji JX, Mukherjee PK, Belayev L et al.  
+**Journal:** Communications biology (2026)  
+**PMID:** 41963623  **DOI:** 10.1038/s42003-026-09931-1
+**Entities:** oxidative stress, TBI, Nrf2, aging  
+**Abstract:** Traumatic brain injury (TBI), a leading cause of death and disability, is the largest non-genetic, non-aging-related contributor to cognitive impairments. Currently, there are limited effective therap...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

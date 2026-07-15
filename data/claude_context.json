@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3510,
+  "n_papers": 3512,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1907
+      "paper_count": 1908
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1103
+      "paper_count": 1104
     },
     {
       "name": "Alzheimer",
@@ -810,7 +810,7 @@
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 628
+      "paper_count": 629
     },
     {
       "name": "GFAP",
@@ -845,7 +845,7 @@
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 241
+      "paper_count": 242
     },
     {
       "name": "UCH-L1",
@@ -1102,7 +1102,7 @@
     {
       "source": "oxidative stress",
       "target": "aging",
-      "weight": 95.0
+      "weight": 96.0
     },
     {
       "source": "TBI",
@@ -1152,7 +1152,7 @@
     {
       "source": "oxidative stress",
       "target": "TBI",
-      "weight": 75.0
+      "weight": 76.0
     },
     {
       "source": "UCH-L1",
