@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-15*
-*Total papers: 3512*
+*Generated: 2026-07-16*
+*Total papers: 3513*
 
 
 ## Cluster: aging_neuro
@@ -7493,6 +7493,13 @@
 **PMID:** 42227605  **DOI:** 10.1002/wjs.70440
 **Entities:** GFAP, UCH-L1, NfL, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) remains a major cause of death and disability worldwide. Traditional classification based on the Glasgow Coma Scale (GCS) provides a shared clinical language b...
+
+### Age-Specific Clinical Biomarker Ranges in Acute Head Injury, Non-TBI Trauma, and Healthy Control Subjects in the Emergency Department.
+**Authors:** Mayes KD, Van Meter TE, Mirshahi N, Boyd S, Sandsmark D et al.  
+**Journal:** Academic emergency medicine : official journal of the Society for Academic Emergency Medicine (2026)  
+**PMID:** 42048067  **DOI:** 10.1111/acem.70298
+**Entities:** GFAP, BDNF, mTBI, TBI  
+**Abstract:** OBJECTIVES: Blood-based biomarkers for traumatic brain injury (TBI) are increasingly integrated into diagnostic algorithms, but their interpretation may be confounded by age-related neurological chang...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  

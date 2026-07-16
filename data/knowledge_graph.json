@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-15T09:17:08.180141",
-  "n_papers": 3512,
+  "generated_at": "2026-07-16T09:22:30.353613",
+  "n_papers": 3513,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
     "aging_neuro": 718,
     "exosomal_rna": 312,
-    "gfap_uchl1": 370,
+    "gfap_uchl1": 371,
     "nfl_tau": 292,
     "nqo2": 374,
     "ppcs_prognosis": 318,
@@ -20,14 +20,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1908,
+      "paper_count": 1909,
       "centrality": 0.4035
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1104,
+      "paper_count": 1105,
       "centrality": 0.3421
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 486,
+      "paper_count": 487,
       "centrality": 0.2895
     },
     {
@@ -230,7 +230,7 @@
       "id": 16,
       "name": "BDNF",
       "type": "protein",
-      "paper_count": 40,
+      "paper_count": 41,
       "centrality": 0.193
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 796.0,
-      "n_papers": 796.0,
+      "weight": 797.0,
+      "n_papers": 797.0,
       "annotation": null
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 405.0,
-      "n_papers": 405.0,
+      "weight": 406.0,
+      "n_papers": 406.0,
       "annotation": null
     },
     {
@@ -1839,8 +1839,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 199.0,
-      "n_papers": 199.0,
+      "weight": 200.0,
+      "n_papers": 200.0,
       "annotation": null
     },
     {
@@ -2864,6 +2864,16 @@
       "annotation": null
     },
     {
+      "source": "BDNF",
+      "target": "TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 22.0,
+      "n_papers": 22.0,
+      "annotation": null
+    },
+    {
       "source": "p-tau",
       "target": "CTE",
       "relation": "co-occurs",
@@ -2896,16 +2906,6 @@
     {
       "source": "GFAP",
       "target": "MBP",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 21.0,
-      "n_papers": 21.0,
-      "annotation": null
-    },
-    {
-      "source": "BDNF",
-      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3244,6 +3244,16 @@
       "annotation": null
     },
     {
+      "source": "GFAP",
+      "target": "BDNF",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 15.0,
+      "n_papers": 15.0,
+      "annotation": null
+    },
+    {
       "source": "Alzheimer",
       "target": "MBP",
       "relation": "co-occurs",
@@ -3336,16 +3346,6 @@
     {
       "source": "Iba1",
       "target": "TBI",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 14.0,
-      "n_papers": 14.0,
-      "annotation": null
-    },
-    {
-      "source": "GFAP",
-      "target": "BDNF",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3814,6 +3814,16 @@
       "annotation": null
     },
     {
+      "source": "BDNF",
+      "target": "mTBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 10.0,
+      "n_papers": 10.0,
+      "annotation": null
+    },
+    {
       "source": "tau",
       "target": "Quanterix",
       "relation": "co-occurs",
@@ -3916,16 +3926,6 @@
     {
       "source": "tau",
       "target": "BDNF",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 9.0,
-      "n_papers": 9.0,
-      "annotation": null
-    },
-    {
-      "source": "BDNF",
-      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
