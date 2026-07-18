@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-16*
-*Total papers: 3513*
+*Generated: 2026-07-18*
+*Total papers: 3518*
 
 
 ## Cluster: aging_neuro
@@ -4337,6 +4337,13 @@
 **PMID:** 22763966  
 **Entities:** aging  
 **Abstract:** Lyme disease (LD) is the most prevalent tick-borne disease in Europe. LD is caused by the spirochete Borrelia burgdorferi. LD is a chronic disease which can attack a number of organs: skin, heart, bra...
+
+### Cigarette smoking accelerated brain aging and induced pre-Alzheimer-like neuropathology in rats.
+**Authors:** Ho YS, Yang X, Yeung SC, Chiu K, Lau CF et al.  
+**Journal:** PloS one (2012)  
+**PMID:** 22606286  **DOI:** 10.1371/journal.pone.0036752
+**Entities:** ROS, tau, Aβ42, oxidative stress, Alzheimer  
+**Abstract:** Cigarette smoking has been proposed as a major risk factor for aging-related pathological changes and Alzheimer's disease (AD). To date, little is known for how smoking can predispose our brains to de...
 
 ### Astrocytes in the aging brain express characteristics of senescence-associated secretory phenotype.
 **Authors:** Salminen A, Ojala J, Kaarniranta K, Haapasalo A, Hiltunen M et al.  
@@ -8782,6 +8789,13 @@
 **Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** Blood-based biomarkers have been increasingly studied for diagnostic and prognostic purposes in patients with mild traumatic brain injury (MTBI). Biomarker levels in blood have been shown to vary thro...
 
+### Predicting Clinical Outcomes 7-10 Years after Severe Traumatic Brain Injury: Exploring the Prognostic Utility of the IMPACT Lab Model and Cerebrospinal Fluid UCH-L1 and MAP-2.
+**Authors:** Svingos AM, Robicsek SA, Hayes RL, Wang KK, Robertson CS et al.  
+**Journal:** Neurocritical care (2022)  
+**PMID:** 35229233  **DOI:** 10.1007/s12028-022-01461-y
+**Entities:** UCH-L1, TBI, GOS-E  
+**Abstract:** BACKGROUND: Severe traumatic brain injury (TBI) is a major contributor to disability and mortality in the industrialized world. Outcomes of severe TBI are profoundly heterogeneous, complicating outcom...
+
 ### Systematic review and cumulative meta-analysis of the diagnostic accuracy of glial fibrillary acidic protein vs. S100 calcium binding protein B as blood biomarkers in observational studies of patients with mild or moderate acute traumatic brain injury.
 **Authors:** Mastandrea P, Mengozzi S, Bernardini S  
 **Journal:** Diagnosis (Berlin, Germany) (2021)  
@@ -11634,6 +11648,13 @@
 **Entities:** tau, p-tau, mTBI, TBI, CTE  
 **Abstract:** Repeated mild traumatic brain injury (rmTBI) caused by playing collision sports or by exposure to blasts during military operations can lead to late onset, chronic diseases such as chronic traumatic e...
 
+### Utility of providing a concussion definition in the assessment of concussion history in former NFL players.
+**Authors:** Alosco ML, Jarnagin J, Tripodis Y, Martin B, Chaisson C et al.  
+**Journal:** Brain injury (2017)  
+**PMID:** 28471243  **DOI:** 10.1080/02699052.2017.1294709
+**Entities:** NfL, mTBI  
+**Abstract:** OBJECTIVE: Former National Football League (NFL) players' working knowledge of concussion has not yet been evaluated, despite this population being a major clinical research target due to the associat...
+
 ### Potential Blood-based Biomarkers for Concussion.
 **Authors:** Papa L  
 **Journal:** Sports medicine and arthroscopy review (2016)  
@@ -11951,6 +11972,13 @@
 **PMID:** 42368545  **DOI:** 10.3389/fpls.2026.1862064
 **Entities:** —  
 **Abstract:** This study aimed to establish an event-specific detection method for the genetically modified soybean WYN029GmA. WYN029GmA is a glyphosate-resistant transgenic soybean carrying the
+
+### Leveraging Homologous Recombination Deficiency via the Repositioned Prodrug CB1954.
+**Authors:** Elia JL, Hill J, Heer CD, Smolev S, Sykes AM et al.  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42465319  **DOI:** 10.64898/2026.07.08.737246
+**Entities:** NQO2  
+**Abstract:** Homologous recombination deficiency (HRD) is an actionable vulnerability found in a substantial fraction of human cancers, yet current HRD-directed therapies are limited by toxicity, incomplete respon...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
@@ -14600,6 +14628,13 @@
 **PMID:** 42165680  **DOI:** 10.1080/02699052.2026.2675398
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: To examine whether initial concussion symptom severity predicts long-term neurobehavioral, anxiety, and depressive symptoms in adolescents with sport-related concussion (SRC). METHODS: This...
+
+### Concussion: A Comprehensive Review of Current Evidence.
+**Authors:** Hornburg K, Cassianni CE, Muhammad SM, Muñoz Eusse JE, Dixon RC  
+**Journal:** Current reviews in musculoskeletal medicine (2026)  
+**PMID:** 42435097  **DOI:** 10.1007/s12178-026-10051-w
+**Entities:** mTBI, TBI  
+**Abstract:** PURPOSE OF REVIEW: Concussion is a common form of mild traumatic brain injury affecting nearly two million people yearly, costing the US nearly 19 billion dollars annually. In light of such significan...
 
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
