@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-18*
-*Total papers: 3518*
+*Generated: 2026-07-20*
+*Total papers: 3521*
 
 
 ## Cluster: aging_neuro
@@ -5187,6 +5187,13 @@
 **PMID:** 42421562  **DOI:** 10.3724/abbs.2026067
 **Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) can cause severe neurological damage. Ferroptosis, a recently discovered form of iron-regulated cell death, is closely associated with TBI. Cannabidiol (CBD) has been demo...
+
+### Serum miR-197-3p as a diagnostic and prognostic biomarker in traumatic brain injury: involvement in MyD88-dependent microglial polarization.
+**Authors:** Xu Y, Tian Y, Wang L, Du Z  
+**Journal:** Molecular and cellular biochemistry (2026)  
+**PMID:** 42274834  **DOI:** 10.1007/s11010-026-05566-2
+**Entities:** neuroinflammation, TBI  
+**Abstract:** The prognosis and management of severe traumatic brain injury (TBI) remain significant clinical challenges. The role of serum miR-197-3p in TBI remains unclear. This study aimed to explore its potenti...
 
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
@@ -16148,6 +16155,13 @@
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: To determine the degree to which preinjury and acute postinjury psychosocial and injury-related variables predict symptom duration following sport-related concussion. METHODS: A total of 2,...
 
+### Outcomes Following a Vestibular Rehabilitation and Aerobic Training Program to Address Persistent Post-Concussion Symptoms.
+**Authors:** Moore BM, Adams JT, Barakatt E  
+**Journal:** Journal of allied health (2016)  
+**PMID:** 27915363  
+**Entities:** mTBI, PPCS  
+**Abstract:** PURPOSE: To describe changes in adults with persistent symptoms and disability following a concussion after completing a supervised home exercise vestibular rehabilitation (VR) program combined with a...
+
 ### Physiological, vestibulo-ocular and cervicogenic post-concussion disorders: an evidence-based classification system with directions for treatment.
 **Authors:** Ellis MJ, Leddy JJ, Willer B  
 **Journal:** Brain injury (2015)  
@@ -21521,6 +21535,13 @@
 **PMID:** 41963623  **DOI:** 10.1038/s42003-026-09931-1
 **Entities:** oxidative stress, TBI, Nrf2, aging  
 **Abstract:** Traumatic brain injury (TBI), a leading cause of death and disability, is the largest non-genetic, non-aging-related contributor to cognitive impairments. Currently, there are limited effective therap...
+
+### Lyophilized platelet derived extracellular vesicles promote hemostasis and attenuate intracranial hemorrhage following traumatic brain injury.
+**Authors:** Trivedi A, Miyazawa B, Fields AT, Matthews M, Vivona L et al.  
+**Journal:** Journal of translational medicine (2026)  
+**PMID:** 42472813  **DOI:** 10.1186/s12967-026-08638-5
+**Entities:** neuroinflammation, BBB, TBI  
+**Abstract:** BACKGROUND: Hemorrhage is the leading cause of preventable death world-wide. Traumatic brain injury (TBI) is the primary driver of mortality and morbidity among individuals aged 1-44 years worldwide, ...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
