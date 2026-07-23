@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-20*
-*Total papers: 3521*
+*Generated: 2026-07-23*
+*Total papers: 3523*
 
 
 ## Cluster: aging_neuro
@@ -403,6 +403,13 @@
 **PMID:** 42129136  **DOI:** 10.1038/s41398-026-04081-8
 **Entities:** Alzheimer, aging  
 **Abstract:** Accelerated brain aging is implicated in Alzheimer's disease (AD). However, the spatial heterogeneity of brain aging patterns across different functional systems along the AD continuum remains largely...
+
+### Brain maintenance biomarkers from structural and functional interactions in aging and neurodegeneration.
+**Authors:** Li Y, Zhang X, Li X, Zhang Z  
+**Journal:** Nature communications (2026)  
+**PMID:** 42204140  **DOI:** 10.1038/s41467-026-73071-7
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain maintenance may help explain why some individuals remain cognitively resilient despite aging, but its biological basis is not well understood. Here, we show that brain maintenance can be quantif...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -19530,6 +19537,13 @@
 **PMID:** 42426813  **DOI:** 10.1186/s13256-026-06294-3
 **Entities:** TBI  
 **Abstract:** BACKGROUND: Anisocoria following severe head injury is traditionally interpreted as an impending neurological emergency, often prompting immediate empiric interventions for presumed intracranial hyper...
+
+### Point-of-care biomarkers for mild traumatic brain injury: implications for Canadian emergency departments.
+**Authors:** Khorsand S, Nolan B  
+**Journal:** CJEM (2026)  
+**PMID:** 42484943  **DOI:** 10.1007/s43678-026-01224-0
+**Entities:** —  
+**Abstract:** 
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  

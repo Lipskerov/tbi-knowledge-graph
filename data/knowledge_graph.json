@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-20T10:18:48.363644",
-  "n_papers": 3521,
+  "generated_at": "2026-07-23T07:18:31.754985",
+  "n_papers": 3523,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
-    "aging_neuro": 719,
+    "aging_neuro": 720,
     "exosomal_rna": 313,
     "gfap_uchl1": 372,
     "nfl_tau": 293,
@@ -12,7 +12,7 @@
     "ppcs_prognosis": 320,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 368,
-    "tbi_panel_poc": 238,
+    "tbi_panel_poc": 239,
     "tbi_proteomics": 518
   },
   "nodes": [
@@ -34,14 +34,14 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 666,
+      "paper_count": 667,
       "centrality": 0.3596
     },
     {
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 630,
+      "paper_count": 631,
       "centrality": 0.3158
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 338.0,
-      "n_papers": 338.0,
+      "weight": 339.0,
+      "n_papers": 339.0,
       "annotation": null
     },
     {
