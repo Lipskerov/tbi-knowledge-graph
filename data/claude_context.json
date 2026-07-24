@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3523,
+  "n_papers": 3525,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -282,6 +282,14 @@
         "entities": "GFAP, UCH-L1, NfL, tau, IL-6, TNF-\u03b1, mTBI"
       },
       {
+        "pmid": "42341996",
+        "title": "Chronic traumatic encephalopathy: A devastating legacy of repetitive concussion.",
+        "authors": "Jun S, Arrasmith CM, Liaudanskaya V",
+        "year": 2026,
+        "journal": "Neurobiology of disease",
+        "entities": "tau, A\u03b242, neuroinflammation, mTBI, TBI, CTE, Alzheimer"
+      },
+      {
         "pmid": "42264871",
         "title": "Concussion pathophysiology: From biomechanical insult to clinical phenotype - or is injury truly the beginning?",
         "authors": "Khambadkone SG, Piantino JA",
@@ -328,14 +336,6 @@
         "year": 2026,
         "journal": "Journal of the International Neuropsychological Society : JINS",
         "entities": "NfL, tau, Alzheimer"
-      },
-      {
-        "pmid": "41692230",
-        "title": "Pre-Participation Reaction Time and Concussion Risk among Middle School Female Soccer Players.",
-        "authors": "Smulligan KL, Lempke LB, Mannix RC, Whitney KE, Berkner PD et al.",
-        "year": 2026,
-        "journal": "The Journal of pediatrics",
-        "entities": "mTBI"
       }
     ],
     "nqo2": [
@@ -546,6 +546,14 @@
     ],
     "tbi_mild_blood": [
       {
+        "pmid": "42489732",
+        "title": "Acute-on-chronic versus isolated acute subdural hematoma in complicated mild traumatic brain injury: association with radiological mass effect markers in a multicenter cohort.",
+        "authors": "Cromb\u00e9 A, Benhamed A, Seux M, Frassin L, Matichard R et al.",
+        "year": 2026,
+        "journal": "European journal of trauma and emergency surgery : official publication of the European Trauma Society",
+        "entities": "mTBI, TBI, Alzheimer"
+      },
+      {
         "pmid": "42329650",
         "title": "Youth Soccer Participation and Brain Health Outcomes in Adolescent Athletes.",
         "authors": "Koerte IK, Wiegand TLT, Bonke EM, Sandmo SK, Kaufmann D et al.",
@@ -616,14 +624,6 @@
         "year": 2026,
         "journal": "PloS one",
         "entities": "S100B, TNF-\u03b1, IL-1\u03b2, neuroinflammation, mTBI, TBI, NSE"
-      },
-      {
-        "pmid": "41707328",
-        "title": "Use of plasma-based brain biomarkers in the emergency department to rule out the need for unnecessary head CT imaging in acute mild traumatic brain injury patients.",
-        "authors": "Elkhodair S, Lalor J, Altaher M, Limbad C, Pradhan-Bhatt S et al.",
-        "year": 2026,
-        "journal": "The American journal of emergency medicine",
-        "entities": "GFAP, UCH-L1, mTBI, TBI"
       }
     ],
     "tbi_panel_poc": [
@@ -795,17 +795,17 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1913
+      "paper_count": 1915
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1108
+      "paper_count": 1110
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 667
+      "paper_count": 669
     },
     {
       "name": "aging",
@@ -820,12 +820,12 @@
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 382
+      "paper_count": 383
     },
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 329
+      "paper_count": 330
     },
     {
       "name": "NQO2",
@@ -895,12 +895,12 @@
     {
       "name": "CTE",
       "type": "disease",
-      "paper_count": 86
+      "paper_count": 87
     },
     {
       "name": "A\u03b242",
       "type": "protein",
-      "paper_count": 82
+      "paper_count": 83
     },
     {
       "name": "melatonin",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 798.0
+      "weight": 800.0
     },
     {
       "source": "GFAP",
@@ -967,7 +967,7 @@
     {
       "source": "tau",
       "target": "TBI",
-      "weight": 218.0
+      "weight": 219.0
     },
     {
       "source": "mTBI",
@@ -992,12 +992,12 @@
     {
       "source": "TBI",
       "target": "Alzheimer",
-      "weight": 196.0
+      "weight": 198.0
     },
     {
       "source": "tau",
       "target": "Alzheimer",
-      "weight": 180.0
+      "weight": 181.0
     },
     {
       "source": "NfL",
@@ -1012,7 +1012,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 175.0
+      "weight": 176.0
     },
     {
       "source": "S100B",
@@ -1027,7 +1027,7 @@
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 155.0
+      "weight": 156.0
     },
     {
       "source": "NfL",
@@ -1052,7 +1052,7 @@
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 123.0
+      "weight": 124.0
     },
     {
       "source": "neuroinflammation",
@@ -1135,12 +1135,12 @@
       "weight": 82.0
     },
     {
-      "source": "GFAP",
+      "source": "mTBI",
       "target": "Alzheimer",
-      "weight": 79.0
+      "weight": 81.0
     },
     {
-      "source": "mTBI",
+      "source": "GFAP",
       "target": "Alzheimer",
       "weight": 79.0
     },

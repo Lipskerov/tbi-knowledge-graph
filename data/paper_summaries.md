@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-23*
-*Total papers: 3523*
+*Generated: 2026-07-24*
+*Total papers: 3525*
 
 
 ## Cluster: aging_neuro
@@ -9940,6 +9940,13 @@
 **Entities:** mTBI  
 **Abstract:** Anxiety and depression are associated with high symptom burden, functional limitations, and poor quality-of-life. Understanding the prevalence and risk factors for mental health symptoms after concuss...
 
+### Chronic traumatic encephalopathy: A devastating legacy of repetitive concussion.
+**Authors:** Jun S, Arrasmith CM, Liaudanskaya V  
+**Journal:** Neurobiology of disease (2026)  
+**PMID:** 42341996  **DOI:** 10.1016/j.nbd.2026.107508
+**Entities:** tau, Aβ42, neuroinflammation, mTBI, TBI  
+**Abstract:** Repetitive concussive and subconcussive traumatic brain injury (TBI) is increasingly linked to chronic traumatic encephalopathy (CTE), yet a central challenge remains in connecting exposure to long-te...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -16993,6 +17000,13 @@
 **PMID:** 42019915  **DOI:** 10.1016/j.wneu.2026.124993
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: A high number of repeat cranial imaging studies are performed on mild traumatic brain injury (mTBI) patients, but their diagnostic yield is often poor. This study assesses the impact of re...
+
+### Acute-on-chronic versus isolated acute subdural hematoma in complicated mild traumatic brain injury: association with radiological mass effect markers in a multicenter cohort.
+**Authors:** Crombé A, Benhamed A, Seux M, Frassin L, Matichard R et al.  
+**Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2026)  
+**PMID:** 42489732  **DOI:** 10.1007/s00068-026-03275-5
+**Entities:** mTBI, TBI, Alzheimer  
+**Abstract:** PURPOSE: The clinical impact of acute-on-chronic subdural hematoma (acSDH) in mild traumatic brain injury (mTBI) remains incompletely characterized. We assessed whether acSDH, compared with isolated a...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
