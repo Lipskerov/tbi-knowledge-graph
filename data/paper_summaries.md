@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-24*
-*Total papers: 3525*
+*Generated: 2026-07-25*
+*Total papers: 3534*
 
 
 ## Cluster: aging_neuro
@@ -410,6 +410,13 @@
 **PMID:** 42204140  **DOI:** 10.1038/s41467-026-73071-7
 **Entities:** Alzheimer, aging  
 **Abstract:** Brain maintenance may help explain why some individuals remain cognitively resilient despite aging, but its biological basis is not well understood. Here, we show that brain maintenance can be quantif...
+
+### Molecular mechanisms of age-related vulnerability to traumatic brain injury.
+**Authors:** Joshi P, Vemuganti R  
+**Journal:** Progress in neurobiology (2026)  
+**PMID:** 41620071  **DOI:** 10.1016/j.pneurobio.2026.102890
+**Entities:** ROS, neuroinflammation, oxidative stress, TBI, aging  
+**Abstract:** Aging is associated with increased vulnerability to a wide variety of diseases and conditions, including traumatic brain injury (TBI). While advanced age is a known predictor of poorer outcomes follow...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -1391,6 +1398,13 @@
 **Entities:** Aβ42, neuroinflammation, Alzheimer  
 **Abstract:** Neuroprotective properties of estrogen have poorly translated to reduced neurodegeneration in clinical trials of systemic estrogen replacement therapy. To more directly assess biological processes ass...
 
+### The Aging Substantia Nigra is Characterized by ROS Accumulation Potentially Resulting in Increased Neuroinflammation and Cytoskeletal Remodeling.
+**Authors:** Eggers B, Steinbach S, Aldea IG, Keers S, Molina M et al.  
+**Journal:** Advanced biology (2025)  
+**PMID:** 40071644  **DOI:** 10.1002/adbi.202400814
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Aging is a progressive and irreversible process, serving as the primary risk factor for neurodegenerative disorders. This study aims to identify the molecular mechanisms underlying physiological aging...
+
 ### Cellular senescence, DNA damage, and neuroinflammation in the aging brain.
 **Authors:** Zhang W, Sun HS, Wang X, Dumont AS, Liu Q  
 **Journal:** Trends in neurosciences (2024)  
@@ -2062,6 +2076,13 @@
 **PMID:** biorxiv:10.1101/2024.10.10.24315152  **DOI:** 10.1101/2024.10.10.24315152
 **Entities:** —  
 **Abstract:** Combined oxidative phosphorylation deficiency (COXPD) is a rare multisystem disorder which is clinically and genetically heterogeneous. Genome sequencing identified biallelic MRPL49 variants in indivi...
+
+### Advancing Neurological Health: Insights into Aging, Immunity, and Vascular Dynamics.
+**Authors:** Xu T, Ye J, Gan L, Deng S, Guo Y et al.  
+**Journal:** Aging and disease (2024)  
+**PMID:** 38722789  **DOI:** 10.14336/AD.2024.0423
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** This editorial provides an overview of recent advancements in the understanding and treatment of neurological disorders, focusing on aging, immunity, and blood flow, as featured in this special issue....
 
 ### CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord.
 **Authors:** Sun S, Li J, Wang S, Li J, Ren J et al.  
@@ -8985,6 +9006,13 @@
 **Entities:** GFAP, UCH-L1, S100B, TBI, GOS-E  
 **Abstract:** Early treatment of moderate/severe traumatic brain injury (TBI) with progesterone does not improve clinical outcomes. This is in contrast with findings from pre-clinical studies of progesterone in TBI...
 
+### Neurotrauma Biomarker Levels and Adverse Symptoms Among Military and Law Enforcement Personnel Exposed to Occupational Overpressure Without Diagnosed Traumatic Brain Injury.
+**Authors:** Boutté AM, Thangavelu B, Nemes J, LaValle CR, Egnoto M et al.  
+**Journal:** JAMA network open (2021)  
+**PMID:** 33861330  **DOI:** 10.1001/jamanetworkopen.2021.6445
+**Entities:** GFAP, UCH-L1, NfL, tau, Aβ42  
+**Abstract:** IMPORTANCE: There is a scientific and operational need to define objective measures of exposure to low-level overpressure (LLOP) and concussion-like symptoms among persons with specialized occupations...
+
 ### A Biomarker for Concussion: The Good, the Bad, and the Unknown.
 **Authors:** Reece JT, Milone M, Wang P, Herman D, Petrov D et al.  
 **Journal:** The journal of applied laboratory medicine (2020)  
@@ -9947,6 +9975,13 @@
 **Entities:** tau, Aβ42, neuroinflammation, mTBI, TBI  
 **Abstract:** Repetitive concussive and subconcussive traumatic brain injury (TBI) is increasingly linked to chronic traumatic encephalopathy (CTE), yet a central challenge remains in connecting exposure to long-te...
 
+### Using reference intervals to improve interpretation of youth sport-related concussion biomarkers using a research platform.
+**Authors:** Achalu K, Cooper JG, Tabor JB, Ghodsi M, Huang J et al.  
+**Journal:** Brain communications (2026)  
+**PMID:** 42491719  **DOI:** 10.1093/braincomms/fcag250
+**Entities:** GFAP, NfL, mTBI, Quanterix  
+**Abstract:** Youth sports-related concussion (SRC) is a major health concern. Approximately 67% of Canadian youth participate in sports and recreation, and 93% of head injuries experienced in sports and recreation...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -10156,6 +10191,13 @@
 **PMID:** 38835137  **DOI:** 10.1177/19417381241255308
 **Entities:** mTBI  
 **Abstract:** BACKGROUND: Mental health disorders are linked to prolonged concussion symptoms. However, the association of premorbid anxiety/depression symptoms with postconcussion return-to-play timelines and tota...
+
+### The Impact of Cognitive Behavioral Therapy for Insomnia on Neurofilament Light and Phosphorylated Tau in Individuals with a Concussion.
+**Authors:** Ludwig R, Rippee M, D'Silva L, Radel J, Eakman AM et al.  
+**Journal:** Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists (2025)  
+**PMID:** 39504933  **DOI:** 10.1093/arclin/acae096
+**Entities:** NfL, tau, p-tau, mTBI, Simoa  
+**Abstract:** BACKGROUND: Concussions damage neurologic tissue, increasing release of intercellular proteins including phosphorylated Tau (pTau) and neurofilament light (NfL). Disrupted sleep from a concussion nega...
 
 ### Duration of Ice Hockey Play and Chronic Traumatic Encephalopathy.
 **Authors:** Abdolmohammadi B, Tuz-Zahra F, Uretsky M, Nicks R, Mosaheb S et al.  
@@ -11564,6 +11606,13 @@
 **Entities:** tau, TBI, Alzheimer  
 **Abstract:** Tau protein accumulation is the most common pathology among degenerative brain diseases, including Alzheimers disease (AD), progressive supranuclear palsy (PSP), traumatic brain injury (TBI) and over ...
 
+### Concussion, microvascular injury, and early tauopathy in young athletes after impact head injury and an impact concussion mouse model.
+**Authors:** Tagge CA, Fisher AM, Minaeva OV, Gaudreau-Balderrama A, Moncaster JA et al.  
+**Journal:** Brain : a journal of neurology (2018)  
+**PMID:** 29360998  **DOI:** 10.1093/brain/awx350
+**Entities:** tau, p-tau, neuroinflammation, BBB, mTBI  
+**Abstract:** The mechanisms underpinning concussion, traumatic brain injury, and chronic traumatic encephalopathy, and the relationships between these disorders, are poorly understood. We examined post-mortem brai...
+
 ### A systematic review of potential long-term effects of sport-related concussion.
 **Authors:** Manley G, Gardner AJ, Schneider KJ, Guskiewicz KM, Bailes J et al.  
 **Journal:** British journal of sports medicine (2017)  
@@ -11746,6 +11795,13 @@
 **Entities:** TBI  
 **Abstract:** The cerebrovascular time constant (τ) theoretically estimates how fast the cerebral arterial bed is filled by blood volume after a sudden change in arterial blood pressure during one cardiac cycle. Th...
 
+### Altered Blood Biomarker Profiles in Athletes with a History of Repetitive Head Impacts.
+**Authors:** Di Battista AP, Rhind SG, Richards D, Churchill N, Baker AJ et al.  
+**Journal:** PloS one (2016)  
+**PMID:** 27458972  **DOI:** 10.1371/journal.pone.0159929
+**Entities:** tau, mTBI, TBI, Alzheimer  
+**Abstract:** The long-term health effects of concussion and sub-concussive impacts in sport are unknown. Growing evidence suggests both inflammation and neurodegeneration are pivotal to secondary injury processes ...
+
 ### Neurodegeneration and sport.
 **Authors:** Davis GA, Castellani RJ, McCrory P  
 **Journal:** Neurosurgery (2015)  
@@ -11801,6 +11857,13 @@
 **PMID:** 26115676  **DOI:** 10.1093/brain/awv180
 **Entities:** TBI  
 **Abstract:** The great majority of acute brain injury results from trauma or from disorders of the cerebrovasculature, i.e. ischaemic stroke or haemorrhage. These injuries are characterized by an initial insult th...
+
+### Comparative Assessment of the Prognostic Value of Biomarkers in Traumatic Brain Injury Reveals an Independent Role for Serum Levels of Neurofilament Light.
+**Authors:** Al Nimer F, Thelin E, Nyström H, Dring AM, Svenningsson A et al.  
+**Journal:** PloS one (2015)  
+**PMID:** 26136237  **DOI:** 10.1371/journal.pone.0132177
+**Entities:** S100B, NfL, neuroinflammation, TBI, NSE  
+**Abstract:** Traumatic brain injury (TBI) is a common cause of death and disability, worldwide. Early determination of injury severity is essential to improve care. Neurofilament light (NF-L) has been introduced a...
 
 ### Military-related traumatic brain injury and neurodegeneration.
 **Authors:** McKee AC, Robinson ME  
