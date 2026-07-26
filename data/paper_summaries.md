@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-25*
-*Total papers: 3534*
+*Generated: 2026-07-26*
+*Total papers: 3535*
 
 
 ## Cluster: aging_neuro
@@ -21633,6 +21633,13 @@
 **PMID:** 42472813  **DOI:** 10.1186/s12967-026-08638-5
 **Entities:** neuroinflammation, BBB, TBI  
 **Abstract:** BACKGROUND: Hemorrhage is the leading cause of preventable death world-wide. Traumatic brain injury (TBI) is the primary driver of mortality and morbidity among individuals aged 1-44 years worldwide, ...
+
+### Specific serum metabolites can differentiate severe and mild human traumatic brain injury.
+**Authors:** Shi L, Wang Z, Zhang J, Zheng P, Bai L  
+**Journal:** Clinica chimica acta; international journal of clinical chemistry (2026)  
+**PMID:** 42501776  **DOI:** 10.1016/j.cca.2026.121248
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Traumatic Brain Injury (TBI) is a prevalent neurological condition with significant public health implications. The heterogeneity in TBI's pathophysiology presents challenges in diagnosis ...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
