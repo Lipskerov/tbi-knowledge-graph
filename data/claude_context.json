@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3535,
+  "n_papers": 3536,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -800,7 +800,7 @@
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1116
+      "paper_count": 1117
     },
     {
       "name": "Alzheimer",

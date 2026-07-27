@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T09:21:10.034350",
-  "n_papers": 3535,
+  "generated_at": "2026-07-27T10:50:11.762661",
+  "n_papers": 3536,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
@@ -9,7 +9,7 @@
     "gfap_uchl1": 373,
     "nfl_tau": 299,
     "nqo2": 375,
-    "ppcs_prognosis": 320,
+    "ppcs_prognosis": 321,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 369,
     "tbi_panel_poc": 239,
@@ -27,7 +27,7 @@
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1116,
+      "paper_count": 1117,
       "centrality": 0.3421
     },
     {

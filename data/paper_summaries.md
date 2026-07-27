@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-26*
-*Total papers: 3535*
+*Generated: 2026-07-27*
+*Total papers: 3536*
 
 
 ## Cluster: aging_neuro
@@ -15650,6 +15650,13 @@
 **PMID:** 32189664  **DOI:** 10.4103/2045-9912.279978
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** Persistent postconcussion syndrome (PPCS) after mild traumatic brain injury (mTBI) is a significant public health and military problem for which there is limited treatment evidence. The aim of this st...
+
+### Beliefs About the Influence of Rest During Concussion Recovery May Predict Activity and Symptom Progression Within an Active Duty Military Population.
+**Authors:** Remigio-Baker RA, Gregory E, Cole WR, Bailie JM, McCulloch KL et al.  
+**Journal:** Archives of physical medicine and rehabilitation (2020)  
+**PMID:** 32234413  **DOI:** 10.1016/j.apmr.2020.02.015
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: To evaluate relationships between beliefs about the impact of rest and the level of activities and symptoms over time among active duty Service members sustaining concussion, and whether t...
 
 ### Behavioral Therapies and Mind-Body Interventions for Posttraumatic Headache and Post-Concussive Symptoms: A Systematic Review.
 **Authors:** Minen M, Jinich S, Vallespir Ellett G  
