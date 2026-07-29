@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T10:50:11.762661",
-  "n_papers": 3536,
+  "generated_at": "2026-07-29T09:44:39.729625",
+  "n_papers": 3539,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
@@ -12,22 +12,22 @@
     "ppcs_prognosis": 321,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 369,
-    "tbi_panel_poc": 239,
-    "tbi_proteomics": 519
+    "tbi_panel_poc": 241,
+    "tbi_proteomics": 520
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1921,
+      "paper_count": 1924,
       "centrality": 0.4035
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1117,
+      "paper_count": 1119,
       "centrality": 0.3421
     },
     {
@@ -132,7 +132,7 @@
       "id": 129,
       "name": "NSE",
       "type": "protein",
-      "paper_count": 103,
+      "paper_count": 104,
       "centrality": 0.2105
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 804.0,
-      "n_papers": 804.0,
+      "weight": 806.0,
+      "n_papers": 806.0,
       "annotation": null
     },
     {
@@ -2054,8 +2054,8 @@
       "annotation": null
     },
     {
-      "source": "tau",
-      "target": "p-tau",
+      "source": "TBI",
+      "target": "NSE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2064,13 +2064,13 @@
       "annotation": null
     },
     {
-      "source": "TBI",
-      "target": "NSE",
+      "source": "tau",
+      "target": "p-tau",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 93.0,
-      "n_papers": 93.0,
+      "weight": 94.0,
+      "n_papers": 94.0,
       "annotation": null
     },
     {
@@ -2519,8 +2519,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 38.0,
-      "n_papers": 38.0,
+      "weight": 39.0,
+      "n_papers": 39.0,
       "annotation": null
     },
     {

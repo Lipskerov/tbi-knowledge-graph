@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3536,
+  "n_papers": 3539,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -628,6 +628,22 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42513588",
+        "title": "Transient Association Between Elevated NSE and Reduced fT3 Levels Following Mild Traumatic Brain Injury: A 12-Month Prospective Pilot Study.",
+        "authors": "Ka\u0142as M, Siemi\u0144ski M, St\u0119pniewska E",
+        "year": 2026,
+        "journal": "Journal of clinical medicine",
+        "entities": "mTBI, TBI, NSE"
+      },
+      {
+        "pmid": "42510405",
+        "title": "Assessment of Sport-Related Brain Injuries with Rapid Objective Perimetry.",
+        "authors": "Rai BB, Sabeti F, Rohan EMF, van Kleef JP, Carle CF et al.",
+        "year": 2026,
+        "journal": "Bioengineering (Basel, Switzerland)",
+        "entities": "mTBI, TBI"
+      },
+      {
         "pmid": "42484943",
         "title": "Point-of-care biomarkers for mild traumatic brain injury: implications for Canadian emergency departments.",
         "authors": "Khorsand S, Nolan B",
@@ -690,25 +706,17 @@
         "year": 2026,
         "journal": "Lab on a chip",
         "entities": "GFAP, UCH-L1, S100B, TBI"
-      },
-      {
-        "pmid": "42052144",
-        "title": "Service evaluation: Accuracy of using end-tidal CO2 to estimate PaCO2 values in suspected traumatic brain injury patients requiring mechanical ventilation.",
-        "authors": "Rehnberg JV, Hannah J, Plumb J, Owen P",
-        "year": 2026,
-        "journal": "Journal of the Intensive Care Society",
-        "entities": "TBI"
-      },
-      {
-        "pmid": "41991757",
-        "title": "Early and safer triage in elderly traumatic brain injury using a portable NIRS - based device: clinical evaluation of CEREBO\u00ae.",
-        "authors": "Salian NM, Bansal H, Shukla DP, Konar S, Devi BI et al.",
-        "year": 2026,
-        "journal": "Emergency radiology",
-        "entities": null
       }
     ],
     "tbi_proteomics": [
+      {
+        "pmid": "42511491",
+        "title": "Exploring the Metabolic Impact of Traumatic Brain Injury in CCI Mouse Models: A Focus on Early and Prolonged Injury Responses.",
+        "authors": "Banoei MM, Scott BNV, Winston BW",
+        "year": 2026,
+        "journal": "International journal of molecular sciences",
+        "entities": "TBI"
+      },
       {
         "pmid": "42501776",
         "title": "Specific serum metabolites can differentiate severe and mild human traumatic brain injury.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "Critical care (London, England)",
         "entities": "TBI"
-      },
-      {
-        "pmid": "42391517",
-        "title": "A Dural Extracellular Matrix Hydrogel with Neural Stem Cells Improves Recovery from Traumatic Brain Injury in Mice.",
-        "authors": "Lee-Reeves C, Gregory HN, Gorup D, Chan M, Roche R et al.",
-        "year": 2026,
-        "journal": "ACS biomaterials science & engineering",
-        "entities": "ROS, oxidative stress, TBI"
       }
     ]
   },
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1921
+      "paper_count": 1924
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1117
+      "paper_count": 1119
     },
     {
       "name": "Alzheimer",
@@ -875,7 +875,7 @@
     {
       "name": "NSE",
       "type": "protein",
-      "paper_count": 103
+      "paper_count": 104
     },
     {
       "name": "IL-6",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 804.0
+      "weight": 806.0
     },
     {
       "source": "GFAP",
@@ -1105,14 +1105,14 @@
       "weight": 97.0
     },
     {
-      "source": "tau",
-      "target": "p-tau",
+      "source": "TBI",
+      "target": "NSE",
       "weight": 94.0
     },
     {
-      "source": "TBI",
-      "target": "NSE",
-      "weight": 93.0
+      "source": "tau",
+      "target": "p-tau",
+      "weight": 94.0
     },
     {
       "source": "UCH-L1",

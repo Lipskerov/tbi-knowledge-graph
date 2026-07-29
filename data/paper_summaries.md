@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-27*
-*Total papers: 3536*
+*Generated: 2026-07-29*
+*Total papers: 3539*
 
 
 ## Cluster: aging_neuro
@@ -19629,6 +19629,20 @@
 **Entities:** —  
 **Abstract:** 
 
+### Assessment of Sport-Related Brain Injuries with Rapid Objective Perimetry.
+**Authors:** Rai BB, Sabeti F, Rohan EMF, van Kleef JP, Carle CF et al.  
+**Journal:** Bioengineering (Basel, Switzerland) (2026)  
+**PMID:** 42510405  **DOI:** 10.3390/bioengineering13070738
+**Entities:** mTBI, TBI  
+**Abstract:** Sport-related mild traumatic brain injury (mTBI) or concussion is common and has long-term implications. The lack of diagnostically accurate, rapid, and easy-to-administer tests exacerbates the proble...
+
+### Transient Association Between Elevated NSE and Reduced fT3 Levels Following Mild Traumatic Brain Injury: A 12-Month Prospective Pilot Study.
+**Authors:** Kałas M, Siemiński M, Stępniewska E  
+**Journal:** Journal of clinical medicine (2026)  
+**PMID:** 42513588  **DOI:** 10.3390/jcm15145676
+**Entities:** mTBI, TBI, NSE  
+**Abstract:** 
+
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
 **Journal:** Journal of neurology (2025)  
@@ -21647,6 +21661,13 @@
 **PMID:** 42501776  **DOI:** 10.1016/j.cca.2026.121248
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: Traumatic Brain Injury (TBI) is a prevalent neurological condition with significant public health implications. The heterogeneity in TBI's pathophysiology presents challenges in diagnosis ...
+
+### Exploring the Metabolic Impact of Traumatic Brain Injury in CCI Mouse Models: A Focus on Early and Prolonged Injury Responses.
+**Authors:** Banoei MM, Scott BNV, Winston BW  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 42511491  **DOI:** 10.3390/ijms27146144
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) disrupts brain metabolism, which evolves over time and varies with the severity of the injury. Monitoring these metabolomic changes may reveal biomarkers indicating early ...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
