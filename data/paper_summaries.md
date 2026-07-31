@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-29*
-*Total papers: 3539*
+*Generated: 2026-07-31*
+*Total papers: 3540*
 
 
 ## Cluster: aging_neuro
@@ -5222,6 +5222,13 @@
 **PMID:** 42274834  **DOI:** 10.1007/s11010-026-05566-2
 **Entities:** neuroinflammation, TBI  
 **Abstract:** The prognosis and management of severe traumatic brain injury (TBI) remain significant clinical challenges. The role of serum miR-197-3p in TBI remains unclear. This study aimed to explore its potenti...
+
+### Neurotrophic Factors in Stroke, Traumatic Brain Injury, and Neurodegeneration: A Convergent Pathophysiological and Translational Perspective.
+**Authors:** Shcheblykina OV, Kostina DA, Pokrovskii MV, Korokin MV  
+**Journal:** Journal of integrative neuroscience (2026)  
+**PMID:** 42530052  **DOI:** 10.31083/JIN51543
+**Entities:** ROS, BDNF, neuroinflammation, oxidative stress, BBB  
+**Abstract:** Neurotrophic factors (NTFs), including nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF), neurotrophin-3 (NT-3), glial cell line-derived neurotrophic factor (GDNF), ciliary neurotrop...
 
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
