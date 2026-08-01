@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T09:50:57.517293",
-  "n_papers": 3540,
+  "generated_at": "2026-08-01T09:12:08.791246",
+  "n_papers": 3542,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
     "aging_neuro": 723,
-    "exosomal_rna": 314,
-    "gfap_uchl1": 373,
+    "exosomal_rna": 315,
+    "gfap_uchl1": 374,
     "nfl_tau": 299,
     "nqo2": 375,
     "ppcs_prognosis": 321,
@@ -20,14 +20,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1925,
+      "paper_count": 1927,
       "centrality": 0.4035
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1119,
+      "paper_count": 1120,
       "centrality": 0.3421
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 489,
+      "paper_count": 490,
       "centrality": 0.2895
     },
     {
@@ -97,7 +97,7 @@
       "id": 10,
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 238,
+      "paper_count": 239,
       "centrality": 0.2544
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 806.0,
-      "n_papers": 806.0,
+      "weight": 807.0,
+      "n_papers": 807.0,
       "annotation": null
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 407.0,
-      "n_papers": 407.0,
+      "weight": 408.0,
+      "n_papers": 408.0,
       "annotation": null
     },
     {
@@ -1804,18 +1804,18 @@
       "annotation": null
     },
     {
-      "source": "mTBI",
-      "target": "PPCS",
+      "source": "UCH-L1",
+      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 216.0,
-      "n_papers": 216.0,
+      "weight": 217.0,
+      "n_papers": 217.0,
       "annotation": null
     },
     {
-      "source": "UCH-L1",
-      "target": "TBI",
+      "source": "mTBI",
+      "target": "PPCS",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -1829,8 +1829,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 206.0,
-      "n_papers": 206.0,
+      "weight": 207.0,
+      "n_papers": 207.0,
       "annotation": null
     },
     {
@@ -1839,8 +1839,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 202.0,
-      "n_papers": 202.0,
+      "weight": 203.0,
+      "n_papers": 203.0,
       "annotation": null
     },
     {
@@ -1984,18 +1984,18 @@
       "annotation": null
     },
     {
-      "source": "NQO2",
-      "target": "NQO1",
+      "source": "UCH-L1",
+      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 114.0,
-      "n_papers": 114.0,
+      "weight": 115.0,
+      "n_papers": 115.0,
       "annotation": null
     },
     {
-      "source": "UCH-L1",
-      "target": "mTBI",
+      "source": "NQO2",
+      "target": "NQO1",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

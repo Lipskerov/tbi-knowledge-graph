@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-31*
-*Total papers: 3540*
+*Generated: 2026-08-01*
+*Total papers: 3542*
 
 
 ## Cluster: aging_neuro
@@ -5230,6 +5230,13 @@
 **Entities:** ROS, BDNF, neuroinflammation, oxidative stress, BBB  
 **Abstract:** Neurotrophic factors (NTFs), including nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF), neurotrophin-3 (NT-3), glial cell line-derived neurotrophic factor (GDNF), ciliary neurotrop...
 
+### Advances in biomarkers for diagnosing and prognosticating disorders of consciousness.
+**Authors:** Yang X, Luo Y, Chen Z, Li Y, Pan L et al.  
+**Journal:** Frontiers in neuroscience (2026)  
+**PMID:** 42534937  **DOI:** 10.3389/fnins.2026.1823376
+**Entities:** TBI  
+**Abstract:** Disorders of Consciousness (DoC) resulting from brain injury comprise a spectrum of clinical syndromes, where the level of impairment varies considerably depending on lesion location, etiology, severi...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7549,6 +7556,13 @@
 **PMID:** 42048067  **DOI:** 10.1111/acem.70298
 **Entities:** GFAP, BDNF, mTBI, TBI  
 **Abstract:** OBJECTIVES: Blood-based biomarkers for traumatic brain injury (TBI) are increasingly integrated into diagnostic algorithms, but their interpretation may be confounded by age-related neurological chang...
+
+### Clinical Effectiveness of a Blood-Based Biomarker in Patients with Mild Traumatic Brain Injury.
+**Authors:** Laovanantaphun K, Musikatavorn K, Bunyaratavej K  
+**Journal:** Asian journal of neurosurgery (2026)  
+**PMID:** 42535238  **DOI:** 10.1055/s-0046-1815951
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** OBJECTIVES: Mild traumatic brain injury (mTBI) is among the most prevalent neurological conditions worldwide. Its diagnosis predominantly depends on computed tomography (CT) imaging, despite the major...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
