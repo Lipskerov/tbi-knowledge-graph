@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:12:08.791246",
-  "n_papers": 3542,
+  "generated_at": "2026-08-02T09:15:21.995172",
+  "n_papers": 3545,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
     "aging_neuro": 723,
-    "exosomal_rna": 315,
+    "exosomal_rna": 316,
     "gfap_uchl1": 374,
     "nfl_tau": 299,
     "nqo2": 375,
@@ -13,21 +13,21 @@
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 369,
     "tbi_panel_poc": 241,
-    "tbi_proteomics": 520
+    "tbi_proteomics": 522
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1927,
+      "paper_count": 1930,
       "centrality": 0.4035
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1120,
+      "paper_count": 1121,
       "centrality": 0.3421
     },
     {
@@ -62,7 +62,7 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 336,
+      "paper_count": 337,
       "centrality": 0.2982
     },
     {
@@ -83,14 +83,14 @@
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 263,
+      "paper_count": 264,
       "centrality": 0.3596
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 246,
+      "paper_count": 247,
       "centrality": 0.3421
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 807.0,
-      "n_papers": 807.0,
+      "weight": 808.0,
+      "n_papers": 808.0,
       "annotation": null
     },
     {
@@ -1789,8 +1789,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 228.0,
-      "n_papers": 228.0,
+      "weight": 229.0,
+      "n_papers": 229.0,
       "annotation": null
     },
     {
@@ -1879,8 +1879,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 180.0,
-      "n_papers": 180.0,
+      "weight": 181.0,
+      "n_papers": 181.0,
       "annotation": null
     },
     {
@@ -2139,8 +2139,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 78.0,
-      "n_papers": 78.0,
+      "weight": 79.0,
+      "n_papers": 79.0,
       "annotation": null
     },
     {
@@ -2164,6 +2164,16 @@
       "annotation": null
     },
     {
+      "source": "ROS",
+      "target": "TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 74.0,
+      "n_papers": 74.0,
+      "annotation": null
+    },
+    {
       "source": "oxidative stress",
       "target": "Alzheimer",
       "relation": "co-occurs",
@@ -2176,16 +2186,6 @@
     {
       "source": "GFAP",
       "target": "NSE",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 73.0,
-      "n_papers": 73.0,
-      "annotation": null
-    },
-    {
-      "source": "ROS",
-      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2239,6 +2239,16 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
+      "weight": 61.0,
+      "n_papers": 61.0,
+      "annotation": null
+    },
+    {
+      "source": "ROS",
+      "target": "neuroinflammation",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
       "weight": 60.0,
       "n_papers": 60.0,
       "annotation": null
@@ -2251,16 +2261,6 @@
       "directed": false,
       "weight": 60.0,
       "n_papers": 60.0,
-      "annotation": null
-    },
-    {
-      "source": "ROS",
-      "target": "neuroinflammation",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 59.0,
-      "n_papers": 59.0,
       "annotation": null
     },
     {
@@ -2349,8 +2349,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 50.0,
-      "n_papers": 50.0,
+      "weight": 51.0,
+      "n_papers": 51.0,
       "annotation": null
     },
     {
@@ -2894,6 +2894,16 @@
       "annotation": null
     },
     {
+      "source": "ROS",
+      "target": "mTBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 22.0,
+      "n_papers": 22.0,
+      "annotation": null
+    },
+    {
       "source": "IL-6",
       "target": "Alzheimer",
       "relation": "co-occurs",
@@ -2916,16 +2926,6 @@
     {
       "source": "oxidative stress",
       "target": "BBB",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 21.0,
-      "n_papers": 21.0,
-      "annotation": null
-    },
-    {
-      "source": "ROS",
-      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2996,6 +2996,16 @@
     {
       "source": "IL-6",
       "target": "aging",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 20.0,
+      "n_papers": 20.0,
+      "annotation": null
+    },
+    {
+      "source": "oxidative stress",
+      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3076,16 +3086,6 @@
     {
       "source": "tau",
       "target": "PPCS",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 19.0,
-      "n_papers": 19.0,
-      "annotation": null
-    },
-    {
-      "source": "oxidative stress",
-      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

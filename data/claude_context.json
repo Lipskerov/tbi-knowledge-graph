@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3542,
+  "n_papers": 3545,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -102,6 +102,14 @@
         "entities": null
       },
       {
+        "pmid": "42539349",
+        "title": "Circulating microRNAs: A Potential Biomarker in TBI and PTSD War Veterans.",
+        "authors": "Stewart W, Hejl C, Guleria RS, Gupta S",
+        "year": 2026,
+        "journal": "Neurotrauma reports",
+        "entities": "TBI"
+      },
+      {
         "pmid": "42534937",
         "title": "Advances in biomarkers for diagnosing and prognosticating disorders of consciousness.",
         "authors": "Yang X, Luo Y, Chen Z, Li Y, Pan L et al.",
@@ -164,14 +172,6 @@
         "year": 2026,
         "journal": "ACS nano",
         "entities": "TBI"
-      },
-      {
-        "pmid": "42055622",
-        "title": "Clinical Data Analysis Identifies Prognostic Long Non-coding RNA Signatures in Lung Adenocarcinoma.",
-        "authors": "Sharma M, Chourasia N, Priyanka P, Garg M, Nayak S et al.",
-        "year": 2026,
-        "journal": "Cancer genomics & proteomics",
-        "entities": null
       }
     ],
     "gfap_uchl1": [
@@ -710,6 +710,22 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42539370",
+        "title": "Proteomic Changes of Neurodegenerative and Inflammatory Plasma Biomarkers Following Traumatic Brain Injury.",
+        "authors": "Abbruzzese S, Patel R, Walter AE, Lynch CE, Sandsmark DK et al.",
+        "year": 2026,
+        "journal": "Neurotrauma reports",
+        "entities": "TBI"
+      },
+      {
+        "pmid": "42539240",
+        "title": "Transglutaminase 2 Deletion Enhances Astrocyte-to-Neuron Metabolic Support and Attenuates Subacute Pathology Following Repetitive Mild Traumatic Brain Injury.",
+        "authors": "Delgado T, Arefin TM, Pagan I, Weekley BH, Rodwell-Bullock J et al.",
+        "year": 2026,
+        "journal": "bioRxiv : the preprint server for biology",
+        "entities": "ROS, neuroinflammation, oxidative stress, mTBI, TBI"
+      },
+      {
         "pmid": "42511491",
         "title": "Exploring the Metabolic Impact of Traumatic Brain Injury in CCI Mouse Models: A Focus on Early and Prolonged Injury Responses.",
         "authors": "Banoei MM, Scott BNV, Winston BW",
@@ -772,22 +788,6 @@
         "year": 2026,
         "journal": "European neurology",
         "entities": "GFAP, NfL, tau, TBI, Alzheimer"
-      },
-      {
-        "pmid": "42411943",
-        "title": "Intraoperative Lipoproteins Associated with Postoperative Delirium in a Prospective Observational Study of Older Adults Undergoing Cardiac Surgery.",
-        "authors": "McKay TB, Kelly Graves O, Mitchell M, Mueller A, Simon C et al.",
-        "year": 2026,
-        "journal": "Journal of cardiothoracic and vascular anesthesia",
-        "entities": "NfL"
-      },
-      {
-        "pmid": "42410654",
-        "title": "The molecular ICU: a primer on omics, informatics and the future of precision critical care.",
-        "authors": "Van Nynatten LR, Raheel H, Basmaji J, Slessarev M, Fraser DD",
-        "year": 2026,
-        "journal": "Critical care (London, England)",
-        "entities": "TBI"
       }
     ]
   },
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1927
+      "paper_count": 1930
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1120
+      "paper_count": 1121
     },
     {
       "name": "Alzheimer",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 336
+      "paper_count": 337
     },
     {
       "name": "NQO2",
@@ -840,12 +840,12 @@
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 263
+      "paper_count": 264
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 246
+      "paper_count": 247
     },
     {
       "name": "UCH-L1",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 807.0
+      "weight": 808.0
     },
     {
       "source": "GFAP",
@@ -962,7 +962,7 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 228.0
+      "weight": 229.0
     },
     {
       "source": "tau",
@@ -1007,7 +1007,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 180.0
+      "weight": 181.0
     },
     {
       "source": "GFAP",
@@ -1152,7 +1152,7 @@
     {
       "source": "oxidative stress",
       "target": "TBI",
-      "weight": 78.0
+      "weight": 79.0
     },
     {
       "source": "UCH-L1",
@@ -1165,6 +1165,11 @@
       "weight": 75.0
     },
     {
+      "source": "ROS",
+      "target": "TBI",
+      "weight": 74.0
+    },
+    {
       "source": "oxidative stress",
       "target": "Alzheimer",
       "weight": 73.0
@@ -1172,11 +1177,6 @@
     {
       "source": "GFAP",
       "target": "NSE",
-      "weight": 73.0
-    },
-    {
-      "source": "ROS",
-      "target": "TBI",
       "weight": 73.0
     },
     {

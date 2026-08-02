@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-01*
-*Total papers: 3542*
+*Generated: 2026-08-02*
+*Total papers: 3545*
 
 
 ## Cluster: aging_neuro
@@ -5236,6 +5236,13 @@
 **PMID:** 42534937  **DOI:** 10.3389/fnins.2026.1823376
 **Entities:** TBI  
 **Abstract:** Disorders of Consciousness (DoC) resulting from brain injury comprise a spectrum of clinical syndromes, where the level of impairment varies considerably depending on lesion location, etiology, severi...
+
+### Circulating microRNAs: A Potential Biomarker in TBI and PTSD War Veterans.
+**Authors:** Stewart W, Hejl C, Guleria RS, Gupta S  
+**Journal:** Neurotrauma reports (2026)  
+**PMID:** 42539349  **DOI:** 10.1177/2689288X251415246
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) is a debilitating condition caused by one or more concussive insults to the head and is frequently observed in combat Veterans deployed in support of Operation Enduring Fr...
 
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
@@ -21689,6 +21696,20 @@
 **PMID:** 42511491  **DOI:** 10.3390/ijms27146144
 **Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) disrupts brain metabolism, which evolves over time and varies with the severity of the injury. Monitoring these metabolomic changes may reveal biomarkers indicating early ...
+
+### Proteomic Changes of Neurodegenerative and Inflammatory Plasma Biomarkers Following Traumatic Brain Injury.
+**Authors:** Abbruzzese S, Patel R, Walter AE, Lynch CE, Sandsmark DK et al.  
+**Journal:** Neurotrauma reports (2026)  
+**PMID:** 42539370  **DOI:** 10.1177/2689288X261446294
+**Entities:** TBI  
+**Abstract:** Our objective was to determine if relative concentrations of neurodegenerative and inflammatory biomarkers differed between traumatic brain injury (TBI) and age-matched controls. Among individuals wit...
+
+### Transglutaminase 2 Deletion Enhances Astrocyte-to-Neuron Metabolic Support and Attenuates Subacute Pathology Following Repetitive Mild Traumatic Brain Injury.
+**Authors:** Delgado T, Arefin TM, Pagan I, Weekley BH, Rodwell-Bullock J et al.  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42539240  **DOI:** 10.64898/2026.07.16.738974
+**Entities:** ROS, neuroinflammation, oxidative stress, mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) is the most common form of central nervous system (CNS) injury and is often characterized by persistent neuroinflammation, metabolic dysregulation, and oxidative str...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
