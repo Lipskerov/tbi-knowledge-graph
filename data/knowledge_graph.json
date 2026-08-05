@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-02T09:15:21.995172",
-  "n_papers": 3545,
+  "generated_at": "2026-08-05T09:42:42.083445",
+  "n_papers": 3547,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
     "aging_neuro": 723,
-    "exosomal_rna": 316,
+    "exosomal_rna": 317,
     "gfap_uchl1": 374,
     "nfl_tau": 299,
     "nqo2": 375,
     "ppcs_prognosis": 321,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 369,
-    "tbi_panel_poc": 241,
+    "tbi_panel_poc": 242,
     "tbi_proteomics": 522
   },
   "nodes": [
@@ -20,14 +20,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1930,
+      "paper_count": 1932,
       "centrality": 0.4035
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1121,
+      "paper_count": 1122,
       "centrality": 0.3421
     },
     {
@@ -139,7 +139,7 @@
       "id": 18,
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 98,
+      "paper_count": 99,
       "centrality": 0.2719
     },
     {
@@ -500,6 +500,13 @@
       "centrality": 0.0
     },
     {
+      "id": 27,
+      "name": "MALAT1",
+      "type": "rna",
+      "paper_count": 1,
+      "centrality": 0.0
+    },
+    {
       "id": 36,
       "name": "ISR",
       "type": "pathway",
@@ -566,13 +573,6 @@
       "id": 8,
       "name": "eEF2",
       "type": "protein",
-      "paper_count": 0,
-      "centrality": 0.0
-    },
-    {
-      "id": 27,
-      "name": "MALAT1",
-      "type": "rna",
       "paper_count": 0,
       "centrality": 0.0
     },
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 808.0,
-      "n_papers": 808.0,
+      "weight": 809.0,
+      "n_papers": 809.0,
       "annotation": null
     },
     {
@@ -2209,8 +2209,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 69.0,
-      "n_papers": 69.0,
+      "weight": 70.0,
+      "n_papers": 70.0,
       "annotation": null
     },
     {

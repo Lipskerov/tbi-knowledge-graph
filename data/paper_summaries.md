@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-02*
-*Total papers: 3545*
+*Generated: 2026-08-05*
+*Total papers: 3547*
 
 
 ## Cluster: aging_neuro
@@ -6846,6 +6846,13 @@
 **PMID:** 30529438  **DOI:** 10.1016/j.expneurol.2018.12.003
 **Entities:** TBI  
 **Abstract:** BACKGROUND AND OBJECTIVE: Circular RNA (circRNA) is an important type of non-coding RNA that has not been widely researched in traumatic brain injury (TBI). The present study aimd to detect the altere...
+
+### Overexpression of long noncoding RNA Malat1 ameliorates traumatic brain injury induced brain edema by inhibiting AQP4 and the NF-κB/IL-6 pathway.
+**Authors:** Zhang Y, Wang J, Zhang Y, Wei J, Wu R et al.  
+**Journal:** Journal of cellular biochemistry (2019)  
+**PMID:** 31218751  **DOI:** 10.1002/jcb.29025
+**Entities:** IL-6, MALAT1, TBI  
+**Abstract:** Brain edema is a major traumatic brain injury (TBI)-related neurological complication. In the initiation stage of TBI, brain edema is characterized by astrocyte swelling (cytotoxic edema). We studied ...
 
 ### Traumatic brain injury: classification, models, and markers.
 **Authors:** Najem D, Rennie K, Ribecco-Lutkiewicz M, Ly D, Haukenfrers J et al.  
@@ -19670,6 +19677,13 @@
 **PMID:** 42513588  **DOI:** 10.3390/jcm15145676
 **Entities:** mTBI, TBI, NSE  
 **Abstract:** 
+
+### Evaluating Point-of-Care Electroencephalogram for Mild Traumatic Brain Injury Triage and Referral Pathways Within the Emergency Department: A Mixed-Design Cohort Quality Improvement Study.
+**Authors:** Lesko JD, Bogdan DA, Saxman Z, Boschee M, Koch EJ  
+**Journal:** Military medicine (2026)  
+**PMID:** 42550737  **DOI:** 10.1093/milmed/usag371
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: Traumatic brain injuries, or TBIs, represent a common military health care system challenge due to the high frequency seen throughout the 21st century battlefield, workplace injuries, an...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
