@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3558,
+  "n_papers": 3560,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -602,6 +602,14 @@
         "entities": "mTBI, TBI"
       },
       {
+        "pmid": "41870014",
+        "title": "Blood Biomarkers for Identifying Epidural Hematoma in Patients Presenting with a Glasgow Coma Scale of 13-15: A Collaborative European Neurotrauma Effectiveness Research in Traumatic Brain Injury (CENTER-TBI) Study.",
+        "authors": "Malmi K, Pisic\u0103 D, Hossain I, Mohammadian M, van Essen T et al.",
+        "year": 2026,
+        "journal": "Journal of neurotrauma",
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
+      },
+      {
         "pmid": "41852147",
         "title": "Assessing head injury risk and neuroprotective effect of ketone monoester supplementation in military airborne training.",
         "authors": "Miyatsu T, McAdam J, Graham ZA, Mahyari A, Mitsopoulos K et al.",
@@ -616,14 +624,6 @@
         "year": 2026,
         "journal": "Medicina clinica",
         "entities": "GFAP, UCH-L1, S100B, mTBI, TBI"
-      },
-      {
-        "pmid": "41758770",
-        "title": "Food-based multisensory stimulation ameliorates cognitive impairment after mild traumatic brain injury in male rats by modulating intestinal and brain inflammation.",
-        "authors": "Wei Y, Ullah H, Liao G, Xiao X, Yao J et al.",
-        "year": 2026,
-        "journal": "PloS one",
-        "entities": "S100B, TNF-\u03b1, IL-1\u03b2, neuroinflammation, mTBI, TBI, NSE"
       }
     ],
     "tbi_panel_poc": [
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42570240",
+        "title": "IL-19+ monocytes suppress neuroinflammation and promote neurological recovery in young individuals with traumatic brain injury.",
+        "authors": "Lu Z, Zhao J, Zhu J, Wang C, Liao W et al.",
+        "year": 2026,
+        "journal": "Cell reports",
+        "entities": "neuroinflammation, TBI"
+      },
+      {
         "pmid": "42539370",
         "title": "Proteomic Changes of Neurodegenerative and Inflammatory Plasma Biomarkers Following Traumatic Brain Injury.",
         "authors": "Abbruzzese S, Patel R, Walter AE, Lynch CE, Sandsmark DK et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology",
         "entities": "neuroinflammation, TBI, Alzheimer"
-      },
-      {
-        "pmid": "42424231",
-        "title": "Neurofilament Light Chain as a Biomarker in Neurology.",
-        "authors": "Szy\u0142ak E, Czarnowska A, Kulczy\u0144ska-Przybik A, Kopitelow J, Mroczko B et al.",
-        "year": 2026,
-        "journal": "European neurology",
-        "entities": "GFAP, NfL, tau, TBI, Alzheimer"
       }
     ]
   },
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1939
+      "paper_count": 1941
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1128
+      "paper_count": 1129
     },
     {
       "name": "Alzheimer",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 494
+      "paper_count": 495
     },
     {
       "name": "tau",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 337
+      "paper_count": 338
     },
     {
       "name": "NQO2",
@@ -850,7 +850,7 @@
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 243
+      "paper_count": 244
     },
     {
       "name": "PPCS",
@@ -947,12 +947,12 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 813.0
+      "weight": 814.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 412.0
+      "weight": 413.0
     },
     {
       "source": "Alzheimer",
@@ -972,7 +972,7 @@
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 221.0
+      "weight": 222.0
     },
     {
       "source": "mTBI",
@@ -982,12 +982,12 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 211.0
+      "weight": 212.0
     },
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 206.0
+      "weight": 207.0
     },
     {
       "source": "TBI",
@@ -1007,7 +1007,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 181.0
+      "weight": 182.0
     },
     {
       "source": "GFAP",
@@ -1062,7 +1062,7 @@
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 118.0
+      "weight": 119.0
     },
     {
       "source": "NQO2",

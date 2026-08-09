@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-08*
-*Total papers: 3558*
+*Generated: 2026-08-09*
+*Total papers: 3560*
 
 
 ## Cluster: aging_neuro
@@ -17190,6 +17190,13 @@
 **Entities:** mTBI, TBI, Alzheimer  
 **Abstract:** PURPOSE: The clinical impact of acute-on-chronic subdural hematoma (acSDH) in mild traumatic brain injury (mTBI) remains incompletely characterized. We assessed whether acSDH, compared with isolated a...
 
+### Blood Biomarkers for Identifying Epidural Hematoma in Patients Presenting with a Glasgow Coma Scale of 13-15: A Collaborative European Neurotrauma Effectiveness Research in Traumatic Brain Injury (CENTER-TBI) Study.
+**Authors:** Malmi K, Pisică D, Hossain I, Mohammadian M, van Essen T et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41870014  **DOI:** 10.1177/08977151261430239
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** Triage of patients with mild traumatic brain injury (mTBI) and possible isolated epidural hematoma (iEDH) remains a clinical challenge. Blood-based biomarkers are being integrated into mTBI management...
+
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
 **Journal:** Neurocritical care (2025)  
@@ -21801,6 +21808,13 @@
 **PMID:** 42539240  **DOI:** 10.64898/2026.07.16.738974
 **Entities:** ROS, neuroinflammation, oxidative stress, mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) is the most common form of central nervous system (CNS) injury and is often characterized by persistent neuroinflammation, metabolic dysregulation, and oxidative str...
+
+### IL-19+ monocytes suppress neuroinflammation and promote neurological recovery in young individuals with traumatic brain injury.
+**Authors:** Lu Z, Zhao J, Zhu J, Wang C, Liao W et al.  
+**Journal:** Cell reports (2026)  
+**PMID:** 42570240  **DOI:** 10.1016/j.celrep.2026.117805
+**Entities:** neuroinflammation, TBI  
+**Abstract:** Young patients with traumatic brain injury (TBI) have a better prognosis than the aged, but the underlying mechanisms are not clear. Here, we identified a population of IL-19
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
