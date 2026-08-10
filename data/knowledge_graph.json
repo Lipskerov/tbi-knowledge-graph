@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T07:57:06.384554",
-  "n_papers": 3560,
+  "generated_at": "2026-08-10T08:45:57.243115",
+  "n_papers": 3561,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
@@ -13,14 +13,14 @@
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 370,
     "tbi_panel_poc": 242,
-    "tbi_proteomics": 523
+    "tbi_proteomics": 524
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1941,
+      "paper_count": 1942,
       "centrality": 0.4035
     },
     {
@@ -62,7 +62,7 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 338,
+      "paper_count": 339,
       "centrality": 0.2982
     },
     {
@@ -1879,8 +1879,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 182.0,
-      "n_papers": 182.0,
+      "weight": 183.0,
+      "n_papers": 183.0,
       "annotation": null
     },
     {

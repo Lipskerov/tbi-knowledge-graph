@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-09*
-*Total papers: 3560*
+*Generated: 2026-08-10*
+*Total papers: 3561*
 
 
 ## Cluster: aging_neuro
@@ -21815,6 +21815,13 @@
 **PMID:** 42570240  **DOI:** 10.1016/j.celrep.2026.117805
 **Entities:** neuroinflammation, TBI  
 **Abstract:** Young patients with traumatic brain injury (TBI) have a better prognosis than the aged, but the underlying mechanisms are not clear. Here, we identified a population of IL-19
+
+### Brain Tissue-Derived Exosomal Proteomics Identifies Chemotaxis-Associated Protein Changes After Traumatic Brain Injury: An Exploratory Hippocampal Transcriptomic Comparison.
+**Authors:** Chen WC, Chen XL, Lin CY, Huang YZ, He HF et al.  
+**Journal:** Molecular neurobiology (2026)  
+**PMID:** 42572060  **DOI:** 10.1007/s12035-026-06123-0
+**Entities:** neuroinflammation, TBI  
+**Abstract:** Traumatic brain injury (TBI) involves both primary and secondary pathological processes, including hemorrhage, ischemia, edema, and neuroinflammation. Although tissue-derived exosomes have emerged as ...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
