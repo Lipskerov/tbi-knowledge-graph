@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-10*
-*Total papers: 3561*
+*Generated: 2026-08-12*
+*Total papers: 3562*
 
 
 ## Cluster: aging_neuro
@@ -417,6 +417,13 @@
 **PMID:** 41620071  **DOI:** 10.1016/j.pneurobio.2026.102890
 **Entities:** ROS, neuroinflammation, oxidative stress, TBI, aging  
 **Abstract:** Aging is associated with increased vulnerability to a wide variety of diseases and conditions, including traumatic brain injury (TBI). While advanced age is a known predictor of poorer outcomes follow...
+
+### Neurobiological markers across joint profiles of subjective cognitive decline and objective cognitive function in older adults.
+**Authors:** Wan L, Kang C, Harrison R, Solis-Urra P, Sewell KR et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2026)  
+**PMID:** 42576170  **DOI:** 10.1002/alz.71743
+**Entities:** GFAP, NfL, tau, p-tau, Alzheimer  
+**Abstract:** INTRODUCTION: Subjective cognitive concerns frequently diverge from objective cognitive performance in cognitively unimpaired (CU) older adults, yet the neurobiological basis of this mismatch remains ...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
