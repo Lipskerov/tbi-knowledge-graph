@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-12*
-*Total papers: 3562*
+*Generated: 2026-08-13*
+*Total papers: 3564*
 
 
 ## Cluster: aging_neuro
@@ -19776,6 +19776,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** INTRODUCTION: Traumatic brain injuries, or TBIs, represent a common military health care system challenge due to the high frequency seen throughout the 21st century battlefield, workplace injuries, an...
 
+### Implementing whole blood TBI point-of-care testing in Level 1 trauma centers: protocol for emergency department implementation for TBI (EDI for TBI) hybrid type II effectiveness-implementation trial.
+**Authors:** Eagle S, McNett M, Madhok D, Bazarian J, Barton D et al.  
+**Journal:** Frontiers in health services (2026)  
+**PMID:** 42582391  **DOI:** 10.3389/frhs.2026.1891721
+**Entities:** TBI  
+**Abstract:** INTRODUCTION: Technological advances have enabled rapid screening for traumatic brain injury (TBI) at the point of care (POC), with devices approved by the United States Food and Drug Administration (...
+
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
 **Journal:** Journal of neurology (2025)  
@@ -21829,6 +21836,13 @@
 **PMID:** 42572060  **DOI:** 10.1007/s12035-026-06123-0
 **Entities:** neuroinflammation, TBI  
 **Abstract:** Traumatic brain injury (TBI) involves both primary and secondary pathological processes, including hemorrhage, ischemia, edema, and neuroinflammation. Although tissue-derived exosomes have emerged as ...
+
+### Exploring Pericontusional Temporal Metabolomic Changes after Controlled Cortical Impact in Mice.
+**Authors:** Dave AM, Oft HC, Sinha S, Janesko-Feldman K, Vagni V et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 42581635  **DOI:** 10.1177/08977151261475262
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) is a leading cause of trauma-related morbidity and mortality, yet metabolic responses in the injured brain remain incompletely understood. Metabolomic profiling of pericon...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

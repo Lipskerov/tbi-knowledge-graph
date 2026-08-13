@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T08:25:03.269197",
-  "n_papers": 3562,
+  "generated_at": "2026-08-13T08:27:16.327445",
+  "n_papers": 3564,
   "n_entities": 115,
   "n_edges": 639,
   "cluster_stats": {
@@ -12,15 +12,15 @@
     "ppcs_prognosis": 324,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 370,
-    "tbi_panel_poc": 242,
-    "tbi_proteomics": 524
+    "tbi_panel_poc": 243,
+    "tbi_proteomics": 525
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1942,
+      "paper_count": 1944,
       "centrality": 0.4035
     },
     {
