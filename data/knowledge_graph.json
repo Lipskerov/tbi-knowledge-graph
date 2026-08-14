@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T08:27:16.327445",
-  "n_papers": 3564,
+  "generated_at": "2026-08-14T08:22:56.909689",
+  "n_papers": 3567,
   "n_entities": 115,
-  "n_edges": 639,
+  "n_edges": 640,
   "cluster_stats": {
     "aging_neuro": 725,
     "exosomal_rna": 317,
     "gfap_uchl1": 377,
-    "nfl_tau": 303,
-    "nqo2": 375,
+    "nfl_tau": 304,
+    "nqo2": 376,
     "ppcs_prognosis": 324,
     "qr2_inhibitors": 5,
-    "tbi_mild_blood": 370,
+    "tbi_mild_blood": 371,
     "tbi_panel_poc": 243,
     "tbi_proteomics": 525
   },
@@ -27,21 +27,21 @@
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1129,
+      "paper_count": 1130,
       "centrality": 0.3421
     },
     {
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 677,
-      "centrality": 0.3596
+      "paper_count": 678,
+      "centrality": 0.3684
     },
     {
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 637,
+      "paper_count": 638,
       "centrality": 0.3158
     },
     {
@@ -55,7 +55,7 @@
       "id": 14,
       "name": "tau",
       "type": "protein",
-      "paper_count": 390,
+      "paper_count": 391,
       "centrality": 0.2895
     },
     {
@@ -69,14 +69,14 @@
       "id": 12,
       "name": "NfL",
       "type": "protein",
-      "paper_count": 312,
+      "paper_count": 313,
       "centrality": 0.2895
     },
     {
       "id": 1,
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 311,
+      "paper_count": 312,
       "centrality": 0.3333
     },
     {
@@ -237,8 +237,8 @@
       "id": 110,
       "name": "resveratrol",
       "type": "drug",
-      "paper_count": 39,
-      "centrality": 0.114
+      "paper_count": 40,
+      "centrality": 0.1228
     },
     {
       "id": 995,
@@ -297,6 +297,13 @@
       "centrality": 0.114
     },
     {
+      "id": 109,
+      "name": "quercetin",
+      "type": "drug",
+      "paper_count": 14,
+      "centrality": 0.1053
+    },
+    {
       "id": 115,
       "name": "catalase",
       "type": "protein",
@@ -304,17 +311,10 @@
       "centrality": 0.0877
     },
     {
-      "id": 109,
-      "name": "quercetin",
-      "type": "drug",
-      "paper_count": 13,
-      "centrality": 0.1053
-    },
-    {
       "id": 104,
       "name": "cAMP",
       "type": "metabolite",
-      "paper_count": 12,
+      "paper_count": 13,
       "centrality": 0.0965
     },
     {
@@ -984,6 +984,16 @@
       "annotation": "CA1, Cui2007, HINT, KEA \u00b7 10 refs (OmniPath)"
     },
     {
+      "source": "quercetin",
+      "target": "NQO2",
+      "relation": "inhibits",
+      "edge_kind": "curated",
+      "directed": true,
+      "weight": 9.0,
+      "n_papers": 9.0,
+      "annotation": null
+    },
+    {
       "source": "melatonin",
       "target": "NQO2",
       "relation": "inhibits",
@@ -992,16 +1002,6 @@
       "weight": 9.0,
       "n_papers": 9.0,
       "annotation": "IC50/Ki \u2248 84 nM \u00b7 pChEMBL 7.08 \u00b7 n=9 (ChEMBL)"
-    },
-    {
-      "source": "quercetin",
-      "target": "NQO2",
-      "relation": "inhibits",
-      "edge_kind": "curated",
-      "directed": true,
-      "weight": 8.0,
-      "n_papers": 8.0,
-      "annotation": null
     },
     {
       "source": "Nrf2",
@@ -1904,8 +1904,8 @@
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "tau",
+      "source": "tau",
+      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -1914,13 +1914,13 @@
       "annotation": null
     },
     {
-      "source": "tau",
-      "target": "mTBI",
+      "source": "GFAP",
+      "target": "tau",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 161.0,
-      "n_papers": 161.0,
+      "weight": 162.0,
+      "n_papers": 162.0,
       "annotation": null
     },
     {
@@ -2504,6 +2504,16 @@
       "annotation": null
     },
     {
+      "source": "NfL",
+      "target": "aging",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 41.0,
+      "n_papers": 41.0,
+      "annotation": null
+    },
+    {
       "source": "mTBI",
       "target": "NSE",
       "relation": "co-occurs",
@@ -2516,16 +2526,6 @@
     {
       "source": "TBI",
       "target": "Simoa",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 40.0,
-      "n_papers": 40.0,
-      "annotation": null
-    },
-    {
-      "source": "NfL",
-      "target": "aging",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2624,6 +2624,16 @@
       "annotation": null
     },
     {
+      "source": "NQO2",
+      "target": "resveratrol",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 33.0,
+      "n_papers": 33.0,
+      "annotation": null
+    },
+    {
       "source": "BBB",
       "target": "mTBI",
       "relation": "co-occurs",
@@ -2646,16 +2656,6 @@
     {
       "source": "ROS",
       "target": "glutathione",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 32.0,
-      "n_papers": 32.0,
-      "annotation": null
-    },
-    {
-      "source": "NQO2",
-      "target": "resveratrol",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3564,6 +3564,16 @@
       "annotation": null
     },
     {
+      "source": "NQO2",
+      "target": "Alzheimer",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 12.0,
+      "n_papers": 12.0,
+      "annotation": null
+    },
+    {
       "source": "IL-6",
       "target": "NSE",
       "relation": "co-occurs",
@@ -3656,16 +3666,6 @@
     {
       "source": "NRH",
       "target": "melatonin",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 11.0,
-      "n_papers": 11.0,
-      "annotation": null
-    },
-    {
-      "source": "NQO2",
-      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3884,6 +3884,16 @@
       "annotation": null
     },
     {
+      "source": "NQO2",
+      "target": "quercetin",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 9.0,
+      "n_papers": 9.0,
+      "annotation": null
+    },
+    {
       "source": "SOD",
       "target": "catalase",
       "relation": "co-occurs",
@@ -4036,16 +4046,6 @@
     {
       "source": "glutathione",
       "target": "catalase",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 8.0,
-      "n_papers": 8.0,
-      "annotation": null
-    },
-    {
-      "source": "NQO2",
-      "target": "quercetin",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -4584,6 +4584,16 @@
       "annotation": null
     },
     {
+      "source": "NQO2",
+      "target": "cAMP",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 6.0,
+      "n_papers": 6.0,
+      "annotation": null
+    },
+    {
       "source": "oxidative stress",
       "target": "4-HNE",
       "relation": "co-occurs",
@@ -4874,16 +4884,6 @@
       "annotation": null
     },
     {
-      "source": "NQO2",
-      "target": "cAMP",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 5.0,
-      "n_papers": 5.0,
-      "annotation": null
-    },
-    {
       "source": "Alzheimer",
       "target": "melatonin",
       "relation": "co-occurs",
@@ -5166,6 +5166,16 @@
     {
       "source": "NQO2",
       "target": "HO-1",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 4.0,
+      "n_papers": 4.0,
+      "annotation": null
+    },
+    {
+      "source": "Alzheimer",
+      "target": "cAMP",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -5574,6 +5584,16 @@
       "annotation": null
     },
     {
+      "source": "quercetin",
+      "target": "resveratrol",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 3.0,
+      "n_papers": 3.0,
+      "annotation": null
+    },
+    {
       "source": "Alzheimer",
       "target": "HO-1",
       "relation": "co-occurs",
@@ -5656,16 +5676,6 @@
     {
       "source": "oxidative stress",
       "target": "MT3",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 3.0,
-      "n_papers": 3.0,
-      "annotation": null
-    },
-    {
-      "source": "Alzheimer",
-      "target": "cAMP",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -5806,16 +5816,6 @@
     {
       "source": "resveratrol",
       "target": "aging",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 3.0,
-      "n_papers": 3.0,
-      "annotation": null
-    },
-    {
-      "source": "mTBI",
-      "target": "glutathione",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

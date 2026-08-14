@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3564,
+  "n_papers": 3567,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -340,6 +340,14 @@
     ],
     "nqo2": [
       {
+        "pmid": "42592146",
+        "title": "Low Brain Levels of Dietary Polyphenols and Their Conjugates: Reassessing Mechanisms of Alzheimer's Disease Prevention.",
+        "authors": "Sharma R, Shkirkova K, Mack WJ, Gopalakrishna R",
+        "year": 2026,
+        "journal": "Journal of dementia and alzheimer's disease",
+        "entities": "NQO2, Alzheimer, cAMP, quercetin, resveratrol"
+      },
+      {
         "pmid": "42465319",
         "title": "Leveraging Homologous Recombination Deficiency via the Repositioned Prodrug CB1954.",
         "authors": "Elia JL, Hill J, Heer CD, Smolev S, Sykes AM et al.",
@@ -410,14 +418,6 @@
         "year": 2026,
         "journal": "Scientific reports",
         "entities": "NQO2"
-      },
-      {
-        "pmid": "41683784",
-        "title": "Melatonin Biosynthesis, Receptors, and the Microbiota-Tryptophan-Melatonin Axis: A Shared Dysbiosis Signature Across Cardiac Arrhythmias, Epilepsy, Malignant Proliferation, and Cognitive Trajectories.",
-        "authors": "Tavartkiladze A, Reiter RJ, Lou R, Kasradze D, Okrostsvaridze N et al.",
-        "year": 2026,
-        "journal": "International journal of molecular sciences",
-        "entities": "NQO2, melatonin, MT3"
       }
     ],
     "ppcs_prognosis": [
@@ -570,6 +570,14 @@
         "entities": "mTBI"
       },
       {
+        "pmid": "42114983",
+        "title": "The study of epigenetic clocks in former professional contact sports athletes with repetitive head impacts.",
+        "authors": "Tang X, Sumra V, Sato C, Moreno D, Khodadadi M et al.",
+        "year": 2026,
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "entities": "NfL, aging"
+      },
+      {
         "pmid": "42047078",
         "title": "Evaluation of brain injury biomarkers in mild traumatic brain injury with and without computed tomography findings.",
         "authors": "Osmi\u0107-Husni A, Jadri\u0107 R, Jovi\u0107-Lackovi\u0107 S, \u017dabi\u0107 A, \u010camd\u017ei\u0107-Smaji\u0107 S",
@@ -616,14 +624,6 @@
         "year": 2026,
         "journal": "Physiological reports",
         "entities": "mTBI, TBI"
-      },
-      {
-        "pmid": "41832802",
-        "title": "Validity and clinical utility of brain injury biomarkers in the assessment and risk stratification of mild traumatic brain injury in emergency departments.",
-        "authors": "Escalante-Reyes M, Tejera-Mu\u00f1oz A, Gonz\u00e1lez-Hermoso I, Sirera-Sirera P, Alfayate-Guerra R et al.",
-        "year": 2026,
-        "journal": "Medicina clinica",
-        "entities": "GFAP, UCH-L1, S100B, mTBI, TBI"
       }
     ],
     "tbi_panel_poc": [
@@ -800,17 +800,17 @@
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1129
+      "paper_count": 1130
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 677
+      "paper_count": 678
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 637
+      "paper_count": 638
     },
     {
       "name": "GFAP",
@@ -820,7 +820,7 @@
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 390
+      "paper_count": 391
     },
     {
       "name": "neuroinflammation",
@@ -830,12 +830,12 @@
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 312
+      "paper_count": 313
     },
     {
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 311
+      "paper_count": 312
     },
     {
       "name": "ROS",
@@ -1020,14 +1020,14 @@
       "weight": 162.0
     },
     {
-      "source": "GFAP",
-      "target": "tau",
+      "source": "tau",
+      "target": "mTBI",
       "weight": 162.0
     },
     {
-      "source": "tau",
-      "target": "mTBI",
-      "weight": 161.0
+      "source": "GFAP",
+      "target": "tau",
+      "weight": 162.0
     },
     {
       "source": "NfL",

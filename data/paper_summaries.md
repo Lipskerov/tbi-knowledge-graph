@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-13*
-*Total papers: 3564*
+*Generated: 2026-08-14*
+*Total papers: 3567*
 
 
 ## Cluster: aging_neuro
@@ -12061,6 +12061,13 @@
 **Entities:** GFAP, NfL, mTBI, TBI  
 **Abstract:** OBJECTIVE: An animal model of concussions in National Football League players has been described in a previous study. It involves a freely moving 300-g Wistar rat impacted on the side of the head at v...
 
+### APOE, APOE promoter, and Tau genotypes and risk for concussion in college athletes.
+**Authors:** Terrell TR, Bostick RM, Abramson R, Xie D, Barfield W et al.  
+**Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2008)  
+**PMID:** 18185033  **DOI:** 10.1097/JSM.0b013e31815c1d4c
+**Entities:** tau, mTBI  
+**Abstract:** OBJECTIVE: To investigate associations of APOE, APOE promoter (G-219T), and tau protein exon 6 polymorphisms (47 and 53) and a history of self-reported concussion in college athletes. DESIGN: Multi-ce...
+
 ### Experimental brain injury induces regionally distinct apoptosis during the acute and delayed post-traumatic period.
 **Authors:** Conti AC, Raghupathi R, Trojanowski JQ, McIntosh TK  
 **Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (1998)  
@@ -12161,6 +12168,13 @@
 **PMID:** 42465319  **DOI:** 10.64898/2026.07.08.737246
 **Entities:** NQO2  
 **Abstract:** Homologous recombination deficiency (HRD) is an actionable vulnerability found in a substantial fraction of human cancers, yet current HRD-directed therapies are limited by toxicity, incomplete respon...
+
+### Low Brain Levels of Dietary Polyphenols and Their Conjugates: Reassessing Mechanisms of Alzheimer's Disease Prevention.
+**Authors:** Sharma R, Shkirkova K, Mack WJ, Gopalakrishna R  
+**Journal:** Journal of dementia and alzheimer's disease (2026)  
+**PMID:** 42592146  **DOI:** 10.3390/jdad3020027
+**Entities:** NQO2, Alzheimer, cAMP, quercetin, resveratrol  
+**Abstract:** Dietary polyphenols such as quercetin, resveratrol, and (-)-epigallocatechin-3-gallate (EGCG) have shown neuroprotective effects in epidemiologic and experimental studies of Alzheimer's disease (AD), ...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
@@ -17203,6 +17217,13 @@
 **PMID:** 41870014  **DOI:** 10.1177/08977151261430239
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** Triage of patients with mild traumatic brain injury (mTBI) and possible isolated epidural hematoma (iEDH) remains a clinical challenge. Blood-based biomarkers are being integrated into mTBI management...
+
+### The study of epigenetic clocks in former professional contact sports athletes with repetitive head impacts.
+**Authors:** Tang X, Sumra V, Sato C, Moreno D, Khodadadi M et al.  
+**Journal:** Journal of neurology, neurosurgery, and psychiatry (2026)  
+**PMID:** 42114983  **DOI:** 10.1136/jnnp-2025-338206
+**Entities:** NfL, aging  
+**Abstract:** BACKGROUND: Repetitive head impacts in former contact sport athletes are associated with cognitive impairment, accelerated cerebral atrophy and risk of neurodegenerative disease. Epigenetic clocks der...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
