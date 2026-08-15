@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3567,
+  "n_papers": 3569,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -546,6 +546,14 @@
     ],
     "tbi_mild_blood": [
       {
+        "pmid": "42599452",
+        "title": "Impact of routine use of the GFAP and UCH-L1 TBI blood test for management of mild TBI on patient care in a European emergency department.",
+        "authors": "Br\u00fcning-Wolter F, Wolff N, Schrader M, Musaelyan K, Chandran R et al.",
+        "year": 2026,
+        "journal": "European journal of trauma and emergency surgery : official publication of the European Trauma Society",
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
+      },
+      {
         "pmid": "42489732",
         "title": "Acute-on-chronic versus isolated acute subdural hematoma in complicated mild traumatic brain injury: association with radiological mass effect markers in a multicenter cohort.",
         "authors": "Cromb\u00e9 A, Benhamed A, Seux M, Frassin L, Matichard R et al.",
@@ -616,14 +624,6 @@
         "year": 2026,
         "journal": "Journal of neurotrauma",
         "entities": "GFAP, UCH-L1, mTBI, TBI"
-      },
-      {
-        "pmid": "41852147",
-        "title": "Assessing head injury risk and neuroprotective effect of ketone monoester supplementation in military airborne training.",
-        "authors": "Miyatsu T, McAdam J, Graham ZA, Mahyari A, Mitsopoulos K et al.",
-        "year": 2026,
-        "journal": "Physiological reports",
-        "entities": "mTBI, TBI"
       }
     ],
     "tbi_panel_poc": [
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42600764",
+        "title": "Seawater immersion reshapes the temporal dynamics of traumatic brain injury and reveals mitochondrial oxidative stress as a modifiable therapeutic target.",
+        "authors": "Li W, He R, Xie S, Li M, Liu J et al.",
+        "year": 2026,
+        "journal": "Experimental neurology",
+        "entities": "ROS, oxidative stress, TBI, MBP"
+      },
+      {
         "pmid": "42581635",
         "title": "Exploring Pericontusional Temporal Metabolomic Changes after Controlled Cortical Impact in Mice.",
         "authors": "Dave AM, Oft HC, Sinha S, Janesko-Feldman K, Vagni V et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "Journal of translational medicine",
         "entities": "ROS, neuroinflammation, oxidative stress, BBB, TBI, glutathione"
-      },
-      {
-        "pmid": "42435991",
-        "title": "PERK deficiency amplifies molecular, structural, and network vulnerability to repetitive mild traumatic brain injury.",
-        "authors": "Criado-Marrero M, Ravi S, Barroso D, Garza TN, Cuestas Torres DM et al.",
-        "year": 2026,
-        "journal": "Neurobiology of disease",
-        "entities": "mTBI, TBI, Alzheimer, PERK, MBP"
       }
     ]
   },
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1944
+      "paper_count": 1946
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1130
+      "paper_count": 1131
     },
     {
       "name": "Alzheimer",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 496
+      "paper_count": 497
     },
     {
       "name": "tau",
@@ -840,17 +840,17 @@
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 264
+      "paper_count": 265
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 247
+      "paper_count": 248
     },
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 244
+      "paper_count": 245
     },
     {
       "name": "PPCS",
@@ -915,7 +915,7 @@
     {
       "name": "MBP",
       "type": "protein",
-      "paper_count": 65
+      "paper_count": 66
     },
     {
       "name": "Simoa",
@@ -947,12 +947,12 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 814.0
+      "weight": 815.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 413.0
+      "weight": 414.0
     },
     {
       "source": "Alzheimer",
@@ -962,7 +962,7 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 229.0
+      "weight": 230.0
     },
     {
       "source": "tau",
@@ -972,7 +972,7 @@
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 222.0
+      "weight": 223.0
     },
     {
       "source": "mTBI",
@@ -982,12 +982,12 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 212.0
+      "weight": 213.0
     },
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 207.0
+      "weight": 208.0
     },
     {
       "source": "TBI",
@@ -1062,7 +1062,7 @@
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 119.0
+      "weight": 120.0
     },
     {
       "source": "NQO2",
@@ -1145,13 +1145,13 @@
       "weight": 80.0
     },
     {
-      "source": "ROS",
-      "target": "Alzheimer",
-      "weight": 79.0
-    },
-    {
       "source": "oxidative stress",
       "target": "TBI",
+      "weight": 80.0
+    },
+    {
+      "source": "ROS",
+      "target": "Alzheimer",
       "weight": 79.0
     },
     {
@@ -1165,13 +1165,13 @@
       "weight": 76.0
     },
     {
-      "source": "GFAP",
-      "target": "NSE",
-      "weight": 74.0
-    },
-    {
       "source": "ROS",
       "target": "TBI",
+      "weight": 75.0
+    },
+    {
+      "source": "GFAP",
+      "target": "NSE",
       "weight": 74.0
     },
     {

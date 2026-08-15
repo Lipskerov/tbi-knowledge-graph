@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T08:22:56.909689",
-  "n_papers": 3567,
+  "generated_at": "2026-08-15T07:37:25.622851",
+  "n_papers": 3569,
   "n_entities": 115,
   "n_edges": 640,
   "cluster_stats": {
@@ -11,23 +11,23 @@
     "nqo2": 376,
     "ppcs_prognosis": 324,
     "qr2_inhibitors": 5,
-    "tbi_mild_blood": 371,
+    "tbi_mild_blood": 372,
     "tbi_panel_poc": 243,
-    "tbi_proteomics": 525
+    "tbi_proteomics": 526
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1944,
+      "paper_count": 1946,
       "centrality": 0.4035
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1130,
+      "paper_count": 1131,
       "centrality": 0.3421
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 496,
+      "paper_count": 497,
       "centrality": 0.2895
     },
     {
@@ -83,21 +83,21 @@
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 264,
+      "paper_count": 265,
       "centrality": 0.3596
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 247,
+      "paper_count": 248,
       "centrality": 0.3421
     },
     {
       "id": 10,
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 244,
+      "paper_count": 245,
       "centrality": 0.2544
     },
     {
@@ -188,7 +188,7 @@
       "id": 130,
       "name": "MBP",
       "type": "protein",
-      "paper_count": 65,
+      "paper_count": 66,
       "centrality": 0.193
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 814.0,
-      "n_papers": 814.0,
+      "weight": 815.0,
+      "n_papers": 815.0,
       "annotation": null
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 413.0,
-      "n_papers": 413.0,
+      "weight": 414.0,
+      "n_papers": 414.0,
       "annotation": null
     },
     {
@@ -1789,8 +1789,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 229.0,
-      "n_papers": 229.0,
+      "weight": 230.0,
+      "n_papers": 230.0,
       "annotation": null
     },
     {
@@ -1809,8 +1809,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 222.0,
-      "n_papers": 222.0,
+      "weight": 223.0,
+      "n_papers": 223.0,
       "annotation": null
     },
     {
@@ -1829,8 +1829,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 212.0,
-      "n_papers": 212.0,
+      "weight": 213.0,
+      "n_papers": 213.0,
       "annotation": null
     },
     {
@@ -1839,8 +1839,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 207.0,
-      "n_papers": 207.0,
+      "weight": 208.0,
+      "n_papers": 208.0,
       "annotation": null
     },
     {
@@ -1989,8 +1989,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 119.0,
-      "n_papers": 119.0,
+      "weight": 120.0,
+      "n_papers": 120.0,
       "annotation": null
     },
     {
@@ -2124,18 +2124,18 @@
       "annotation": null
     },
     {
-      "source": "ROS",
-      "target": "Alzheimer",
+      "source": "oxidative stress",
+      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 79.0,
-      "n_papers": 79.0,
+      "weight": 80.0,
+      "n_papers": 80.0,
       "annotation": null
     },
     {
-      "source": "oxidative stress",
-      "target": "TBI",
+      "source": "ROS",
+      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2164,18 +2164,18 @@
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "NSE",
+      "source": "ROS",
+      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 74.0,
-      "n_papers": 74.0,
+      "weight": 75.0,
+      "n_papers": 75.0,
       "annotation": null
     },
     {
-      "source": "ROS",
-      "target": "TBI",
+      "source": "GFAP",
+      "target": "NSE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2434,8 +2434,8 @@
       "annotation": null
     },
     {
-      "source": "CTE",
-      "target": "Alzheimer",
+      "source": "TBI",
+      "target": "MBP",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2444,13 +2444,13 @@
       "annotation": null
     },
     {
-      "source": "TBI",
-      "target": "MBP",
+      "source": "CTE",
+      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 45.0,
-      "n_papers": 45.0,
+      "weight": 46.0,
+      "n_papers": 46.0,
       "annotation": null
     },
     {
@@ -4524,6 +4524,16 @@
       "annotation": null
     },
     {
+      "source": "oxidative stress",
+      "target": "MBP",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 6.0,
+      "n_papers": 6.0,
+      "annotation": null
+    },
+    {
       "source": "tau",
       "target": "melatonin",
       "relation": "co-occurs",
@@ -4824,7 +4834,7 @@
       "annotation": null
     },
     {
-      "source": "oxidative stress",
+      "source": "ROS",
       "target": "MBP",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
@@ -5096,16 +5106,6 @@
     {
       "source": "NQO2",
       "target": "primaquine",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 4.0,
-      "n_papers": 4.0,
-      "annotation": null
-    },
-    {
-      "source": "ROS",
-      "target": "MBP",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

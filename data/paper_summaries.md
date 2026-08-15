@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-14*
-*Total papers: 3567*
+*Generated: 2026-08-15*
+*Total papers: 3569*
 
 
 ## Cluster: aging_neuro
@@ -17225,6 +17225,13 @@
 **Entities:** NfL, aging  
 **Abstract:** BACKGROUND: Repetitive head impacts in former contact sport athletes are associated with cognitive impairment, accelerated cerebral atrophy and risk of neurodegenerative disease. Epigenetic clocks der...
 
+### Impact of routine use of the GFAP and UCH-L1 TBI blood test for management of mild TBI on patient care in a European emergency department.
+**Authors:** Brüning-Wolter F, Wolff N, Schrader M, Musaelyan K, Chandran R et al.  
+**Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2026)  
+**PMID:** 42599452  **DOI:** 10.1007/s00068-026-03303-4
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** OBJECTIVES: Blood biomarkers glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) were recently introduced into clinical practice for mild traumatic brain injury (mTBI...
+
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
 **Journal:** Neurocritical care (2025)  
@@ -21864,6 +21871,13 @@
 **PMID:** 42581635  **DOI:** 10.1177/08977151261475262
 **Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) is a leading cause of trauma-related morbidity and mortality, yet metabolic responses in the injured brain remain incompletely understood. Metabolomic profiling of pericon...
+
+### Seawater immersion reshapes the temporal dynamics of traumatic brain injury and reveals mitochondrial oxidative stress as a modifiable therapeutic target.
+**Authors:** Li W, He R, Xie S, Li M, Liu J et al.  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 42600764  **DOI:** 10.1016/j.expneurol.2026.115979
+**Entities:** ROS, oxidative stress, TBI, MBP  
+**Abstract:** Traumatic brain injury (TBI) evolves through time-dependent secondary injury, but whether seawater (SW) immersion merely amplifies pathology or reshapes the temporal trajectory of post-traumatic biolo...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
