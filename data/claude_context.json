@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3569,
+  "n_papers": 3635,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -628,6 +628,14 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42603320",
+        "title": "DYNAMIC BIOMARKERS FOR PREDICTING POST-TRAUMATIC EPILEPSY AFTER TRAUMATIC BRAIN INJURY.",
+        "authors": "Kurbanov A, Abdullaeva Y, Badritdinova M, Abdullaeva V, Khalimova F et al.",
+        "year": 2026,
+        "journal": "Georgian medical news",
+        "entities": "GFAP, NfL, IL-6, TNF-\u03b1, IL-1\u03b2, neuroinflammation, TBI"
+      },
+      {
         "pmid": "42582391",
         "title": "Implementing whole blood TBI point-of-care testing in Level 1 trauma centers: protocol for emergency department implementation for TBI (EDI for TBI) hybrid type II effectiveness-implementation trial.",
         "authors": "Eagle S, McNett M, Madhok D, Bazarian J, Barton D et al.",
@@ -698,14 +706,6 @@
         "year": 2026,
         "journal": "The Journal of international medical research",
         "entities": null
-      },
-      {
-        "pmid": "42311103",
-        "title": "Point of Care UCHL1/GFAP for Rapid Assessment of Undifferentiated Trauma Patients.",
-        "authors": "Wetmore GC, Beyeler JT, Becker ER, Wakefield D, Black T et al.",
-        "year": 2026,
-        "journal": "Journal of the American College of Surgeons",
-        "entities": "GFAP, UCH-L1, TBI"
       }
     ],
     "tbi_proteomics": [
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1946
+      "paper_count": 1973
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1131
+      "paper_count": 1154
     },
     {
       "name": "Alzheimer",
@@ -815,22 +815,22 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 497
+      "paper_count": 502
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 391
+      "paper_count": 392
     },
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 339
+      "paper_count": 341
     },
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 313
+      "paper_count": 316
     },
     {
       "name": "NQO2",
@@ -855,7 +855,7 @@
     {
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 220
+      "paper_count": 228
     },
     {
       "name": "S100B",
@@ -865,7 +865,7 @@
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 149
+      "paper_count": 150
     },
     {
       "name": "NQO1",
@@ -880,12 +880,12 @@
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 99
+      "paper_count": 101
     },
     {
       "name": "p-tau",
       "type": "protein",
-      "paper_count": 98
+      "paper_count": 99
     },
     {
       "name": "NRH",
@@ -905,17 +905,17 @@
     {
       "name": "melatonin",
       "type": "drug",
-      "paper_count": 78
+      "paper_count": 79
     },
     {
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 72
+      "paper_count": 73
     },
     {
       "name": "MBP",
       "type": "protein",
-      "paper_count": 66
+      "paper_count": 67
     },
     {
       "name": "Simoa",
@@ -940,19 +940,19 @@
     {
       "name": "IL-1\u03b2",
       "type": "protein",
-      "paper_count": 44
+      "paper_count": 45
     }
   ],
   "top_cooccurrences": [
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 815.0
+      "weight": 830.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 414.0
+      "weight": 419.0
     },
     {
       "source": "Alzheimer",
@@ -967,7 +967,7 @@
     {
       "source": "tau",
       "target": "TBI",
-      "weight": 224.0
+      "weight": 225.0
     },
     {
       "source": "UCH-L1",
@@ -977,7 +977,7 @@
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 217.0
+      "weight": 221.0
     },
     {
       "source": "GFAP",
@@ -997,7 +997,7 @@
     {
       "source": "NfL",
       "target": "TBI",
-      "weight": 186.0
+      "weight": 189.0
     },
     {
       "source": "tau",
@@ -1007,21 +1007,21 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 183.0
+      "weight": 184.0
     },
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 181.0
-    },
-    {
-      "source": "S100B",
-      "target": "TBI",
-      "weight": 162.0
+      "weight": 182.0
     },
     {
       "source": "tau",
       "target": "mTBI",
+      "weight": 163.0
+    },
+    {
+      "source": "S100B",
+      "target": "TBI",
       "weight": 162.0
     },
     {
@@ -1037,12 +1037,12 @@
     {
       "source": "TBI",
       "target": "PPCS",
-      "weight": 147.0
+      "weight": 152.0
     },
     {
       "source": "NfL",
       "target": "mTBI",
-      "weight": 140.0
+      "weight": 142.0
     },
     {
       "source": "neuroinflammation",
@@ -1070,14 +1070,14 @@
       "weight": 114.0
     },
     {
-      "source": "PERK",
-      "target": "eIF2\u03b1",
+      "source": "BBB",
+      "target": "TBI",
       "weight": 111.0
     },
     {
-      "source": "BBB",
-      "target": "TBI",
-      "weight": 110.0
+      "source": "PERK",
+      "target": "eIF2\u03b1",
+      "weight": 111.0
     },
     {
       "source": "ROS",
@@ -1105,13 +1105,13 @@
       "weight": 99.0
     },
     {
-      "source": "TBI",
-      "target": "NSE",
-      "weight": 95.0
-    },
-    {
       "source": "tau",
       "target": "p-tau",
+      "weight": 96.0
+    },
+    {
+      "source": "TBI",
+      "target": "NSE",
       "weight": 95.0
     },
     {
@@ -1180,19 +1180,19 @@
       "weight": 73.0
     },
     {
-      "source": "NQO2",
-      "target": "ROS",
-      "weight": 71.0
-    },
-    {
-      "source": "NQO2",
-      "target": "ROS",
-      "weight": 71.0
-    },
-    {
       "source": "IL-6",
       "target": "TBI",
-      "weight": 70.0
+      "weight": 72.0
+    },
+    {
+      "source": "NQO2",
+      "target": "ROS",
+      "weight": 71.0
+    },
+    {
+      "source": "NQO2",
+      "target": "ROS",
+      "weight": 71.0
     }
   ]
 }
