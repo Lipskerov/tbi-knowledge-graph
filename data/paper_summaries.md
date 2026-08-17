@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-16*
-*Total papers: 3635*
+*Generated: 2026-08-17*
+*Total papers: 3636*
 
 
 ## Cluster: aging_neuro
@@ -12420,6 +12420,13 @@
 **PMID:** 42592146  **DOI:** 10.3390/jdad3020027
 **Entities:** NQO2, Alzheimer, cAMP, quercetin, resveratrol  
 **Abstract:** Dietary polyphenols such as quercetin, resveratrol, and (-)-epigallocatechin-3-gallate (EGCG) have shown neuroprotective effects in epidemiologic and experimental studies of Alzheimer's disease (AD), ...
+
+### Isorhoifolin regulates S1PR3-CK2-GSK3β axis and promotes neurite regrowth and functional recovery after traumatic brain injury.
+**Authors:** Wang Y, Liao WL, Wang C, Li YC, Lu TH et al.  
+**Journal:** Phytomedicine : international journal of phytotherapy and phytopharmacology (2026)  
+**PMID:** 42604624  **DOI:** 10.1016/j.phymed.2026.158688
+**Entities:** NQO2, ROS, neuroinflammation, BBB, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) disrupts anatomical structure and cellular signaling, yet the molecular mechanisms governing endogenous repair remain incompletely defined. Accumulating eviden...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
