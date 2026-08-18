@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-17*
-*Total papers: 3636*
+*Generated: 2026-08-18*
+*Total papers: 3637*
 
 
 ## Cluster: aging_neuro
@@ -16371,6 +16371,13 @@
 **PMID:** 29985653  **DOI:** 10.1080/02699052.2018.1493535
 **Entities:** TBI  
 **Abstract:** OBJECTIVES: Opioid therapy is contraindicated in patients with traumatic brain injury (TBI) with neuropsychological impairment, yet guidelines do not consistently predict practice. We evaluated indepe...
+
+### Posttraumatic Episodic Status Migrainosus.
+**Authors:** Evans RW  
+**Journal:** Headache (2018)  
+**PMID:** 29781082  **DOI:** 10.1111/head.13326
+**Entities:** —  
+**Abstract:** 
 
 ### Review of Vestibular and Oculomotor Screening and Concussion Rehabilitation.
 **Authors:** Kontos AP, Deitrick JM, Collins MW, Mucha A  
