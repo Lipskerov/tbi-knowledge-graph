@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-18*
-*Total papers: 3637*
+*Generated: 2026-08-19*
+*Total papers: 3644*
 
 
 ## Cluster: aging_neuro
@@ -5258,6 +5258,13 @@
 **Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) is a debilitating condition caused by one or more concussive insults to the head and is frequently observed in combat Veterans deployed in support of Operation Enduring Fr...
 
+### Progress on rotator cuff tendon-to-bone interface tissue regeneration and repair.
+**Authors:** Wu L, Qian C, Wu N, Shen Y, Xu C et al.  
+**Journal:** Biomaterials science (2026)  
+**PMID:** 42593127  **DOI:** 10.1039/d6bm00763e
+**Entities:** ROS, oxidative stress, TBI  
+**Abstract:** Tendon-bone interface (TBI) injuries, typified by rotator cuff tears, are common musculoskeletal disorders. Their intrinsic healing capacity is limited by pathological conditions such as local hypoxia...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7697,6 +7704,13 @@
 **Entities:** GFAP, TBI  
 **Abstract:** Digital immunoassays enable highly sensitive detection of biomolecules, offering absolute quantification rather than relying on bulk signal intensity. We adapt a digital immunoassay scheme for a nanop...
 
+### Association of blood pressure variability with clinical and biomarker outcomes in moderate to severe TBI: A TRACK-TBI study.
+**Authors:** Wongsripuemtet P, Ohnuma T, Temkin N, Barber J, Kulkarni A et al.  
+**Journal:** Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia (2026)  
+**PMID:** 41915974  **DOI:** 10.1016/j.jocn.2026.111994
+**Entities:** GFAP, UCH-L1, S100B, TBI, NSE  
+**Abstract:** INTRODUCTION: Traumatic brain injury (TBI) represents a significant global health burden and often results in functional impairment. Blood pressure variability (BPV), a surrogate marker of autonomic d...
+
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -8095,6 +8109,13 @@
 **PMID:** 39832298  **DOI:** 10.1093/jnen/nlaf002
 **Entities:** GFAP, Iba1, TBI, MBP  
 **Abstract:** Chitinase 3-like protein 1 (CHI3L1) is emerging as a promising biomarker for assessing intracranial lesion burden and predicting prognosis in traumatic brain injury (TBI) patients. Following experimen...
+
+### Association of Traumatic Meningeal Enhancement on MRI With Clinical Recovery in Patients With Traumatic Brain Injury.
+**Authors:** Turtzo LC, Chapagain NY, Peterkin N, Cota MR, Vorn R et al.  
+**Journal:** Neurology (2025)  
+**PMID:** 39999394  **DOI:** 10.1212/WNL.0000000000213448
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
+**Abstract:** BACKGROUND AND OBJECTIVES: Traumatic meningeal enhancement (TME) can be observed on MRI of patients with acute traumatic brain injury (TBI) and reflects abnormal contrast extravasation into the mening...
 
 ### Prediction of clinical progression in nervous system diseases: plasma glial fibrillary acidic protein (GFAP).
 **Authors:** Zheng X, Yang J, Hou Y, Shi X, Liu K  
@@ -10192,6 +10213,13 @@
 **Entities:** NfL, aging  
 **Abstract:** INTRODUCTION: Repetitive head impacts (RHI) from contact sports may cause a unique pattern of white matter hyperintensities (WMH) on T2-weighted fluid-attenuated inversion recovery (FLAIR) magnetic re...
 
+### Home-cage monitoring as a sensitive tool for detecting subtle behavioral alterations following mild traumatic brain injury.
+**Authors:** Richmond-Hacham B, Pick CG, Bikovski L  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 42437586  **DOI:** 10.1016/j.expneurol.2026.115929
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Home-cage monitoring (HCM) has emerged as a powerful approach for detecting subtle and context-dependent behavioral alterations in rodent models. In this mini-review, we integrate clinical observation...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -10681,6 +10709,13 @@
 **PMID:** 38995598  **DOI:** 10.1007/s40279-024-02068-3
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: To describe sex differences in concussion characteristics in US Service Academy cadets. DESIGN: Descriptive epidemiology study. SETTING: Four US service academies. PARTICIPANTS: 2209 cadets...
+
+### Analysis of Concussions Reported in American Professional Football Injury Reports in the 2019 Through 2023 Regular Seasons.
+**Authors:** O'Malley GR, Sarwar SA, Posner KM, Polavarapu H, Adams D et al.  
+**Journal:** World neurosurgery (2024)  
+**PMID:** 38735562  **DOI:** 10.1016/j.wneu.2024.05.026
+**Entities:** NfL  
+**Abstract:** OBJECTIVE: The National Football League (NFL) has seen increasing scrutiny regarding its management of concussions, especially following an on-field incident involving the Miami Dolphins' quarterback ...
 
 ### Consensus statement on concussion in sport: the 6th International Conference on Concussion in Sport-Amsterdam, October 2022.
 **Authors:** Patricios JS, Schneider KJ, Dvorak J, Ahmed OH, Blauwet C et al.  
@@ -12240,6 +12275,13 @@
 **Authors:** Underwood E  
 **Journal:** Science (New York, N.Y.) (2013)  
 **PMID:** 23520084  **DOI:** 10.1126/science.339.6126.1367
+**Entities:** —  
+**Abstract:** 
+
+### Helmet-to-helmet contact: avoiding a lifetime penalty by creating a duty to scan active NFL players for chronic traumatic encephalopathy.
+**Authors:** Drysdale TA  
+**Journal:** The Journal of legal medicine (2013)  
+**PMID:** 24328519  **DOI:** 10.1080/01947648.2013.859969
 **Entities:** —  
 **Abstract:** 
 
@@ -22354,6 +22396,13 @@
 **PMID:** 42600764  **DOI:** 10.1016/j.expneurol.2026.115979
 **Entities:** ROS, oxidative stress, TBI, MBP  
 **Abstract:** Traumatic brain injury (TBI) evolves through time-dependent secondary injury, but whether seawater (SW) immersion merely amplifies pathology or reshapes the temporal trajectory of post-traumatic biolo...
+
+### Mesenchymal stem cell-derived secretome in traumatic brain injury: Stage-specific paracrine mechanisms and translational challenges.
+**Authors:** Huang J, Zhang W, Huang G, Lai W, Huang Q et al.  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 42480635  **DOI:** 10.1016/j.expneurol.2026.115935
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a stage-dependent disorder that evolves from acute neuroinflammation, blood-brain barrier (BBB) disruption, oxidative stress, excitotoxicity, and apoptosis to subacute ...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
