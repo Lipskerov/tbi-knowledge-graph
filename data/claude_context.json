@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3644,
+  "n_papers": 3646,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -340,6 +340,14 @@
     ],
     "nqo2": [
       {
+        "pmid": "42617972",
+        "title": "The \u03b2-Carboline Derivative Carbacetam Attenuates Mortality and Neuroendocrine Dysfunction in a Rodent Model of Traumatic Brain Injury: A Multi-Target Pharmacological and Molecular Docking Study.",
+        "authors": "Yevstifeiev DI, Ziablitsev SV, Aleksandrenko NO, Bohza SL, Bilson MY et al.",
+        "year": 2026,
+        "journal": "Neuropharmacology",
+        "entities": "NQO2, TBI"
+      },
+      {
         "pmid": "42604624",
         "title": "Isorhoifolin regulates S1PR3-CK2-GSK3\u03b2 axis and promotes neurite regrowth and functional recovery after traumatic brain injury.",
         "authors": "Wang Y, Liao WL, Wang C, Li YC, Lu TH et al.",
@@ -410,14 +418,6 @@
         "year": 2026,
         "journal": "Frontiers in immunology",
         "entities": "NQO2, IL-1\u03b2"
-      },
-      {
-        "pmid": "41777491",
-        "title": "NQO1 and NQO2 Gene Polymorphisms Related to Methamphetamine-Associated Psychosis in the Makassar Population, Indonesia.",
-        "authors": "Ludong DH, Supart\u0131n\u0131 T, Isma\u0131l I",
-        "year": 2026,
-        "journal": "Noro psikiyatri arsivi",
-        "entities": "NQO2, NQO1"
       }
     ],
     "ppcs_prognosis": [
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42617790",
+        "title": "Multi-omics integration identifies VIM and LGALS3 as apoptosis-associated genes in astrocytes after traumatic brain injury.",
+        "authors": "Wang B, Wang Y, Cao W, Wang P, Yang X et al.",
+        "year": 2026,
+        "journal": "Neuroscience",
+        "entities": "GFAP, TBI"
+      },
+      {
         "pmid": "42600764",
         "title": "Seawater immersion reshapes the temporal dynamics of traumatic brain injury and reveals mitochondrial oxidative stress as a modifiable therapeutic target.",
         "authors": "Li W, He R, Xie S, Li M, Liu J et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "Experimental neurology",
         "entities": "ROS, neuroinflammation, oxidative stress, BBB, TBI"
-      },
-      {
-        "pmid": "42472813",
-        "title": "Lyophilized platelet derived extracellular vesicles promote hemostasis and attenuate intracranial hemorrhage following traumatic brain injury.",
-        "authors": "Trivedi A, Miyazawa B, Fields AT, Matthews M, Vivona L et al.",
-        "year": 2026,
-        "journal": "Journal of translational medicine",
-        "entities": "neuroinflammation, BBB, TBI"
       }
     ]
   },
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1979
+      "paper_count": 1981
     },
     {
       "name": "mTBI",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 504
+      "paper_count": 505
     },
     {
       "name": "tau",
@@ -835,7 +835,7 @@
     {
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 313
+      "paper_count": 314
     },
     {
       "name": "ROS",
@@ -952,7 +952,7 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 421.0
+      "weight": 422.0
     },
     {
       "source": "Alzheimer",

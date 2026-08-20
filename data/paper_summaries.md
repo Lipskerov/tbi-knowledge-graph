@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-19*
-*Total papers: 3644*
+*Generated: 2026-08-20*
+*Total papers: 3646*
 
 
 ## Cluster: aging_neuro
@@ -12470,6 +12470,13 @@
 **Entities:** NQO2, ROS, neuroinflammation, BBB, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) disrupts anatomical structure and cellular signaling, yet the molecular mechanisms governing endogenous repair remain incompletely defined. Accumulating eviden...
 
+### The β-Carboline Derivative Carbacetam Attenuates Mortality and Neuroendocrine Dysfunction in a Rodent Model of Traumatic Brain Injury: A Multi-Target Pharmacological and Molecular Docking Study.
+**Authors:** Yevstifeiev DI, Ziablitsev SV, Aleksandrenko NO, Bohza SL, Bilson MY et al.  
+**Journal:** Neuropharmacology (2026)  
+**PMID:** 42617972  **DOI:** 10.1016/j.neuropharm.2026.111155
+**Entities:** NQO2, TBI  
+**Abstract:** Carbacetam is a synthetic β-carboline with clinical neuroprotective potential whose primary targets include quinone reductase 2 (QR2), neuronal L-type calcium channels (Cav1.2), DYRK1A kinase, and the...
+
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
 **Journal:** The Biochemical journal (2025)  
@@ -22403,6 +22410,13 @@
 **PMID:** 42480635  **DOI:** 10.1016/j.expneurol.2026.115935
 **Entities:** ROS, neuroinflammation, oxidative stress, BBB, TBI  
 **Abstract:** Traumatic brain injury (TBI) is a stage-dependent disorder that evolves from acute neuroinflammation, blood-brain barrier (BBB) disruption, oxidative stress, excitotoxicity, and apoptosis to subacute ...
+
+### Multi-omics integration identifies VIM and LGALS3 as apoptosis-associated genes in astrocytes after traumatic brain injury.
+**Authors:** Wang B, Wang Y, Cao W, Wang P, Yang X et al.  
+**Journal:** Neuroscience (2026)  
+**PMID:** 42617790  **DOI:** 10.1016/j.neuroscience.2026.08.027
+**Entities:** GFAP, TBI  
+**Abstract:** Apoptosis contributes substantially to neurological deficits after traumatic brain injury (TBI), yet the molecular drivers and cellular regulation of astrocyte-associated apoptosis remain poorly defin...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

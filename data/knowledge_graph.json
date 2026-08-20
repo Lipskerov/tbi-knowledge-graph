@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T07:46:13.417737",
-  "n_papers": 3644,
+  "generated_at": "2026-08-20T07:48:46.454109",
+  "n_papers": 3646,
   "n_entities": 115,
   "n_edges": 643,
   "cluster_stats": {
@@ -8,19 +8,19 @@
     "exosomal_rna": 331,
     "gfap_uchl1": 385,
     "nfl_tau": 323,
-    "nqo2": 377,
+    "nqo2": 378,
     "ppcs_prognosis": 355,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 372,
     "tbi_panel_poc": 244,
-    "tbi_proteomics": 527
+    "tbi_proteomics": 528
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1979,
+      "paper_count": 1981,
       "centrality": 0.4123
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 504,
+      "paper_count": 505,
       "centrality": 0.2895
     },
     {
@@ -76,7 +76,7 @@
       "id": 1,
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 313,
+      "paper_count": 314,
       "centrality": 0.3421
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 421.0,
-      "n_papers": 421.0,
+      "weight": 422.0,
+      "n_papers": 422.0,
       "annotation": null
     },
     {
@@ -5324,6 +5324,16 @@
       "annotation": null
     },
     {
+      "source": "NQO2",
+      "target": "TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 4.0,
+      "n_papers": 4.0,
+      "annotation": null
+    },
+    {
       "source": "UCH-L1",
       "target": "TNF-\u03b1",
       "relation": "co-occurs",
@@ -5806,16 +5816,6 @@
     {
       "source": "NfH",
       "target": "MBP",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 3.0,
-      "n_papers": 3.0,
-      "annotation": null
-    },
-    {
-      "source": "IL-1\u03b2",
-      "target": "NSE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
