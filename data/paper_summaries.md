@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-20*
-*Total papers: 3646*
+*Generated: 2026-08-21*
+*Total papers: 3647*
 
 
 ## Cluster: aging_neuro
@@ -424,6 +424,13 @@
 **PMID:** 42576170  **DOI:** 10.1002/alz.71743
 **Entities:** GFAP, NfL, tau, p-tau, Alzheimer  
 **Abstract:** INTRODUCTION: Subjective cognitive concerns frequently diverge from objective cognitive performance in cognitively unimpaired (CU) older adults, yet the neurobiological basis of this mismatch remains ...
+
+### Brain aging clocks: From methodological advances to cellular mechanisms.
+**Authors:** Suk K  
+**Journal:** Experimental gerontology (2026)  
+**PMID:** 42543123  **DOI:** 10.1016/j.exger.2026.113260
+**Entities:** GFAP, NfL, tau, p-tau, BBB  
+**Abstract:** Brain aging represents a critical risk factor for neurodegenerative diseases and cognitive decline, yet the measurement of biological brain age remains challenging. Brain aging clocks, which quantify ...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
