@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3647,
+  "n_papers": 3649,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -628,6 +628,14 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42628128",
+        "title": "Biomarker-informed prediction of neurosurgical intervention in pediatric traumatic brain injury: a proof-of-concept study.",
+        "authors": "Reisner A, Alawieh AM, Lepard JR, Baer AV, Zohdy YM et al.",
+        "year": 2026,
+        "journal": "Journal of neurosurgery. Pediatrics",
+        "entities": "GFAP, UCH-L1, NfL, tau, TBI, Simoa, Quanterix"
+      },
+      {
         "pmid": "42603320",
         "title": "DYNAMIC BIOMARKERS FOR PREDICTING POST-TRAUMATIC EPILEPSY AFTER TRAUMATIC BRAIN INJURY.",
         "authors": "Kurbanov A, Abdullaeva Y, Badritdinova M, Abdullaeva V, Khalimova F et al.",
@@ -698,14 +706,6 @@
         "year": 2026,
         "journal": "Journal of market access & health policy",
         "entities": "TBI"
-      },
-      {
-        "pmid": "42339785",
-        "title": "Diagnostic performance of point-of-care ultrasound for pediatric skull fractures: A systematic review and meta-analysis.",
-        "authors": "Wang X, Rao G, Yang G, Ye Y, Jiang X et al.",
-        "year": 2026,
-        "journal": "The Journal of international medical research",
-        "entities": null
       }
     ],
     "tbi_proteomics": [
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1981
+      "paper_count": 1982
     },
     {
       "name": "mTBI",
@@ -805,32 +805,32 @@
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 679
+      "paper_count": 680
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 639
+      "paper_count": 640
     },
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 506
+      "paper_count": 507
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 394
+      "paper_count": 395
     },
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 343
+      "paper_count": 344
     },
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 319
+      "paper_count": 321
     },
     {
       "name": "NQO2",
@@ -850,7 +850,7 @@
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 247
+      "paper_count": 248
     },
     {
       "name": "PPCS",
@@ -920,7 +920,7 @@
     {
       "name": "Simoa",
       "type": "drug",
-      "paper_count": 60
+      "paper_count": 61
     },
     {
       "name": "GOS-E",
@@ -952,12 +952,12 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 422.0
+      "weight": 423.0
     },
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 344.0
+      "weight": 345.0
     },
     {
       "source": "ROS",
@@ -967,12 +967,12 @@
     {
       "source": "tau",
       "target": "TBI",
-      "weight": 226.0
+      "weight": 227.0
     },
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 225.0
+      "weight": 226.0
     },
     {
       "source": "mTBI",
@@ -982,7 +982,7 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 215.0
+      "weight": 216.0
     },
     {
       "source": "GFAP",
@@ -997,7 +997,7 @@
     {
       "source": "NfL",
       "target": "TBI",
-      "weight": 190.0
+      "weight": 191.0
     },
     {
       "source": "neuroinflammation",
@@ -1012,12 +1012,12 @@
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 184.0
+      "weight": 185.0
     },
     {
       "source": "GFAP",
       "target": "tau",
-      "weight": 164.0
+      "weight": 165.0
     },
     {
       "source": "S100B",
@@ -1032,7 +1032,7 @@
     {
       "source": "NfL",
       "target": "tau",
-      "weight": 162.0
+      "weight": 163.0
     },
     {
       "source": "TBI",
@@ -1045,19 +1045,19 @@
       "weight": 142.0
     },
     {
+      "source": "neuroinflammation",
+      "target": "Alzheimer",
+      "weight": 128.0
+    },
+    {
       "source": "GFAP",
       "target": "S100B",
       "weight": 128.0
     },
     {
       "source": "neuroinflammation",
-      "target": "Alzheimer",
-      "weight": 127.0
-    },
-    {
-      "source": "neuroinflammation",
       "target": "aging",
-      "weight": 123.0
+      "weight": 124.0
     },
     {
       "source": "UCH-L1",
@@ -1087,7 +1087,7 @@
     {
       "source": "NfL",
       "target": "Alzheimer",
-      "weight": 101.0
+      "weight": 102.0
     },
     {
       "source": "S100B",
@@ -1117,7 +1117,7 @@
     {
       "source": "UCH-L1",
       "target": "tau",
-      "weight": 91.0
+      "weight": 92.0
     },
     {
       "source": "NQO2",
@@ -1150,13 +1150,13 @@
       "weight": 81.0
     },
     {
-      "source": "ROS",
-      "target": "Alzheimer",
-      "weight": 79.0
-    },
-    {
       "source": "UCH-L1",
       "target": "NfL",
+      "weight": 80.0
+    },
+    {
+      "source": "ROS",
+      "target": "Alzheimer",
       "weight": 79.0
     },
     {

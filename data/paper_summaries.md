@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-21*
-*Total papers: 3647*
+*Generated: 2026-08-22*
+*Total papers: 3649*
 
 
 ## Cluster: aging_neuro
@@ -431,6 +431,13 @@
 **PMID:** 42543123  **DOI:** 10.1016/j.exger.2026.113260
 **Entities:** GFAP, NfL, tau, p-tau, BBB  
 **Abstract:** Brain aging represents a critical risk factor for neurodegenerative diseases and cognitive decline, yet the measurement of biological brain age remains challenging. Brain aging clocks, which quantify ...
+
+### Toward Precision Diagnosis of Late-Life Mood Disorders: A Neuropathology-Informed Framework and Research Agenda.
+**Authors:** Elhossieny E, Awan AI, Sweeney E, Eldokmak M  
+**Journal:** The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry (2026)  
+**PMID:** 42103608  **DOI:** 10.1016/j.jagp.2026.04.001
+**Entities:** NfL, neuroinflammation, Alzheimer, aging  
+**Abstract:** OBJECTIVE: Late-onset mood disorders frequently emerge in the context of aging-related brain changes, medical comorbidity, and cognitive vulnerability, complicating diagnosis and treatment. Symptom-ba...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -20342,6 +20349,13 @@
 **PMID:** 42603320  
 **Entities:** GFAP, NfL, IL-6, TNF-α, IL-1β  
 **Abstract:** BACKGROUND: Post-traumatic epilepsy (PTE) is a delayed complication of traumatic brain injury (TBI), but its biological predictors remain insufficiently defined. This study evaluated the dynamic profi...
+
+### Biomarker-informed prediction of neurosurgical intervention in pediatric traumatic brain injury: a proof-of-concept study.
+**Authors:** Reisner A, Alawieh AM, Lepard JR, Baer AV, Zohdy YM et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2026)  
+**PMID:** 42628128  **DOI:** 10.3171/2026.4.PEDS25694
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
+**Abstract:** OBJECTIVE: Emerging traumatic brain injury (TBI) guidelines increasingly recognize the role of blood-based biomarkers in improving diagnostic and triage accuracy, yet their integration into pediatric ...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
