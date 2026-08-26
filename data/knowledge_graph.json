@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-22T07:38:25.926070",
-  "n_papers": 3649,
+  "generated_at": "2026-08-26T07:52:56.294873",
+  "n_papers": 3650,
   "n_entities": 115,
   "n_edges": 643,
   "cluster_stats": {
-    "aging_neuro": 727,
+    "aging_neuro": 728,
     "exosomal_rna": 331,
     "gfap_uchl1": 385,
     "nfl_tau": 323,
@@ -41,7 +41,7 @@
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 640,
+      "paper_count": 641,
       "centrality": 0.3158
     },
     {

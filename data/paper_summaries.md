@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-22*
-*Total papers: 3649*
+*Generated: 2026-08-26*
+*Total papers: 3650*
 
 
 ## Cluster: aging_neuro
@@ -438,6 +438,13 @@
 **PMID:** 42103608  **DOI:** 10.1016/j.jagp.2026.04.001
 **Entities:** NfL, neuroinflammation, Alzheimer, aging  
 **Abstract:** OBJECTIVE: Late-onset mood disorders frequently emerge in the context of aging-related brain changes, medical comorbidity, and cognitive vulnerability, complicating diagnosis and treatment. Symptom-ba...
+
+### Cellular viscous properties in senescence: An emerging biophysical perspective and potential biomarker.
+**Authors:** Kim JH, Nih LR, Park S  
+**Journal:** Ageing research reviews (2026)  
+**PMID:** 42435941  **DOI:** 10.1016/j.arr.2026.103255
+**Entities:** aging  
+**Abstract:** Cellular mechanical properties are key regulators of diverse cellular functions. In particular, cellular senescence, a state of permanent cell cycle arrest, is closely associated with mechanical alter...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
