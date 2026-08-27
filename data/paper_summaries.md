@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-26*
-*Total papers: 3650*
+*Generated: 2026-08-27*
+*Total papers: 3656*
 
 
 ## Cluster: aging_neuro
@@ -5286,6 +5286,13 @@
 **Entities:** ROS, oxidative stress, TBI  
 **Abstract:** Tendon-bone interface (TBI) injuries, typified by rotator cuff tears, are common musculoskeletal disorders. Their intrinsic healing capacity is limited by pathological conditions such as local hypoxia...
 
+### Traumatic Brain Injury in the Omics Era: Plasma and Extracellular Vesicle Proteomic Signatures in Polytrauma.
+**Authors:** Leppik L, Weber B, Schindler CR, Funda L, Krüger M et al.  
+**Journal:** Medical sciences (Basel, Switzerland) (2026)  
+**PMID:** 42646564  **DOI:** 10.3390/medsci14040429
+**Entities:** TBI  
+**Abstract:** 
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -7731,6 +7738,20 @@
 **PMID:** 41915974  **DOI:** 10.1016/j.jocn.2026.111994
 **Entities:** GFAP, UCH-L1, S100B, TBI, NSE  
 **Abstract:** INTRODUCTION: Traumatic brain injury (TBI) represents a significant global health burden and often results in functional impairment. Blood pressure variability (BPV), a surrogate marker of autonomic d...
+
+### Click-Chemistry-Enhanced Dynamic Light Scattering Immunoassay for Ultrasensitive GFAP Detection in Traumatic Brain Injury.
+**Authors:** Tong W, Fang H, Yao M, Chen Y, Zhang S et al.  
+**Journal:** Analytical chemistry (2026)  
+**PMID:** 42610888  **DOI:** 10.1021/acs.analchem.6c03218
+**Entities:** GFAP, TBI  
+**Abstract:** Traumatic brain injury (TBI) requires a rapid and objective assessment; however, current diagnostic methodologies are constrained by subjectivity, reliance on imaging techniques, and insufficient sens...
+
+### Divergent recovery trajectories after mild traumatic brain injury are characterized by distinct acute profiles of neurofilament light, 4R-tau, and white matter diffusivity.
+**Authors:** Papini MG, Thorne J, Gozt AK, Avila ANC, Ellery CS et al.  
+**Journal:** Journal of neurology (2026)  
+**PMID:** 42642675  **DOI:** 10.1007/s00415-026-14060-0
+**Entities:** GFAP, NfL, tau, mTBI, TBI  
+**Abstract:** OBJECTIVES: Blood-based and diffusion MRI (dMRI) biomarkers of white matter injury after acute mild traumatic brain injury (mTBI) were examined to: (1) distinguish mTBI from healthy controls (HC); (2)...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -16792,6 +16813,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** Rest is commonly prescribed following a mild traumatic brain injury (mTBI). There is concern that cognitive exertion by an acutely or sub-acutely injured brain may negatively alter outcome. The object...
 
+### Executive summary: The Brain Injury and Mechanism of Action of Hyperbaric Oxygen for Persistent Post-Concussive Symptoms after Mild Traumatic Brain Injury (mTBI) (BIMA) Study.
+**Authors:** Weaver LK, Chhoeu A, Lindblad AS, Churchill S, Deru K et al.  
+**Journal:** Undersea & hyperbaric medicine : journal of the Undersea and Hyperbaric Medical Society, Inc (2016)  
+**PMID:** 28768068  
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** The Brain Injury and Mechanism of Action of Hyperbaric Oxygen for Persistent Post-Concussive Symptoms after Mild Traumatic Brain Injury (mTBI) (BIMA) study, sponsored by the Department of Defense and ...
+
 ### Physiological, vestibulo-ocular and cervicogenic post-concussion disorders: an evidence-based classification system with directions for treatment.
 **Authors:** Ellis MJ, Leddy JJ, Willer B  
 **Journal:** Brain injury (2015)  
@@ -17225,6 +17253,13 @@
 **PMID:** 19858968  **DOI:** 10.1097/HTR.0b013e3181ae35fd
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** OBJECTIVE: To investigate the sequelae of mild traumatic brain injury (MTBI) by comparing selected outcomes of emergency department-diagnosed patients with mild head injuries to those with non-head in...
+
+### Care of war veterans with mild traumatic brain injury--flawed perspectives.
+**Authors:** Hoge CW, Goldberg HM, Castro CA  
+**Journal:** The New England journal of medicine (2009)  
+**PMID:** 19369664  **DOI:** 10.1056/NEJMp0810606
+**Entities:** —  
+**Abstract:** 
 
 ### Early prediction of favourable recovery 6 months after mild traumatic brain injury.
 **Authors:** Stulemeijer M, van der Werf S, Borm GF, Vos PE  
@@ -22445,6 +22480,13 @@
 **PMID:** 42617790  **DOI:** 10.1016/j.neuroscience.2026.08.027
 **Entities:** GFAP, TBI  
 **Abstract:** Apoptosis contributes substantially to neurological deficits after traumatic brain injury (TBI), yet the molecular drivers and cellular regulation of astrocyte-associated apoptosis remain poorly defin...
+
+### Advanced glycomics approach for characterization of IgG glycan alterations and immune modulation in traumatic brain injury.
+**Authors:** Onigbinde S, Solomon J, Sandilya V, Daramola O, Fowowe M et al.  
+**Journal:** Analytica chimica acta (2026)  
+**PMID:** 42648802  **DOI:** 10.1016/j.aca.2026.345882
+**Entities:** neuroinflammation, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) poses significant health challenges, involving complex immune responses and neuroinflammation. In TBI, immunoglobulin G (IgG) plays a key role in modulating ne...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
