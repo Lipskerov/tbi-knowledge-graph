@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-27*
-*Total papers: 3656*
+*Generated: 2026-08-28*
+*Total papers: 4343*
 
 
 ## Cluster: aging_neuro
@@ -445,6 +445,594 @@
 **PMID:** 42435941  **DOI:** 10.1016/j.arr.2026.103255
 **Entities:** aging  
 **Abstract:** Cellular mechanical properties are key regulators of diverse cellular functions. In particular, cellular senescence, a state of permanent cell cycle arrest, is closely associated with mechanical alter...
+
+### The promise of GLP-1 receptor agonists for neurodegenerative diseases.
+**Authors:** Athauda D, Greig NH, Meissner WG, Foltynie T, Gandhi S  
+**Journal:** The Journal of clinical investigation (2026)  
+**PMID:** 41697753  **DOI:** 10.1172/JCI194745
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** Glucagon-like peptide-1 receptor agonists (GLP-1RAs), established therapies for type 2 diabetes and obesity, are increasingly recognized for their potential in neurodegenerative diseases. Preclinical ...
+
+### Editorial: Exploring miRNA roles in neuroinflammation and brain aging: mechanisms and therapeutic potential.
+**Authors:** Fukuchi KI, Yang J, Williams J  
+**Journal:** Frontiers in immunology (2026)  
+**PMID:** 42661704  **DOI:** 10.3389/fimmu.2026.1959643
+**Entities:** —  
+**Abstract:** 
+
+### Lysophosphatidylcholines are associated with amyloidosis in early stages of Alzheimer's disease.
+**Authors:** Kalia V, Reyes-Dumeyer D, Dubey S, Udhani H, Nandakumar R et al.  
+**Journal:** Nature aging (2026)  
+**PMID:** 41407938  **DOI:** 10.1038/s43587-025-01025-7
+**Entities:** tau, p-tau, Aβ42, Alzheimer  
+**Abstract:** Circulating metabolites can identify biochemical risk factors related to Alzheimer's disease (AD). We measured plasma metabolites in 1,068 participants of Caribbean Hispanic ancestry (250 patients wit...
+
+### Inflammatory alterations mediate tau-associated neurodegeneration.
+**Authors:** Lao PJ, Lee S, Talmasov D, Dass D, Chikwem N et al.  
+**Journal:** Brain communications (2026)  
+**PMID:** 42404434  **DOI:** 10.1093/braincomms/fcag242
+**Entities:** tau, neuroinflammation, Alzheimer  
+**Abstract:** Microglia monitor and respond to the brain's microenvironment to maintain homeostasis. However, in Alzheimer's disease and related dementias, chronically pro-inflammatory microglia may contribute to p...
+
+### Plasma biomarkers of neurodegeneration and neuroinflammation in intracranial atherosclerotic disease.
+**Authors:** Liu C, Cheng A, Zou Y, Wang H, Ai Z et al.  
+**Journal:** Brain communications (2026)  
+**PMID:** 42158847  **DOI:** 10.1093/braincomms/fcag125
+**Entities:** GFAP, NfL, tau, p-tau, neuroinflammation  
+**Abstract:** Intracranial atherosclerotic stenosis is a leading cause of stroke and an increasingly recognized contributor to cognitive impairment and dementia. The mechanisms underlying cognitive dysfunction in i...
+
+### Senescence-associated gene signatures predict survival in lung cancer: a multi-cohort analysis.
+**Authors:** Ungvári Z, Menyhart O, Ocana A, Fekete M, Lehoczki A et al.  
+**Journal:** GeroScience (2026)  
+**PMID:** 41014483  **DOI:** 10.1007/s11357-025-01894-1
+**Entities:** aging  
+**Abstract:** Lung cancer is a leading cause of cancer-related mortality worldwide and is predominantly diagnosed in older adults, underscoring the need to explore aging-related biological mechanisms that influence...
+
+### Irradiation-induced brain senescence accelerates cardiac aging via systemic mechanisms: insights from transcriptomic profiling.
+**Authors:** Gulej R, Patai R, Kiss T, Chandragiri SS, Ekambaram S et al.  
+**Journal:** GeroScience (2026)  
+**PMID:** 41139380  **DOI:** 10.1007/s11357-025-01953-7
+**Entities:** neuroinflammation, aging  
+**Abstract:** Aging is characterized by a coordinated functional decline across multiple organs. While cell-autonomous mechanisms contribute to local aging phenotypes, the systemic synchronicity of aging suggests a...
+
+### Free-water imaging predicts cognitive decline and clinical progression in cognitively normal older adults.
+**Authors:** He H, Zhang C, Yu D, Gao X, Wei C et al.  
+**Journal:** Journal of affective disorders (2026)  
+**PMID:** 41485514  **DOI:** 10.1016/j.jad.2025.121108
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** The main objective of this study was to investigate the role of cortical free-water (cFW) imaging as a sensitive biomarker for tau-related microstructural injury and cognitive decline in preclinical A...
+
+### Neuroinflammation and Cellular Senescence in Brain Aging and Neurodegeneration.
+**Authors:** Zhang L, Li L, Wang X, Ma L, Yan L et al.  
+**Journal:** Aging and disease (2026)  
+**PMID:** 41701880  **DOI:** 10.14336/AD.2025.1538
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Against the backdrop of a rapidly aging global population, the incidence of neurodegenerative diseases such as Alzheimer's and Parkinson's continues to rise, imposing a severe socioeconomic burden. Ne...
+
+### Brain endothelial cell-derived extracellular vesicles (c-BEEVs) as a promising biomarker for brain vascular pathology and cognitive decline.
+**Authors:** You T, Wang Y, Xu J, Zhao Y, Peng S et al.  
+**Journal:** Nature aging (2026)  
+**PMID:** 42120733  **DOI:** 10.1038/s43587-026-01117-y
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Accurate measurement of brain vascular pathology is essential for understanding its role in cognitive aging. Here we classified participants using the amyloid-tau-neurodegeneration framework in a mult...
+
+### Ultraprocessed Foods and the Aging Brain: State of the Science.
+**Authors:** Carmichael OT, Agarwal P, Albensi BC, Balendra V, D'Cunha NM et al.  
+**Journal:** Annual review of nutrition (2026)  
+**PMID:** 42139153  **DOI:** 10.1146/annurev-nutr-061824-053453
+**Entities:** aging  
+**Abstract:** Ultraprocessed foods (UPFs), which feature reductions in naturally occurring food components (fiber, phytochemicals) as well as the addition of fat, sugar, salt, and artificial food components (colori...
+
+### Neuropharmacology of synaptic plasticity: pathways to cognitive resilience in healthy aging.
+**Authors:** Goel F, Singh P, Rai SN, Yadav DK  
+**Journal:** 3 Biotech (2026)  
+**PMID:** 41502480  **DOI:** 10.1007/s13205-025-04673-z
+**Entities:** ROS, BDNF, neuroinflammation, oxidative stress, resveratrol  
+**Abstract:** The aging process is associated with gradual cognitive decline resulting from deficits in synaptic plasticity, the brain's natural ability to adapt and reshape its neural circuitry. This review highli...
+
+### Cellular senescence in brain aging and neurodegeneration: from molecular mechanisms to translational opportunities.
+**Authors:** Cantero-Fortiz Y, Butler C, Montalbán X, Boada M  
+**Journal:** Frontiers in cellular neuroscience (2026)  
+**PMID:** 42239645  **DOI:** 10.3389/fncel.2026.1805691
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Aging remains the predominant risk factor for Alzheimer's disease (AD) and other neurodegenerative disorders, yet the mechanisms linking systemic aging to brain dysfunction remain incompletely underst...
+
+### Association of plasma p-tau and p-tau/Aβ ratio with Alzheimer's pathology.
+**Authors:** Chen X, Jiang M, Zhang L, Zhu J, Li A et al.  
+**Journal:** The journal of prevention of Alzheimer's disease (2026)  
+**PMID:** 41478832  **DOI:** 10.1016/j.tjpad.2025.100472
+**Entities:** tau, p-tau, Aβ42, Alzheimer, Quanterix  
+**Abstract:** BACKGROUND: Plasma phosphorylated tau (p-tau) and β-amyloid (Aβ) are promising biomarkers for Alzheimer's disease (AD). However, it remains unclear whether combining p-tau with Aβ provides better pred...
+
+### Aging beyond diagnosis: the MRI brain age gap across disorders.
+**Authors:** Mhanna HYA, Oestreich LKL, Vashistha R, Wang Y, Vegh V  
+**Journal:** GeroScience (2026)  
+**PMID:** 42142219  **DOI:** 10.1007/s11357-026-02315-7
+**Entities:** Alzheimer, aging  
+**Abstract:** The brain age gap (BAG), the difference between magnetic resonance imaging-predicted brain age and chronological age, is a proposed marker of neurobiological aging, yet its transdiagnostic significanc...
+
+### Multimorbidity and Associations with Cognition and Alzheimer's Disease Biomarkers.
+**Authors:** Jiang X, O'Bryant SE, Rissman RA, Johnson LA, Braskie MN et al.  
+**Journal:** Annals of neurology (2026)  
+**PMID:** 42083115  **DOI:** 10.1002/ana.78238
+**Entities:** NfL, tau, p-tau, Alzheimer, aging  
+**Abstract:** OBJECTIVE: Multimorbidity, the coexistence of 2 or more chronic conditions, has been linked to cognitive aging and Alzheimer's disease (AD) and AD-related dementias, yet the mechanisms remain unclear....
+
+### Lipid Metabolism Reprogramming in the Aging Brain: Glial-Mediated Pathogenic Mechanisms and Translational Strategies in Neurodegeneration.
+**Authors:** Shao W, Wang K, Liu Y, Zhang H, Sun Z et al.  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 42353303  **DOI:** 10.3390/ijms27125580
+**Entities:** BBB, Alzheimer, aging  
+**Abstract:** The mammalian brain fundamentally relies on precise lipid homeostasis to maintain structural integrity and complex neural signaling. Emerging evidence positions lipid metabolism reprogramming not mere...
+
+### Food-Derived Omega-3 Fatty Acids and Cognitive Aging: Integrating Nutritional Neuroscience and Geroscience.
+**Authors:** Mózes N, Lipécz Á, Csípő T, Fazekas-Pongor V, Major D et al.  
+**Journal:** Nutrients (2026)  
+**PMID:** 42654174  **DOI:** 10.3390/nu18162594
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Within the emerging field of nutritional neuroscience, omega-3 fatty acids are among the most extensively investigated dietary bioactive compounds with potential relevance to cognitive aging. As popul...
+
+### How molecular mechanisms of aging drive Alzheimer's disease pathology.
+**Authors:** Chang J, Liu T, Cheng X, Wei J  
+**Journal:** Cellular signalling (2026)  
+**PMID:** 41679524  **DOI:** 10.1016/j.cellsig.2026.112426
+**Entities:** tau, neuroinflammation, Alzheimer, aging  
+**Abstract:** Aging is a "multidimensional engine" of biological dysfunction that can fundamentally reshape the pathology of Alzheimer's disease (AD), This review systematically elaborates on how aging synergistica...
+
+### The bone-cerebrovascular axis: effects of bone aging on neurovascular dysfunction and neurodegeneration.
+**Authors:** Wang J, Cao X, Wan M  
+**Journal:** The Journal of clinical investigation (2026)  
+**PMID:** 42454488  **DOI:** 10.1172/JCI207273
+**Entities:** Alzheimer, aging  
+**Abstract:** Beyond serving as a structural organ, the skeleton undergoes continuous remodeling and functions as an endocrine organ by secreting bioactive factors that regulate the physiology of distant tissues. I...
+
+### Brain aging in neurodevelopmental disorders: a narrative review of oxidative, inflammatory, and mitochondrial mechanisms.
+**Authors:** de Aguiar da Costa M, de Rezende VL, Bolan SJ, Ebs MFP, da Silva G et al.  
+**Journal:** Neurodegenerative disease management (2026)  
+**PMID:** 41636576  **DOI:** 10.1080/17582024.2026.2623966
+**Entities:** ROS, GFAP, NfL, neuroinflammation, oxidative stress  
+**Abstract:** Neurodevelopmental disorders (NDDs), including autism spectrum disorder, attention deficit/hyperactivity disorder, intellectual disability, and Down syndrome, are increasingly examined through the len...
+
+### Exploring the causal relationship between telomere regulation, aging and neurological disorders.
+**Authors:** Gupta G, Ali H, Singh SK, Dua K, Jha SK  
+**Journal:** Ageing research reviews (2026)  
+**PMID:** 41202895  **DOI:** 10.1016/j.arr.2025.102930
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Telomere biology is important for aging and is the cause of the pathogenesis of many neurological disorders, including Alzheimer's disease (AD), Parkinson's disease (PD), multiple sclerosis (MS), stro...
+
+### Gut-Derived Metabolites and Cognitive Health: Roles of Short-Chain Fatty Acids and Trimethylamine N-oxide.
+**Authors:** Gupta DK, Kumar R  
+**Journal:** Cureus (2026)  
+**PMID:** 41815605  **DOI:** 10.7759/cureus.103206
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, Alzheimer  
+**Abstract:** The gut microbiota has emerged as an important regulator of host physiology, extending well beyond digestion and metabolism. Increasing attention has focused on the gut-brain axis, a bidirectional com...
+
+### Ultra-Processed Foods, MASLD, and Cognitive Aging: A Processing-Centered Gut-Liver-Brain Axis Perspective.
+**Authors:** Chen Y, Gui H, Zhao T, Liu C, Zhang Y et al.  
+**Journal:** Nutrients (2026)  
+**PMID:** 42451045  **DOI:** 10.3390/nu18132041
+**Entities:** aging  
+**Abstract:** 
+
+### Targeting cellular senescence through nutritional senotherapeutics in brain aging and neurodegenerative diseases.
+**Authors:** Salas-Venegas V, López-Diazguerrero NE, Ramírez-Carreto RJ, Konigsberg M, Chavarría A  
+**Journal:** Frontiers in nutrition (2026)  
+**PMID:** 42609608  **DOI:** 10.3389/fnut.2026.1824908
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, quercetin  
+**Abstract:** Cellular senescence has emerged as a key contributor to brain aging and neurodegenerative diseases, which are increasing in prevalence as life expectancy rises. Senescent cells accumulate in multiple ...
+
+### Senescent Astrocytes: A New Player in Brain Aging and Cognitive Decline.
+**Authors:** Pessoa B, Hayashide LS, Dias G, Pontes B, Pinto RS et al.  
+**Journal:** Brain sciences (2026)  
+**PMID:** 41594798  **DOI:** 10.3390/brainsci16010076
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, aging  
+**Abstract:** Astrocytes are critical for maintaining brain homeostasis through metabolic support, neurotransmitter regulation, and blood-brain barrier integrity. In the aging brain and neurodegenerative conditions...
+
+### Subjective memory concerns and AD/ADRD plasma biomarker associations in HABS-HD.
+**Authors:** Thomas KR, Terao CM, Weigand AJ, Petersen M, O'Bryant S et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2026)  
+**PMID:** 41971641  **DOI:** 10.1002/dad2.70324
+**Entities:** NfL, tau, p-tau, Aβ42, Alzheimer  
+**Abstract:** INTRODUCTION: We examined relationships among subjective memory concerns (SMC), plasma biomarkers, and objective memory within racially/ethnically diverse older adults. METHODS: Participants included ...
+
+### Migraine and menopause as converging factors in brain vulnerability: a hypothesis-driven perspective.
+**Authors:** Gazerani P  
+**Journal:** The journal of headache and pain (2026)  
+**PMID:** 42243649  **DOI:** 10.1186/s10194-026-02404-0
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Migraine is a highly prevalent neurological disorder with a pronounced female predominance, yet its relationship with brain aging remains incompletely understood. Across the female lifespan, migraine ...
+
+### Sleep-related Alzheimer's disease vulnerability in aging: A muscle-metabolic perspective.
+**Authors:** Coccurello R  
+**Journal:** Neuroscience and biobehavioral reviews (2026)  
+**PMID:** 42442566  **DOI:** 10.1016/j.neubiorev.2026.106869
+**Entities:** ROS, tau, BDNF, neuroinflammation, oxidative stress  
+**Abstract:** Sleep disruption is a hallmark of aging and a plausible driver of Alzheimer's disease vulnerability. Reduced slow-wave sleep, increased fragmentation, and circadian instability may facilitate amyloid-...
+
+### MicroRNA-Mediated Regulation of Brain Aging Hallmarks: Implications for Neurodegeneration and Neural Recovery.
+**Authors:** Ardah MT, Patel PN, Waleed OS, K V J, Tripathi V et al.  
+**Journal:** Brain and behavior (2026)  
+**PMID:** 42087557  **DOI:** 10.1002/brb3.71466
+**Entities:** neuroinflammation, Alzheimer, MBP, aging  
+**Abstract:** PURPOSE: Aging is a progressive biological process characterized by the decline of cellular and tissue homeostasis, increasing vulnerability to chronic diseases, especially neurodegeneration. This rev...
+
+### Rethinking on bile acid-brain axis: decoding neurotoxic and neuroprotective landscape in aging and Alzheimer's disease.
+**Authors:** Singh G, Aran KR  
+**Journal:** Biogerontology (2026)  
+**PMID:** 41524809  **DOI:** 10.1007/s10522-025-10384-y
+**Entities:** tau, BBB, Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) is a progressive neurodegenerative condition in which aging serves as the predominant risk factor. Emerging research underscores the importance of bile acids (BAs), traditiona...
+
+### Evaluating senescence-targeted approaches in Alzheimer's Disease: What we know and what lies ahead.
+**Authors:** Doshi PP, Desale SH, Khutale AA, Sabarathinam S, Suresh S  
+**Journal:** Ageing research reviews (2026)  
+**PMID:** 41565079  **DOI:** 10.1016/j.arr.2026.103029
+**Entities:** tau, neuroinflammation, BBB, Alzheimer, quercetin  
+**Abstract:** Alzheimer's disease (AD) is a progressive and irreversible neurodegenerative disease, which represents the most prevalent dementia worldwide. Although amyloid-β (Aβ) and tau pathology have been the cl...
+
+### Integrated analysis of spatial and single-cell profiles reveals cell type-specific regulation of synaptic plasticity in human brain aging.
+**Authors:** Guan J, Wang T, Zhou Y, Li X, Zhao X et al.  
+**Journal:** Human molecular genetics (2026)  
+**PMID:** 41495924  **DOI:** 10.1093/hmg/ddaf202
+**Entities:** aging  
+**Abstract:** Aging is intricately linked to neurodegenerative diseases and cognitive decline, with the prefrontal cortex (PFC) playing a critical role in higher cognitive functions such as decision-making and memo...
+
+### Identifying early changes in imaging, plasma, and digital cognitive biomarkers that correspond to Alzheimer's disease pathology in the presence of autopsy-confirmed co-pathologies.
+**Authors:** Chen CD, Aguero C, Melloni A, Healy BC, Thibault EG et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2026)  
+**PMID:** 41505204  **DOI:** 10.1002/alz.71092
+**Entities:** GFAP, NfL, tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Alzheimer's disease (AD) biomarkers are assessed on their ability to detect AD pathophysiology in vivo, with confirmation of AD neuropathology only at autopsy. METHODS: Positron emission...
+
+### The cellular choreography of brain aging: a neuroimmune network perspective.
+**Authors:** Müller L, Di Benedetto S, Müller V  
+**Journal:** Frontiers in aging neuroscience (2026)  
+**PMID:** 42253366  **DOI:** 10.3389/fnagi.2026.1848642
+**Entities:** BBB, aging  
+**Abstract:** Brain aging is increasingly recognized as a heterogeneous and systems-level process involving dynamic interactions among neuronal, glial, vascular, and immune-associated cell populations. Recent advan...
+
+### Unlocking the aging brain: mTORC1 as a convergent integrator for neurodegeneration and therapeutic intervention.
+**Authors:** Rejili M, Al-Kuraishy HM, Shokr MM, Batiha GE  
+**Journal:** Biogerontology (2026)  
+**PMID:** 42295556  **DOI:** 10.1007/s10522-026-10457-6
+**Entities:** tau, neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Aging is the primary risk factor for neurodegenerative diseases, characterized by a progressive decline in cellular homeostasis. Central to this process is the mammalian target of rapamycin complex 1 ...
+
+### Targeting neuroplasticity in old brain: restoring synapse with cognitive strategies.
+**Authors:** Kopalli SR, Kale MB, Yadav A, Alshahrani S, Mohammed A et al.  
+**Journal:** Biogerontology (2026)  
+**PMID:** 41741808  **DOI:** 10.1007/s10522-026-10408-1
+**Entities:** ROS, neuroinflammation, oxidative stress, aging  
+**Abstract:** Neuroplasticity, the brain's capacity to adapt and reorganize in response to experiences and environmental changes, is fundamental to cognitive aging. As individuals age, cognitive functions such as m...
+
+### Engineered Clostridium butyricum-pMTL007-GLP-1 Delays Neurodegeneration in Prnp-SNCA*A53T Transgenic Mice Model by Suppressing Astrocyte Senescence.
+**Authors:** Liao B, Ding L, Chen W, Yue M, Wang Y et al.  
+**Journal:** Probiotics and antimicrobial proteins (2026)  
+**PMID:** 40627051  **DOI:** 10.1007/s12602-025-10638-8
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, Alzheimer  
+**Abstract:** Astrocyte senescence has been identified as a factor in the progression of Parkinson's disease (PD) and the onset of age-related cognitive decline. Glucagon-like peptide-1 (GLP-1) has developed into a...
+
+### Neuromarkers of Adaptive Neuroplasticity and Cognitive Resilience Across Aging: A Multimodal Integrative Review.
+**Authors:** Neyra Chauca JM, Ornelas Sánchez MJ, García Quintana N, Martín Del Campo Márquez KL, Carvajal Juarez BA et al.  
+**Journal:** Neurology international (2026)  
+**PMID:** 41591084  **DOI:** 10.3390/neurolint18010010
+**Entities:** BDNF, aging  
+**Abstract:** BACKGROUND: Aging is traditionally characterized by progressive structural and cognitive decline; however, increasing evidence shows that the aging brain retains a remarkable capacity for reorganizati...
+
+### Polycomb Repressive Complex 2 (PRC2): A Context-Dependent Epigenetic Regulator of Brain Aging.
+**Authors:** Katsianou MA, Vetsika EK, Markouli M, Piperi C, Gargalionis AN  
+**Journal:** Biomolecules (2026)  
+**PMID:** 42650840  **DOI:** 10.3390/biom16081175
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain aging is characterized by extensive and dynamic epigenetic changes that reshape chromatin architecture and influence gene regulatory networks, leading to deregulation of transcriptional programs...
+
+### PDK4 as a metabolic biomarker of chronic hydrocephalus.
+**Authors:** Clarke R, Villers P, Bills C, Rice M, Higgins M et al.  
+**Journal:** Frontiers in genetics (2026)  
+**PMID:** 41938620  **DOI:** 10.3389/fgene.2026.1780231
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** BACKGROUND: Chronic hydrocephalus (CH) is a heterogeneous neurological disorder characterized by persistent ventricular enlargement and neurovascular dysfunction in the aging brain. Despite its clinic...
+
+### Plasma p-tau217 and cognitive impairment: Evaluating biomarker equity across racial/ethnic groups in HABS-HD.
+**Authors:** Hayes CA, Najmi Z, Contreras JA, Dharmapuri A, Winston CN et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2026)  
+**PMID:** 41767155  **DOI:** 10.1002/dad2.70269
+**Entities:** tau, p-tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Plasma phosphorylated tau 217 (p-tau217) is a leading blood-based biomarker of Alzheimer's disease. Its performance in underrepresented racial/ethnic groups remains insufficiently charac...
+
+### Ancestry-specific effects of APOE on Alzheimer Disease Endophenotypes.
+**Authors:** Boeriu AI, Gu T, Fullton-Howard B, Lucero EM, Shortt J et al.  
+**Journal:** medRxiv : the preprint server for health sciences (2026)  
+**PMID:** 41929284  **DOI:** 10.64898/2026.03.23.26349095
+**Entities:** NfL, tau, p-tau, Aβ42, Alzheimer  
+**Abstract:** IMPORTANCE: APOE*ε4 is the strongest genetic risk factor for Alzheimer's disease (AD), yet its effect varies across ancestral populations. As blood-based biomarkers increasingly inform AD diagnosis, f...
+
+### Characterization of Cellular Senescence in Primary Human Astrocytes.
+**Authors:** Woodham TA, Kelsey MMG, Sedivy JM  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42094538  **DOI:** 10.64898/2026.04.29.721581
+**Entities:** IL-6, IL-1β, Alzheimer, aging  
+**Abstract:** Senescent astrocytes have been identified in the brains of patients with neurodegenerative disorders, including Alzheimer's disease, yet the molecular characteristics of replicative senescence in huma...
+
+### Exploring Stem Cell Based Senotherapeutic Strategies for Targeting Cellular Senescence in Brain Aging.
+**Authors:** Sharma P, Bhattacharyya S  
+**Journal:** Stem cell reviews and reports (2026)  
+**PMID:** 41973384  **DOI:** 10.1007/s12015-026-11117-5
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Cellular senescence is characterized by a state of stable proliferation arrest which ultimately leads to decline in the regenerative potential of cells, tissues and organ. Several factors like oxidati...
+
+### tRNA-derived fragments are elevated in the aging brain and may contribute to neurodegeneration.
+**Authors:** Nguyen LD, Kobayashi A, Ndayisaba A, Khurana V, Ivanov P et al.  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42239154  **DOI:** 10.64898/2026.05.15.725455
+**Entities:** Alzheimer, aging  
+**Abstract:** tRNA-derived fragments (tRFs) are a class of small noncoding RNAs with emerging roles in stress responses and gene regulation, yet their dynamics across tissues and brain regions during aging remain p...
+
+### Revisiting the cognitive potential of lithium in alzheimer's disease: the role of cholinergic system and brain connectivity.
+**Authors:** Pini L, Imbimbo BP, Pomara N  
+**Journal:** Translational psychiatry (2026)  
+**PMID:** 42477313  **DOI:** 10.1038/s41398-026-04307-9
+**Entities:** tau, neuroinflammation, Alzheimer, MBP, aging  
+**Abstract:** Recent evidence demonstrating a marked reduction in endogenous brain lithium levels in mild cognitive impairment and Alzheimer's disease (AD) has renewed interest in lithium as a physiological modulat...
+
+### From Neuron-Centric to Glia-Centric: How Aging Glial Networks Drive Neurodegenerative Disease.
+**Authors:** Hayashide LS, Pessoa B, Dias G, Pontes B, Pinto RS et al.  
+**Journal:** Journal of neurochemistry (2026)  
+**PMID:** 41591255  **DOI:** 10.1111/jnc.70361
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** The traditional neuron-centric view of neurodegeneration is being replaced by a glial network-based framework. This shift recognizes that age-related dysfunction in non-neuronal cells critically shape...
+
+### Beyond the barrier: Physiological determinants of nanoformulation availability in the aging brain.
+**Authors:** Teng RD, Sun JM, Yen TL, Taliyan R, Hsieh CT et al.  
+**Journal:** Ageing research reviews (2026)  
+**PMID:** 42532421  **DOI:** 10.1016/j.arr.2026.103281
+**Entities:** BBB, aging  
+**Abstract:** Nanomedicine has revolutionized brain-targeted therapeutics; however, most design paradigms remain centered on overcoming the blood-brain barrier while overlooking the dynamic physiological milieu tha...
+
+### Plasma biomarker-informed brain topology for cognitive resilience: applications in non-pharmacological interventions concerning cognitive aging.
+**Authors:** Ai M, Zhou S, Li D, Yu F, Heffner KL et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2026)  
+**PMID:** 42004207  **DOI:** 10.1002/dad2.70330
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: In the context of non-pharmacological interventions (NPIs), cognitive resilience refers to the capacity to enhance cognition from NPIs in the presence of neurodegeneration, and it is clo...
+
+### MethylCog predicts six-year cognitive ability beyond blood-based ADRD biomarkers.
+**Authors:** O'Shea DM, Wang L, Lukacsovich D, Zhang W, Galvin JE  
+**Journal:** medRxiv : the preprint server for health sciences (2026)  
+**PMID:** 42245039  **DOI:** 10.64898/2026.05.26.26354133
+**Entities:** Alzheimer  
+**Abstract:** INTRODUCTION: MethylCog is a 29-CpG blood DNA methylation (DNAm) proxy for general cognitive ability (g). Its incremental association with blood biomarkers of Alzheimer's disease and related dementias...
+
+### Derivation of an intrinsic brain activity biomarker for the earliest prediction of cognitive decline.
+**Authors:** Prichep LS, Zaidi SN, Brink K, Kanakia S, Liang B et al.  
+**Journal:** Scientific reports (2026)  
+**PMID:** 41571830  **DOI:** 10.1038/s41598-026-35144-x
+**Entities:** Alzheimer  
+**Abstract:** Early identification of cognitive decline in the elderly is essential for timely and effective intervention. Current neuroimaging and clinical biomarkers have largely focused on patients with mild cog...
+
+### Decoupling MCI-specific signatures from shared neurobiological substrates of cognitive aging via deep learning.
+**Authors:** Peng B, Du L, Dang M, Li T, Li Z et al.  
+**Journal:** NPJ digital medicine (2026)  
+**PMID:** 42026117  **DOI:** 10.1038/s41746-026-02597-3
+**Entities:** Alzheimer, aging  
+**Abstract:** The specific neuroanatomy of mild cognitive impairment (MCI) is obscured by its clinical heterogeneity and confounding effects from normative variation. This problem is compounded by the inability of ...
+
+### Integrative bibliometric and transcriptomic analyses identify selenium-associated molecular signatures in the aging brain.
+**Authors:** Liu S, Yan B, Gao H, Zhang L, Zhang Z et al.  
+**Journal:** Frontiers in aging neuroscience (2026)  
+**PMID:** 42157858  **DOI:** 10.3389/fnagi.2026.1791352
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** BACKGROUND AND PURPOSE: The aging brain is particularly sensitive to alterations in selenium status. Selenium deficiency has been associated with impaired neural function, cognitive decline, and incre...
+
+### Targeting the Adipose-Brain Axis: Adipokines as Key Modulators of Cognitive Dysfunction.
+**Authors:** Ruankham P, Thiankhaw K, Chattipakorn N, Chattipakorn SC  
+**Journal:** Current neuropharmacology (2026)  
+**PMID:** 42515874  **DOI:** 10.2174/011570159X483381260714095824
+**Entities:** ROS, TNF-α, neuroinflammation, oxidative stress, Alzheimer  
+**Abstract:** INTRODUCTION: Adipose tissue is an active endocrine organ that secretes adipokines capable of modulating brain function through metabolic, inflammatory, vascular, and neurotrophic pathways. Emerging e...
+
+### The emerging role of circular RNAs in neurodegenerative diseases and viral infections.
+**Authors:** Medina F, Bellizzi A  
+**Journal:** Journal of neurovirology (2026)  
+**PMID:** 42426288  **DOI:** 10.1007/s13365-026-01324-8
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Circular RNAs (circRNAs) represent a class of highly stable, covalently closed RNA molecules increasingly recognized as important regulators of brain aging and neurodegenerative disease. Growing evide...
+
+### Nutritional substrates and microglial metabolic fitness in brain aging and Alzheimer's disease: from lipid handling to TREM2-linked translation.
+**Authors:** Li Z, Ming Q, Fu L, Yang J, Lv Y et al.  
+**Journal:** Frontiers in nutrition (2026)  
+**PMID:** 42488212  **DOI:** 10.3389/fnut.2026.1886340
+**Entities:** Alzheimer, aging  
+**Abstract:** Alzheimer's disease is increasingly viewed as a disorder in which age-related disturbances in microglial metabolism and the handling of nutritional substrates contribute to progressive loss of protect...
+
+### Toward Precision Neuropsychiatry of Dementia: Neuropsychiatric Symptoms as Multidimensional Clinical Phenotypes.
+**Authors:** Shinagawa S, Nagata T  
+**Journal:** Psychogeriatrics : the official journal of the Japanese Psychogeriatric Society (2026)  
+**PMID:** 42608660  **DOI:** 10.1111/psyg.70209
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Neuropsychiatric symptoms (NPS) are the most clinically consequential manifestations of dementia, yet they are frequently underestimated as secondary behavioural complications. This review introduces ...
+
+### Cerebrospinal fluid sclerostin levels in the early Alzheimer's disease stages.
+**Authors:** Dicarlo M, Pignataro P, Urso D, Zecca C, Dell'Abate MT et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2026)  
+**PMID:** 41821749  **DOI:** 10.1002/dad2.70297
+**Entities:** tau, p-tau, Aβ42, Alzheimer  
+**Abstract:** INTRODUCTION: Sclerostin, a negative regulator of bone formation, has been involved in memory impairment in Alzheimer's disease (AD) mouse models and is increased in elderly people at risk of AD. Here...
+
+### Protecting the Aging Brain in Diabetes: Mechanism, Biomarkers, and Emerging Therapeutic Frontiers in Cognitive Impairment-A Comprehensive Review.
+**Authors:** Singh AK, Dunde V, Maurya MH, Vora N, Maheta D et al.  
+**Journal:** Cardiology in review (2026)  
+**PMID:** 42533301  **DOI:** 10.1097/CRD.0000000000001405
+**Entities:** ROS, NfL, tau, p-tau, neuroinflammation  
+**Abstract:** Diabetes, which impacts over 500 million individuals globally, has been identified as a significant risk factor for accelerated cognitive aging, mild cognitive impairment, and various forms of dementi...
+
+### The prognostic potential of circulating BDNF levels and its polymorphisms in age-related cognitive impairment and neurodegeneration.
+**Authors:** Tulupova TV, Vedunova MV, Mitroshina EV  
+**Journal:** Frontiers in aging neuroscience (2026)  
+**PMID:** 42577511  **DOI:** 10.3389/fnagi.2026.1901527
+**Entities:** tau, BDNF, Alzheimer, aging  
+**Abstract:** Brain-derived neurotrophic factor (BDNF) is essential for neuronal survival, synaptic plasticity, and cognitive function. Age-related decline in BDNF signaling has been implicated in the pathogenesis ...
+
+### A biphasic astrocytic PTGDS trajectory marks a metabolic vulnerability stage in prodromal Alzheimer's disease.
+**Authors:** Kim Y, Heo W, Park SJ, Kim Y, Cho YE et al.  
+**Journal:** Research square (2026)  
+**PMID:** 42326500  **DOI:** 10.21203/rs.3.rs-9499795/v2
+**Entities:** Alzheimer  
+**Abstract:** Alzheimer's disease shows prolonged prodromal stability before accelerating decline, yet molecular markers resolving this heterogeneity are limited. Using pseudo-progression analysis of 1.3 million SE...
+
+### Allicin attenuates age-related cognitive and neural decline in a rat model by modulating amyloid burden and regulating BDNF/NrF2 gene expression.
+**Authors:** Hafez MH, Elshafaei HE, Edres HA, Khafaga AF, Noreldin AE et al.  
+**Journal:** Tissue & cell (2026)  
+**PMID:** 41205312  **DOI:** 10.1016/j.tice.2025.103208
+**Entities:** ROS, BDNF, neuroinflammation, oxidative stress, Nrf2  
+**Abstract:** Aging is associated with a progressive decline in physiological functions, particularly in the central nervous system, often driven by oxidative stress and amyloid protein accumulation. Despite increa...
+
+### Brain age gradients as intermediate phenotypes linking plasma p-tau217 to cognition in community-dwelling older adults.
+**Authors:** Riccardi N, Martin A, Pytel D, Newman-Norlund S, Carroll SL et al.  
+**Journal:** NPJ dementia (2026)  
+**PMID:** 42422561  **DOI:** 10.1038/s44400-026-00115-6
+**Entities:** tau, p-tau, Alzheimer, aging  
+**Abstract:** Deep learning-based brain age models quantify regional deviations from normative aging and may capture structural changes relevant to dementia risk. Plasma phosphorylated tau-217 (p-tau217) is a scala...
+
+### Aging alters the vulnerability pattern to amyloid-beta oligomers in wild-type mice: a behavioral and neurobiological study.
+**Authors:** Allouche A, Colin J, Birck C, Schroeder H, Tallandier V et al.  
+**Journal:** Alzheimer's research & therapy (2026)  
+**PMID:** 42067950  **DOI:** 10.1186/s13195-026-02051-2
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** BACKGROUND: Aging is the primary risk factor for sporadic Alzheimer's disease (AD). While amyloid-beta oligomers (AβOs) accumulation is a key neuropathological process in AD, their specific effects in...
+
+### Central Sensitization and Cognitive Vulnerability: A Neurobiological Framework for CNS Resilience and Brain Aging.
+**Authors:** Hackshaw KV  
+**Journal:** Pain medicine (Malden, Mass.) (2026)  
+**PMID:** 42640575  **DOI:** 10.1093/pm/pnag114
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVE: Preservation of central nervous system (CNS) resilience during midlife is increasingly recognized as an important determinant of healthy cognitive aging, as biological processes contributin...
+
+### Behavioral and neuronal biomarkers of aging and disease: Integration with physical performance and function.
+**Authors:** Mimenza-Alvarado AJ, Aguilar-Navarro S, Hernández ME, López-Teros MT  
+**Journal:** Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion (2026)  
+**PMID:** 42623782  **DOI:** 10.1016/j.ric.2026.100054
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Aging is a heterogeneous process characterized by marked variability in biological, cognitive, and functional trajectories among individuals of the same chronological age. Consequently, there is great...
+
+### Targeting the FOXO4-p53 axis by retro-inverso peptide senolytic agents: a pharmacological strategy to mitigate brain aging and cognitive decline.
+**Authors:** Alameen AAM, Al-Kuraishy HM, Fawzy MN, Batiha GE  
+**Journal:** Naunyn-Schmiedeberg's archives of pharmacology (2026)  
+**PMID:** 42024235  **DOI:** 10.1007/s00210-026-05309-6
+**Entities:** tau, neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Cellular senescence, driven by the interaction between FOXO4 and p53, is increasingly recognized as a crucial mechanism in brain aging and the development of neurodegenerative disorders. The senolytic...
+
+### Grip strength modifies the association between blood-based alzheimer's biomarkers and cognitive function.
+**Authors:** Bekena S, Singh RK, Zhu Y, Trani JF, Ances BM et al.  
+**Journal:** GeroScience (2026)  
+**PMID:** 41964835  **DOI:** 10.1007/s11357-026-02246-3
+**Entities:** tau, p-tau, Alzheimer, aging  
+**Abstract:** Blood-based biomarkers are increasingly used to characterize Alzheimer's disease (AD)-related pathology, yet substantial heterogeneity exists in how biomarker burden relates to cognitive performance. ...
+
+### Dietary plant polysaccharides as modulators of brain aging: mechanistic links to inflammaging, the gut brain axis and amyloid tau pathology.
+**Authors:** Bagul VS, Mutha RE  
+**Journal:** Nutritional neuroscience (2026)  
+**PMID:** 42530981  **DOI:** 10.1080/1028415X.2026.2710185
+**Entities:** tau, aging  
+**Abstract:** 
+
+### Cardiac-derived extracellular vesicles carrying miR-4433b-3p accelerate cognitive decline and brain aging by suppressing TP53INP2-mediated neuronal autophagy in mice.
+**Authors:** Cheng Q, Cui Z, Yu S, Li G, Chen H et al.  
+**Journal:** Communications biology (2026)  
+**PMID:** 42243457  **DOI:** 10.1038/s42003-026-10332-7
+**Entities:** aging  
+**Abstract:** Brain aging is not an independent process, yet how systemic aging drives neural decline remains unclear. Here, we identified a circulating miR-4433b-3p, packaged within extracellular vesicles (EVs), a...
+
+### AT(N) Framework in Older Adults with Epilepsy: Plasma Biomarkers and Associations with Demographic, Clinical, and Cognitive Features.
+**Authors:** Arrotta K, Williams M, Thompson NR, Bangen KJ, Reyes A et al.  
+**Journal:** medRxiv : the preprint server for health sciences (2026)  
+**PMID:** 42094138  **DOI:** 10.64898/2026.04.24.26351489
+**Entities:** NfL, tau, p-tau, Alzheimer, aging  
+**Abstract:** BACKGROUND AND OBJECTIVES: Older adults with epilepsy have a 2- to 4-fold increased risk of dementia, including Alzheimer's disease (AD), yet underlying mechanisms remain poorly defined. The NIA-AA cl...
+
+### Rational design of a lipophilic β-galactosidase-responsive near-infrared probe for in vivo imaging of cellular senescence.
+**Authors:** Huang J, Chu F, Feng B, Chen L, Cen P et al.  
+**Journal:** Smart molecules : open access (2026)  
+**PMID:** 42621017  **DOI:** 10.1002/smo2.70091
+**Entities:** BBB  
+**Abstract:** Senescence-associated β-galactosidase (SA-β-gal) is a key biomarker of cellular senescence and has been demonstrated to be a major driver of various age-related diseases and tumor resistance. However,...
+
+### Differential associations of core and non-core plasma biomarkers with cognitive performance in Black adults.
+**Authors:** Zhu Y, Trani JF, Walker AIB, Bekena S, Singh RK et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2026)  
+**PMID:** 42199003  **DOI:** 10.1177/13872877261450646
+**Entities:** tau, p-tau, Alzheimer  
+**Abstract:** BackgroundBlack adults experience disproportionately higher rates of Alzheimer's disease and related dementias (ADRD), yet remain underrepresented in blood-based biomarker research. Understanding how ...
+
+### Diabetes and Hypertension at Midlife Predict Increases in Biomarkers of Dementia Among Black Americans.
+**Authors:** Simons RL, Ong ML, Lei MK, Beach SRH, Lu YW et al.  
+**Journal:** Journal of racial and ethnic health disparities (2026)  
+**PMID:** 40021611  **DOI:** 10.1007/s40615-025-02310-2
+**Entities:** NfL, Alzheimer, aging  
+**Abstract:** BACKGROUND: Compared to other racial/ethnic groups, Black Americans show accelerated brain aging beginning in midlife and exhibit higher rates and earlier onset of dementia. While these patterns are o...
+
+### Patient views on blood-based biomarker tests for Alzheimer's disease in primary care.
+**Authors:** Russell A, Vogeley A, Lovett R, O'Conor R, Batio S et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2026)  
+**PMID:** 41983466  **DOI:** 10.1002/alz.71247
+**Entities:** Alzheimer  
+**Abstract:** INTRODUCTION: Blood-based biomarkers could offer accessible, cost-effective detection of Alzheimer's disease (AD) in primary care. This study examined patient attitudes toward AD biomarker testing. ME...
+
+### Association of Alzheimer's disease blood-based biomarkers and visit-to-visit blood pressure variability: The HABS-HD study.
+**Authors:** Deng J, Li S  
+**Journal:** Journal of Alzheimer's disease : JAD (2026)  
+**PMID:** 42244193  **DOI:** 10.1177/13872877261457455
+**Entities:** Alzheimer, aging  
+**Abstract:** BackgroundThe interplay between Alzheimer's disease (AD) and the cardiovascular system remains poorly understood. While vascular factors influencing AD have been studied, whether AD pathology converse...
+
+### Atraric acid enhances neuronal survival and cognition against D-galactose-induced neurodegeneration via BDNF/TrkB/AKT signaling.
+**Authors:** Nasir T, Choe K, Park HY, Kang MH, Park TJ et al.  
+**Journal:** Inflammopharmacology (2026)  
+**PMID:** 42414763  **DOI:** 10.1007/s10787-026-02320-4
+**Entities:** ROS, BDNF, neuroinflammation, oxidative stress, Alzheimer  
+**Abstract:** Aging-induced neurodegeneration is characterized by cognitive impairment, elevated oxidative stress, neuroinflammation, synaptic loss, and neuronal death. Atraric acid (AA), a phenolic compound obtain...
+
+### Associations of plasma p-Tau217 with cognitive domain performance in clinically unimpaired participants: Evidence from HABS-HD.
+**Authors:** Najmi Z, Dharmapuri A, Contreras JA, Hayes CA  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2026)  
+**PMID:** 42255951  **DOI:** 10.1002/dad2.70370
+**Entities:** tau, p-tau, aging  
+**Abstract:** INTRODUCTION: The relationship between plasma phosphorylated tau 217 (p-Tau217) and domain-specific cognitive performance across race and ethnic groups remains unclear. METHODS: We analyzed data from ...
+
+### Interleukin-6 is associated with white matter hyperintensities and cognition independent of Alzheimer's disease plasma biomarkers-HABS-HD.
+**Authors:** Dharmapuri A, Chaudhuri S, Contreras JA, Hayes CA  
+**Journal:** Journal of Alzheimer's disease : JAD (2026)  
+**PMID:** 42340301  **DOI:** 10.1177/13872877261458367
+**Entities:** NfL, tau, IL-6, TNF-α, Alzheimer  
+**Abstract:** BackgroundChronic inflammation contributes to neurodegeneration and cerebrovascular injury, yet it remains unclear whether inflammatory biomarkers influence white matter hyperintensity (WMH) volume an...
+
+### Epigenetic Regulation of Modulatory Neurotransmitter System Integrity in the Aging Brain: A Scoping Review Across the Lifespan.
+**Authors:** Freij KW, Akbar A, Domoyeri P, Polycarp N, Higginbotham DR et al.  
+**Journal:** Life (Basel, Switzerland) (2026)  
+**PMID:** 42514192  **DOI:** 10.3390/life16071122
+**Entities:** aging  
+**Abstract:** Age-related changes in neurotransmitter systems contribute to declines in cognitive, emotional, and motor function, yet the biological mechanisms linking these changes to aging are not completely unde...
+
+### CogStrat: web-based tools for predicting incident cognitive impairment in cognitively normal older adults.
+**Authors:** Jiménez-Huete A, Ulloa Bravo JS, Martín-Bastida A, Rognoni T, Montoya-Murillo G et al.  
+**Journal:** Journal of neural transmission (Vienna, Austria : 1996) (2026)  
+**PMID:** 42191917  **DOI:** 10.1007/s00702-026-03163-7
+**Entities:** NfL, tau, Aβ42, Alzheimer, aging  
+**Abstract:** Early identification of individuals at increased risk of cognitive impairment is crucial for timely intervention. We developed and evaluated Cox proportional hazards models and translated them into we...
+
+### Orthogonal Contributions of Genetic, Clinical, and Social Determinants of Health Risk Burdens on Alzheimer's Disease Pathophysiology.
+**Authors:** Okorie M, Jiang X, Tolosa-Tort P, Sharma RU, Clark AL et al.  
+**Journal:** medRxiv : the preprint server for health sciences (2026)  
+**PMID:** 42528531  **DOI:** 10.64898/2026.07.07.26357509
+**Entities:** NfL, tau, Alzheimer, aging  
+**Abstract:** IMPORTANCE: Alzheimer's disease (AD) arises from complex interactions among genetic, clinical, and social determinants of health (SDoH) risk factors, yet their independent contributions to underlying ...
+
+### Role of sex and ethnicity in the relationships among physical activity, cognition, and AD biomarkers in the HABS-HD cohort.
+**Authors:** Nel JH, Burma JS, Bodnar TS, McDonough M, Knell G et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2026)  
+**PMID:** 42564605  **DOI:** 10.1002/dad2.70437
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Dementia prevalence is rising with population aging, disproportionately affecting females and ethnically diverse groups. Physical activity (PA) may mitigate age-related cognitive and bra...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -1433,6 +2021,461 @@
 **Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
 **Abstract:** Aging is a progressive and irreversible process, serving as the primary risk factor for neurodegenerative disorders. This study aims to identify the molecular mechanisms underlying physiological aging...
 
+### Senescent-like border-associated macrophages regulate cognitive aging via migrasome-mediated induction of paracrine senescence in microglia.
+**Authors:** Hu M, Kang X, Liu Z, Wang S, Liu S et al.  
+**Journal:** Nature aging (2025)  
+**PMID:** 40931113  **DOI:** 10.1038/s43587-025-00956-5
+**Entities:** Alzheimer, aging  
+**Abstract:** Aging is a major risk factor for various neurological disorders, including Alzheimer's disease, and is associated with the accumulation of senescent cells, which can themselves propagate the senescenc...
+
+### Health and Aging Brain Study-Health Disparities (HABS-HD) methods and partner characteristics.
+**Authors:** Petersen ME, Zhou Z, Hall JR, Phillips N, Meeker KL et al.  
+**Journal:** Alzheimer's & dementia (New York, N. Y.) (2025)  
+**PMID:** 40799724  **DOI:** 10.1002/trc2.70140
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: The Health and Aging Brain Study-Health Disparities (HABS-HD) is an ongoing prospective study aimed at understanding brain health and aging. The current work provides a description of th...
+
+### Exercise orchestrates systemic metabolic and neuroimmune homeostasis via the brain-muscle-liver axis to slow down aging and neurodegeneration: a narrative review.
+**Authors:** Kong J, Xie Y, Fan R, Wang Q, Luo Y et al.  
+**Journal:** European journal of medical research (2025)  
+**PMID:** 40506775  **DOI:** 10.1186/s40001-025-02751-9
+**Entities:** BDNF, IL-6, neuroinflammation, Alzheimer, Nrf2  
+**Abstract:** Aging is a systemic process marked by progressive multi-organ dysfunction, metabolic dysregulation, and chronic low-grade inflammation ("inflammaging"), which collectively drive neurodegenerative dise...
+
+### Alzheimer Disease, Vascular Disease, and Blood-Brain Barrier Permeability Biomarkers in Middle-Aged Adults.
+**Authors:** Edwards NC, Lao P, Alshikho MJ, Mazen J, Huber B et al.  
+**Journal:** Neurology (2025)  
+**PMID:** 41052375  **DOI:** 10.1212/WNL.0000000000214220
+**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Abstract:** BACKGROUND AND OBJECTIVES: Cerebrovascular disease (CVD) influences Alzheimer disease (AD) risk and progression, but the link between vascular disease and AD pathophysiology remains unclear, particula...
+
+### Senescence in Aging and Alzheimer's Disease.
+**Authors:** Sun L, Chen C  
+**Journal:** Aging and disease (2025)  
+**PMID:** 41296937  **DOI:** 10.14336/AD.2025.1201
+**Entities:** Alzheimer, aging  
+**Abstract:** Cellular senescence, once considered a protective mechanism against oncogenesis, is now recognized as a key driver of aging and age-related diseases, including Alzheimer's disease (AD). In the central...
+
+### Aging and diet alter the protein ubiquitylation landscape in the mouse brain.
+**Authors:** Marino A, Di Fraia D, Panfilova D, Sahu AK, Minetti A et al.  
+**Journal:** Nature communications (2025)  
+**PMID:** 40480969  **DOI:** 10.1038/s41467-025-60542-6
+**Entities:** aging  
+**Abstract:** Post-translational modifications (PTMs) regulate protein homeostasis, but how aging impacts PTMs remains unclear. Here, we used mass spectrometry to reveal changes in hundreds of protein ubiquitylatio...
+
+### SIRT3 deficiency exacerbates cognitive decline by disrupting mitochondrial antioxidant homeostasis in D-galactose-induced aging mice.
+**Authors:** An X, Li C, Zeng L, Wang C, Huang S et al.  
+**Journal:** Journal of translational medicine (2025)  
+**PMID:** 41372913  **DOI:** 10.1186/s12967-025-07495-y
+**Entities:** ROS, oxidative stress, SOD, aging  
+**Abstract:** BACKGROUND: Age-related cognitive decline poses a growing clinical burden, with mitochondrial oxidative stress recognized as a key mediator. Sirtuin 3 (SIRT3), a mitochondrial deacetylase, is a potent...
+
+### Plasma proteomic signatures of dual cognitive and mobility decline in older adults.
+**Authors:** Tian Q, Greig EE, Duggan MR, Walker KA, Ferrucci L  
+**Journal:** EBioMedicine (2025)  
+**PMID:** 40752406  **DOI:** 10.1016/j.ebiom.2025.105858
+**Entities:** UCH-L1, p-tau, Aβ42, neuroinflammation, Alzheimer  
+**Abstract:** BACKGROUND: The simultaneous memory and gait decline is linked to greater dementia risk than memory decline alone. We aim to identify dual decline-related protein changes that may offer valuable insig...
+
+### Sex, senescence, senolytics, and cognition.
+**Authors:** Foster TC, Kumar A  
+**Journal:** Frontiers in aging neuroscience (2025)  
+**PMID:** 40103928  **DOI:** 10.3389/fnagi.2025.1555872
+**Entities:** ROS, neuroinflammation, oxidative stress, aging  
+**Abstract:** This review focuses on sexual dimorphism in cellular senescence and senolytic treatment in relation to brain health and age-related cognitive decline. The stressors of aging, DNA damage, inflammation,...
+
+### Senotherapeutics for Brain Aging Management.
+**Authors:** Saliev T, Singh PB  
+**Journal:** Neurology international (2025)  
+**PMID:** 41441223  **DOI:** 10.3390/neurolint17120204
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain aging is a progressive process marked by cellular dysfunction, chronic inflammation, and increased susceptibility to neurodegenerative diseases. A growing body of evidence identifies cellular se...
+
+### What is frustrating the search for treatment of dementia? Fraud or ideas?
+**Authors:** Stone J  
+**Journal:** Journal of Alzheimer's disease : JAD (2025)  
+**PMID:** 40452483  **DOI:** 10.1177/13872877251346044
+**Entities:** Alzheimer  
+**Abstract:** The search for a treatment for dementia has been troubled by recent evidence of laboratory fraud. While acknowledging the seriousness of fraud, the author argues that the search for treatment has been...
+
+### Neuroimmune dynamics and brain aging: mechanisms and consequences.
+**Authors:** Müller L, Di Benedetto S, Müller V  
+**Journal:** Frontiers in aging neuroscience (2025)  
+**PMID:** 41346440  **DOI:** 10.3389/fnagi.2025.1715045
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain aging is accompanied by profound changes in neuroimmune interactions that shape the balance between resilience and vulnerability. Under healthy conditions, glial cells, neurons, vascular element...
+
+### DP1 Receptor Blockade Attenuates Microglial Senescence and Cognitive Decline Caused by PTGDS in Exosomes From Aged Brains.
+**Authors:** Liu Y, Liao P, Yan B, Li D, Zhang S et al.  
+**Journal:** Aging cell (2025)  
+**PMID:** 40974022  **DOI:** 10.1111/acel.70228
+**Entities:** neuroinflammation, aging  
+**Abstract:** Aging leads to neurodegenerative diseases, such as cognitive decline, which are induced by persistent chronic low-grade inflammation in the brain driven by microglial activation. However, whether and ...
+
+### Emerging biomarkers of postoperative delirium at the intersection of neuroinflammation and neurodegeneration.
+**Authors:** Leng K, Maze M, Barreto Chang OL  
+**Journal:** Frontiers in aging neuroscience (2025)  
+**PMID:** 40951922  **DOI:** 10.3389/fnagi.2025.1632947
+**Entities:** GFAP, NfL, tau, IL-6, neuroinflammation  
+**Abstract:** Postoperative delirium (POD) is a common and severe neuropsychiatric complication affecting older adults after surgery. POD is characterized by fluctuating cognitive disturbances, impaired attention, ...
+
+### Correlation Between Irisin and Cognitive Functions in Alzheimer Dementia.
+**Authors:** Pignataro P, Dicarlo M, Zecca C, Urso D, Dell'Abate MT et al.  
+**Journal:** Annals of clinical and translational neurology (2025)  
+**PMID:** 40560607  **DOI:** 10.1002/acn3.70117
+**Entities:** Alzheimer  
+**Abstract:** OBJECTIVE: The myokine irisin, a recent positive mediator of exercise in the brain, shows neuroprotective functions against Alzheimer's disease (AD). The association between irisin and cognition has n...
+
+### Cerebromicrovascular senescence in vascular cognitive impairment: does accelerated microvascular aging accompany atherosclerosis?
+**Authors:** Ungvari A, Nyúl-Tóth Á, Patai R, Csik B, Gulej R et al.  
+**Journal:** GeroScience (2025)  
+**PMID:** 40113668  **DOI:** 10.1007/s11357-025-01621-w
+**Entities:** BBB, aging  
+**Abstract:** Vascular cognitive impairment (VCI) is a leading cause of age-related cognitive decline, driven by cerebrovascular dysfunction and cerebral small vessel disease (CSVD). Emerging evidence suggests that...
+
+### Autophagy and Cellular Senescence in Alzheimer's Disease: Key Drivers of Neurodegeneration.
+**Authors:** Hussain MS, Agrawal N, Ilma B, M M R, Nayak PP et al.  
+**Journal:** CNS neuroscience & therapeutics (2025)  
+**PMID:** 40702750  **DOI:** 10.1111/cns.70503
+**Entities:** tau, Aβ42, neuroinflammation, Alzheimer, aging  
+**Abstract:** BACKGROUND: Alzheimer's disease (AD) is a progressive neurodegenerative disorder in the elderly, characterized by extracellular amyloid β‑ (Aβ) plaque deposition and intracellular neurofibrillary tang...
+
+### Cytokine expression profile in the human brain of older adults.
+**Authors:** Godoy JB, Vialle RA, Dos Santos L, Raittz RT, Wang Y et al.  
+**Journal:** Journal of neuroinflammation (2025)  
+**PMID:** 41044568  **DOI:** 10.1186/s12974-025-03552-x
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** Alzheimer's disease (AD) is a complex neurodegenerative condition linked to chronic neuroinflammation. This study investigates the cytokine gene expression profile in cortical tissue samples from elde...
+
+### Distinctive autophagy/mitophagy biomarker profiles in frontotemporal lobar degeneration and Alzheimer's disease.
+**Authors:** Veverová K, Katonová A, Horáková H, Laczó J, Angelucci F et al.  
+**Journal:** Acta neuropathologica communications (2025)  
+**PMID:** 39972393  **DOI:** 10.1186/s40478-025-01954-9
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Maintaining cellular homeostasis by removing damaged and senescent mitochondria, a process termed mitophagy, is crucial in preventing Alzheimer's disease (AD) and represents a promising therapeutic ta...
+
+### Targeting senescent microglia in progressive multiple sclerosis: a geroscience-informed approach.
+**Authors:** Atkinson J, Dokiburra A, Groover H, Godbout JP, Segal BM et al.  
+**Journal:** Frontiers in immunology (2025)  
+**PMID:** 41126823  **DOI:** 10.3389/fimmu.2025.1681724
+**Entities:** neuroinflammation, Alzheimer, quercetin  
+**Abstract:** Multiple sclerosis (MS) is a neuroinflammatory and neurodegenerative disorder of the central nervous system (CNS). Age is the strongest predictor of disease phenotype, with the majority of older adult...
+
+### Stem-cell-derived extracellular vesicles in neurodegeneration and neuroaging: therapeutic potential and challenges.
+**Authors:** Kumar M, Ray S, Sil S  
+**Journal:** Extracellular vesicles and circulating nucleic acids (2025)  
+**PMID:** 41132506  **DOI:** 10.20517/evcna.2025.65
+**Entities:** neuroinflammation, BBB, Alzheimer, aging  
+**Abstract:** Neuroaging is a complex biological process in which the brain undergoes progressive functional decline marked by synaptic loss, neuroinflammation, and cognitive decline. At the molecular and cellular ...
+
+### Brain Age Acceleration on MRI Due to Poor Sleep: Associations, Mechanisms, and Clinical Implications.
+**Authors:** Toraih EA, Hussein MH, Alali AOA, Alanazi AFK, Almjlad NR et al.  
+**Journal:** Brain sciences (2025)  
+**PMID:** 41440121  **DOI:** 10.3390/brainsci15121325
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Sleep disturbances, affecting nearly half of middle-aged adults, have emerged as modifiable determinants of brain health and dementia risk. Recent advances in machine learning applied to MRI enable th...
+
+### Stress and neurodegeneration: mechanistic insights and therapeutic opportunities for preserving brain resilience.
+**Authors:** Shah A, Doshi G  
+**Journal:** Acta neurologica Belgica (2025)  
+**PMID:** 41372737  **DOI:** 10.1007/s13760-025-02967-w
+**Entities:** ROS, neuroinflammation, Alzheimer, aging  
+**Abstract:** Neurodegenerative diseases such as Alzheimer’s disease, Parkinson’s disease, Huntington’s disease, and Amyotrophic Lateral Sclerosis are strongly influenced by persistent stress, which accelerates bot...
+
+### Preclinical Alzheimer's disease shows alterations in circulating neuronal-derived extracellular vesicle microRNAs in a multiethnic cohort.
+**Authors:** Reho P, Kalia V, Jackson GL, Wang F, Eiten E et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
+**PMID:** 40042514  **DOI:** 10.1002/alz.70050
+**Entities:** tau, BBB, Alzheimer  
+**Abstract:** INTRODUCTION: Alzheimer's disease (AD) is the leading cause of dementia, affecting around 50 million individuals worldwide. Brain-derived extracellular vesicles (EVs) can cross the blood-brain barrier...
+
+### An Update on Neuroaging on Earth and in Spaceflight.
+**Authors:** Kuznetsov NV, Statsenko Y, Ljubisavljevic M  
+**Journal:** International journal of molecular sciences (2025)  
+**PMID:** 40004201  **DOI:** 10.3390/ijms26041738
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Over 400 articles on the pathophysiology of brain aging, neuroaging, and neurodegeneration were reviewed, with a focus on epigenetic mechanisms and numerous non-coding RNAs. In particular, this review...
+
+### Neurobiological correlates of Mild Behavioral Impairment: a systematic review and meta-analysis.
+**Authors:** Remelli F, Barbieri MG, Ferrighi E, Triolo F, Grande G et al.  
+**Journal:** Alzheimer's research & therapy (2025)  
+**PMID:** 41121344  **DOI:** 10.1186/s13195-025-01874-9
+**Entities:** tau, neuroinflammation, Alzheimer  
+**Abstract:** BACKGROUND: Although individuals with Mild Behavioral Impairment (MBI) show an increased rate of developing dementia, it remains uncertain whether MBI should be considered a risk factor or an actual e...
+
+### Biomarkers: From early detection to treatment personalization.
+**Authors:** Fatima S, Tiwari S, Siddiqi B, Quadri SN, Abdin MZ  
+**Journal:** Progress in brain research (2025)  
+**PMID:** 41314745  **DOI:** 10.1016/bs.pbr.2025.08.008
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Neurodegenerative disorders (NDs), such as Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS), present increasing issues associated with the unavoidable aging ...
+
+### Mitochondrial Imbalance in Down Syndrome: A Driver of Accelerated Brain Aging?
+**Authors:** Zuo X  
+**Journal:** Aging and disease (2025)  
+**PMID:** 40249934  **DOI:** 10.14336/AD.2025.0189
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Down syndrome (DS), caused by trisomy of chromosome 21 (HSA21), is a complex condition associated with neurodevelopmental impairments and accelerated brain aging, often culminating in early-onset Alzh...
+
+### Biomarkers of blood-brain barrier and neurovascular unit integrity in human cognitive impairment and dementia.
+**Authors:** French SR, Meyer BP, Arias JC, Levendovzsky SR, Weinkauf CC  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
+**PMID:** 40145342  **DOI:** 10.1002/alz.70104
+**Entities:** BBB, Alzheimer, aging  
+**Abstract:** Blood-brain barrier (BBB) dysfunction is recognized as an early step in the development of Alzheimer's disease and related dementias (ADRD). Biomarkers are needed to monitor BBB integrity over time, b...
+
+### Cortical excitability and the aging brain: toward a biomarker of cognitive resilience.
+**Authors:** Palermo S, Di Fazio C, Scaliti E, Stanziano M, Nigri A et al.  
+**Journal:** Frontiers in psychology (2025)  
+**PMID:** 40040658  **DOI:** 10.3389/fpsyg.2025.1542880
+**Entities:** aging  
+**Abstract:** This perspective article addresses the potential use of cortical excitability (CE) as an indicator of cognitive health in aging people. Changes in CE may be considered a sign of resilience to cognitiv...
+
+### Peripheral blood biomarkers and mild behavioral impairment in mild cognitive impairment: Clinical correlations and mechanistic insights.
+**Authors:** Qiao WY, Guo QM, Li XH  
+**Journal:** World journal of psychiatry (2025)  
+**PMID:** 40933160  **DOI:** 10.5498/wjp.v15.i9.108910
+**Entities:** ROS, GFAP, NfL, tau, p-tau  
+**Abstract:** In the context of global aging, mild behavioral impairment (MBI) is present in 48.9% of patients with mild cognitive impairment (MCI). MBI, a neurobehavioral syndrome in the elderly, is an independent...
+
+### The aggregate proteome of Caenorhabditis elegans mitochondria implicates shared mechanisms of aging and Alzheimer's disease.
+**Authors:** Pahal S, Ganne A, Balasubramaniam M, Griffin ST, Shmookler Reis RJ et al.  
+**Journal:** Frontiers in aging neuroscience (2025)  
+**PMID:** 41607505  **DOI:** 10.3389/fnagi.2025.1713391
+**Entities:** tau, oxidative stress, Alzheimer, 4-HNE, aging  
+**Abstract:** BACKGROUND: Mitochondrial dysfunction and protein aggregation are central features of brain aging and Alzheimer's disease (AD). To define how AD seed proteins modulate these processes, we applied quan...
+
+### Plasma biomarkers, brain amyloid-beta pathology, and cortical thickness in a non-Hispanic White and Black/African American middle-aged community cohort: The HCP-CoBRA study.
+**Authors:** Brodman ST, Heaton N, Triana-Baltzer G, Zeng X, Gogola A et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2025)  
+**PMID:** 41383055  **DOI:** 10.1002/alz.70985
+**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Abstract:** INTRODUCTION: We evaluated plasma biomarker association with, and classification accuracies for, amyloid beta-positron emission tomography (Aβ-PET) and cortical thickness in the biracial Human Connect...
+
+### Glial Cells as Emerging Therapeutic Targets in Neurodegenerative Diseases: Mechanistic Insights and Translational Perspectives.
+**Authors:** Vishnumukkala T, Che Mohd Nassir CMN, Hein ZM, Kalerammana Gopalakrishna P, Karikalan B et al.  
+**Journal:** Cells (2025)  
+**PMID:** 41090725  **DOI:** 10.3390/cells14191497
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Neurodegenerative diseases such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease, multiple sclerosis, and amyotrophic lateral sclerosis share converging mechanisms of neuron...
+
+### An integrated computational approach for diversity-sensitive personalized medicine.
+**Authors:** Coronel-Oliveros C, Gatica M, Herzog R, Neri M  
+**Journal:** Neuroscience (2025)  
+**PMID:** 40818825  **DOI:** 10.1016/j.neuroscience.2025.08.019
+**Entities:** Alzheimer, aging  
+**Abstract:** Diversity in biological, social, and environmental factors plays a central role in shaping brain health and disease. Distinct brain disorders frequently exhibit overlapping clinical phenotypes, despit...
+
+### Cellular senescence, neuroinflammation, and microRNAs: Possible interactions driving aging and neurodegeneration in the hippocampal neurogenic niche.
+**Authors:** Polzer O, Kinloch E, Fitzsimons CP  
+**Journal:** Aging brain (2025)  
+**PMID:** 40584008  **DOI:** 10.1016/j.nbas.2025.100141
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Cellular senescence influences normal physiology and ageing-related diseases, including neurodegeneration. Senescent cells accumulate with age in the brain, secreting pro-inflammatory factors that pro...
+
+### Synergistic Autophagy-Related Mechanisms of Protection Against Brain Aging and AD: Cellular Pathways and Therapeutic Strategies.
+**Authors:** Cordos B, Tero-Vescan A, Hampson IN, Oliver AW, Slevin M  
+**Journal:** Pharmaceuticals (Basel, Switzerland) (2025)  
+**PMID:** 40573225  **DOI:** 10.3390/ph18060829
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain aging is driven by interconnected processes, including impaired autophagy, chronic inflammation, mitochondrial dysfunction, and cellular senescence, all of which contribute to neurovascular decl...
+
+### The effect of APOE4 on Alzheimer's plasma biomarkers among Mexican Americans in the HABS-HD cohort.
+**Authors:** Contreras JA, Ortega NE, Espejo K, Aslanyan V, Pa J et al.  
+**Journal:** Alzheimer's research & therapy (2025)  
+**PMID:** 41029418  **DOI:** 10.1186/s13195-025-01845-0
+**Entities:** NfL, tau, TNF-α, Aβ42, Alzheimer  
+**Abstract:** BACKGROUND AND OBJECTIVES: The relationship between APOE4 status and plasma biomarkers previously shown to be related to Alzheimer's risk have not been carefully examined among Mexican Americans. This...
+
+### Imaging of Cerebral Iron as an Emerging Marker for Brain Aging, Neurodegeneration, and Cerebrovascular Diseases.
+**Authors:** Zhou CH, Zhu YC  
+**Journal:** Brain sciences (2025)  
+**PMID:** 41008304  **DOI:** 10.3390/brainsci15090944
+**Entities:** Alzheimer, aging  
+**Abstract:** Iron is critical for brain development, metabolism, and function; however, dysregulated iron disposition contributes to neurological diseases. Many neuroimaging techniques have enabled detection of ir...
+
+### Alternative splicing and the aging brain in AfrAbia: New frontiers in dementia research.
+**Authors:** Aremu SA  
+**Journal:** IBRO neuroscience reports (2025)  
+**PMID:** 40600167  **DOI:** 10.1016/j.ibneur.2025.06.006
+**Entities:** Alzheimer, aging  
+**Abstract:** AfrAbia (Sub-Saharan Africa and Arab world), is undergoing a significant demographic shift characterized by increased longevity and rising dementia rates. Despite this, molecular insights into brain a...
+
+### Senolytics as Modulators of Critical Signaling Pathways: a Promising Strategy to Combat Brain Aging and Neurodegenerative Disorders.
+**Authors:** Singh I, Singh AK  
+**Journal:** Molecular neurobiology (2025)  
+**PMID:** 41351658  **DOI:** 10.1007/s12035-025-05504-1
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, quercetin  
+**Abstract:** Aging of the brain, an intricate process, is a significant risk factor for neurodegenerative disorders (NDDs), such as Alzheimer's disease and Parkinson's disease. Senescent cell accumulation is an im...
+
+### Pulsatile Brain Motion as a Marker of Brain Aging and Dementia: Insights from 3D q-aMRI.
+**Authors:** Terem I, Younes K, Weiss S, Dreisbach A, Vossler H et al.  
+**Journal:** medRxiv : the preprint server for health sciences (2025)  
+**PMID:** 41409662  **DOI:** 10.64898/2025.12.10.25341649
+**Entities:** Alzheimer, aging  
+**Abstract:** Heart-brain interactions, including cardiac-induced brain pulsatility, are thought to support brain homeostasis, yet their alteration with aging and neurodegeneration remains poorly understood. Here, ...
+
+### Tandem HILIC-IMAC strategy for simultaneous N-glycoproteomics and phosphoproteomics in aging mouse brain.
+**Authors:** Ding X, Shang D, Cui Y, Dong X, Chen C et al.  
+**Journal:** Journal of chromatography. A (2025)  
+**PMID:** 39566287  **DOI:** 10.1016/j.chroma.2024.465525
+**Entities:** aging  
+**Abstract:** Abnormal glycosylation and phosphorylation are strongly associated with brain aging. N-glycosylation and phosphorylation are closely involved in pathological processes in a crosstalk dependent manner....
+
+### Preclinical Alzheimer's and vascular biomarkers alter brain aging in cognitively normal adults: a MRI-based study.
+**Authors:** Torres U, Bernal D, Gurrutxaga I, Estanga A, Martínez-Lage P et al.  
+**Journal:** Frontiers in aging neuroscience (2025)  
+**PMID:** 41368215  **DOI:** 10.3389/fnagi.2025.1653074
+**Entities:** tau, p-tau, Aβ42, Alzheimer, aging  
+**Abstract:** INTRODUCTION: The aging global population underscores the need to understand brain aging and its links to neurodegenerative diseases. While most brain aging studies use cognitive impairment as exclusi...
+
+### Adult ADHD as a risk factor for dementia: integrating longitudinal evidence, mechanistic insights, and the role of stimulant treatment.
+**Authors:** Golimstok A, Berrios W  
+**Journal:** Frontiers in dementia (2025)  
+**PMID:** 41477452  **DOI:** 10.3389/frdem.2025.1735357
+**Entities:** ROS, tau, neuroinflammation, oxidative stress, Alzheimer  
+**Abstract:** Adult attention-deficit/hyperactivity disorder (ADHD) is increasingly recognized as a persistent neurodevelopmental condition with long-term implications for cognitive aging and dementia risk. Epidemi...
+
+### Neuropathology and Biomarker Correlates of Late Onset Alzheimer's Disease in Aged Old World Monkeys.
+**Authors:** Zeiss CJ, Duque A, Huttner A  
+**Journal:** Toxicologic pathology (2025)  
+**PMID:** 41257351  **DOI:** 10.1177/01926233251388069
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Non-invasive predictive biomarkers for preclinical Alzheimer's disease (AD) may inform future dementia risk and support early intervention for AD. In this review, we describe clinical, biomarker and n...
+
+### Sleep architecture in Alzheimer's disease continuum: The deep sleep question.
+**Authors:** Foukarakis I, Sampatakakis SN, Mamalaki E, Kyrozis A, Ntanasi E et al.  
+**Journal:** Open life sciences (2025)  
+**PMID:** 40151623  **DOI:** 10.1515/biol-2025-1077
+**Entities:** Aβ42, Alzheimer  
+**Abstract:** As sleep appears to be closely related to cognitive status, we aimed to explore the association between the percentage of deep sleep, cognitive state, and the cerebrospinal fluid (CSF) biomarker amylo...
+
+### Chemically Induced Senescence Prompts Functional Changes in Human Microglia-Like Cells.
+**Authors:** Armanville S, Tocco C, Haj Mohamad Z, Clarke D, Robitaille R et al.  
+**Journal:** Journal of immunology research (2025)  
+**PMID:** 40041406  **DOI:** 10.1155/jimr/3214633
+**Entities:** neuroinflammation, aging  
+**Abstract:** In response to various stressors, cells can enter a state called cellular senescence which is characterized by irreversible cell cycle arrest and a senescence-associated secretory phenotype (SASP). Th...
+
+### Deep Learning-Based MRI Analysis Reveals Lewy Body Co-Pathology Accelerates Brain Aging in Alzheimer's Disease.
+**Authors:** Ahmadi B, Armstrong M, Asken BM, Reisi-Gahrooei M, Babajani-Feremi A et al.  
+**Journal:** Research square (2025)  
+**PMID:** 40678251  **DOI:** 10.21203/rs.3.rs-6874970/v1
+**Entities:** Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) and Lewy body (LB) pathology frequently co-occur. Recent advances in cerebrospinal fluid (CSF) α-synuclein seed amplification assays (SAA) enable
+
+### Exploring the relationship between larmor-frequency electrical conductivity, diffusivity, and tissue volume in the aging brain.
+**Authors:** Park T, Choi Y, Kwon HJ, Lee MB, Rhee HY et al.  
+**Journal:** Quantitative imaging in medicine and surgery (2025)  
+**PMID:** 40384663  **DOI:** 10.21037/qims-24-2145
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: The aging brain undergoes various microstructural changes that influence its electrical properties. Conductivity, a measure of ion mobility, is particularly sensitive to these changes and ...
+
+### Biomolecular Aspects of Reelin in Neurodegenerative Disorders: An Old Candidate for a New Linkage of the Gut-Brain-Eye Axis.
+**Authors:** Balzamino BO, Biamonte F, Micera A  
+**Journal:** International journal of molecular sciences (2025)  
+**PMID:** 40806482  **DOI:** 10.3390/ijms26157352
+**Entities:** ROS, tau, neuroinflammation, oxidative stress, Alzheimer  
+**Abstract:** Recent findings highlight that Reelin, a glycoprotein involved in neural development, synaptic plasticity, and neuroinflammation, plays some specific roles in neurodegenerative disorders associated wi...
+
+### Networks and clusters of immunometabolic biomarkers and depression-associated features in middle-aged and older community-dwelling US adults with and without depression.
+**Authors:** Hallab A  
+**Journal:** medRxiv : the preprint server for health sciences (2025)  
+**PMID:** 40766129  **DOI:** 10.1101/2025.07.30.25332419
+**Entities:** IL-6, aging  
+**Abstract:** INTRODUCTION: Therapy-resistant depression is associated with higher levels of systemic inflammation and increased odds of metabolic disorders. It is, therefore, crucial to identify the biomarkers of ...
+
+### The neuropathologic basis for translational biomarker development in the macaque model of late-onset Alzheimer's disease.
+**Authors:** Zeiss CJ, Huttner A, Nairn AC, Arnsten A, Datta D et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2025)  
+**PMID:** 40095666  **DOI:** 10.1177/13872877251323787
+**Entities:** GFAP, tau, p-tau, Alzheimer, aging  
+**Abstract:** BackgroundAccurate placement of the macaque within the Alzheimer's disease (AD) research framework is essential to discover early-stage predictive biomarkers.ObjectiveTo assess utility of the aging ma...
+
+### Plasma phospho-tau217 as a predictive biomarker for Alzheimer's disease in a large south American cohort.
+**Authors:** Pandey N, Yang Z, Cieza B, Reyes-Dumeyer D, Kang MS et al.  
+**Journal:** Alzheimer's research & therapy (2025)  
+**PMID:** 39743558  **DOI:** 10.1186/s13195-024-01655-w
+**Entities:** tau, p-tau, Alzheimer, Simoa, Quanterix  
+**Abstract:** BACKGROUND: Blood-based Alzheimer's disease (AD) biomarkers have been increasingly employed for diagnostic, prognostic, and therapeutic monitoring purposes, due to accuracy in distinguishing AD pathop...
+
+### Relationships between blood pressure indicators and fluid biomarkers of brain aging in functionally intact older adults.
+**Authors:** VandeBunte AM, Ortiz BL, Paolillo EW, Saloner R, Diaz V et al.  
+**Journal:** Research square (2025)  
+**PMID:** 40196000  **DOI:** 10.21203/rs.3.rs-6018137/v1
+**Entities:** GFAP, NfL, p-tau, Aβ42, Alzheimer  
+**Abstract:** BACKGROUND: Dementia risk is significantly shaped by cardiovascular health, with elevated blood pressure emerging as a key risk factor for adverse brain aging. Blood biomarkers such as pTau181, Aβ42/4...
+
+### Involvement of the VGF/BDNF axis in the neuropathology of Alzheimer's disease and its potential role in diagnosis and treatment.
+**Authors:** Colín-Martínez E, Arias C  
+**Journal:** Reviews in the neurosciences (2025)  
+**PMID:** 39566031  **DOI:** 10.1515/revneuro-2024-0110
+**Entities:** BDNF, Alzheimer, aging  
+**Abstract:** The brain is a highly plastic organ that continually receives and integrates signals to generate functional and structural changes and homeostatic adaptations throughout life. Alterations in some sign...
+
+### Expression of Neuronal Nicotinic Acetylcholine Receptor and Early Oxidative DNA Damage in Aging Rat Brain-The Effects of Memantine.
+**Authors:** Lewandowska MA, Różycka A, Grzelak T, Kempisty B, Jagodziński PP et al.  
+**Journal:** International journal of molecular sciences (2025)  
+**PMID:** 40004097  **DOI:** 10.3390/ijms26041634
+**Entities:** ROS, TNF-α, oxidative stress, aging  
+**Abstract:** Aging and age-related neurodegenerative disorders are characterized by the dysfunction or loss of brain nicotinic acetylcholine receptors (nAChRs), and these changes may be related to other senescence...
+
+### Comparison of Simoa and Lumipulse Neurofilament Light Chain Measurements in Alzheimer's Cerebrospinal Fluid: Preliminary Findings.
+**Authors:** Boschi S, Chiarandon AM, Cermelli A, Lombardo C, Gioiello G et al.  
+**Journal:** Brain sciences (2025)  
+**PMID:** 41008272  **DOI:** 10.3390/brainsci15090911
+**Entities:** NfL, Alzheimer, Simoa  
+**Abstract:** 
+
+### Functional and Blood-Based Biomarkers of Brain Aging in Senior Airline Pilots Approaching Mandatory Retirement: A Case-Control Comparison With Age-Matched Office Workers.
+**Authors:** Minoretti P, Fortuna G, Lavdas K, D'Acquino D  
+**Journal:** Cureus (2025)  
+**PMID:** 40988840  **DOI:** 10.7759/cureus.90822
+**Entities:** NfL, tau, p-tau, catalase, aging  
+**Abstract:** Background While mandatory retirement ages for commercial air transport (CAT) pilots are based on assumptions about age-related cognitive decline, empirical evidence examining brain aging in senior pr...
+
+### Cognitive Age Delta as a Marker of Healthy and Pathological Cognitive Aging: The Role of Lifestyle, Cognitive Reserve, and Vascular Risk.
+**Authors:** Estanga A, Tellaetxe-Elorriaga I, Ecay-Torres M, García Condado J, García-Sebastián M et al.  
+**Journal:** Journal of clinical medicine (2025)  
+**PMID:** 41303210  **DOI:** 10.3390/jcm14228176
+**Entities:** aging  
+**Abstract:** 
+
+### Association of Alzheimer's disease biomarkers with low premorbid intellectual functioning in a multi-ethnic community-dwelling cohort: A cross-sectional study of HABS-HD.
+**Authors:** Abdullah L, Zhou Z, Hall J, Petersen M, Zhang F et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2025)  
+**PMID:** 40116640  **DOI:** 10.1177/13872877251322966
+**Entities:** Alzheimer  
+**Abstract:** 
+
+### An exploratory analysis of bezisterim treatment associated with decreased biological age acceleration, and improved clinical measure and biomarker changes in mild-to-moderate probable Alzheimer's disease.
+**Authors:** Reading CL, Yan J, Testa MA, Simonson DC, Javaid H et al.  
+**Journal:** Frontiers in neuroscience (2025)  
+**PMID:** 40386807  **DOI:** 10.3389/fnins.2025.1516746
+**Entities:** ROS, oxidative stress, BBB, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Aging is the primary risk factor for sporadic Alzheimer's disease. Chronic low-grade inflammation associated with aging drives cognitive impairment through multiple mechanisms involving ...
+
+### Associations between Cardiovascular Risk Factors and Neurofilament Light Levels Among U.S. Mexican American Adults.
+**Authors:** Diaz MM, Dayan E  
+**Journal:** medRxiv : the preprint server for health sciences (2025)  
+**PMID:** 40162270  **DOI:** 10.1101/2025.03.13.25323894
+**Entities:** NfL, Alzheimer, aging  
+**Abstract:** BACKGROUND: The pathophysiological mechanisms that may differentially impact brain health and cognitive aging outcomes among Latino compared with non-Latino White (NLW) adults in the U.S remain incomp...
+
+### The translational power of Alzheimer's-based organoid models in personalized medicine: an integrated biological and digital approach embodying patient clinical history.
+**Authors:** Dolciotti C, Righi M, Grecu E, Trucas M, Maxia C et al.  
+**Journal:** Frontiers in cellular neuroscience (2025)  
+**PMID:** 40443709  **DOI:** 10.3389/fncel.2025.1553642
+**Entities:** tau, neuroinflammation, Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) is a complex neurodegenerative condition characterized by a multifaceted interplay of genetic, environmental, and pathological factors. Traditional diagnostic and research met...
+
+### Biological determinants of blood-based biomarker levels in Alzheimer's disease: role of nutrition, inflammation, and metabolic factors.
+**Authors:** Inamdar A, Bugadannavar P, Palled M, Umarani S, Salve P et al.  
+**Journal:** Frontiers in aging neuroscience (2025)  
+**PMID:** 41280310  **DOI:** 10.3389/fnagi.2025.1614962
+**Entities:** ROS, NfL, tau, p-tau, IL-6  
+**Abstract:** OBJECTIVES: The review discusses the effect of biological determinants such as nutritional deficiency, systemic inflammation, and metabolic disorders affect blood-based biomarker (BBBM) levels, influe...
+
 ### Cellular senescence, DNA damage, and neuroinflammation in the aging brain.
 **Authors:** Zhang W, Sun HS, Wang X, Dumont AS, Liu Q  
 **Journal:** Trends in neurosciences (2024)  
@@ -2112,6 +3155,174 @@
 **Entities:** neuroinflammation, Alzheimer, aging  
 **Abstract:** This editorial provides an overview of recent advancements in the understanding and treatment of neurological disorders, focusing on aging, immunity, and blood flow, as featured in this special issue....
 
+### Senescent glia link mitochondrial dysfunction and lipid accumulation.
+**Authors:** Byrns CN, Perlegos AE, Miller KN, Jin Z, Carranza FR et al.  
+**Journal:** Nature (2024)  
+**PMID:** 38839958  **DOI:** 10.1038/s41586-024-07516-8
+**Entities:** aging  
+**Abstract:** Senescence is a cellular state linked to ageing and age-onset disease across many mammalian species
+
+### Editorial: Insights in neurocognitive aging and behavior: 2022.
+**Authors:** Nielson KA, Venneri A, Murakami S  
+**Journal:** Frontiers in aging neuroscience (2024)  
+**PMID:** 38292340  **DOI:** 10.3389/fnagi.2024.1361839
+**Entities:** —  
+**Abstract:** 
+
+### Blood-brain barrier biomarkers.
+**Authors:** Zapata-Acevedo JF, Mantilla-Galindo A, Vargas-Sánchez K, González-Reyes RE  
+**Journal:** Advances in clinical chemistry (2024)  
+**PMID:** 38797540  **DOI:** 10.1016/bs.acc.2024.04.004
+**Entities:** BBB, TBI, Alzheimer, aging  
+**Abstract:** The blood-brain barrier (BBB) is a dynamic interface that regulates the exchange of molecules and cells between the brain parenchyma and the peripheral blood. The BBB is mainly composed of endothelial...
+
+### Embracing complexity of (brain) aging.
+**Authors:** Polidori MC  
+**Journal:** FEBS letters (2024)  
+**PMID:** 38831254  **DOI:** 10.1002/1873-3468.14941
+**Entities:** Alzheimer, aging  
+**Abstract:** Aging is a multifactorial process occurring in a pathophysiological continuum which leads to organ and system functional loss. While aging is not a disease, its pathophysiological continuum predispose...
+
+### Ginsenoside compound K alleviates brain aging by inhibiting ferroptosis through modulation of the ASK1-MKK7-JNK signaling pathway.
+**Authors:** Yan X, Bai X, Sun G, Duan Z, Fu R et al.  
+**Journal:** Phytomedicine : international journal of phytotherapy and phytopharmacology (2024)  
+**PMID:** 39547099  **DOI:** 10.1016/j.phymed.2024.156239
+**Entities:** ROS, oxidative stress, Nrf2, SOD, glutathione  
+**Abstract:** BACKGROUND: Aging of the brain is a major contributor to the onset and progression of neurodegenerative diseases. Conventional treatments for these diseases are often limited by significant side effec...
+
+### Cerebrovascular disease is associated with Alzheimer's plasma biomarker concentrations in adults with Down syndrome.
+**Authors:** Edwards NC, Lao PJ, Alshikho MJ, Ericsson OM, Rizvi B et al.  
+**Journal:** Brain communications (2024)  
+**PMID:** 39403075  **DOI:** 10.1093/braincomms/fcae331
+**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Abstract:** By age 40 years, over 90% of adults with Down syndrome have Alzheimer's disease pathology and most progress to dementia. Despite having few systemic vascular risk factors, individuals with Down syndro...
+
+### The structural-functional-connectivity coupling of the aging brain.
+**Authors:** Zhang H, Cao P, Mak HKF, Hui ES  
+**Journal:** GeroScience (2024)  
+**PMID:** 38443539  **DOI:** 10.1007/s11357-024-01106-2
+**Entities:** aging  
+**Abstract:** Aging primarily affects memory and executive functions, a relationship that may be underpinned by the fact that almost all adults over 60 years old develop small vessel disease (SVD). The fact that a ...
+
+### SVHRSP Alleviates Age-Related Cognitive Deficiency by Reducing Oxidative Stress and Neuroinflammation.
+**Authors:** Wang Y, Wang Z, Guo S, Li Q, Kong Y et al.  
+**Journal:** Antioxidants (Basel, Switzerland) (2024)  
+**PMID:** 38929067  **DOI:** 10.3390/antiox13060628
+**Entities:** ROS, neuroinflammation, oxidative stress, Nrf2, aging  
+**Abstract:** BACKGROUND: Our previous studies have shown that scorpion venom heat-resistant synthesized peptide (SVHRSP) induces a significant extension in lifespan and improvements in age-related physiological fu...
+
+### Neurofilament light and cognition in community-dwelling non-Hispanic Blacks.
+**Authors:** Abdullah L, Zhang F, Hall J, O'Bryant S  
+**Journal:** Journal of Alzheimer's disease : JAD (2024)  
+**PMID:** 39497299  **DOI:** 10.1177/13872877241283693
+**Entities:** NfL, Alzheimer, Simoa, aging  
+**Abstract:** BACKGROUND: No large-scale characterizations of neurofilament light chain (NfL) and cognitive outcomes have been conducted in community-dwelling non-Hispanic Blacks. OBJECTIVE: This study aims to enha...
+
+### Tau proteins and senescent Cells: Targeting aging pathways in Alzheimer's disease.
+**Authors:** Singh M, Ali H, Renuka Jyothi S, Kaur I, Kumar S et al.  
+**Journal:** Brain research (2024)  
+**PMID:** 39155034  **DOI:** 10.1016/j.brainres.2024.149165
+**Entities:** tau, neuroinflammation, Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) is a devastating neurodegenerative disease characterized by abnormal accumulation of tau proteins and amyloid-β, leading to neuronal death and cognitive impairment. Recent stu...
+
+### Investigating nutrient biomarkers of healthy brain aging: a multimodal brain imaging study.
+**Authors:** Zwilling CE, Wu J, Barbey AK  
+**Journal:** npj aging (2024)  
+**PMID:** 38773079  **DOI:** 10.1038/s41514-024-00150-8
+**Entities:** aging  
+**Abstract:** The emerging field of Nutritional Cognitive Neuroscience aims to uncover specific foods and nutrients that promote healthy brain aging. Central to this effort is the discovery of nutrient profiles tha...
+
+### Accelerated cognitive aging in chronically infected HIV-1 positive individuals despite effective long-term antiretroviral therapy.
+**Authors:** Babu H, Rachel G, Neogi U, Palaniappan AN, Narayanan A et al.  
+**Journal:** Metabolic brain disease (2024)  
+**PMID:** 39570517  **DOI:** 10.1007/s11011-024-01458-w
+**Entities:** neuroinflammation, Alzheimer, Olink, aging  
+**Abstract:** People living with HIV (PLHIV) are known to be at a higher risk of developing an array of aging-related diseases despite well-adhered combined antiretroviral therapy (cART). The present study aimed to...
+
+### Blood-derived microRNAs are related to cognitive domains in the general population.
+**Authors:** Melas K, Talevi V, Imtiaz MA, Etteldorf R, Estrada S et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2024)  
+**PMID:** 39210637  **DOI:** 10.1002/alz.14197
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: Blood-derived microRNAs (miRNAs) are potential candidates for detecting and preventing subclinical cognitive dysfunction. However, replication of previous findings and identification of ...
+
+### Circulating sphingolipids and subclinical brain pathology: the cardiovascular health study.
+**Authors:** Moseholm KF, Horn JW, Fitzpatrick AL, Djoussé L, Longstreth WT et al.  
+**Journal:** Frontiers in neurology (2024)  
+**PMID:** 38765262  **DOI:** 10.3389/fneur.2024.1385623
+**Entities:** GFAP, NfL, neuroinflammation, TBI, Alzheimer  
+**Abstract:** BACKGROUND: Sphingolipids are implicated in neurodegeneration and neuroinflammation. We assessed the potential role of circulating ceramides and sphingomyelins in subclinical brain pathology by invest...
+
+### Senescent Astrocytes Derived from Human Pluripotent Stem Cells Reveal Age-Related Changes and Implications for Neurodegeneration.
+**Authors:** Kim D, Yoo SH, Yeon GB, Oh SS, Shin WH et al.  
+**Journal:** Aging and disease (2024)  
+**PMID:** 38913048  **DOI:** 10.14336/AD.2024.0089
+**Entities:** ROS, Alzheimer, aging  
+**Abstract:** Astrocytes play a crucial role in maintaining brain homeostasis by regulating synaptic activity, providing metabolic support to neurons, and modulating immune responses in the central nervous system (...
+
+### Mediterranean diet and brain functional connectivity in a population without dementia.
+**Authors:** Karavasilis E, Balomenos V, Christidi F, Velonakis G, Angelopoulou G et al.  
+**Journal:** Frontiers in neuroimaging (2024)  
+**PMID:** 39713787  **DOI:** 10.3389/fnimg.2024.1473399
+**Entities:** Alzheimer, aging  
+**Abstract:** INTRODUCTION: Adjustable lifestyle factors, such as diet, are associated with cognitive functions, structural and functional brain measures, but the association between the functional connectivity (FC...
+
+### Self-Modulation of Gamma-Band Synchronization through EEG-Neurofeedback Training in the Elderly.
+**Authors:** Andrade K, Houmani N, Guieysse T, Razafimahatratra S, Klarsfeld A et al.  
+**Journal:** Journal of integrative neuroscience (2024)  
+**PMID:** 38538229  **DOI:** 10.31083/j.jin2303067
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Electroencephalography (EEG) stands as a pivotal non-invasive tool, capturing brain signals with millisecond precision and enabling real-time monitoring of individuals' mental states. Usin...
+
+### Multi-modal Neuroimaging Phenotyping of Mnemonic Anosognosia in the Aging Brain.
+**Authors:** Bueichekú E, Diez I, Gagliardi G, Kim CM, Mimmack K et al.  
+**Journal:** Communications medicine (2024)  
+**PMID:** 38580832  **DOI:** 10.1038/s43856-024-00497-9
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** BACKGROUND: Unawareness is a behavioral condition characterized by a lack of self-awareness of objective memory decline. In the context of Alzheimer's Disease (AD), unawareness may develop in predemen...
+
+### BundleAGE: Predicting White Matter Age using Along-Tract Microstructural Profiles from Diffusion MRI.
+**Authors:** Feng Y, Villalón-Reina JE, Nir TM, Chandio BQ, Jahanshad N et al.  
+**Journal:** bioRxiv : the preprint server for biology (2024)  
+**PMID:** 39229061  **DOI:** 10.1101/2024.08.16.608347
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain Age Gap Estimation (BrainAGE) is an estimate of the gap between a person's chronological age (CA) and a measure of their brain's 'biological age' (BA). This metric is often used as a marker of a...
+
+### Pathophysiology characterization of Alzheimer's disease in South China's aging population: for the Greater-Bay-Area Healthy Aging Brain Study (GHABS).
+**Authors:** Liu Z, Shi D, Cai Y, Li A, Lan G et al.  
+**Journal:** Alzheimer's research & therapy (2024)  
+**PMID:** 38627753  **DOI:** 10.1186/s13195-024-01458-z
+**Entities:** GFAP, NfL, tau, Aβ42, Alzheimer  
+**Abstract:** INTRODUCTION: The Guangdong-Hong Kong-Macao Greater-Bay-Area of South China has an 86 million population and faces a significant challenge of Alzheimer's disease (AD). However, the characteristics and...
+
+### Terminally differentiated effector memory T cells associate with cognitive and AD-related biomarkers in an aging-based community cohort.
+**Authors:** Winford E, Lutshumba J, Martin BJ, Wilcock DM, Jicha GA et al.  
+**Journal:** Immunity & ageing : I & A (2024)  
+**PMID:** 38867294  **DOI:** 10.1186/s12979-024-00443-2
+**Entities:** GFAP, NfL, tau, Aβ42, neuroinflammation  
+**Abstract:** BACKGROUND AND PURPOSE: The immune response changes during aging and the progression of Alzheimer's disease (AD) and related dementia (ADRD). Terminally differentiated effector memory T cells (called ...
+
+### Understanding the Temporal Dynamics of Accelerated Brain Aging and Resilient Brain Aging: Insights from Discriminative Event-Based Analysis of UK Biobank Data.
+**Authors:** Lin L, Wu Y, Liu L, Sun S, Wu S  
+**Journal:** Bioengineering (Basel, Switzerland) (2024)  
+**PMID:** 39061729  **DOI:** 10.3390/bioengineering11070647
+**Entities:** aging  
+**Abstract:** The intricate dynamics of brain aging, especially the neurodegenerative mechanisms driving accelerated (ABA) and resilient brain aging (RBA), are pivotal in neuroscience. Understanding the temporal dy...
+
+### NODDI in gray matter is a sensitive marker of aging and early AD changes.
+**Authors:** Yu X, Przybelski SA, Reid RI, Lesnick TG, Raghavan S et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2024)  
+**PMID:** 39077685  **DOI:** 10.1002/dad2.12627
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Age-related and Alzheimer's disease (AD) dementia-related neurodegeneration impact brain health. While morphometric measures from T1-weighted scans are established biomarkers, they may b...
+
+### Resistance training's impact on blood biomarkers and cognitive function in older adults with low and high risk of mild cognitive impairment: a randomized controlled trial.
+**Authors:** Vints WAJ, Gökçe E, Šeikinaitė J, Kušleikienė S, Česnaitienė VJ et al.  
+**Journal:** European review of aging and physical activity : official journal of the European Group for Research into Elderly and Physical Activity (2024)  
+**PMID:** 38600451  **DOI:** 10.1186/s11556-024-00344-9
+**Entities:** IL-6, neuroinflammation, Alzheimer, aging  
+**Abstract:** BACKGROUND: The aging brain exhibits a neuroinflammatory state, driven partly by peripheral pro-inflammatory stimuli, that accelerates cognitive deterioration. A growing body of evidence clearly indic...
+
 ### CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord.
 **Authors:** Sun S, Li J, Wang S, Li J, Ren J et al.  
 **Journal:** Nature (2023)  
@@ -2574,6 +3785,230 @@
 **Entities:** Alzheimer  
 **Abstract:** <h4>SUMMARY</h4> The relationship between sleep disorders and neurodegeneration is complex and multi-faceted. Using over one million electronic health records (EHRs) from Wales, UK, and Finland, we mi...
 
+### Editorial: Insights in neurocognitive aging and behavior: 2021.
+**Authors:** Nielson KA, McDonough IM, Soldan A  
+**Journal:** Frontiers in aging neuroscience (2023)  
+**PMID:** 36824267  **DOI:** 10.3389/fnagi.2023.1147618
+**Entities:** —  
+**Abstract:** 
+
+### Cellular senescence in brain aging and cognitive decline.
+**Authors:** Shafqat A, Khan S, Omer MH, Niaz M, Albalkhi I et al.  
+**Journal:** Frontiers in aging neuroscience (2023)  
+**PMID:** 38076538  **DOI:** 10.3389/fnagi.2023.1281581
+**Entities:** TBI, Alzheimer, aging  
+**Abstract:** Cellular senescence is a biological aging hallmark that plays a key role in the development of neurodegenerative diseases. Clinical trials are currently underway to evaluate the effectiveness of senot...
+
+### Dietary flavanols restore hippocampal-dependent memory in older adults with lower diet quality and lower habitual flavanol consumption.
+**Authors:** Brickman AM, Yeung LK, Alschuler DM, Ottaviani JI, Kuhnle GGC et al.  
+**Journal:** Proceedings of the National Academy of Sciences of the United States of America (2023)  
+**PMID:** 37252983  **DOI:** 10.1073/pnas.2216932120
+**Entities:** aging  
+**Abstract:** Dietary flavanols are food constituents found in certain fruits and vegetables that have been linked to cognitive aging. Previous studies suggested that consumption of dietary flavanols might specific...
+
+### Nutritional metabolism and cerebral bioenergetics in Alzheimer's disease and related dementias.
+**Authors:** Yassine HN, Self W, Kerman BE, Santoni G, Navalpur Shanmugam N et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2023)  
+**PMID:** 36479795  **DOI:** 10.1002/alz.12845
+**Entities:** BBB, Alzheimer, aging  
+**Abstract:** Disturbances in the brain's capacity to meet its energy demand increase the risk of synaptic loss, neurodegeneration, and cognitive decline. Nutritional and metabolic interventions that target metabol...
+
+### Protein glycosylation and glycoinformatics for novel biomarker discovery in neurodegenerative diseases.
+**Authors:** Costa J, Hayes C, Lisacek F  
+**Journal:** Ageing research reviews (2023)  
+**PMID:** 37348818  **DOI:** 10.1016/j.arr.2023.101991
+**Entities:** Alzheimer, aging  
+**Abstract:** Glycosylation is a common post-translational modification of brain proteins including cell surface adhesion molecules, synaptic proteins, receptors and channels, as well as intracellular proteins, wit...
+
+### Investigation of genetic variants and causal biomarkers associated with brain aging.
+**Authors:** Kim J, Lee J, Nam K, Lee S  
+**Journal:** Scientific reports (2023)  
+**PMID:** 36707530  **DOI:** 10.1038/s41598-023-27903-x
+**Entities:** aging  
+**Abstract:** Delta age is a biomarker of brain aging that captures differences between the chronological age and the predicted biological brain age. Using multimodal data of brain MRI, genomics, and blood-based bi...
+
+### Brain-derived neurotrophic factor interplay with oxidative stress: neuropathology approach in potential biomarker of Alzheimer's disease.
+**Authors:** Shen R, Ardianto C, Celia C, Sidharta VM, Sasmita PK et al.  
+**Journal:** Dementia & neuropsychologia (2023)  
+**PMID:** 38053647  **DOI:** 10.1590/1980-5764-DN-2023-0012
+**Entities:** ROS, BDNF, oxidative stress, Alzheimer, aging  
+**Abstract:** The aging population poses a serious challenge concerning an increased prevalence of Alzheimer's disease (AD) and its impact on global burden, morbidity, and mortality. Oxidative stress, as a molecula...
+
+### Vigorous, regular physical exercise may slow disease progression in Alzheimer's disease.
+**Authors:** Devanand DP, Masurkar AV, Wisniewski T  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2023)  
+**PMID:** 36722738  **DOI:** 10.1002/alz.12946
+**Entities:** Alzheimer  
+**Abstract:** INTRODUCTION: Mild to moderate exercise may decrease Alzheimer's disease (AD) risk, but the effects of vigorous, regular physical exercise remain unclear. METHODS: Two patients with initial diagnoses ...
+
+### Late life depression and concepts of aging: an emerging paradigm.
+**Authors:** Jacobs JM, Baider L, Goldzweig G, Sapir E, Rottenberg Y  
+**Journal:** Frontiers in medicine (2023)  
+**PMID:** 37621462  **DOI:** 10.3389/fmed.2023.1218562
+**Entities:** aging  
+**Abstract:** Late life depression (LLD) is an emerging challenge, and recognized as a significant barrier to long-term healthy aging. Viewed within the context of the medical/biological model, advances in brain sc...
+
+### A framework of biomarkers for brain aging: a consensus statement by the Aging Biomarker Consortium.
+**Authors:** Jia YJ, Wang J, Ren JR, Chan P et al.  
+**Journal:** Life medicine (2023)  
+**PMID:** 39872296  **DOI:** 10.1093/lifemedi/lnad017
+**Entities:** aging  
+**Abstract:** China and the world are facing severe population aging and an increasing burden of age-related diseases. Aging of the brain causes major age-related brain diseases, such as neurodegenerative diseases ...
+
+### Default mode network failure and neurodegeneration across aging and amnestic and dysexecutive Alzheimer's disease.
+**Authors:** Corriveau-Lecavalier N, Gunter JL, Kamykowski M, Dicks E, Botha H et al.  
+**Journal:** Brain communications (2023)  
+**PMID:** 37013176  **DOI:** 10.1093/braincomms/fcad058
+**Entities:** Alzheimer, aging  
+**Abstract:** From a complex systems perspective, clinical syndromes emerging from neurodegenerative diseases are thought to result from multiscale interactions between aggregates of misfolded proteins and the dise...
+
+### More than just risk for Alzheimer's disease: APOE ε4's impact on the aging brain.
+**Authors:** Palmer JM, Huentelman M, Ryan L  
+**Journal:** Trends in neurosciences (2023)  
+**PMID:** 37460334  **DOI:** 10.1016/j.tins.2023.06.003
+**Entities:** Alzheimer, aging  
+**Abstract:** The apolipoprotein ε4 (APOE ε4) allele is most commonly associated with increased risk for late-onset Alzheimer's disease (AD). However, recent longitudinal studies suggest that these risks are overes...
+
+### Biomarkers of Activity-Dependent Plasticity and Persistent Enhancement of Synaptic Transmission in Alzheimer Disease: A Review of the Current Status.
+**Authors:** Warpechowski M, Warpechowski J, Kulczyńska-Przybik A, Mroczko B  
+**Journal:** Medical science monitor : international medical journal of experimental and clinical research (2023)  
+**PMID:** 36600577  **DOI:** 10.12659/MSM.938826
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Alzheimer disease (AD) is a chronic and heterogeneous neurodegenerative disorder characterized by complex pathological processes involving neuroinflammation, neurodegeneration, and synaptic dysfunctio...
+
+### Exosomes secreted by mesenchymal stem cells delay brain aging by upregulating SIRT1 expression.
+**Authors:** Zhang X, Liu T, Hou X, Zhou Z, Zhang F et al.  
+**Journal:** Scientific reports (2023)  
+**PMID:** 37580391  **DOI:** 10.1038/s41598-023-40543-5
+**Entities:** aging  
+**Abstract:** The increase in the aging population has seriously affected our society. Neurodegenerative diseases caused by aging of the brain significantly impact the normal life of the elderly, and delaying brain...
+
+### Classification and prediction of cognitive performance differences in older age based on brain network patterns using a machine learning approach.
+**Authors:** Krämer C, Stumme J, da Costa Campos L, Rubbert C, Caspers J et al.  
+**Journal:** Network neuroscience (Cambridge, Mass.) (2023)  
+**PMID:** 37339286  **DOI:** 10.1162/netn_a_00275
+**Entities:** aging  
+**Abstract:** Age-related cognitive decline varies greatly in healthy older adults, which may partly be explained by differences in the functional architecture of brain networks. Resting-state functional connectivi...
+
+### Genetic Polymorphisms in Oxidative Stress and Inflammatory Pathways as Potential Biomarkers in Alzheimer's Disease and Dementia.
+**Authors:** Vogrinc D, Gregorič Kramberger M, Emeršič A, Čučnik S, Goričar K et al.  
+**Journal:** Antioxidants (Basel, Switzerland) (2023)  
+**PMID:** 36829875  **DOI:** 10.3390/antiox12020316
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Oxidative stress and neuroinflammation are important processes involved in Alzheimer's disease (AD) and mild cognitive impairment (MCI). Numerous risk factors, including genetic background, can affect...
+
+### Integrated multi-omics analysis of brain aging in female nonhuman primates reveals altered signaling pathways relevant to age-related disorders.
+**Authors:** Cox LA, Puppala S, Chan J, Zimmerman KD, Hamid Z et al.  
+**Journal:** Neurobiology of aging (2023)  
+**PMID:** 37797463  **DOI:** 10.1016/j.neurobiolaging.2023.08.009
+**Entities:** aging  
+**Abstract:** The prefrontal cortex (PFC) has been implicated as a key brain region responsible for age-related cognitive decline. Little is known about aging-related molecular changes in PFC that may mediate these...
+
+### Biological brain age prediction using machine learning on structural neuroimaging data: Multi-cohort validation against biomarkers of Alzheimer's disease and neurodegeneration stratified by sex.
+**Authors:** Cumplido-Mayoral I, García-Prat M, Operto G, Falcon C, Shekari M et al.  
+**Journal:** eLife (2023)  
+**PMID:** 37067031  **DOI:** 10.7554/eLife.81067
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain-age can be inferred from structural neuroimaging and compared to chronological age (brain-age delta) as a marker of biological brain aging. Accelerated aging has been found in neurodegenerative ...
+
+### Quinolinic acid impairs mitophagy promoting microglia senescence and poor healthspan in C. elegans: a mechanism of impaired aging process.
+**Authors:** Dongol A, Chen X, Zheng P, Seyhan ZB, Huang XF  
+**Journal:** Biology direct (2023)  
+**PMID:** 38124116  **DOI:** 10.1186/s13062-023-00445-y
+**Entities:** ROS, neuroinflammation, oxidative stress, aging  
+**Abstract:** Senescent microglia are a distinct microglial phenotype present in aging brain that have been implicated in the progression of aging and age-related neurodegenerative diseases. However, the specific m...
+
+### Terminally differentiated effector memory T cells associate with cognitive and AD-related biomarkers in an aging-based community cohort.
+**Authors:** Winford E, Lutshumba J, Martin BJ, Wilcock DM, Jicha GA et al.  
+**Journal:** bioRxiv : the preprint server for biology (2023)  
+**PMID:** 38077088  **DOI:** 10.1101/2023.11.27.568812
+**Entities:** GFAP, NfL, tau, Aβ42, neuroinflammation  
+**Abstract:** BACKGROUND AND PURPOSE: The immune response changes during aging and the progression of Alzheimer's disease (AD) and related dementia (ADRD). Terminally differentiated effector memory T cells (called ...
+
+### Plasma Biomarkers of Alzheimer's Disease Are Associated with Physical Functioning Outcomes Among Cognitively Normal Adults in the Multiethnic HABS-HD Cohort.
+**Authors:** O'Bryant SE, Petersen M, Hall JR, Large S, Johnson LA et al.  
+**Journal:** The journals of gerontology. Series A, Biological sciences and medical sciences (2023)  
+**PMID:** 35980599  **DOI:** 10.1093/gerona/glac169
+**Entities:** NfL, tau, Aβ42, Alzheimer, Simoa  
+**Abstract:** In this study, we examined the link between plasma Alzheimer's disease (AD) biomarkers and physical functioning outcomes within a community-dwelling, multiethnic cohort. Data from 1 328 cognitively un...
+
+### Increased Medial Temporal Tau Positron Emission Tomography Uptake in the Absence of Amyloid-β Positivity.
+**Authors:** Costoya-Sánchez A, Moscoso A, Silva-Rodríguez J, Pontecorvo MJ, Devous MD et al.  
+**Journal:** JAMA neurology (2023)  
+**PMID:** 37578787  **DOI:** 10.1001/jamaneurol.2023.2560
+**Entities:** tau, Aβ42, Alzheimer, aging  
+**Abstract:** IMPORTANCE: An increased tau positron emission tomography (PET) signal in the medial temporal lobe (MTL) has been observed in older individuals in the absence of amyloid-β (Aβ) pathology. Little is kn...
+
+### Chronic consumption of a hypercaloric diet increases neuroinflammation and brain senescence, promoting cognitive decline in middle-aged female Wistar rats.
+**Authors:** Salas-Venegas V, Santín-Márquez R, Ramírez-Carreto RJ, Rodríguez-Cortés YM, Cano-Martínez A et al.  
+**Journal:** Frontiers in aging neuroscience (2023)  
+**PMID:** 37139092  **DOI:** 10.3389/fnagi.2023.1162747
+**Entities:** neuroinflammation, aging  
+**Abstract:** Being overweight and obesity are world health problems, with a higher prevalence in women, defined as abnormal or excessive fat accumulation that increases the risk of chronic diseases. Excess energy ...
+
+### Protein Biomarkers in Blood Reflect the Interrelationships Between Stroke Outcome, Inflammation, Coagulation, Adhesion, Senescence and Cancer.
+**Authors:** Fuellen G, Walter U, Henze L, Böhmert J, Palmer D et al.  
+**Journal:** Cellular and molecular neurobiology (2023)  
+**PMID:** 35953740  **DOI:** 10.1007/s10571-022-01260-1
+**Entities:** —  
+**Abstract:** The most important predictors for outcomes after ischemic stroke, that is, for health deterioration and death, are chronological age and stroke severity; gender, genetics and lifestyle/environmental f...
+
+### Exploring the Skin Brain Link: Biomarkers in the Skin with Implications for Aging Research and Alzheimer's Disease Diagnostics.
+**Authors:** Klostermeier S, Li A, Hou HX, Green U, Lennerz JK  
+**Journal:** International journal of molecular sciences (2023)  
+**PMID:** 37686115  **DOI:** 10.3390/ijms241713309
+**Entities:** Alzheimer, aging  
+**Abstract:** Neurodegenerative diseases, including Alzheimer's disease (AD), are challenging to diagnose. Currently the field must rely on imperfect diagnostic modalities. A recent study identified differences in ...
+
+### Risk of Alzheimer's Disease is Associated with Longitudinal Changes in Plasma Biomarkers in the Multiethnic Washington Heights, Inwood Columbia Aging Project Cohort.
+**Authors:** Gu Y, Honig LS, Kang MS, Bahl A, Sanchez D et al.  
+**Journal:** medRxiv : the preprint server for health sciences (2023)  
+**PMID:** 37645764  **DOI:** 10.1101/2023.08.11.23293967
+**Entities:** GFAP, NfL, tau, p-tau, Aβ42  
+**Abstract:** INTRODUCTION: Alzheimer's disease (AD) biomarkers can help differentiate cognitively unimpaired (CU) individuals from mild cognitive impairment (MCI) and dementia. The role of AD biomarkers in predict...
+
+### Cerebrospinal fluid level of proNGF as potential diagnostic biomarker in patients with frontotemporal dementia.
+**Authors:** Malerba F, Florio R, Arisi I, Zecca C, Dell'Abate MT et al.  
+**Journal:** Frontiers in aging neuroscience (2023)  
+**PMID:** 38332808  **DOI:** 10.3389/fnagi.2023.1298307
+**Entities:** Alzheimer  
+**Abstract:** INTRODUCTION: Frontotemporal dementia (FTD) is an extremely heterogeneous and complex neurodegenerative disease, exhibiting different phenotypes, genetic backgrounds, and pathological states. Due to t...
+
+### Comorbidities Incorporated to Improve Prediction for Prevalent Mild Cognitive Impairment and Alzheimer's Disease in the HABS-HD Study.
+**Authors:** Zhang F, Petersen M, Johnson L, Hall J, O'Bryant SE et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2023)  
+**PMID:** 38007662  **DOI:** 10.3233/JAD-230755
+**Entities:** Alzheimer, Simoa, aging  
+**Abstract:** BACKGROUND: Blood biomarkers have the potential to transform Alzheimer's disease (AD) diagnosis and monitoring, yet their integration with common medical comorbidities remains insufficiently explored....
+
+### Intermittent systemic exposure to lipopolysaccharide-induced inflammation disrupts hippocampal long-term potentiation and impairs cognition in aging male mice.
+**Authors:** Engler-Chiurazzi EB, Russell AE, Povroznik JM, McDonald KO, Porter KN et al.  
+**Journal:** Brain, behavior, and immunity (2023)  
+**PMID:** 36549577  **DOI:** 10.1016/j.bbi.2022.12.013
+**Entities:** Alzheimer, aging  
+**Abstract:** Age-related cognitive decline, a common component of the brain aging process, is associated with significant impairment in daily functioning and quality of life among geriatric adults. While the compl...
+
+### Integrated analysis of plasma proteome and cortex single-cell transcriptome reveals the novel biomarkers during cortical aging.
+**Authors:** Niu RZ, Feng WQ, Yu QS, Shi LL, Qin QM et al.  
+**Journal:** Frontiers in aging neuroscience (2023)  
+**PMID:** 37539343  **DOI:** 10.3389/fnagi.2023.1063861
+**Entities:** aging  
+**Abstract:** BACKGROUND: With the increase of age, multiple physiological functions of people begin gradually degenerating. Regardless of natural aging or pathological aging, the decline in cognitive function is o...
+
+### Objective Physical Function in the Alzheimer's Disease Continuum: Association with Cerebrospinal Fluid Biomarkers in the ALBION Study.
+**Authors:** Sampatakakis SN, Mamalaki E, Ntanasi E, Kalligerou F, Liampas I et al.  
+**Journal:** International journal of molecular sciences (2023)  
+**PMID:** 37762384  **DOI:** 10.3390/ijms241814079
+**Entities:** Alzheimer, aging  
+**Abstract:** Cognitive and physical decline, both indicators of aging, seem to be associated with each other. The aim of the present study was to investigate whether physical function parameters (walking time and ...
+
+### Ebselen, Iron Uptake Inhibitor, Alleviates Iron Overload-Induced Senescence-Like Neuronal Cells SH-SY5Y via Suppressing the mTORC1 Signaling Pathway.
+**Authors:** Mukem S, Sayoh I, Maungchanburi S, Thongbuakaew T  
+**Journal:** Advances in pharmacological and pharmaceutical sciences (2023)  
+**PMID:** 37731679  **DOI:** 10.1155/2023/6641347
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Increasing evidence highlights that excessive iron accumulation in the brain plays a vital role in neuronal senescence and is implicated in the pathogenesis of age-related neurodegenerative diseases, ...
+
 ### Gut Microbiota Interact With the Brain Through Systemic Chronic Inflammation: Implications on Neuroinflammation, Neurodegeneration, and Aging.
 **Authors:** Mou Y, Du Y, Zhou L, Yue J, Hu X et al.  
 **Journal:** Frontiers in immunology (2022)  
@@ -2819,6 +4254,153 @@
 **Entities:** Alzheimer, aging  
 **Abstract:** Perivascular spaces (PVS) are fluid-filled compartments that are part of the cerebral blood vessel wall and represent the conduit for fluid transport in and out of the brain. PVS are considered pathol...
 
+### Editorial: Glaucoma and Brain: Impact of Neurodegeneration on Visual Abilities and Related Biomarkers.
+**Authors:** Rolle T, Rossi GCM, Brusini P  
+**Journal:** Frontiers in aging neuroscience (2022)  
+**PMID:** 35651529  **DOI:** 10.3389/fnagi.2022.919775
+**Entities:** —  
+**Abstract:** 
+
+### BDNF Therapeutic Mechanisms in Neuropsychiatric Disorders.
+**Authors:** Bazzari AH, Bazzari FH  
+**Journal:** International journal of molecular sciences (2022)  
+**PMID:** 35955546  **DOI:** 10.3390/ijms23158417
+**Entities:** BDNF, aging  
+**Abstract:** Brain-derived neurotrophic factor (BDNF) is the most abundant neurotrophin in the adult brain and functions as both a primary neurotrophic signal and a neuromodulator. It serves essential roles in neu...
+
+### Deciphering aging at three-dimensional genomic resolution.
+**Authors:** Liu Z, Belmonte JCI, Zhang W, Qu J, Liu GH  
+**Journal:** Cell insight (2022)  
+**PMID:** 37193050  **DOI:** 10.1016/j.cellin.2022.100034
+**Entities:** aging  
+**Abstract:** Aging is characterized by progressive functional declines at the organismal, organic, and cellular levels and increased susceptibility to aging-related diseases. Epigenetic alteration is a hallmark of...
+
+### Brain-predicted age difference is associated with cognitive processing in later-life.
+**Authors:** Wrigglesworth J, Yaacob N, Ward P, Woods RL, McNeil J et al.  
+**Journal:** Neurobiology of aging (2022)  
+**PMID:** 34775210  **DOI:** 10.1016/j.neurobiolaging.2021.10.007
+**Entities:** aging  
+**Abstract:** Brain age is a neuroimaging-based biomarker of aging. This study examined whether the difference between brain age and chronological age (brain-PAD) is associated with cognitive function at baseline a...
+
+### Cellular senescence in the aging brain: A promising target for neurodegenerative diseases.
+**Authors:** Sahu MR, Rani L, Subba R, Mondal AC  
+**Journal:** Mechanisms of ageing and development (2022)  
+**PMID:** 35430158  **DOI:** 10.1016/j.mad.2022.111675
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** Aging is inevitable. Along with reduced ability to maintain the homeostasis of various biological processes, aging gradually deteriorates overall health. Extensive research on the aging brain has iden...
+
+### Depression is differentially related to cognitive and biomarker outcomes among Mexican Americans.
+**Authors:** O'Bryant SE, Petersen M, Hall J, Johnson LA  
+**Journal:** Frontiers in psychiatry (2022)  
+**PMID:** 36081458  **DOI:** 10.3389/fpsyt.2022.901403
+**Entities:** NfL, tau, Aβ42, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Despite tremendous advancements in the research of Alzheimer's disease (AD), Mexican Americans, who reflect 65% of the US Hispanic community, remain severely underrepresented in research...
+
+### Networks of inflammation, depression, and cognition in aging males and females.
+**Authors:** Chalmers RA, Cervin M, Choo C, Baune BT, Trollor JN et al.  
+**Journal:** Aging clinical and experimental research (2022)  
+**PMID:** 35895279  **DOI:** 10.1007/s40520-022-02198-6
+**Entities:** IL-6, aging  
+**Abstract:** BACKGROUND: Prioritizing the maintenance of healthy cognitive aging and personalizing preventive interventions to enhance their effectiveness is crucial as the global population ages. Systemic inflamm...
+
+### Biological correlates of elevated soluble TREM2 in cerebrospinal fluid.
+**Authors:** Winfree RL, Dumitrescu L, Blennow K, Zetterberg H, Gifford KA et al.  
+**Journal:** Neurobiology of aging (2022)  
+**PMID:** 35908327  **DOI:** 10.1016/j.neurobiolaging.2022.06.013
+**Entities:** tau, neuroinflammation, Alzheimer  
+**Abstract:** Cerebrospinal fluid (CSF) soluble triggering receptor expressed on myeloid cells-2 (sTREM2) is an emerging biomarker of neuroinflammation in Alzheimer's disease (AD). Yet, sTREM2 expression has not be...
+
+### A deep learning MRI approach outperforms other biomarkers of prodromal Alzheimer's disease.
+**Authors:** Feng X, Provenzano FA, Small SA  
+**Journal:** Alzheimer's research & therapy (2022)  
+**PMID:** 35351193  **DOI:** 10.1186/s13195-022-00985-x
+**Entities:** tau, Alzheimer  
+**Abstract:** BACKGROUND: The three core pathologies of Alzheimer's disease (AD) are amyloid pathology, tau pathology, and neurodegeneration. Biomarkers exist for each. Neurodegeneration is often detected by neuroi...
+
+### The retinal ganglion cell layer reflects neurodegenerative changes in cognitively unimpaired individuals.
+**Authors:** López-de-Eguileta A, López-García S, Lage C, Pozueta A, García-Martínez M et al.  
+**Journal:** Alzheimer's research & therapy (2022)  
+**PMID:** 35449033  **DOI:** 10.1186/s13195-022-00998-6
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** BACKGROUND: To evaluate a wide range of optical coherence tomography (OCT) parameters for possible application as a screening tool for cognitively healthy individuals at risk of Alzheimer's disease (A...
+
+### Association of Trimethylamine N-Oxide with Normal Aging and Neurocognitive Disorders: A Narrative Review.
+**Authors:** Chen X, Gu M, Hong Y, Duan R, Zhou J  
+**Journal:** Brain sciences (2022)  
+**PMID:** 36138939  **DOI:** 10.3390/brainsci12091203
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, Alzheimer  
+**Abstract:** Aging-related neurocognitive disorder (NCD) is a growing health concern. Trimethylamine-N-oxide (TMAO), a gut microbiota-derived metabolite from dietary precursors, might emerge as a promising biomark...
+
+### The elusive search for a biomarker of dissociative amnesia: an overstated response to understated findings?
+**Authors:** Reinders AATS, Dimitrova LI, Schlumpf YR, Vissia EM, Dean SL et al.  
+**Journal:** Psychological medicine (2022)  
+**PMID:** 35855668  **DOI:** 10.1017/S0033291722001660
+**Entities:** —  
+**Abstract:** 
+
+### Neurodegeneration from the AT(N) framework is different among Mexican Americans compared to non-Hispanic Whites: A Health & Aging Brain among Latino Elders (HABLE) Study.
+**Authors:** O'Bryant SE, Zhang F, Petersen M, Hall J, Johnson LA et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2022)  
+**PMID:** 35155729  **DOI:** 10.1002/dad2.12267
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: We sought to examine a magnetic resonance imaging (MRI)-based marker of neurodegeneration from the AT(N) (amyloid/tau/neurodegeneration) framework among a multi-ethnic, community-dwellin...
+
+### Investigating the temporal pattern of neuroimaging-based brain age estimation as a biomarker for Alzheimer's Disease related neurodegeneration.
+**Authors:** Taylor A, Zhang F, Niu X, Heywood A, Stocks J et al.  
+**Journal:** NeuroImage (2022)  
+**PMID:** 36089183  **DOI:** 10.1016/j.neuroimage.2022.119621
+**Entities:** Alzheimer, aging  
+**Abstract:** Neuroimaging-based brain-age estimation via machine learning has emerged as an important new approach for studying brain aging. The difference between one's estimated brain age and chronological age, ...
+
+### CROI 2022: neurologic complications of HIV-1, SARS-CoV-2, and other pathogens.
+**Authors:** Anderson AM, Letendre SL, Ances BM  
+**Journal:** Topics in antiviral medicine (2022)  
+**PMID:** 36347056  
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** The 2022 Conference on Retroviruses and Opportunistic Infections featured new and important findings about the neurologic complications of HIV-1, COVID-19, and other infections. Long-term analyses ide...
+
+### Identification of Key Biomarkers and Pathways for Maintaining Cognitively Normal Brain Aging Based on Integrated Bioinformatics Analysis.
+**Authors:** Xu J, Zhou H, Xiang G  
+**Journal:** Frontiers in aging neuroscience (2022)  
+**PMID:** 35356296  **DOI:** 10.3389/fnagi.2022.833402
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Given the arrival of the aging population has caused a series of social and economic problems, we aimed to explore the key genes underlying cognitively normal brain aging and its potential...
+
+### Acidic oligosaccharide sugar chain combined with hyperbaric oxygen delays D-galactose-induced brain senescence in mice via attenuating oxidative stress and neuroinflammation.
+**Authors:** Wang G, Wang X, Zheng X, Sun S, Zhao J et al.  
+**Journal:** Neuroscience research (2022)  
+**PMID:** 35970311  **DOI:** 10.1016/j.neures.2022.08.005
+**Entities:** ROS, TNF-α, neuroinflammation, oxidative stress, Alzheimer  
+**Abstract:** Aging is fundamental to neurodegeneration and dementia. Preventing oxidative stress and neuroinflammation are potential methods of delaying the onset of aging-associated neurodegenerative diseases. Th...
+
+### Initial Data and a Clinical Diagnosis Transition for the Aiginition Longitudinal Biomarker Investigation of Neurodegeneration (ALBION) Study.
+**Authors:** Scarmeas N, Daskalaki A, Kalligerou F, Ntanasi E, Mamalaki E et al.  
+**Journal:** Medicina (Kaunas, Lithuania) (2022)  
+**PMID:** 36143858  **DOI:** 10.3390/medicina58091179
+**Entities:** tau, p-tau, Aβ42, Alzheimer  
+**Abstract:** Background and Objectives: This article presents data from the ongoing Aiginition Longitudinal Biomarker Investigation of Neurodegeneration study (ALBION) regarding baseline clinical characterizations...
+
+### Spatial transcriptomic analysis reveals inflammatory foci defined by senescent cells in the white matter, hippocampi and cortical grey matter in the aged mouse brain.
+**Authors:** Kiss T, Nyúl-Tóth Á, DelFavero J, Balasubramanian P, Tarantini S et al.  
+**Journal:** GeroScience (2022)  
+**PMID:** 35098444  **DOI:** 10.1007/s11357-022-00521-7
+**Entities:** Alzheimer, aging  
+**Abstract:** There is strong evidence that aging is associated with an increased presence of senescent cells in the brain. The finding that treatment with senolytic drugs improves cognitive performance of aged lab...
+
+### Characterizing Plasma Biomarkers of Alzheimer's in a Diverse Community-Based Cohort: A Cross-Sectional Study of the HAB-HD Cohort.
+**Authors:** Hall JR, Petersen M, Johnson L, O'Bryant SE  
+**Journal:** Frontiers in neurology (2022)  
+**PMID:** 36062019  **DOI:** 10.3389/fneur.2022.871947
+**Entities:** NfL, tau, Aβ42, Alzheimer, Simoa  
+**Abstract:** BACKGROUND: Due to their low cost, less invasive nature, and ready availability, plasma biomarkers of Alzheimer's disease have been proposed as one-time screening tools for clinical trials and researc...
+
+### Fatty Acid-Binding Protein 3 Is a Marker of Neurodegeneration and White Matter Hyperintensity Burden in Mexican American Older Adults.
+**Authors:** Clark AL, Haley AP, Duarte A, O'Bryant S  
+**Journal:** Journal of Alzheimer's disease : JAD (2022)  
+**PMID:** 36093702  **DOI:** 10.3233/JAD-220524
+**Entities:** Alzheimer  
+**Abstract:** We examined ethnoracial differences in fatty acid binding protein (FABP)-a family of intracellular lipid carriers-and clarified FABP3 associations with gray and white matter. Relative to Mexican Ameri...
+
 ### Aging biomarkers and the brain.
 **Authors:** Higgins-Chen AT, Thrush KL, Levine ME  
 **Journal:** Seminars in cell & developmental biology (2021)  
@@ -3036,6 +4618,104 @@
 **Entities:** tau, p-tau, Alzheimer, aging  
 **Abstract:** INTRODUCTIONPlasma phospho-tau 181 (p-tau181) is a promising blood biomarker for Alzheimers disease. However, its predictive validity for age-related cognitive decline without dementia remains unclear...
 
+### Cellular Senescence in Brain Aging.
+**Authors:** Sikora E, Bielak-Zmijewska A, Dudkowska M, Krzystyniak A, Mosieniak G et al.  
+**Journal:** Frontiers in aging neuroscience (2021)  
+**PMID:** 33732142  **DOI:** 10.3389/fnagi.2021.646924
+**Entities:** aging  
+**Abstract:** Aging of the brain can manifest itself as a memory and cognitive decline, which has been shown to frequently coincide with changes in the structural plasticity of dendritic spines. Decreased number an...
+
+### Aging brain mechanics: Progress and promise of magnetic resonance elastography.
+**Authors:** Hiscox LV, Schwarb H, McGarry MDJ, Johnson CL  
+**Journal:** NeuroImage (2021)  
+**PMID:** 33617995  **DOI:** 10.1016/j.neuroimage.2021.117889
+**Entities:** Alzheimer, aging  
+**Abstract:** Neuroimaging techniques that can sensitivity characterize healthy brain aging and detect subtle neuropathologies have enormous potential to assist in the early detection of neurodegenerative condition...
+
+### Improving Age-Related Cognitive Decline through Dietary Interventions Targeting Mitochondrial Dysfunction.
+**Authors:** Kaliszewska A, Allison J, Martini M, Arias N  
+**Journal:** International journal of molecular sciences (2021)  
+**PMID:** 33808221  **DOI:** 10.3390/ijms22073574
+**Entities:** ROS, neuroinflammation, oxidative stress, aging  
+**Abstract:** Aging is inevitable and it is one of the major contributors to cognitive decline. However, the mechanisms underlying age-related cognitive decline are still the object of extensive research. At the bi...
+
+### Cognitive Decline Assessment: A Review From Medical Imaging Perspective.
+**Authors:** Dartora CM, Borelli WV, Koole M, Marques da Silva AM  
+**Journal:** Frontiers in aging neuroscience (2021)  
+**PMID:** 34489675  **DOI:** 10.3389/fnagi.2021.704661
+**Entities:** Alzheimer, aging  
+**Abstract:** Aging is a complex process that involves changes at both molecular and morphological levels. However, our understanding of how aging affects brain anatomy and function is still poor. In addition, nume...
+
+### Brain organoids: A promising model to assess oxidative stress-induced central nervous system damage.
+**Authors:** Oyefeso FA, Muotri AR, Wilson CG, Pecaut MJ  
+**Journal:** Developmental neurobiology (2021)  
+**PMID:** 33942547  **DOI:** 10.1002/dneu.22828
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Oxidative stress (OS) is one of the most significant propagators of systemic damage with implications for widespread pathologies such as vascular disease, accelerated aging, degenerative disease, infl...
+
+### The Health & Aging Brain among Latino Elders (HABLE) study methods and participant characteristics.
+**Authors:** O'Bryant SE, Johnson LA, Barber RC, Braskie MN, Christian B et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2021)  
+**PMID:** 34189247  **DOI:** 10.1002/dad2.12202
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Mexican Americans remain severely underrepresented in Alzheimer's disease (AD) research. The Health & Aging Brain among Latino Elders (HABLE) study was created to fill important gaps in ...
+
+### Blood-Brain Barrier Breakdown: An Emerging Biomarker of Cognitive Impairment in Normal Aging and Dementia.
+**Authors:** Hussain B, Fang C, Chang J  
+**Journal:** Frontiers in neuroscience (2021)  
+**PMID:** 34489623  **DOI:** 10.3389/fnins.2021.688090
+**Entities:** BBB, Alzheimer, aging  
+**Abstract:** The blood-brain barrier (BBB) plays a vital role in maintaining the specialized microenvironment of the neural tissue. It separates the peripheral circulatory system from the brain parenchyma while fa...
+
+### Undetected Neurodegenerative Disease Biases Estimates of Cognitive Change in Older Adults.
+**Authors:** Harrington KD, Aschenbrenner AJ, Maruff P, Masters CL, Fagan AM et al.  
+**Journal:** Psychological science (2021)  
+**PMID:** 34043464  **DOI:** 10.1177/0956797620985518
+**Entities:** aging  
+**Abstract:** Neurodegenerative disease is highly prevalent among older adults and, if undetected, may obscure estimates of cognitive change among aging samples. Our aim in this study was to determine the nature an...
+
+### Neuroimaging correlates of Stages of Objective Memory Impairment (SOMI) system.
+**Authors:** Grober E, Papp KV, Rentz DM, Sperling RA, Johnson KA et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2021)  
+**PMID:** 35005192  **DOI:** 10.1002/dad2.12224
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** INTRODUCTION: To assess the relationship between memory performance defined by the Stages of Objective Memory Impairment (SOMI) system and the Alzheimer's disease (AD) ATN (amyloid beta [A], pathologi...
+
+### Machine learning-based estimation of cognitive performance using regional brain MRI markers: the Northern Manhattan Study.
+**Authors:** Caunca MR, Wang L, Cheung YK, Alperin N, Lee SH et al.  
+**Journal:** Brain imaging and behavior (2021)  
+**PMID:** 32740887  **DOI:** 10.1007/s11682-020-00325-3
+**Entities:** —  
+**Abstract:** High dimensional neuroimaging datasets and machine learning have been used to estimate and predict domain-specific cognition, but comparisons with simpler models composed of easy-to-measure variables ...
+
+### Sex differences in the aging brain? A voxel-based morphometry analysis of the hippocampus and the amygdala.
+**Authors:** Sambuco N  
+**Journal:** Neuroreport (2021)  
+**PMID:** 34554939  **DOI:** 10.1097/WNR.0000000000001728
+**Entities:** aging  
+**Abstract:** OBJECTIVES: Volumetric reductions in the hippocampus and the amygdala are considered a hallmark for many psychiatric and neurodegenerative disorders. Because brain atrophy is often observed in disorde...
+
+### Longitudinal pathways of cerebrospinal fluid and positron emission tomography biomarkers of amyloid-β positivity.
+**Authors:** Sala A, Nordberg A, Rodriguez-Vieitez E  
+**Journal:** Molecular psychiatry (2021)  
+**PMID:** 33303945  **DOI:** 10.1038/s41380-020-00950-w
+**Entities:** Alzheimer  
+**Abstract:** Mismatch between CSF and PET amyloid-β biomarkers occurs in up to ≈20% of preclinical/prodromal Alzheimer's disease individuals. Factors underlying mismatching results remain unclear. In this study we...
+
+### Association of cortical microstructure with amyloid-β and tau: impact on cognitive decline, neurodegeneration, and clinical progression in older adults.
+**Authors:** Rodriguez-Vieitez E, Montal V, Sepulcre J, Lois C, Hanseeuw B et al.  
+**Journal:** Molecular psychiatry (2021)  
+**PMID:** 34588623  **DOI:** 10.1038/s41380-021-01290-z
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Noninvasive biomarkers of early neuronal injury may help identify cognitively normal individuals at risk of developing Alzheimer's disease (AD). A recent diffusion-weighted imaging (DWI) method allows...
+
+### Application of Machine Learning and Weighted Gene Co-expression Network Algorithm to Explore the Hub Genes in the Aging Brain.
+**Authors:** Chai K, Liang J, Zhang X, Cao P, Chen S et al.  
+**Journal:** Frontiers in aging neuroscience (2021)  
+**PMID:** 34733151  **DOI:** 10.3389/fnagi.2021.707165
+**Entities:** Alzheimer, aging  
+**Abstract:** Aging is a major risk factor contributing to neurodegeneration and dementia. However, it remains unclarified how aging promotes these diseases. Here, we use machine learning and weighted gene co-expre...
+
 ### Mitophagy and the Brain.
 **Authors:** Swerdlow NS, Wilkins HM  
 **Journal:** International journal of molecular sciences (2020)  
@@ -3231,6 +4911,139 @@
 **PMID:** biorxiv:10.1101/577478  **DOI:** 10.1101/577478
 **Entities:** Alzheimer, aging  
 **Abstract:** A progressive loss of protein homeostasis is characteristic of aging and a driver of neurodegeneration. To investigate this process quantitatively, we characterized proteome dynamics during brain agin...
+
+### The role of cofilin in age-related neuroinflammation.
+**Authors:** Alsegiani AS, Shah ZA  
+**Journal:** Neural regeneration research (2020)  
+**PMID:** 31997804  **DOI:** 10.4103/1673-5374.274330
+**Entities:** neuroinflammation, aging  
+**Abstract:** Aging brain becomes susceptible to neurodegenerative diseases due to the shifting of microglia and astrocyte phenotypes to an active "pro-inflammatory" state, causing chronic low-grade neuroinflammati...
+
+### Smell, an Underrated Early Biomarker for Brain Aging.
+**Authors:** Brai E, Hummel T, Alberi L  
+**Journal:** Frontiers in neuroscience (2020)  
+**PMID:** 32982661  **DOI:** 10.3389/fnins.2020.00792
+**Entities:** Alzheimer, aging  
+**Abstract:** Olfaction is in addition to touch the most ancient of our senses, developing already in the womb it decays progressively from 65 years of age with a more pronounced impairment associated with dementia...
+
+### Redox modifications in synaptic components as biomarkers of cognitive status, in brain aging and disease.
+**Authors:** Muñoz P, Ardiles ÁO, Pérez-Espinosa B, Núñez-Espinosa C, Paula-Lima A et al.  
+**Journal:** Mechanisms of ageing and development (2020)  
+**PMID:** 32433996  **DOI:** 10.1016/j.mad.2020.111250
+**Entities:** Alzheimer, aging  
+**Abstract:** Aging is a natural process that includes several changes that gradually make organisms degenerate and die. Harman's theory proposes that aging is a consequence of the progressive accumulation of oxida...
+
+### Sleep and the aging brain. A multifaceted approach.
+**Authors:** Tsapanou A, Scarmeas N, Stern Y  
+**Journal:** Sleep science (Sao Paulo, Brazil) (2020)  
+**PMID:** 32742587  **DOI:** 10.5935/1984-0063.20190128
+**Entities:** Alzheimer, aging  
+**Abstract:** In the current review we provide a theoretical background on studies examining the association between sleep and brain function. We focus on the association between sleep and cognitive performance, co...
+
+### Multicenter Alzheimer's and Parkinson's disease immune biomarker verification study.
+**Authors:** Brosseron F, Kolbe CC, Santarelli F, Carvalho S, Antonell A et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2020)  
+**PMID:** 31630996  **DOI:** 10.1016/j.jalz.2019.07.018
+**Entities:** tau, neuroinflammation, Alzheimer, aging  
+**Abstract:** INTRODUCTION: Multiple immunity biomarkers have been suggested as tracers of neuroinflammation in neurodegeneration. This study aimed to verify findings in cerebrospinal fluid (CSF) samples of Alzheim...
+
+### Salivary lactoferrin as biomarker for Alzheimer's disease: Brain-immunity interactions.
+**Authors:** Bermejo-Pareja F, Del Ser T, Valentí M, de la Fuente M, Bartolome F et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2020)  
+**PMID:** 32543760  **DOI:** 10.1002/alz.12107
+**Entities:** tau, neuroinflammation, Alzheimer  
+**Abstract:** OBJECTIVE: We aim to explain why salivary lactoferrin (Lf) levels are reduced in patients suffering mild cognitive impairment (MCI) and sporadic Alzheimer's disease (sAD).1 We also will discuss if suc...
+
+### Diet modulates brain network stability, a biomarker for brain aging, in young adults.
+**Authors:** Mujica-Parodi LR, Amgalan A, Sultan SF, Antal B, Sun X et al.  
+**Journal:** Proceedings of the National Academy of Sciences of the United States of America (2020)  
+**PMID:** 32127481  **DOI:** 10.1073/pnas.1913042117
+**Entities:** aging  
+**Abstract:** Epidemiological studies suggest that insulin resistance accelerates progression of age-based cognitive impairment, which neuroimaging has linked to brain glucose hypometabolism. As cellular inputs, ke...
+
+### Imaging the aging brain: study design and baseline findings of the SENIOR cohort.
+**Authors:** Haeger A, Mangin JF, Vignaud A, Poupon C, Grigis A et al.  
+**Journal:** Alzheimer's research & therapy (2020)  
+**PMID:** 32591008  **DOI:** 10.1186/s13195-020-00642-1
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Current demographic trends point towards an aging society entailing increasing occurrence and burden of neurodegenerative diseases. In this context, understanding physiological aging and i...
+
+### CCL-11 or Eotaxin-1: An Immune Marker for Ageing and Accelerated Ageing in Neuro-Psychiatric Disorders.
+**Authors:** Ivanovska M, Abdi Z, Murdjeva M, Macedo D, Maes A et al.  
+**Journal:** Pharmaceuticals (Basel, Switzerland) (2020)  
+**PMID:** 32887304  **DOI:** 10.3390/ph13090230
+**Entities:** neuroinflammation, BBB, Alzheimer, resveratrol, aging  
+**Abstract:** BACKGROUND: CCL-11 (eotaxin) is a chemokine with an important role in allergic conditions. Recent evidence indicates that CCL-11 plays a role in brain disorders as well. This paper reviews the associa...
+
+### Neurophysiological Hallmarks of Neurodegenerative Cognitive Decline: The Study of Brain Connectivity as A Biomarker of Early Dementia.
+**Authors:** Rossini PM, Miraglia F, Alù F, Cotelli M, Ferreri F et al.  
+**Journal:** Journal of personalized medicine (2020)  
+**PMID:** 32365890  **DOI:** 10.3390/jpm10020034
+**Entities:** Alzheimer, aging  
+**Abstract:** Neurodegenerative processes of various types of dementia start years before symptoms, but the presence of a "neural reserve", which continuously feeds and supports neuroplastic mechanisms, helps the a...
+
+### Characteristics of Epigenetic Clocks Across Blood and Brain Tissue in Older Women and Men.
+**Authors:** Grodstein F, Lemos B, Yu L, Iatrou A, De Jager PL et al.  
+**Journal:** Frontiers in neuroscience (2020)  
+**PMID:** 33488342  **DOI:** 10.3389/fnins.2020.555307
+**Entities:** aging  
+**Abstract:** Epigenetic clocks are among the most promising biomarkers of aging. It is particularly important to establish biomarkers of brain aging to better understand neurodegenerative diseases. To advance appl...
+
+### Patterns of multi-domain cognitive aging in participants of the Long Life Family Study.
+**Authors:** Sebastiani P, Andersen SL, Sweigart B, Du M, Cosentino S et al.  
+**Journal:** GeroScience (2020)  
+**PMID:** 32514870  **DOI:** 10.1007/s11357-020-00202-3
+**Entities:** IL-6, aging  
+**Abstract:** Maintaining good cognitive function at older age is important, but our knowledge of patterns and predictors of cognitive aging is still limited. We used Bayesian model-based clustering to group 5064 p...
+
+### Sex difference in Alzheimer's disease: An updated, balanced and emerging perspective on differing vulnerabilities.
+**Authors:** Dubal DB  
+**Journal:** Handbook of clinical neurology (2020)  
+**PMID:** 33008530  **DOI:** 10.1016/B978-0-444-64123-6.00018-7
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Sex biology influences Alzheimer's disease (AD). Sex differences exist in the epidemiologic, imaging, biomarker, and pathology studies of this uniquely human condition. The mandate to understand sex d...
+
+### CSF sTREM2 and Tau Work Together in Predicting Increased Temporal Lobe Atrophy in Older Adults.
+**Authors:** Halaas NB, Henjum K, Blennow K, Dakhil S, Idland AV et al.  
+**Journal:** Cerebral cortex (New York, N.Y. : 1991) (2020)  
+**PMID:** 31812991  **DOI:** 10.1093/cercor/bhz240
+**Entities:** tau, p-tau, Aβ42, neuroinflammation, Alzheimer  
+**Abstract:** Neuroinflammation may be a key factor in brain atrophy in aging and age-related neurodegenerative disease. The objective of this study was to test the association between microglial expression of solu...
+
+### Common transcriptome, plasma molecules, and imaging signatures in the aging brain and a Mendelian neurovascular disease, cerebral cavernous malformation.
+**Authors:** Koskimäki J, Polster SP, Li Y, Romanos S, Srinath A et al.  
+**Journal:** GeroScience (2020)  
+**PMID:** 32556941  **DOI:** 10.1007/s11357-020-00201-4
+**Entities:** aging  
+**Abstract:** Brain senescence is associated with impaired endothelial barrier function, angiogenic and inflammatory activity, and propensity to brain hemorrhage. The same pathological changes occur in cerebral cav...
+
+### COX5A Plays a Vital Role in Memory Impairment Associated With Brain Aging via the BDNF/ERK1/2 Signaling Pathway.
+**Authors:** Xiyang YB, Liu R, Wang XY, Li S, Zhao Y et al.  
+**Journal:** Frontiers in aging neuroscience (2020)  
+**PMID:** 32754029  **DOI:** 10.3389/fnagi.2020.00215
+**Entities:** BDNF, Alzheimer, aging  
+**Abstract:** Cytochrome c oxidase subunit Va (COX5A) is involved in maintaining normal mitochondrial function. However, little is known on the role of COX5A in the development and progress of Alzheimer's disease (...
+
+### Association of Alzheimer's disease risk variants on the PICALM gene with PICALM expression, core biomarkers, and feature neurodegeneration.
+**Authors:** Xu W, Tan CC, Cao XP, Tan L  
+**Journal:** Aging (2020)  
+**PMID:** 33170153  **DOI:** 10.18632/aging.103814
+**Entities:** Alzheimer  
+**Abstract:** It is still unclear how
+
+### Lower Left Ventricular Ejection Fraction Relates to Cerebrospinal Fluid Biomarker Evidence of Neurodegeneration in Older Adults.
+**Authors:** Kresge HA, Liu D, Gupta DK, Moore EE, Osborn KE et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2020)  
+**PMID:** 32144980  **DOI:** 10.3233/JAD-190813
+**Entities:** tau, p-tau, Aβ42, Alzheimer, aging  
+**Abstract:** BACKGROUND: Subclinical cardiac dysfunction is associated with decreased cerebral blood flow, placing the aging brain at risk for Alzheimer's disease (AD) pathology and neurodegeneration. OBJECTIVE: T...
+
+### Cerebrospinal fluid biomarkers of Alzheimer's disease in a cohort of adults with Down syndrome.
+**Authors:** Henson RL, Doran E, Christian BT, Handen BL, Klunk WE et al.  
+**Journal:** Alzheimer's & dementia (Amsterdam, Netherlands) (2020)  
+**PMID:** 32671183  **DOI:** 10.1002/dad2.12057
+**Entities:** NfL, tau, p-tau, Aβ42, neuroinflammation  
+**Abstract:** INTRODUCTION: Virtually all individuals with Down syndrome (DS) will develop Alzheimer's disease (AD) pathology by age 40. Cerebrospinal fluid (CSF) biomarkers have characterized AD pathology in cohor...
 
 ### microRNA-based biomarker for dementia.
 **Authors:** Toyama K, Mogi M, Tsao PS  
@@ -3442,6 +5255,111 @@
 **Entities:** ROS, oxidative stress  
 **Abstract:** Systemic oxidative stress plays a key role in the development of chronic heart failure (CHF). We tested the hypothesis that mitochondrial reactive oxygen species (ROS) generation in circulating periph...
 
+### Neuropsychology of aging.
+**Authors:** Cohen RA, Marsiske MM, Smith GE  
+**Journal:** Handbook of clinical neurology (2019)  
+**PMID:** 31753131  **DOI:** 10.1016/B978-0-12-804766-8.00010-8
+**Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** All people want to age "successfully," maintaining functional capacity and quality of life as they reach advanced age. Achieving this goal depends on preserving optimal cognitive and brain functioning...
+
+### Astrocyte senescence: Evidence and significance.
+**Authors:** Cohen J, Torres C  
+**Journal:** Aging cell (2019)  
+**PMID:** 30815970  **DOI:** 10.1111/acel.12937
+**Entities:** neuroinflammation, aging  
+**Abstract:** Astrocytes participate in numerous aspects of central nervous system (CNS) physiology ranging from ion balance to metabolism, and disruption of their physiological roles can therefore be a contributor...
+
+### Novel Approaches for the Treatment of Alzheimer's and Parkinson's Disease.
+**Authors:** Van Bulck M, Sierra-Magro A, Alarcon-Gil J, Perez-Castillo A, Morales-Garcia JA  
+**Journal:** International journal of molecular sciences (2019)  
+**PMID:** 30743990  **DOI:** 10.3390/ijms20030719
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** Neurodegenerative disorders affect around one billion people worldwide. They can arise from a combination of genomic, epigenomic, metabolic, and environmental factors. Aging is the leading risk factor...
+
+### Biochemical deficits and cognitive decline in brain aging: Intervention by dietary supplements.
+**Authors:** Poddar J, Pradhan M, Ganguly G, Chakrabarti S  
+**Journal:** Journal of chemical neuroanatomy (2019)  
+**PMID:** 29678666  **DOI:** 10.1016/j.jchemneu.2018.04.002
+**Entities:** neuroinflammation, oxidative stress, Alzheimer, aging  
+**Abstract:** The aging of brain in the absence of neurodegenerative diseases, usually called non-pathological brain aging or normal cognitive aging, is characterized by an impairment of memory and cognitive functi...
+
+### Unknown fates of (brain) oxidation or UFO: Close encounters with neuronal senescence.
+**Authors:** Walton CC, Andersen JK  
+**Journal:** Free radical biology & medicine (2019)  
+**PMID:** 30639615  **DOI:** 10.1016/j.freeradbiomed.2019.01.012
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Oxidative stress has long been considered a key component contributing to pathologies associated with brain aging and age-related neurodegenerative diseases. The proposed mechanisms involved are varie...
+
+### Molecular Signatures of the Aging Brain: Finding the Links Between Genes and Phenotypes.
+**Authors:** Lupo G, Gaetani S, Cacci E, Biagioni S, Negri R  
+**Journal:** Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics (2019)  
+**PMID:** 31161490  **DOI:** 10.1007/s13311-019-00743-2
+**Entities:** neuroinflammation, aging  
+**Abstract:** Aging is associated with cognitive decline and increased vulnerability to neurodegenerative diseases. The progressive extension of the average human lifespan is bound to lead to a corresponding increa...
+
+### Low-Density Lipoprotein Particle Size Subfractions and Cerebral Amyloidosis.
+**Authors:** Lee S, Parekh T, King SM, Reed B, Chui HC et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2019)  
+**PMID:** 30883362  **DOI:** 10.3233/JAD-181252
+**Entities:** Alzheimer, aging  
+**Abstract:** Cerebral beta-amyloidosis (CA) is a condition in which amyloid-β (Aβ) proteins are deposited in the cerebral cortex and is a predictor of Alzheimer's disease (AD). The Aging Brain Study (ABS) investig...
+
+### Ten Years of BrainAGE as a Neuroimaging Biomarker of Brain Aging: What Insights Have We Gained?
+**Authors:** Franke K, Gaser C  
+**Journal:** Frontiers in neurology (2019)  
+**PMID:** 31474922  **DOI:** 10.3389/fneur.2019.00789
+**Entities:** aging  
+**Abstract:** With the aging population, prevalence of neurodegenerative diseases is increasing, thus placing a growing burden on individuals and the whole society. However, individual rates of aging are shaped by ...
+
+### Cortical neurons develop a senescence-like phenotype promoted by dysfunctional autophagy.
+**Authors:** Moreno-Blas D, Gorostieta-Salas E, Pommer-Alba A, Muciño-Hernández G, Gerónimo-Olvera C et al.  
+**Journal:** Aging (2019)  
+**PMID:** 31469660  **DOI:** 10.18632/aging.102181
+**Entities:** aging  
+**Abstract:** Senescent cells accumulate in various tissues and organs with aging altering surrounding tissue due to an active secretome, and at least in mice their elimination extends healthy lifespan and ameliora...
+
+### Soluble Intercellular Adhesion Molecule-1 (sICAM-1) as a Biomarker of Vascular Cognitive Impairment in Older Adults.
+**Authors:** Gregory MA, Manuel-Apolinar L, Sánchez-Garcia S, Villa Romero AR, de Jesús Iuit Rivera J et al.  
+**Journal:** Dementia and geriatric cognitive disorders (2019)  
+**PMID:** 31408858  **DOI:** 10.1159/000500068
+**Entities:** aging  
+**Abstract:** BACKGROUND: Endothelial dysfunction and subsequent inflammation contribute to the development of vascular cognitive impairment (VCI). Soluble intercellular adhesion molecule-1 (sICAM-1) is upregulated...
+
+### Emerging pathways to neurodegeneration: Dissecting the critical molecular mechanisms in Alzheimer's disease, Parkinson's disease.
+**Authors:** Tan SH, Karri V, Tay NWR, Chang KH, Ah HY et al.  
+**Journal:** Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie (2019)  
+**PMID:** 30612001  **DOI:** 10.1016/j.biopha.2018.12.101
+**Entities:** ROS, oxidative stress, Alzheimer  
+**Abstract:** Neurodegenerative diseases are usually sporadic in nature and commonly influenced by a wide range of genetic, life style and environmental factors. A unifying feature of Alzheimer's disease (AD) and P...
+
+### Associations of Amyloid, Tau, and Neurodegeneration Biomarker Profiles With Rates of Memory Decline Among Individuals Without Dementia.
+**Authors:** Jack CR, Wiste HJ, Therneau TM, Weigand SD, Knopman DS et al.  
+**Journal:** JAMA (2019)  
+**PMID:** 31211344  **DOI:** 10.1001/jama.2019.7437
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** IMPORTANCE: A National Institute on Aging and Alzheimer's Association workgroup proposed a research framework for Alzheimer disease in which biomarker classification of research participants is labele...
+
+### Levels of α-2 Macroglobulin in cognitively normal Mexican- Americans with Subjective Cognitive Decline: A HABLE Study.
+**Authors:** Hall JR, Wiechmann AR, Johnson LA, Edwards ML, O'Bryant SE  
+**Journal:** Current neurobiology (2019)  
+**PMID:** 31061568  
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: The presence of Subjective Cognitive Decline (SCD) in the absence of objective change and the inflammatory biomarker Alpha 2 Macroglobulin (A2M) have both been implicated in preclinical Al...
+
+### Tau Protein is Associated with Longitudinal Memory Decline in Cognitively Healthy Subjects with Normal Alzheimer's Disease Cerebrospinal Fluid Biomarker Levels.
+**Authors:** Tort-Merino A, Olives J, León M, Peñaloza C, Valech N et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2019)  
+**PMID:** 31177219  **DOI:** 10.3233/JAD-190046
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** BACKGROUND: We investigated a sample of cognitively healthy subjects with normal Alzheimer's disease (AD) cerebrospinal fluid (CSF) biomarker levels to identify the earliest variables related to longi...
+
+### Cerebrospinal fluid amyloid levels are associated with delayed memory retention in cognitively normal biomarker-negative older adults.
+**Authors:** Yeung LK, Hale C, Last BS, Andrews H, Sloan RP et al.  
+**Journal:** Neurobiology of aging (2019)  
+**PMID:** 31520793  **DOI:** 10.1016/j.neurobiolaging.2019.08.010
+**Entities:** tau, Alzheimer  
+**Abstract:** Alzheimer's disease is defined by abnormal levels of amyloid and tau biomarkers. Even cognitively normal older adults with clinically relevant amyloid and tau levels perform worse on memory tests. How...
+
 ### From Mitochondrial Function to Neuroprotection-an Emerging Role for Methylene Blue.
 **Authors:** Tucker D, Lu Y, Zhang Q  
 **Journal:** Molecular neurobiology (2018)  
@@ -3616,6 +5534,62 @@
 **PMID:** biorxiv:10.1101/487629  **DOI:** 10.1101/487629
 **Entities:** tau, BDNF, neuroinflammation, Alzheimer, aging  
 **Abstract:** Backgroundpreclinical, clinical, and epidemiological evidence support the notion that Alzheimers disease(AD) is a multifactorial condition in which, along with {beta}-amyloid (A{beta}) and tau-related...
+
+### Aging in the Brain: New Roles of Epigenetics in Cognitive Decline.
+**Authors:** Barter JD, Foster TC  
+**Journal:** The Neuroscientist : a review journal bringing neurobiology, neurology and psychiatry (2018)  
+**PMID:** 29877135  **DOI:** 10.1177/1073858418780971
+**Entities:** aging  
+**Abstract:** Gene expression in the aging brain depends on transcription signals generated by senescent physiology, interacting with genetic and epigenetic programs. In turn, environmental factors influence epigen...
+
+### Mediterranean diet and 3-year Alzheimer brain biomarker changes in middle-aged adults.
+**Authors:** Berti V, Walters M, Sterling J, Quinn CG, Logue M et al.  
+**Journal:** Neurology (2018)  
+**PMID:** 29653991  **DOI:** 10.1212/WNL.0000000000005527
+**Entities:** Alzheimer, aging  
+**Abstract:** OBJECTIVE: To examine in a 3-year brain imaging study the effects of higher vs lower adherence to a Mediterranean-style diet (MeDi) on Alzheimer disease (AD) biomarker changes (brain β-amyloid load vi...
+
+### Neuroimaging Biomarkers of mTOR Inhibition on Vascular and Metabolic Functions in Aging Brain and Alzheimer's Disease.
+**Authors:** Lee J, Yanckello LM, Ma D, Hoffman JD, Parikh I et al.  
+**Journal:** Frontiers in aging neuroscience (2018)  
+**PMID:** 30140223  **DOI:** 10.3389/fnagi.2018.00225
+**Entities:** Alzheimer, aging  
+**Abstract:** The mechanistic target of rapamycin (mTOR) is a nutrient sensor of eukaryotic cells. Inhibition of mechanistic mTOR signaling can increase life and health span in various species via interventions tha...
+
+### Multiproteinopathy, neurodegeneration and old age: a case study.
+**Authors:** Rojas JC, Stephens ML, Rabinovici GD, Kramer JH, Miller BL et al.  
+**Journal:** Neurocase (2018)  
+**PMID:** 29307276  **DOI:** 10.1080/13554794.2017.1420199
+**Entities:** Alzheimer, aging  
+**Abstract:** A complex spectrum of mixed brain pathologies is common in older people. This clinical pathologic conference case study illustrates the challenges of formulating clinicopathologic correlations in late...
+
+### Uncovering Biologically Coherent Peripheral Signatures of Health and Risk for Alzheimer's Disease in the Aging Brain.
+**Authors:** Riedel BC, Daianu M, Ver Steeg G, Mezher A, Salminen LE et al.  
+**Journal:** Frontiers in aging neuroscience (2018)  
+**PMID:** 30555318  **DOI:** 10.3389/fnagi.2018.00390
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain aging is a multifaceted process that remains poorly understood. Despite significant advances in technology, progress toward identifying reliable risk factors for suboptimal brain health requires...
+
+### Lipidomics reveals a systemic energy deficient state that precedes neurotoxicity in neonatal monkeys after sevoflurane exposure.
+**Authors:** Wang C, Liu F, Frisch-Daiello JL, Martin S, Patterson TA et al.  
+**Journal:** Analytica chimica acta (2018)  
+**PMID:** 30292318  **DOI:** 10.1016/j.aca.2017.11.052
+**Entities:** oxidative stress, TBI, 4-HNE  
+**Abstract:** Although numerous studies have raised public concerns regarding the safety of anesthetics including sevoflurane in children, the biochemical mechanisms leading to anesthetics-induced neurotoxicity rem...
+
+### A Specific Reduction in Aβ1-42 vs. a Universal Loss of Aβ Peptides in CSF Differentiates Alzheimer's Disease From Meningitis and Multiple Sclerosis.
+**Authors:** Spitzer P, Lang R, Oberstein TJ, Lewczuk P, Ermann N et al.  
+**Journal:** Frontiers in aging neuroscience (2018)  
+**PMID:** 29881343  **DOI:** 10.3389/fnagi.2018.00152
+**Entities:** Alzheimer  
+**Abstract:** A reduced concentration of Aβ
+
+### Ketogenic diet, high intensity interval training (HIIT) and memory training in the treatment of mild cognitive impairment: A case study.
+**Authors:** Dahlgren K, Gibas KJ  
+**Journal:** Diabetes & metabolic syndrome (2018)  
+**PMID:** 29678606  **DOI:** 10.1016/j.dsx.2018.04.031
+**Entities:** Aβ42, Alzheimer, aging  
+**Abstract:** Alzheimer's disease (AD) deaths have increased by 89% since 2000. This alarming trajectory of neurological disease highlights the failure of current best practice. Deteriorating brain fuel supply is t...
 
 ### Neuroimaging-derived brain-age: an ageing biomarker?
 **Authors:** Cole JH  
@@ -3813,6 +5787,62 @@
 **Entities:** Alzheimer, aging  
 **Abstract:** Accumulation of brain iron has been suggested as a biomarker of neurodegeneration. Increased iron has been seen in the cerebral cortex in postmortem studies of neurodegenerative diseases and healthy a...
 
+### Genetic Biomarkers on Age-Related Cognitive Decline.
+**Authors:** Lin CH, Lin E, Lane HY  
+**Journal:** Frontiers in psychiatry (2017)  
+**PMID:** 29209239  **DOI:** 10.3389/fpsyt.2017.00247
+**Entities:** aging  
+**Abstract:** With ever-increasing elder populations, age-related cognitive decline, which is characterized as a gradual decline in cognitive capacity in the aging process, has turned out to be a mammoth public hea...
+
+### Neuroinflammation in Neurodegenerative Disorders-a Review.
+**Authors:** Schain M, Kreisl WC  
+**Journal:** Current neurology and neuroscience reports (2017)  
+**PMID:** 28283959  **DOI:** 10.1007/s11910-017-0733-2
+**Entities:** neuroinflammation  
+**Abstract:** The potential for positron emission tomography (PET) to detect neuroinflammation in vivo has sparked a remarkable interest in various disciplines of neuroscience. Early PET radioligands, such as [
+
+### Neuromelanin in parkinsonian disorders: an update.
+**Authors:** Martin-Bastida A, Pietracupa S, Piccini P  
+**Journal:** The International journal of neuroscience (2017)  
+**PMID:** 28460588  **DOI:** 10.1080/00207454.2017.1325883
+**Entities:** Alzheimer, dopamine, aging  
+**Abstract:** Neuromelanin (NM) is a dark pigment that accumulates linearly with aging in substantia nigra (SN) and locus coeruleus (LC). The dual protective and toxic role of NM has been hypothesized according to ...
+
+### miRNA in Circulating Microvesicles as Biomarkers for Age-Related Cognitive Decline.
+**Authors:** Rani A, O'Shea A, Ianov L, Cohen RA, Woods AJ et al.  
+**Journal:** Frontiers in aging neuroscience (2017)  
+**PMID:** 29046635  **DOI:** 10.3389/fnagi.2017.00323
+**Entities:** aging  
+**Abstract:** Community dwelling older individuals from the North Florida region were examined for health status and a comprehensive neuropsychological battery, including the Montreal Cognitive Assessment (MoCA), w...
+
+### How Does Exercise Reduce the Rate of Age-Associated Cognitive Decline? A Review of Potential Mechanisms.
+**Authors:** Kennedy G, Hardman RJ, Macpherson H, Scholey AB, Pipingas A  
+**Journal:** Journal of Alzheimer's disease : JAD (2017)  
+**PMID:** 27636853  **DOI:** 10.3233/JAD-160665
+**Entities:** BDNF, Alzheimer, aging  
+**Abstract:** The rate of age-associated cognitive decline varies considerably between individuals. It is important, both on a societal and individual level, to investigate factors that underlie these differences i...
+
+### Alzheimer's Disease Biomarkers and Future Decline in Cognitive Normal Older Adults.
+**Authors:** Dumurgier J, Hanseeuw BJ, Hatling FB, Judge KA, Schultz AP et al.  
+**Journal:** Journal of Alzheimer's disease : JAD (2017)  
+**PMID:** 29036824  **DOI:** 10.3233/JAD-170511
+**Entities:** tau, Aβ42, Alzheimer, aging  
+**Abstract:** BACKGROUND: Identifying older adults at risk of cognitive decline represents a challenge as Alzheimer's disease (AD) modifying therapies move toward preclinical stages. OBJECTIVE: To investigate the r...
+
+### Ginsenoside Rg3 Prevents Oxidative Stress-Induced Astrocytic Senescence and Ameliorates Senescence Paracrine Effects on Glioblastoma.
+**Authors:** Hou J, Kim S, Sung C, Choi C  
+**Journal:** Molecules (Basel, Switzerland) (2017)  
+**PMID:** 28891967  **DOI:** 10.3390/molecules22091516
+**Entities:** ROS, IL-6, oxidative stress, aging  
+**Abstract:** Senescent astrocytes in aging brain express senescence-associated secretory phenotype (SASP) and link with increased brain aging and its related diseases. In order to determine whether ginsenosides am...
+
+### Plasma REST: a novel candidate biomarker of Alzheimer's disease is modified by psychological intervention in an at-risk population.
+**Authors:** Ashton NJ, Hye A, Leckey CA, Jones AR, Gardner A et al.  
+**Journal:** Translational psychiatry (2017)  
+**PMID:** 28585932  **DOI:** 10.1038/tp.2017.113
+**Entities:** Alzheimer, aging  
+**Abstract:** The repressor element 1-silencing transcription (REST) factor is a key regulator of the aging brain's stress response. It is reduced in conditions of stress and Alzheimer's disease (AD), which suggest...
+
 ### A/T/N: An unbiased descriptive classification scheme for Alzheimer disease biomarkers.
 **Authors:** Jack CR, Bennett DA, Blennow K, Carrillo MC, Feldman HH et al.  
 **Journal:** Neurology (2016)  
@@ -3981,6 +6011,27 @@
 **Entities:** GFAP, aging  
 **Abstract:** High consumption of fruits and vegetables has been associated with reduced risk of debilitating diseases and improved cognition in aged populations. These beneficial effects have been attributed to th...
 
+### Nutritional Cognitive Neuroscience: Innovations for Healthy Brain Aging.
+**Authors:** Zamroziewicz MK, Barbey AK  
+**Journal:** Frontiers in neuroscience (2016)  
+**PMID:** 27375409  **DOI:** 10.3389/fnins.2016.00240
+**Entities:** aging  
+**Abstract:** Nutritional cognitive neuroscience is an emerging interdisciplinary field of research that seeks to understand nutrition's impact on cognition and brain health across the life span. Research in this b...
+
+### Low levels of aluminum can lead to behavioral and morphological changes associated with Alzheimer's disease and age-related neurodegeneration.
+**Authors:** Bondy SC  
+**Journal:** Neurotoxicology (2016)  
+**PMID:** 26687397  **DOI:** 10.1016/j.neuro.2015.12.002
+**Entities:** Alzheimer, aging  
+**Abstract:** Aluminum (Al) is a very common component of the earth's mineral composition. It is not essential element for life and is a constituent of rather inert minerals. Therefore, it has often been regarded a...
+
+### Molecular markers of amnestic mild cognitive impairment among Mexican Americans.
+**Authors:** Edwards M, Hall J, Williams B, Johnson L, O'Bryant S  
+**Journal:** Journal of Alzheimer's disease : JAD (2016)  
+**PMID:** 26444793  **DOI:** 10.3233/JAD-150553
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Mexican Americans face a significant health disparity when it comes to Alzheimer's disease (AD) as they present with higher rates of the disease and develop AD at an earlier age compared t...
+
 ### Quantification of biological aging in young adults.
 **Authors:** Belsky DW, Caspi A, Houts R, Cohen HJ, Corcoran DL et al.  
 **Journal:** Proceedings of the National Academy of Sciences of the United States of America (2015)  
@@ -4064,6 +6115,34 @@
 **PMID:** 25980955  **DOI:** 10.1111/ejn.12951
 **Entities:** aging  
 **Abstract:** Many RNA virus CNS infections cause neurological disease. Because Piry virus has a limited human pathogenicity and exercise reduces activation of microglia in aged mice, possible influences of environ...
+
+### Cellular senescence and the aging brain.
+**Authors:** Chinta SJ, Woods G, Rane A, Demaria M, Campisi J et al.  
+**Journal:** Experimental gerontology (2015)  
+**PMID:** 25281806  **DOI:** 10.1016/j.exger.2014.09.018
+**Entities:** Alzheimer, aging  
+**Abstract:** Cellular senescence is a potent anti-cancer mechanism that arrests the proliferation of mitotically competent cells to prevent malignant transformation. Senescent cells accumulate with age in a variet...
+
+### Challenges of multimorbidity of the aging brain: a critical update.
+**Authors:** Jellinger KA, Attems J  
+**Journal:** Journal of neural transmission (Vienna, Austria : 1996) (2015)  
+**PMID:** 25091618  **DOI:** 10.1007/s00702-014-1288-x
+**Entities:** Alzheimer, aging  
+**Abstract:** A major problem in elderly patients is the high incidence of multiple pathologies, referred to as multimorbidity, in the aging brain. It has been increasingly recognized that co-occurrence of neurodeg...
+
+### In vitro caloric restriction induces protective genes and functional rejuvenation in senescent SAMP8 astrocytes.
+**Authors:** García-Matas S, Paul RK, Molina-Martínez P, Palacios H, Gutierrez VM et al.  
+**Journal:** Aging cell (2015)  
+**PMID:** 25711920  **DOI:** 10.1111/acel.12259
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Astrocytes are key cells in brain aging, helping neurons to undertake healthy aging or otherwise letting them enter into a spiral of neurodegeneration. We aimed to characterize astrocytes cultured fro...
+
+### Anterior cingulate cortex mediates the relationship between O3PUFAs and executive functions in APOE e4 carriers.
+**Authors:** Zamroziewicz MK, Paul EJ, Rubin RD, Barbey AK  
+**Journal:** Frontiers in aging neuroscience (2015)  
+**PMID:** 26052283  **DOI:** 10.3389/fnagi.2015.00087
+**Entities:** aging  
+**Abstract:** INTRODUCTION: Although diet has a substantial influence on the aging brain, the relationship between biomarkers of diet and aspects of brain health remains unclear. This study examines the neural mech...
 
 ### The role of iron in brain ageing and neurodegenerative disorders.
 **Authors:** Ward RJ, Zucca FA, Duyn JH, Crichton RR, Zecca L  
@@ -4198,6 +6277,48 @@
 **Entities:** aging  
 **Abstract:** n-3 Long-chain PUFA (n-3 LC-PUFA), particularly EPA and DHA, play a key role in the maintenance of brain functions such as learning and memory that are impaired during ageing. Ageing is also associate...
 
+### Prolonged exposure to low levels of aluminum leads to changes associated with brain aging and neurodegeneration.
+**Authors:** Bondy SC  
+**Journal:** Toxicology (2014)  
+**PMID:** 24189189  **DOI:** 10.1016/j.tox.2013.10.008
+**Entities:** Alzheimer, aging  
+**Abstract:** Aluminum is one of the most common metal elements in the earth's crust. It is not an essential element for life and has commonly been thought of as a rather inert and insoluble mineral. Therefore, it ...
+
+### Senescence-accelerated OXYS rats: a model of age-related cognitive decline with relevance to abnormalities in Alzheimer disease.
+**Authors:** Stefanova NA, Kozhevnikova OS, Vitovtov AO, Maksimova KY, Logvinov SV et al.  
+**Journal:** Cell cycle (Georgetown, Tex.) (2014)  
+**PMID:** 24552807  **DOI:** 10.4161/cc.28255
+**Entities:** tau, Alzheimer, aging  
+**Abstract:** Senescence-accelerated OXYS rats are an experimental model of accelerated aging that was established from Wistar stock via selection for susceptibility to cataractogenic effects of a galactose-rich di...
+
+### Senescence-associated-gene signature identifies genes linked to age, prognosis, and progression of human gliomas.
+**Authors:** Coppola D, Balducci L, Chen DT, Loboda A, Nebozhyn M et al.  
+**Journal:** Journal of geriatric oncology (2014)  
+**PMID:** 25220188  **DOI:** 10.1016/j.jgo.2014.08.003
+**Entities:** IL-6, aging  
+**Abstract:** BACKGROUND: Senescence-associated genes (SAGs) are responsible for the senescence-associated secretory phenotype, linked in turn to cellular aging, the aging brain, and the pathogenesis of cancer. OBJ...
+
+### Genetic variation modifies risk for neurodegeneration based on biomarker status.
+**Authors:** Hohman TJ, Koran ME, Thornton-Wells TA  
+**Journal:** Frontiers in aging neuroscience (2014)  
+**PMID:** 25140149  **DOI:** 10.3389/fnagi.2014.00183
+**Entities:** ROS, tau, oxidative stress, Alzheimer  
+**Abstract:** BACKGROUND: While a great deal of work has gone into understanding the relationship between Cerebrospinal fluid (CSF) biomarkers, brain atrophy, and disease progression, less work has attempted to inv...
+
+### Astrocyte Reactivity: A Biomarker for Retinal Ganglion Cell Health in Retinal Neurodegeneration.
+**Authors:** Formichella CR, Abella SK, Sims SM, Cathcart HM, Sappington RM  
+**Journal:** Journal of clinical & cellular immunology (2014)  
+**PMID:** 25133067  
+**Entities:** GFAP, neuroinflammation, Alzheimer, aging  
+**Abstract:** Retinal ganglion cell (RGC) loss in glaucoma is sectorial in nature and preceded by deficits in axonal transport. Neuroinflammation plays an important role in the pathophysiology of glaucoma in the re...
+
+### High-field proton magnetic resonance spectroscopy reveals metabolic effects of normal brain aging.
+**Authors:** Harris JL, Yeh HW, Swerdlow RH, Choi IY, Lee P et al.  
+**Journal:** Neurobiology of aging (2014)  
+**PMID:** 24559659  **DOI:** 10.1016/j.neurobiolaging.2014.01.018
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** Altered brain metabolism is likely to be an important contributor to normal cognitive decline and brain pathology in elderly individuals. To characterize the metabolic changes associated with normal b...
+
 ### Peripheral inflammation and cognitive aging.
 **Authors:** Lim A, Krajina K, Marsland AL  
 **Journal:** Modern trends in pharmacopsychiatry (2013)  
@@ -4310,6 +6431,48 @@
 **Entities:** Alzheimer, aging  
 **Abstract:** Alzheimer's disease (AD) is a common, incurable, and progressive dementia, characterized by loss of learning and memory and the neuropathologic accumulation of amyloid plaques and neurofibrillary tang...
 
+### Cell biology of normal brain aging: synaptic plasticity-cell death.
+**Authors:** Dorszewska J  
+**Journal:** Aging clinical and experimental research (2013)  
+**PMID:** 23740630  **DOI:** 10.1007/s40520-013-0004-2
+**Entities:** aging  
+**Abstract:** Senescence of the brain seems to be related to increased levels of free oxygen radical (FOR). FOR may damage macromolecular compounds such as: proteins, lipids, and DNA. In the aging brain, increased ...
+
+### Biomarkers in Parkinson's disease (recent update).
+**Authors:** Sharma S, Moon CS, Khogali A, Haidous A, Chabenne A et al.  
+**Journal:** Neurochemistry international (2013)  
+**PMID:** 23791710  **DOI:** 10.1016/j.neuint.2013.06.005
+**Entities:** tau, Aβ42, neuroinflammation, dopamine, aging  
+**Abstract:** Parkinson's disease (PD) is the second most common neurodegenerative disorder mostly affecting the aging population over sixty. Cardinal symptoms including, tremors, muscle rigidity, drooping posture,...
+
+### Circulating cell-free microRNA as biomarkers for screening, diagnosis and monitoring of neurodegenerative diseases and other neurologic pathologies.
+**Authors:** Sheinerman KS, Umansky SR  
+**Journal:** Frontiers in cellular neuroscience (2013)  
+**PMID:** 24058335  **DOI:** 10.3389/fncel.2013.00150
+**Entities:** Alzheimer, aging  
+**Abstract:** Many neurodegenerative diseases, such as Alzheimer's disease, Parkinson disease, vascular and frontotemporal dementias, as well as other chronic neurological pathologies, are characterized by slow dev...
+
+### Brain imaging and human nutrition: which measures to use in intervention studies?
+**Authors:** Sizonenko SV, Babiloni C, Sijben JW, Walhovd KB  
+**Journal:** Advances in nutrition (Bethesda, Md.) (2013)  
+**PMID:** 24038255  **DOI:** 10.3945/an.113.004283
+**Entities:** Alzheimer, aging  
+**Abstract:** Throughout the life span, the brain is a metabolically highly active organ that uses a large proportion of total nutrient and energy intake. Furthermore, the development and repair of neural tissue de...
+
+### Promising developments in neuropsychological approaches for the detection of preclinical Alzheimer's disease: a selective review.
+**Authors:** Rentz DM, Parra Rodriguez MA, Amariglio R, Stern Y, Sperling R et al.  
+**Journal:** Alzheimer's research & therapy (2013)  
+**PMID:** 24257331  **DOI:** 10.1186/alzrt222
+**Entities:** Alzheimer  
+**Abstract:** Recently published guidelines suggest that the most opportune time to treat individuals with Alzheimer's disease is during the preclinical phase of the disease. This is a phase when individuals are de...
+
+### The effect of amyloid β on cognitive decline is modulated by neural integrity in cognitively normal elderly.
+**Authors:** Wirth M, Oh H, Mormino EC, Markley C, Landau SM et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2013)  
+**PMID:** 23474040  **DOI:** 10.1016/j.jalz.2012.10.012
+**Entities:** Aβ42, Alzheimer  
+**Abstract:** OBJECTIVE: Alzheimer's disease (AD) pathology of amyloid β (Aβ) accumulation and neurodegeneration may be relevant to preclinical cognitive decline. The objective of this study was to relate AD-sensit...
+
 ### Peripheral mitochondrial dysfunction in Alzheimer's disease: focus on lymphocytes.
 **Authors:** Leuner K, Schulz K, Schütt T, Pantel J, Prvulovic D et al.  
 **Journal:** Molecular neurobiology (2012)  
@@ -4408,6 +6571,27 @@
 **Entities:** ROS, tau, Aβ42, oxidative stress, Alzheimer  
 **Abstract:** Cigarette smoking has been proposed as a major risk factor for aging-related pathological changes and Alzheimer's disease (AD). To date, little is known for how smoking can predispose our brains to de...
 
+### Cognitive profile of amyloid burden and white matter hyperintensities in cognitively normal older adults.
+**Authors:** Hedden T, Mormino EC, Amariglio RE, Younger AP, Schultz AP et al.  
+**Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (2012)  
+**PMID:** 23152607  **DOI:** 10.1523/JNEUROSCI.2462-12.2012
+**Entities:** Alzheimer, aging  
+**Abstract:** Amyloid burden and white matter hyperintensities (WMH) are two common markers of neurodegeneration present in advanced aging. Each represents a potential early indicator of an age-related neurological...
+
+### A complex dietary supplement modulates nitrative stress in normal mice and in a new mouse model of nitrative stress and cognitive aging.
+**Authors:** Long J, Aksenov V, Rollo CD, Liu J  
+**Journal:** Mechanisms of ageing and development (2012)  
+**PMID:** 22525704  **DOI:** 10.1016/j.mad.2012.04.001
+**Entities:** Alzheimer, aging  
+**Abstract:** We examined whether transgenic growth hormone mice (Tg) that exhibit accelerated cognitive aging and exceptional free radical damage also express elevated nitrative stress. We characterized age-relate...
+
+### Longer leukocyte telomere length is associated with smaller hippocampal volume among non-demented APOE ε3/ε3 subjects.
+**Authors:** Wikgren M, Karlsson T, Lind J, Nilbrink T, Hultdin J et al.  
+**Journal:** PloS one (2012)  
+**PMID:** 22506016  **DOI:** 10.1371/journal.pone.0034292
+**Entities:** aging  
+**Abstract:** Telomere length shortens with cellular division, and leukocyte telomere length is used as a marker for systemic telomere length. The hippocampus hosts adult neurogenesis and is an important structure ...
+
 ### Astrocytes in the aging brain express characteristics of senescence-associated secretory phenotype.
 **Authors:** Salminen A, Ojala J, Kaarniranta K, Haapasalo A, Hiltunen M et al.  
 **Journal:** The European journal of neuroscience (2011)  
@@ -4485,6 +6669,13 @@
 **Entities:** neuroinflammation, Alzheimer, aging  
 **Abstract:** Alzheimer's disease (AD) is a complex neurodegenerative disorder that diverges from the process of normal brain aging by unknown mechanisms. We analyzed the global structure of age- and disease-depend...
 
+### Age and disease related changes in the translocator protein (TSPO) system in the human brain: positron emission tomography measurements with [11C]vinpocetine.
+**Authors:** Gulyás B, Vas A, Tóth M, Takano A, Varrone A et al.  
+**Journal:** NeuroImage (2011)  
+**PMID:** 21320609  **DOI:** 10.1016/j.neuroimage.2011.02.020
+**Entities:** neuroinflammation, Alzheimer, aging  
+**Abstract:** BACKGROUNDS AND PURPOSE: The main objectives of the present study were (i) to measure density changes of activated microglia and the peripheral benzodiazepine receptor/translocator protein (TSPO) syst...
+
 ### Metabolic-cognitive syndrome: a cross-talk between metabolic syndrome and Alzheimer's disease.
 **Authors:** Frisardi V, Solfrizzi V, Seripa D, Capurso C, Santamato A et al.  
 **Journal:** Ageing research reviews (2010)  
@@ -4554,6 +6745,13 @@
 **PMID:** 19925210  **DOI:** 10.1089/neu.2009.1058
 **Entities:** TBI  
 **Abstract:** Diffuse axonal injury (DAI) secondary to traumatic brain injury (TBI) contributes to long-term functional morbidity. The corpus callosum (CC) is particularly vulnerable to this type of injury. Magneti...
+
+### Brain mitochondrial dysfunction in aging, neurodegeneration, and Parkinson's disease.
+**Authors:** Navarro A, Boveris A  
+**Journal:** Frontiers in aging neuroscience (2010)  
+**PMID:** 20890446  **DOI:** 10.3389/fnagi.2010.00034
+**Entities:** oxidative stress, Alzheimer, aging  
+**Abstract:** Brain senescence and neurodegeneration occur with a mitochondrial dysfunction characterized by impaired electron transfer and by oxidative damage. Brain mitochondria of old animals show decreased rate...
 
 ### Health-and disease-related biomarkers in aging research.
 **Authors:** Thompson HJ, Voss JG  
@@ -4625,6 +6823,20 @@
 **Entities:** NMDA receptor  
 **Abstract:** The acoustic startle reflex in rats can be inhibited if a prepulse stimulus is presented just before the startle stimulus (prepulse inhibition; PPI). When postnatal day 7 (P7) rats are exposed to agen...
 
+### How bad is accelerated senescence in consumers of drugs of abuse?
+**Authors:** Carvalho F  
+**Journal:** Adicciones (2009)  
+**PMID:** 19578726  
+**Entities:** ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** The aging or senescence process that follows maturation is characterized by time-related functional decline due to genetic, biochemical, physiological and anatomical degeneration in tissues and organ ...
+
+### Beta-amyloid deposition and the aging brain.
+**Authors:** Rodrigue KM, Kennedy KM, Park DC  
+**Journal:** Neuropsychology review (2009)  
+**PMID:** 19908146  **DOI:** 10.1007/s11065-009-9118-x
+**Entities:** Alzheimer, aging  
+**Abstract:** A central issue in cognitive neuroscience of aging research is pinpointing precise neural mechanisms that determine cognitive outcome in late adulthood as well as identifying early markers of less suc...
+
 ### When blue turns to grey: do stress and depression accelerate cell aging?
 **Authors:** Wolkowitz OM, Epel ES, Mellon S  
 **Journal:** The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry (2008)  
@@ -4673,6 +6885,20 @@
 **PMID:** 18973558  **DOI:** 10.1111/j.1460-9568.2008.06442.x
 **Entities:** aging  
 **Abstract:** Intracerebral hemorrhage (ICH) usually affects older humans but almost no experimental studies have assessed aged animals. We address how aging alters inflammation, neuron death and lesion resolution ...
+
+### Electroencephalography and event-related potentials as biomarkers of mild cognitive impairment and mild Alzheimer's disease.
+**Authors:** Jackson CE, Snyder PJ  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2008)  
+**PMID:** 18631990  **DOI:** 10.1016/j.jalz.2007.10.008
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Successful early detection of mild cognitive impairment (MCI) and Alzheimer's disease demands the identification of biomarkers capable of distinguishing individuals with prodromal or early...
+
+### From proliferative to neurological role of an hsp70 stress chaperone, mortalin.
+**Authors:** Deocaris CC, Kaul SC, Wadhwa R  
+**Journal:** Biogerontology (2008)  
+**PMID:** 18770009  **DOI:** 10.1007/s10522-008-9174-2
+**Entities:** ROS, Alzheimer, aging  
+**Abstract:** Although the brain makes up approximately 2% of a person's body weight, it consumes more than 15% of total cardiac output and has a per capita caloric requirement of 10 times more than the rest of the...
 
 ### Inflammatory processes in the aging mouse brain: participation of dendritic cells and T-cells.
 **Authors:** Stichel CC, Luebbert H  
@@ -4842,6 +7068,13 @@
 **Entities:** aging  
 **Abstract:** A combined real-time PCR/immunohistochemistry study was carried out to investigate whether P2X(7) receptors, known to induce apoptosis and necrosis, may be causally related to the process of retinal d...
 
+### Magnetic resonance approaches to brain aging and Alzheimer disease-associated neuropathology.
+**Authors:** Anderson VC, Litvack ZN, Kaye JA  
+**Journal:** Topics in magnetic resonance imaging : TMRI (2005)  
+**PMID:** 17088693  
+**Entities:** Alzheimer, aging  
+**Abstract:** The noninvasive, nonradioactive, quantitative nature of magnetic resonance techniques has propelled them to the forefront of neuroscience and neuropsychiatric research. In particular, recent advances ...
+
 ### Cell type- and brain structure-specific patterns of distribution of minibrain kinase in human brain.
 **Authors:** Wegiel J, Kuchna I, Nowicki K, Frackowiak J, Dowjat K et al.  
 **Journal:** Brain research (2004)  
@@ -4919,6 +7152,13 @@
 **Entities:** ROS, neuroinflammation, oxidative stress, Alzheimer, aging  
 **Abstract:** Neuroinflammation and oxidative stress are believed to be contributing factors to neurodegeneration in normal aging, as well as in age-related neurological disorders. Reactive microglia are found in i...
 
+### DNA microarray analysis of the aging brain.
+**Authors:** Prolla TA  
+**Journal:** Chemical senses (2002)  
+**PMID:** 11923192  
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** To examine molecular events associated with brain aging and its retardation by caloric restriction (CR), we have employed high-density oligonucleotide arrays providing data on 6347 genes to define tra...
+
 ### Inflammatory repertoire of Alzheimer's disease and nondemented elderly microglia in vitro.
 **Authors:** Lue LF, Rydel R, Brigham EF, Yang LB, Hampel H et al.  
 **Journal:** Glia (2001)  
@@ -4975,12 +7215,26 @@
 **Entities:** Alzheimer, NSE, aging  
 **Abstract:** Apolipoprotein (apo) E isoforms are key determinants of susceptibility to Alzheimer's disease. The apoE4 isoform is the major known genetic risk factor for this disease and is also associated with poo...
 
+### Mitochondrial DNA rearrangements in aging human brain and in situ PCR of mtDNA.
+**Authors:** Melov S, Schneider JA, Coskun PE, Bennett DA, Wallace DC  
+**Journal:** Neurobiology of aging (1999)  
+**PMID:** 10638530  
+**Entities:** aging  
+**Abstract:** Deletions of the mitochondrial DNA (mtDNA) have been shown to accumulate with age in a variety of species regardless of mean or maximal life span. This implies that such mutations are either a molecul...
+
 ### Differential blood-brain barrier breakdown and leucocyte recruitment following excitotoxic lesions in juvenile and adult rats.
 **Authors:** Bolton SJ, Perry VH  
 **Journal:** Experimental neurology (1998)  
 **PMID:** 9875284  
 **Entities:** GFAP, BBB  
 **Abstract:** Acute neuronal degeneration can be induced by intracerebral injections of the glutamate receptor agonists kainic acid (KA) and NMDA (N-methyl-D-aspartate). It is accompanied by an inflammatory respons...
+
+### A cellular stress model for the differential expression of glial lysosomal cathepsins in the aging nervous system.
+**Authors:** Chopra VS, Moozar KL, Mehindate K, Schipper HM  
+**Journal:** Experimental neurology (1997)  
+**PMID:** 9344547  
+**Entities:** ROS, oxidative stress, aging  
+**Abstract:** Activation of the endosomal-lysosomal system and altered expression of various lysosomal hydrolases have been implicated in several senescence-dependent neurodegenerative disorders and occurs, to a le...
 
 ### Astrocytes, brain aging, and neurodegeneration.
 **Authors:** Schipper HM  
@@ -5293,6 +7547,20 @@
 **Entities:** TBI  
 **Abstract:** 
 
+### Microglia modulate concussion biomarkers and cognitive recovery in male mice.
+**Authors:** Anderson ED, Augustin DV, Georges AP, Kim T, Issadore DA et al.  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42239156  **DOI:** 10.1101/2025.05.01.651070
+**Entities:** neuroinflammation, mTBI, TBI, AMPA receptor  
+**Abstract:** There is a critical unmet need for concussion biomarkers that predict cognitive recovery. Existing TBI biomarkers largely capture acute cellular damage rather than the multicellular repair processes t...
+
+### Tissue-Derived Small Extracellular Vesicles: Emerging Regulators of Inter-Organ Crosstalk in Health and Disease.
+**Authors:** Huang YQ, Zhong CY, Burley G, Shi YC, Lin S  
+**Journal:** Metabolites (2026)  
+**PMID:** 41893300  **DOI:** 10.3390/metabo16030148
+**Entities:** BBB, TBI, Alzheimer  
+**Abstract:** Small extracellular vesicles (sEVs; commonly referred to as "exosomes" in many studies) are nanoscopic messengers released by healthy and diseased cells that mediate intercellular communication by tra...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -5523,6 +7791,34 @@
 **PMID:** 41292994  **DOI:** 10.1101/2025.11.07.686794
 **Entities:** —  
 **Abstract:** Current methods for isolating neuronal-derived extracellular vesicles (NDEVs) from human biofluids lack specificity. In addition, some of the reported markers for NDEV isolation are present as soluble...
+
+### Tailored Anti-miR Decorated Covalent Organic Framework Enables Electrochemical Detection of Salivary miRNAs for Mild Traumatic Brain Injury.
+**Authors:** Saha P, Skrodzki D, Aditya T, Moitra P, Alafeef M et al.  
+**Journal:** Small (Weinheim an der Bergstrasse, Germany) (2025)  
+**PMID:** 39961046  **DOI:** 10.1002/smll.202412107
+**Entities:** miR-21, mTBI, TBI  
+**Abstract:** MicroRNAs (miRNAs) play pivotal role as biomarkers for various diseases, with salivary miRNAs offering a non-invasive diagnostic tool. For mild traumatic brain injury (mTBI), salivary miRNAs like miR-...
+
+### MicroRNAs Detected in Whole Blood Following Traumatic Brain Injury Are Associated with Recovery 6 Months after Injury.
+**Authors:** Magee R, Shen J, Walter AE, Schneider ALC, Puccio AM et al.  
+**Journal:** Neurotrauma reports (2025)  
+**PMID:** 41141402  **DOI:** 10.1177/2689288X251380526
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) is a heterogeneous disease from which incomplete recovery is unfortunately common. Biomarkers prognostic of future recovery are currently lacking. MicroRNAs (miRNAs), smal...
+
+### Expression Significance and Relationship of Serum miR-542-3p and lncRNA TUG1 in STBI Patients and Their Predictive Value for Prognosis.
+**Authors:** Zhang X, Chen D, Zhu C, Zhou X, Liu H et al.  
+**Journal:** International journal of general medicine (2025)  
+**PMID:** 40589796  **DOI:** 10.2147/IJGM.S522223
+**Entities:** TBI  
+**Abstract:** OBJECTIVE: Analysis of the Expression Significance and Relationship of Serum MicroRNA-542-3p (miR-542-3p) and Long Non-Coding RNA Taurine Upregulated Gene 1 (lncRNA TUG1) in Patients with Severe Traum...
+
+### Diagnostic performance of circulating microRNA signatures for differentiating tuberculosis disease from tuberculosis infection.
+**Authors:** Østergaard AA, Bjerrum S, Assing K, Borup MB, Lynggaard RB et al.  
+**Journal:** Medical microbiology and immunology (2025)  
+**PMID:** 40991042  **DOI:** 10.1007/s00430-025-00853-z
+**Entities:** TBI  
+**Abstract:** As regulators of innate and adaptive immunity, microRNAs (miRNAs) could aid in the discrimination between tuberculosis disease (TB) and (latent) TB infection (TBI). We analysed 754 circulating miRNAs ...
 
 ### M2 Microglia-Derived Exosomes Protect Against Glutamate-Induced HT22 Cell Injury via Exosomal miR-124-3p.
 **Authors:** Zhu L, Ma L, Du X, Jiang Y, Gao J et al.  
@@ -6357,6 +8653,13 @@
 **Entities:** miR-21  
 **Abstract:** In recent decades, significant progress has been achieved in understanding the mechanisms of disturbance and restoration of consciousness in patients after severe brain damage resulting in prolonged d...
 
+### Integrated Analysis of Expression Profile and Potential Pathogenic Mechanism of Temporal Lobe Epilepsy With Hippocampal Sclerosis.
+**Authors:** Wang ZB, Qu J, Yang ZY, Liu DY, Jiang SL et al.  
+**Journal:** Frontiers in neuroscience (2022)  
+**PMID:** 35784838  **DOI:** 10.3389/fnins.2022.892022
+**Entities:** TBI  
+**Abstract:** OBJECTIVE: To investigate the potential pathogenic mechanism of temporal lobe epilepsy with hippocampal sclerosis (TLE+HS) by analyzing the expression profiles of microRNA/ mRNA/ lncRNA/ DNA methylati...
+
 ### Biomarkers for posttraumatic epilepsy.
 **Authors:** Pitkänen A, Paananen T, Kyyriäinen J, Das Gupta S, Heiskanen M et al.  
 **Journal:** Epilepsy & behavior : E&B (2021)  
@@ -6587,6 +8890,20 @@
 **PMID:** 33846170  **DOI:** 10.1212/WNL.0000000000011784
 **Entities:** —  
 **Abstract:** 
+
+### Cerebrospinal Fluid MicroRNA Changes in Cognitively Normal Veterans With a History of Deployment-Associated Mild Traumatic Brain Injury.
+**Authors:** Lusardi TA, Sandau US, Sakhanenko NA, Baker SCB, Wiedrick JT et al.  
+**Journal:** Frontiers in neuroscience (2021)  
+**PMID:** 34580583  **DOI:** 10.3389/fnins.2021.720778
+**Entities:** mTBI, TBI, Alzheimer  
+**Abstract:** A history of traumatic brain injury (TBI) increases the odds of developing Alzheimer's disease (AD). The long latent period between injury and dementia makes it difficult to study molecular changes in...
+
+### Extracellular Vesicle Proteins and MicroRNAs Are Linked to Chronic Post-Traumatic Stress Disorder Symptoms in Service Members and Veterans With Mild Traumatic Brain Injury.
+**Authors:** Guedes VA, Lai C, Devoto C, Edwards KA, Mithani S et al.  
+**Journal:** Frontiers in pharmacology (2021)  
+**PMID:** 34690777  **DOI:** 10.3389/fphar.2021.745348
+**Entities:** mTBI, TBI  
+**Abstract:** Symptoms of post-traumatic stress disorder (PTSD) are common in military populations, and frequently associated with a history of combat-related mild traumatic brain injury (mTBI). In this study, we e...
 
 ### Astrocyte-derived exosomes enriched with miR-873a-5p inhibit neuroinflammation via microglia phenotype modulation after traumatic brain injury.
 **Authors:** Long X, Yao X, Jiang Q, Yang Y, He X et al.  
@@ -6854,6 +9171,27 @@
 **Entities:** —  
 **Abstract:** 
 
+### Elevated Acute Plasma miR-124-3p Level Relates to Evolution of Larger Cortical Lesion Area after Traumatic Brain Injury.
+**Authors:** Vuokila N, Das Gupta S, Huusko R, Tohka J, Puhakka N et al.  
+**Journal:** Neuroscience (2020)  
+**PMID:** 32142864  **DOI:** 10.1016/j.neuroscience.2020.02.045
+**Entities:** TBI  
+**Abstract:** Mechanisms initiated by traumatic brain injury (TBI), leading to the development of progressive secondary injury are poorly understood. MicroRNAs (miRNAs) have a proposed role in orchestrating the pos...
+
+### Early single-dose treatment with exosomes provides neuroprotection and improves blood-brain barrier integrity in swine model of traumatic brain injury and hemorrhagic shock.
+**Authors:** Williams AM, Bhatti UF, Brown JF, Biesterveld BE, Kathawate RG et al.  
+**Journal:** The journal of trauma and acute care surgery (2020)  
+**PMID:** 31804413  **DOI:** 10.1097/TA.0000000000002563
+**Entities:** GFAP, BBB, TBI  
+**Abstract:** BACKGROUND: Administration of human mesenchymal stem cell (MSC)-derived exosomes can enhance neurorestoration in models of traumatic brain injury (TBI) and hemorrhagic shock (HS). The impact of early ...
+
+### Profiling of novel circulating microRNAs as a non-invasive biomarker in diagnosis and follow-up of high and low-grade gliomas.
+**Authors:** Tabibkhooei A, Izadpanahi M, Arab A, Zare-Mirzaei A, Minaeian S et al.  
+**Journal:** Clinical neurology and neurosurgery (2020)  
+**PMID:** 31896490  **DOI:** 10.1016/j.clineuro.2019.105652
+**Entities:** TBI  
+**Abstract:** OBJECTIVE: Glioblastoma (GBM) is the most common primary malignant neoplasm of the central nervous system (CNS). Despite the progress in therapeutic strategies such as surgical techniques, radiotherap...
+
 ### Mesenchymal stem cell-derived exosomes as a nanotherapeutic agent for amelioration of inflammation-induced astrocyte alterations in mice.
 **Authors:** Xian P, Hei Y, Wang R, Wang T, Yang J et al.  
 **Journal:** Theranostics (2019)  
@@ -6986,6 +9324,62 @@
 **PMID:** 31810510  **DOI:** 10.1016/j.transproceed.2019.08.042
 **Entities:** TBI  
 **Abstract:** Patients with craniocerebral trauma often have intestinal mucosal dysfunction, and the claudin1 protein plays an important role in intestinal mucosal function. Our previous work has shown that the exp...
+
+### Cinnamic acid rescues behavioral deficits in a mouse model of traumatic brain injury by targeting miR-455-3p/HDAC2.
+**Authors:** Guo S, Zhen Y, Zhu Z, Zhou G, Zheng X  
+**Journal:** Life sciences (2019)  
+**PMID:** 31473194  **DOI:** 10.1016/j.lfs.2019.116819
+**Entities:** TBI  
+**Abstract:** AIMS: Traumatic brain injury (TBI) not only induces physiological disabilities but also leads to cognitive impairment. However, no effective therapeutic approach for TBI-related memory decline exists....
+
+### Hypoxia-Induced MicroRNA-212/132 Alter Blood-Brain Barrier Integrity Through Inhibition of Tight Junction-Associated Proteins in Human and Mouse Brain Microvascular Endothelial Cells.
+**Authors:** Burek M, König A, Lang M, Fiedler J, Oerter S et al.  
+**Journal:** Translational stroke research (2019)  
+**PMID:** 30617994  **DOI:** 10.1007/s12975-018-0683-2
+**Entities:** BBB, TBI  
+**Abstract:** Blood-brain barrier (BBB) integrity is one of the important elements of central nervous system (CNS) homeostasis. MicroRNAs (miRs) have been demonstrated to play a role in many CNS disorders such as s...
+
+### Screening the expression of several miRNAs from TaqMan Low Density Array in traumatic brain injury: miR-219a-5p regulates neuronal apoptosis by modulating CCNA2 and CACUL1.
+**Authors:** Yan J, Bu X, Li Z, Wu J, Wang C et al.  
+**Journal:** Journal of neurochemistry (2019)  
+**PMID:** 31077370  **DOI:** 10.1111/jnc.14717
+**Entities:** mTBI, TBI  
+**Abstract:** Circulating microRNAs (miRNAs) have emerged as diagnostic and prognostic biomarkers for traumatic brain injury (TBI). However, a comprehensive characterization of the serum miRNA profile in patients w...
+
+### Research on the correlation of changes in plasma lncRNA MEG3 with change in inflammatory factors and prognosis in patients with traumatic brain injury.
+**Authors:** Shao HF, Li ZZ, Zheng XF, Wang HJ, Wang YG et al.  
+**Journal:** European review for medical and pharmacological sciences (2019)  
+**PMID:** 31173307  **DOI:** 10.26355/eurrev_201905_17940
+**Entities:** IL-6, TNF-α, IL-1β, TBI  
+**Abstract:** OBJECTIVE: To study the correlation between the plasma long non-coding RNA (lncRNA) maternally expressed gene 3 (MEG3) and the levels of inflammatory cytokines in patients with traumatic brain injury ...
+
+### MiR-124 Enriched Exosomes Promoted the M2 Polarization of Microglia and Enhanced Hippocampus Neurogenesis After Traumatic Brain Injury by Inhibiting TLR4 Pathway.
+**Authors:** Yang Y, Ye Y, Kong C, Su X, Zhang X et al.  
+**Journal:** Neurochemical research (2019)  
+**PMID:** 30628018  **DOI:** 10.1007/s11064-018-02714-z
+**Entities:** TBI  
+**Abstract:** MicroRNA-124 (miR-124) is a brain specific miRNA that is highly expressed in microglia. The upregulation of miR-124 contributes to M2 polarization of microglia, which is beneficial to neurogenesis. Ex...
+
+### Plasma Tau and Amyloid Are Not Reliably Related to Injury Characteristics, Neuropsychological Performance, or White Matter Integrity in Service Members with a History of Traumatic Brain Injury.
+**Authors:** Lippa SM, Yeh PH, Gill J, French LM, Brickell TA et al.  
+**Journal:** Journal of neurotrauma (2019)  
+**PMID:** 30834814  **DOI:** 10.1089/neu.2018.6269
+**Entities:** tau, Aβ42, TBI  
+**Abstract:** The aim of this study was to examine the relationship between plasma tau and amyloid beta-42 (Aβ42), neuropsychological functioning, and white matter integrity in U.S. military service members with (
+
+### Plasma neuronal exosomes serve as biomarkers of cognitive impairment in HIV infection and Alzheimer's disease.
+**Authors:** Pulliam L, Sun B, Mustapic M, Chawla S, Kapogiannis D  
+**Journal:** Journal of neurovirology (2019)  
+**PMID:** 30610738  **DOI:** 10.1007/s13365-018-0695-4
+**Entities:** NfL, tau, neuroinflammation, TBI, Alzheimer  
+**Abstract:** Fluid biomarkers for cognitive impairment have the advantage of being relatively noninvasive and capable of monitoring neuronal and other brain cell health in real time. Biomarkers can predict the ons...
+
+### Assessing Neuronal and Astrocyte Derived Exosomes From Individuals With Mild Traumatic Brain Injury for Markers of Neurodegeneration and Cytotoxic Activity.
+**Authors:** Winston CN, Romero HK, Ellisman M, Nauss S, Julovich DA et al.  
+**Journal:** Frontiers in neuroscience (2019)  
+**PMID:** 31680797  **DOI:** 10.3389/fnins.2019.01005
+**Entities:** mTBI, TBI, Alzheimer  
+**Abstract:** Mild traumatic brain injury (mTBI) disproportionately affects military service members and is very difficult to diagnose. To-date, there is currently no blood-based, diagnostic biomarker for mTBI case...
 
 ### Traumatic brain injury: classification, models, and markers.
 **Authors:** Najem D, Rennie K, Ribecco-Lutkiewicz M, Ly D, Haukenfrers J et al.  
@@ -7134,6 +9528,27 @@
 **Entities:** TBI  
 **Abstract:** The original version of this article unfortunately contained a typographical error on Author's name "Firas Kobessiy". This should be corrected as "Firas Kobeissy".
 
+### Rapid Decrease in KRT14 and TP53 mRNA Expression in the Buccal Mucosa of Patients Receiving Total-Body Irradiation for Allogeneic Stem Cell Transplantation.
+**Authors:** Chmara J, Browning JWL, Atkins H, Sabloff M, McKay BC  
+**Journal:** Radiation research (2018)  
+**PMID:** 29232178  **DOI:** 10.1667/RR14897.1
+**Entities:** TBI  
+**Abstract:** The only curative treatment option for relapsed patients with acute myeloid leukemia (AML) is allogeneic stem cell transplantation. Depletion of hematopoietic stem cells and leukemic blast cells is ac...
+
+### EIF4A3-induced circular RNA MMP9 (circMMP9) acts as a sponge of miR-124 and promotes glioblastoma multiforme cell tumorigenesis.
+**Authors:** Wang R, Zhang S, Chen X, Li N, Li J et al.  
+**Journal:** Molecular cancer (2018)  
+**PMID:** 30470262  **DOI:** 10.1186/s12943-018-0911-0
+**Entities:** —  
+**Abstract:** BACKGROUND: Circular RNAs (circRNAs) have been found to play critical roles in the development and progression of various cancers. However, little is known about the effects of the circular RNA networ...
+
+### Expression profile of plasma microRNAs and their roles in diagnosis of mild to severe traumatic brain injury.
+**Authors:** Qin X, Li L, Lv Q, Shu Q, Zhang Y et al.  
+**Journal:** PloS one (2018)  
+**PMID:** 30226895  **DOI:** 10.1371/journal.pone.0204051
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) is associated with trauma-related death. In this study, we evaluated differences in the expression of plasma microRNAs (miRNAs) in patients with different degrees of TBI, ...
+
 ### MicroRNAs in Neurodegenerative Diseases.
 **Authors:** Quinlan S, Kenny A, Medina M, Engel T, Jimenez-Mateos EM  
 **Journal:** International review of cell and molecular biology (2017)  
@@ -7225,6 +9640,27 @@
 **Entities:** miR-21, mTBI, TBI  
 **Abstract:** Traumatic brain injury (TBI) is the leading cause of death and disability in people younger than 45 in Western countries. Despite many studies, no reliable biomarkers have been found to assess TBI sev...
 
+### Microarray Expression Profile of lncRNAs and mRNAs in Rats with Traumatic Brain Injury after A2B5+ Cell Transplantation.
+**Authors:** Lyu Q, Zhang ZB, Fu SJ, Xiong LL, Liu J et al.  
+**Journal:** Cell transplantation (2017)  
+**PMID:** 29251113  **DOI:** 10.1177/0963689717723014
+**Entities:** TBI, MBP  
+**Abstract:** Traumatic brain injury (TBI) may cause neurological damage, but an effective therapy and the associated mechanisms of action have not yet been elucidated. A TBI model was established using the modifie...
+
+### Differential expression of microRNAs in the brains of mice subjected to increasing grade of mild traumatic brain injury.
+**Authors:** Chandran R, Sharma A, Bhomia M, Balakathiresan NS, Knollmann-Ritschel BE et al.  
+**Journal:** Brain injury (2017)  
+**PMID:** 27819514  **DOI:** 10.1080/02699052.2016.1213420
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: To investigate the effect of heterogeneity in mTBI on miRNA expression in mouse brain and to identify molecular pathways targeted by the modulated miRNAs. METHODS: A weight drop device was ...
+
+### Acute and subacute microRNA dysregulation is associated with cytokine responses in the rodent model of penetrating ballistic-like brain injury.
+**Authors:** Johnson D, Cartagena CM, Tortella FC, Dave JR, Schmid KE et al.  
+**Journal:** The journal of trauma and acute care surgery (2017)  
+**PMID:** 28452880  **DOI:** 10.1097/TA.0000000000001475
+**Entities:** IL-6, IL-1β, miR-21, TBI  
+**Abstract:** BACKGROUND: MicroRNAs (miRNAs) are small stable RNAs that regulate translational degradation or repression of genes involved in brain trauma-mediated inflammation. More recently, miRNAs have emerged a...
+
 ### Current status of fluid biomarkers in mild traumatic brain injury.
 **Authors:** Kulbe JR, Geddes JW  
 **Journal:** Experimental neurology (2016)  
@@ -7295,6 +9731,34 @@
 **Entities:** TBI, Alzheimer, dopamine, aging, melatonin  
 **Abstract:** S1 Health literacy and health education in adolescence Catarina Cardoso Tomás S2 The effect of a walking program on the quality of life and well-being of people with schizophrenia Emanuel Oliveira, D....
 
+### Chromatographically isolated CD63+CD81+ extracellular vesicles from mesenchymal stromal cells rescue cognitive impairments after TBI.
+**Authors:** Kim DK, Nishida H, An SY, Shetty AK, Bartosh TJ et al.  
+**Journal:** Proceedings of the National Academy of Sciences of the United States of America (2016)  
+**PMID:** 26699510  **DOI:** 10.1073/pnas.1522297113
+**Entities:** neuroinflammation, TBI  
+**Abstract:** Extracellular vesicles (EVs) secreted by cells present an attractive strategy for developing new therapies, but progress in the field is limited by several issues: The quality of the EVs varies with t...
+
+### Mechanical Injury Induces Brain Endothelial-Derived Microvesicle Release: Implications for Cerebral Vascular Injury during Traumatic Brain Injury.
+**Authors:** Andrews AM, Lutton EM, Merkel SF, Razmpour R, Ramirez SH  
+**Journal:** Frontiers in cellular neuroscience (2016)  
+**PMID:** 26973460  **DOI:** 10.3389/fncel.2016.00043
+**Entities:** neuroinflammation, BBB, TBI  
+**Abstract:** It is well established that the endothelium responds to mechanical forces induced by changes in shear stress and strain. However, our understanding of vascular remodeling following traumatic brain inj...
+
+### A Panel of Serum MiRNA Biomarkers for the Diagnosis of Severe to Mild Traumatic Brain Injury in Humans.
+**Authors:** Bhomia M, Balakathiresan NS, Wang KK, Papa L, Maheshwari RK  
+**Journal:** Scientific reports (2016)  
+**PMID:** 27338832  **DOI:** 10.1038/srep28148
+**Entities:** mTBI, TBI  
+**Abstract:** MicroRNAs (MiRNAs) are small endogenous RNA molecules and have emerged as novel serum diagnostic biomarkers for several diseases due to their stability and detection at minute quantities. In this stud...
+
+### Elevated serum miR-93, miR-191, and miR-499 are noninvasive biomarkers for the presence and progression of traumatic brain injury.
+**Authors:** Yang T, Song J, Bu X, Wang C, Wu J et al.  
+**Journal:** Journal of neurochemistry (2016)  
+**PMID:** 26756543  **DOI:** 10.1111/jnc.13534
+**Entities:** mTBI, TBI  
+**Abstract:** The levels of miR-93, miR-191, and miR-499 have been reported to be up-regulated in the tissues of experimental traumatic brain injury (TBI) rat models. However, the clinical diagnostic and prognostic...
+
 ### Traumatic brain injury: recent advances in plasticity and regeneration.
 **Authors:** Werner JK, Stevens RD  
 **Journal:** Current opinion in neurology (2015)  
@@ -7322,6 +9786,20 @@
 **PMID:** 25760028  **DOI:** 10.1590/1414-431X20144012
 **Entities:** miR-21, TBI  
 **Abstract:** MicroRNAs (miRNAs) may be important mediators of the profound molecular and cellular changes that occur after traumatic brain injury (TBI). However, the changes and possible roles of miRNAs induced by...
+
+### Long intergenic non-coding RNA induced by X-ray irradiation regulates DNA damage response signaling in the human bronchial epithelial BEAS-2B cell line.
+**Authors:** Jiao Y, Liu C, Cui FM, Xu JY, Tong J et al.  
+**Journal:** Oncology letters (2015)  
+**PMID:** 25435953  
+**Entities:** TBI  
+**Abstract:** Long non-coding RNAs (lncRNAs) have been regarded as the primary genetic regulators of several important biological processes. However, the biological functions of lncRNAs in radiation-induced lung da...
+
+### Serum microRNAs are early indicators of survival after radiation-induced hematopoietic injury.
+**Authors:** Acharya SS, Fendler W, Watson J, Hamilton A, Pan Y et al.  
+**Journal:** Science translational medicine (2015)  
+**PMID:** 25972001  **DOI:** 10.1126/scitranslmed.aaa6593
+**Entities:** TBI  
+**Abstract:** Accidental radiation exposure is a threat to human health that necessitates effective clinical planning and diagnosis. Minimally invasive biomarkers that can predict long-term radiation injury are urg...
 
 ### Exosome platform for diagnosis and monitoring of traumatic brain injury.
 **Authors:** Taylor DD, Gercel-Taylor C  
@@ -7364,6 +9842,13 @@
 **PMID:** 24749688  **DOI:** 10.1111/jnc.12731
 **Entities:** neuroinflammation, TBI  
 **Abstract:** Chronic activation of microglia, the macrophages of the CNS, has been shown to enhance neuronal damage because of excessive release of proinflammatory cytokines and neurotoxic molecules in a number of...
+
+### Intravenous transplants of human adipose-derived stem cell protect the brain from traumatic brain injury-induced neurodegeneration and motor and cognitive impairments: cell graft biodistribution and soluble factors in young and aged rats.
+**Authors:** Tajiri N, Acosta SA, Shahaduzzaman M, Ishikawa H, Shinozuka K et al.  
+**Journal:** The Journal of neuroscience : the official journal of the Society for Neuroscience (2014)  
+**PMID:** 24381292  **DOI:** 10.1523/JNEUROSCI.2425-13.2014
+**Entities:** MALAT1, NEAT1, mTBI, TBI, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) survivors exhibit motor and cognitive symptoms from the primary injury that can become aggravated over time because of secondary cell death. In the present in vivo study, ...
 
 ### Identification of extracellular miRNA in human cerebrospinal fluid by next-generation sequencing.
 **Authors:** Burgos KL, Javaherian A, Bomprezzi R, Ghaffari L, Rhodes S et al.  
@@ -7413,6 +9898,20 @@
 **PMID:** 19021292  **DOI:** 10.1002/jnr.21945
 **Entities:** TBI  
 **Abstract:** Multiple cellular, molecular, and biochemical changes contribute to outcome after traumatic brain injury (TBI). MicroRNAs (miRNAs) are known to influence many important cellular processes, including p...
+
+### Microarray based analysis of microRNA expression in rat cerebral cortex after traumatic brain injury.
+**Authors:** Lei P, Li Y, Chen X, Yang S, Zhang J  
+**Journal:** Brain research (2009)  
+**PMID:** 19501075  **DOI:** 10.1016/j.brainres.2009.05.074
+**Entities:** miR-21, TBI  
+**Abstract:** MicroRNAs (miRNAs) are very important regulators of biological processes such as development, cellular differentiation, and tumor generation. MiRNA microarray has been found to be a high throughput gl...
+
+### Strategies for measuring evolutionary conservation of RNA secondary structures.
+**Authors:** Gruber AR, Bernhart SH, Hofacker IL, Washietl S  
+**Journal:** BMC bioinformatics (2008)  
+**PMID:** 18302738  **DOI:** 10.1186/1471-2105-9-122
+**Entities:** —  
+**Abstract:** BACKGROUND: Evolutionary conservation of RNA secondary structure is a typical feature of many functional non-coding RNAs. Since almost all of the available methods used for prediction and annotation o...
 
 ### miRNAs as Potential Biomarkers for Traumatic Brain Injury: Pathway From Diagnosis to Neurorehabilitation.
 **Authors:** Herrold AA, Kletzel SL, Foecking EM, Saban KL, Przybycien-Szymanska MM et al.  
@@ -7752,6 +10251,34 @@
 **PMID:** 42642675  **DOI:** 10.1007/s00415-026-14060-0
 **Entities:** GFAP, NfL, tau, mTBI, TBI  
 **Abstract:** OBJECTIVES: Blood-based and diffusion MRI (dMRI) biomarkers of white matter injury after acute mild traumatic brain injury (mTBI) were examined to: (1) distinguish mTBI from healthy controls (HC); (2)...
+
+### Diagnostic and Prognostic Value of Serum Glial Fibrillary Acidic Protein in Acute Ischemic Stroke.
+**Authors:** Agnello L, Ciaccio AM, Del Ben F, Daidone M, Pacinella G et al.  
+**Journal:** Journal of clinical medicine (2026)  
+**PMID:** 41827388  **DOI:** 10.3390/jcm15051971
+**Entities:** GFAP  
+**Abstract:** 
+
+### [Mild Traumatic Brain Injury: National Consensus Clinical Recommendations].
+**Authors:** Ferreira F, Lopes A, Freitas C, Domingues C, Silva H et al.  
+**Journal:** Acta medica portuguesa (2026)  
+**PMID:** 42475131  **DOI:** 10.20344/amp.24437
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** Mild traumatic brain injury accounts for approximately 80% of cranial trauma worldwide. Despite its apparent benign nature, it is associated with high costs and sequelae. The evaluation of victims sho...
+
+### Serum biomarker trajectory clusters predict functional outcome and quality of life for traumatic brain injury.
+**Authors:** Do TS, Carnes C, Yang Z, Kobeissy F, Yadikar H et al.  
+**Journal:** Brain communications (2026)  
+**PMID:** 41809435  **DOI:** 10.1093/braincomms/fcag055
+**Entities:** GFAP, S100B, NfL, tau, TBI  
+**Abstract:** Serum brain-enriched biomarkers are increasingly employed in the clinical evaluation of traumatic brain injury (TBI) to assist with triage, neuroimaging decisions, and prognostication. However, the po...
+
+### Biomarkers and clinical rules for the management of mild traumatic brain injury: a narrative review.
+**Authors:** Salgado S, Saver V, Sáenz Á, Ferre A, Giglio A et al.  
+**Journal:** International journal of emergency medicine (2026)  
+**PMID:** 41580617  **DOI:** 10.1186/s12245-025-01088-8
+**Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
+**Abstract:** BACKGROUND: Mild traumatic brain injury (mTBI) accounts for 80% of TBI cases. Although only 16% show intracranial lesions and <1% require neurosurgical intervention, CT overutilization remains common....
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -8158,6 +10685,55 @@
 **PMID:** 39999394  **DOI:** 10.1212/WNL.0000000000213448
 **Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** BACKGROUND AND OBJECTIVES: Traumatic meningeal enhancement (TME) can be observed on MRI of patients with acute traumatic brain injury (TBI) and reflects abnormal contrast extravasation into the mening...
+
+### Sleep Fragmentation as a Diagnostic Biomarker of Traumatic Brain Injury.
+**Authors:** Mannino GS, Baumann CR, Opp MR, Rowe RK  
+**Journal:** Neurotrauma reports (2025)  
+**PMID:** 40524781  **DOI:** 10.1089/neur.2025.0050
+**Entities:** GFAP, NfL, TBI  
+**Abstract:** Sleep disturbances are among the most prevalent and persistent consequences of traumatic brain injury (TBI), yet they remain underutilized as clinical indicators of injury status. In this perspective,...
+
+### GFAP Degradation in TBI: Linking Novel Modified Products to Astrocyte Pathology and Patient Outcome.
+**Authors:** Wanner IB, Halford J, Lopez J, Shen S, Chen Y et al.  
+**Journal:** bioRxiv : the preprint server for biology (2025)  
+**PMID:** 40766502  **DOI:** 10.1101/2025.08.01.668181
+**Entities:** GFAP, TBI, Alzheimer, GOS-E  
+**Abstract:** Glial fibrillary acidic protein (GFAP) is an important clinical biomarker of traumatic brain injury (TBI), yet understanding the nature, timing, and impact of its degraded and modified products is nee...
+
+### Early beta-blocker exposure and association with brain injury biomarkers following moderate to severe traumatic brain injury: A TRACK-TBI study.
+**Authors:** Wongsripuemtet P, Ohnuma T, Temkin N, Barber J, Komisarow J et al.  
+**Journal:** Journal of the Intensive Care Society (2025)  
+**PMID:** 40600218  **DOI:** 10.1177/17511437251349680
+**Entities:** GFAP, UCH-L1, S100B, TBI, NSE  
+**Abstract:** BACKGROUND: Beta-blockers have been studied for potential benefits in traumatic brain injury (TBI). This study aimed to investigate the association between early beta-blocker exposure and brain injury...
+
+### Deciphering spatiotemporal molecular pattern of traumatic brain injury by resveratrol-engineered two-dimensional-material-based field-effect-transistor biopatch.
+**Authors:** Li Z, Xu E, Zhang Y, Du C, Geng Y et al.  
+**Journal:** Biosensors & bioelectronics (2025)  
+**PMID:** 40158492  **DOI:** 10.1016/j.bios.2025.117360
+**Entities:** GFAP, TBI, resveratrol  
+**Abstract:** Traumatic Brain Injury (TBI) is a severe neurological disorder with an incomplete understanding of its underlying mechanisms, primarily due to the lack of effective strategy for in situ spatiotemporal...
+
+### Neuroinflammatory mechanisms may help identify candidate biomarkers in chronic traumatic encephalopathy (CTE).
+**Authors:** Bindra GS, Asad S, Shanaa J, Lui F, Budson AE et al.  
+**Journal:** Free neuropathology (2025)  
+**PMID:** 40666430  **DOI:** 10.17879/freeneuropathology-2025-6382
+**Entities:** GFAP, neuroinflammation, CTE  
+**Abstract:** Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease that can only be diagnosed post-mortem via pathological autopsy. The primary risk factor for CTE is a history of repetitive head i...
+
+### From injury to inference: Neuropsychological reasoning across divergent mild traumatic brain injury (mTBI) criteria.
+**Authors:** English J  
+**Journal:** Applied neuropsychology. Adult (2025)  
+**PMID:** 41359710  **DOI:** 10.1080/23279095.2025.2593573
+**Entities:** GFAP, UCH-L1, S100B, NfL, mTBI  
+**Abstract:** Neuropsychologists are frequently asked to evaluate individuals following presumed mild traumatic brain injury (mTBI) and to communicate findings across clinical and forensic settings that rely on div...
+
+### Evaluating the S100β, GFAP, IL-6, and Oxidative Stress Markers in Traumatic Brain Injury.
+**Authors:** Ur Rehman A, Ahmed A, Ali T, Ali M, Jamil N et al.  
+**Journal:** Cureus (2025)  
+**PMID:** 40979014  **DOI:** 10.7759/cureus.90329
+**Entities:** ROS, GFAP, S100B, IL-6, neuroinflammation  
+**Abstract:** Background Traumatic brain injury (TBI) is a leading cause of neurological morbidity and mortality worldwide. Secondary injury mechanisms such as neuroinflammation and oxidative stress play a pivotal ...
 
 ### Prediction of clinical progression in nervous system diseases: plasma glial fibrillary acidic protein (GFAP).
 **Authors:** Zheng X, Yang J, Hou Y, Shi X, Liu K  
@@ -8600,6 +11176,62 @@
 **Entities:** —  
 **Abstract:** Aquaporin-4 (AQP4) is the most abundant water channel protein in the brain. It controls water homeostasis, facilitates glymphatic function and is a drug target for brain edema following injury or stro...
 
+### Neurovascular unit, neuroinflammation and neurodegeneration markers in brain disorders.
+**Authors:** Kempuraj D, Dourvetakis KD, Cohen J, Valladares DS, Joshi RS et al.  
+**Journal:** Frontiers in cellular neuroscience (2024)  
+**PMID:** 39526043  **DOI:** 10.3389/fncel.2024.1491952
+**Entities:** GFAP, UCH-L1, NfL, Iba1, neuroinflammation  
+**Abstract:** Neurovascular unit (NVU) inflammation via activation of glial cells and neuronal damage plays a critical role in neurodegenerative diseases. Though the exact mechanism of disease pathogenesis is not u...
+
+### UCH-L1 and GFAP: Efficient biomarkers for diagnosing traumatic brain injury.
+**Authors:** Lakshmipriya T, Gopinath SCB  
+**Journal:** Brain & spine (2024)  
+**PMID:** 39229482  **DOI:** 10.1016/j.bas.2024.102913
+**Entities:** —  
+**Abstract:** 
+
+### Biofluid-based Biomarkers in Traumatic Brain Injury: A Narrative Review.
+**Authors:** Kim DS, Kim GW  
+**Journal:** Brain & NeuroRehabilitation (2024)  
+**PMID:** 38585027  **DOI:** 10.12786/bn.2024.17.e8
+**Entities:** GFAP, UCH-L1, S100B, tau, p-tau  
+**Abstract:** Traumatic brain injury (TBI) is a complex condition characterized by a multifaceted pathophysiology. It presents significant diagnostic and prognostic challenges in clinical settings. This narrative r...
+
+### Biomarkers in Acute Traumatic Brain Injury: A Systematic Review and Meta-Analysis.
+**Authors:** Singh AK, Asif S, Pandey DK, Chaudhary A, Kapoor V et al.  
+**Journal:** Cureus (2024)  
+**PMID:** 39050316  **DOI:** 10.7759/cureus.63020
+**Entities:** GFAP, tau, TBI, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) stands as a significant contributor to traumatic death and disability worldwide. In recent years, researchers have identified biomarkers to gauge useful outcomes in TBI pa...
+
+### Quantification of neurofilament light and glial fibrillary acidic protein in finger-prick blood.
+**Authors:** Kolanko MA, Huber H, David MCB, Montoliu-Gaya L, Simrén J et al.  
+**Journal:** Brain communications (2024)  
+**PMID:** 38903933  **DOI:** 10.1093/braincomms/fcae151
+**Entities:** GFAP, NfL, neuroinflammation, TBI, Alzheimer  
+**Abstract:** An accurate diagnosis of neurodegenerative disease and traumatic brain injury is important for prognostication and treatment. Neurofilament light and glial fibrillary acidic protein (GFAP) are leading...
+
+### Comparative Efficacy of MRI and CT in Traumatic Brain Injury: A Systematic Review.
+**Authors:** Dabas MM, Alameri AD, Mohamed NM, Mahmood R, Kim DH et al.  
+**Journal:** Cureus (2024)  
+**PMID:** 39574979  **DOI:** 10.7759/cureus.72086
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) is a leading cause of mortality and long-term disability worldwide, and accurate imaging is essential for effective diagnosis, management, and prognosis. This systematic r...
+
+### Management of Pediatric Mild Traumatic Brain Injury Patients: S100b, Glial Fibrillary Acidic Protein, and Heart Fatty-Acid-Binding Protein Promising Biomarkers.
+**Authors:** Chiollaz AC, Pouillard V, Spigariol F, Romano F, Seiler M et al.  
+**Journal:** Neurotrauma reports (2024)  
+**PMID:** 39071980  **DOI:** 10.1089/neur.2024.0027
+**Entities:** GFAP, S100B, mTBI, TBI  
+**Abstract:** Children are highly vulnerable to mild traumatic brain injury (mTBI). Blood biomarkers can help in their management. This study evaluated the performances of biomarkers, in discriminating between chil...
+
+### Isolated Traumatic Subarachnoid Hemorrhage on Head Computed Tomography Scan May Not Be Isolated: A Transforming Research and Clinical Knowledge in Traumatic Brain Injury Study (TRACK-TBI) Study.
+**Authors:** Yue JK, Yuh EL, Elguindy MM, Sun X, van Essen TA et al.  
+**Journal:** Journal of neurotrauma (2024)  
+**PMID:** 38450561  **DOI:** 10.1089/neu.2023.0253
+**Entities:** GFAP, TBI  
+**Abstract:** Isolated traumatic subarachnoid hemorrhage (tSAH) after traumatic brain injury (TBI) on head computed tomography (CT) scan is often regarded as a "mild" injury, with reduced need for additional workup...
+
 ### Serum Tau, Neurofilament Light Chain, Glial Fibrillary Acidic Protein, and Ubiquitin Carboxyl-Terminal Hydrolase L1 Are Associated with the Chronic Deterioration of Neurobehavioral Symptoms after Traumatic Brain Injury.
 **Authors:** Lange RT, Lippa S, Brickell TA, Gill J, French LM  
 **Journal:** Journal of neurotrauma (2023)  
@@ -8781,6 +11413,27 @@
 **PMID:** biorxiv:10.1101/2022.06.02.494552  **DOI:** 10.1101/2022.06.02.494552
 **Entities:** neuroinflammation, BBB  
 **Abstract:** Respiratory infection with SARS-CoV-2 causes systemic vascular inflammation and cognitive impairment. We sought to identify the underlying mechanisms mediating vascular dysfunction and inflammation fo...
+
+### Mapping astrogliosis in the individual human brain using multidimensional MRI.
+**Authors:** Benjamini D, Priemer DS, Perl DP, Brody DL, Basser PJ  
+**Journal:** Brain : a journal of neurology (2023)  
+**PMID:** 35953450  **DOI:** 10.1093/brain/awac298
+**Entities:** GFAP, TBI, aging  
+**Abstract:** There are currently no non-invasive imaging methods available for astrogliosis assessment or mapping in the central nervous system despite its essential role in the response to many disease states, su...
+
+### Evaluating Targeted Therapeutic Response With Predictive Blood-Based Biomarkers in Patients With Chronic Mild Traumatic Brain Injury.
+**Authors:** Eagle SR, Puccio AM, Agoston DV, Soose R, Mancinelli M et al.  
+**Journal:** Neurotrauma reports (2023)  
+**PMID:** 37360545  **DOI:** 10.1089/neur.2023.0003
+**Entities:** mTBI, TBI  
+**Abstract:** Chronic consequences of mild traumatic brain injury (mTBI) are heterogeneous, but may be treatable with targeted medical and rehabilitation interventions. A biological signature for the likelihood of ...
+
+### Serum Biomarker Concentrations upon Admission in Acute Traumatic Brain Injury: Associations with TBI Severity, Toxoplasma gondii Infection, and Outcome in a Referral Hospital Setting in Cameroon.
+**Authors:** Buh FC, Taiwe GS, Kobeissy FH, Wang KW, Maas AIR et al.  
+**Journal:** NeuroSci (2023)  
+**PMID:** 39483201  **DOI:** 10.3390/neurosci4030015
+**Entities:** TBI  
+**Abstract:** Despite the available literature on traumatic brain injury (TBI) biomarkers elsewhere, data are limited or non-existent in sub-Saharan Africa (SSA). The aim of the study was to analyse associations in...
 
 ### Blood GFAP as an emerging biomarker in brain and spinal cord disorders.
 **Authors:** Abdelhak A, Foschi M, Abu-Rumeileh S, Yue JK, D'Anna L et al.  
@@ -9055,6 +11708,48 @@
 **Entities:** UCH-L1, TBI, GOS-E  
 **Abstract:** BACKGROUND: Severe traumatic brain injury (TBI) is a major contributor to disability and mortality in the industrialized world. Outcomes of severe TBI are profoundly heterogeneous, complicating outcom...
 
+### Chronic traumatic encephalopathy: Diagnostic updates and advances.
+**Authors:** Pierre K, Molina V, Shukla S, Avila A, Fong N et al.  
+**Journal:** AIMS neuroscience (2022)  
+**PMID:** 36660076  **DOI:** 10.3934/Neuroscience.2022030
+**Entities:** GFAP, NfL, tau, p-tau, mTBI  
+**Abstract:** Chronic traumatic encephalopathy (CTE) is a progressive neurodegenerative disease that occurs secondary to repetitive mild traumatic brain injury. Current clinical diagnosis relies on symptomatology a...
+
+### Glial Fibrillary Acidic Protein: A Biomarker and Drug Target for Alzheimer's Disease.
+**Authors:** Ganne A, Balasubramaniam M, Griffin WST, Shmookler Reis RJ, Ayyadevara S  
+**Journal:** Pharmaceutics (2022)  
+**PMID:** 35890250  **DOI:** 10.3390/pharmaceutics14071354
+**Entities:** GFAP, Aβ42, TBI, Alzheimer  
+**Abstract:** Glial fibrillary acidic protein (GFAP) is an intermediate filament structural protein involved in cytoskeleton assembly and integrity, expressed in high abundance in activated glial cells. GFAP is neu...
+
+### Long-Term Stability of Blood Serum Biomarkers in Traumatic Brain Injury: A Feasibility Study.
+**Authors:** van der Horn HJ, Visser K, Bijzet J, Vos P, van der Naalt J et al.  
+**Journal:** Frontiers in neurology (2022)  
+**PMID:** 35665051  **DOI:** 10.3389/fneur.2022.877050
+**Entities:** mTBI, TBI  
+**Abstract:** Few studies on traumatic brain injury (TBI) have investigated the stability of blood serum biomarkers after long-term storage at low temperatures. In the current feasibility study we analyzed acute ph...
+
+### Traumatic Brain Injury Biomarkers, Simulations and Kinetics.
+**Authors:** Hicks C, Dhiman A, Barrymore C, Goswami T  
+**Journal:** Bioengineering (Basel, Switzerland) (2022)  
+**PMID:** 36354523  **DOI:** 10.3390/bioengineering9110612
+**Entities:** GFAP, UCH-L1, S100B, NfL, tau  
+**Abstract:** This paper reviews the predictive capabilities of blood-based biomarkers to quantify traumatic brain injury (TBI). Biomarkers for concussive conditions also known as mild, to moderate and severe TBI i...
+
+### The effect of clopidogrel and aspirin on the severity of traumatic brain injury in a rat model.
+**Authors:** Kobeissy F, Mallah K, Zibara K, Dakroub F, Dalloul Z et al.  
+**Journal:** Neurochemistry international (2022)  
+**PMID:** 35121011  **DOI:** 10.1016/j.neuint.2022.105301
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** Traumatic Brain Injury (TBI) is one of the leading causes of death and disability worldwide. Aspirin (ASA) and clopidogrel (CLOP) are antiplatelet agents that inhibit platelet aggregation. They are im...
+
+### Glial fibrillary acidic protein level on admission can predict severe traumatic brain injury in patients with severe multiple trauma: A single-center retrospective observational study.
+**Authors:** Nakamura Y, Kitamura T, Kawano Y, Hoshino K, Irie Y et al.  
+**Journal:** Current research in neurobiology (2022)  
+**PMID:** 36518335  **DOI:** 10.1016/j.crneur.2022.100047
+**Entities:** GFAP, S100B, TBI  
+**Abstract:** OBJECTIVE: This study aimed to clarify whether the glial fibrillary acidic protein (GFAP) and soluble protein-100β (S100β) can predict severe traumatic brain injury (TBI) in patients with severe multi...
+
 ### Systematic review and cumulative meta-analysis of the diagnostic accuracy of glial fibrillary acidic protein vs. S100 calcium binding protein B as blood biomarkers in observational studies of patients with mild or moderate acute traumatic brain injury.
 **Authors:** Mastandrea P, Mengozzi S, Bernardini S  
 **Journal:** Diagnosis (Berlin, Germany) (2021)  
@@ -9236,6 +11931,27 @@
 **PMID:** 33861330  **DOI:** 10.1001/jamanetworkopen.2021.6445
 **Entities:** GFAP, UCH-L1, NfL, tau, Aβ42  
 **Abstract:** IMPORTANCE: There is a scientific and operational need to define objective measures of exposure to low-level overpressure (LLOP) and concussion-like symptoms among persons with specialized occupations...
+
+### Systematic Review of Serum Biomarkers in Traumatic Brain Injury.
+**Authors:** Mozaffari K, Dejam D, Duong C, Ding K, French A et al.  
+**Journal:** Cureus (2021)  
+**PMID:** 34522534  **DOI:** 10.7759/cureus.17056
+**Entities:** ROS, GFAP, oxidative stress, TBI, NSE  
+**Abstract:** Traumatic brain injury (TBI) is responsible for the majority of trauma-related deaths and is a leading cause of disability. It is characterized by an inflammatory process involved in the progression o...
+
+### Kollidon VA64 Treatment in Traumatic Brain Injury: Operation Brain Trauma Therapy.
+**Authors:** Osier ND, Bramlett HM, Shear DA, Mondello S, Carlson SW et al.  
+**Journal:** Journal of neurotrauma (2021)  
+**PMID:** 33843262  **DOI:** 10.1089/neu.2021.0089
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** Loss of plasmalemmal integrity may mediate cell death after traumatic brain injury (TBI). Prior studies in controlled cortical impact (CCI) indicated that the membrane resealing agent Kollidon VA64 im...
+
+### S100 Calcium-Binding Protein B and Glial Fibrillary Acidic Protein in Patients with Mild Traumatic Brain Injury.
+**Authors:** Meshkini A, Ghorbani Haghjo A, Hasanpour Segherlou Z, Nouri-Vaskeh M  
+**Journal:** Bulletin of emergency and trauma (2021)  
+**PMID:** 34692869  **DOI:** 10.30476/BEAT.2021.89355.1231
+**Entities:** GFAP, S100B, mTBI, TBI  
+**Abstract:** OBJECTIVE: To examine the GFAP and S100B ability in prevention unnecessary brain Computed tomography (CT) scan in mild traumatic brain injury (mTBI) and compare them with the single extremity fracture...
 
 ### A Biomarker for Concussion: The Good, the Bad, and the Unknown.
 **Authors:** Reece JT, Milone M, Wang P, Herman D, Petrov D et al.  
@@ -9461,6 +12177,13 @@
 **Entities:** —  
 **Abstract:** 
 
+### Cerebral Expression of Glial Fibrillary Acidic Protein, Ubiquitin Carboxy-Terminal Hydrolase-L1, and Matrix Metalloproteinase 9 After Traumatic Brain Injury and Secondary Brain Insults in Rats.
+**Authors:** Mrozek S, Delamarre L, Capilla F, Al-Saati T, Fourcade O et al.  
+**Journal:** Biomarker insights (2019)  
+**PMID:** 31210728  **DOI:** 10.1177/1177271919851515
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** Glial fibrillary acidic protein (GFAP), ubiquitin carboxy-terminal hydrolase-L1 (UCH-L1), and matrix metalloproteinase 9 (MMP-9) are potential biomarkers of traumatic brain injury (TBI) but also of se...
+
 ### An update on diagnostic and prognostic biomarkers for traumatic brain injury.
 **Authors:** Wang KK, Yang Z, Zhu T, Shi Y, Rubenstein R et al.  
 **Journal:** Expert review of molecular diagnostics (2018)  
@@ -9573,6 +12296,13 @@
 **Entities:** GFAP, BDNF, TBI  
 **Abstract:** Until now, it is impossible to identify a fatal traumatic brain injury (TBI) before post-mortem radiological investigations or an autopsy take place. It would be preferable to have an additional diagn...
 
+### Ubiquitin C-Terminal Hydrolase-L1 (UCH-L1) in Prediction of Computed Tomography Findings in Traumatic Brain Injury; a Meta-Analysis.
+**Authors:** Ramezani F, Bahrami-Amiri A, Babahajian A, Shahsavari Nia K, Yousefifard M  
+**Journal:** Emergency (Tehran, Iran) (2018)  
+**PMID:** 30788389  
+**Entities:** UCH-L1, mTBI, TBI  
+**Abstract:** INTRODUCTION: Ubiquitin C-terminal hydrolase-L1 (UCH-L1) is one of the promising candidates, with an acceptable diagnostic value for predicting head computed tomography (CT) scan findings. However, th...
+
 ### Biofluid biomarkers of traumatic brain injury.
 **Authors:** Agoston DV, Shutes-David A, Peskind ER  
 **Journal:** Brain injury (2017)  
@@ -9670,6 +12400,20 @@
 **PMID:** 28322619  **DOI:** 10.1089/neu.2017.5030
 **Entities:** —  
 **Abstract:** 
+
+### Biomarkers Associated with the Outcome of Traumatic Brain Injury Patients.
+**Authors:** Lorente L  
+**Journal:** Brain sciences (2017)  
+**PMID:** 29076989  **DOI:** 10.3390/brainsci7110142
+**Entities:** GFAP, UCH-L1, S100B, tau, BDNF  
+**Abstract:** This review focuses on biomarkers associated with the outcome of traumatic brain injury (TBI) patients, such as caspase-3; total antioxidant capacity; melatonin; S100B protein; glial fibrillary acidic...
+
+### Serial Sampling of Serum Protein Biomarkers for Monitoring Human Traumatic Brain Injury Dynamics: A Systematic Review.
+**Authors:** Thelin EP, Zeiler FA, Ercole A, Mondello S, Büki A et al.  
+**Journal:** Frontiers in neurology (2017)  
+**PMID:** 28717351  **DOI:** 10.3389/fneur.2017.00300
+**Entities:** GFAP, UCH-L1, S100B, NfL, mTBI  
+**Abstract:** BACKGROUND: The proteins S100B, neuron-specific enolase (NSE), glial fibrillary acidic protein (GFAP), ubiquitin carboxy-terminal hydrolase L1 (UCH-L1), and neurofilament light (NF-L) have been serial...
 
 ### Time Course and Diagnostic Accuracy of Glial and Neuronal Blood Biomarkers GFAP and UCH-L1 in a Large Cohort of Trauma Patients With and Without Mild Traumatic Brain Injury.
 **Authors:** Papa L, Brophy GM, Welch RD, Lewis LM, Braga CF et al.  
@@ -10007,6 +12751,13 @@
 **Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** Outcome prediction following severe traumatic brain injury (sTBI) is a widely investigated field of research. A major breakthrough is represented by the IMPACT prognostic calculator based on admission...
 
+### Characterization of Antibodies that Detect Human GFAP after Traumatic Brain Injury.
+**Authors:** Zoltewicz JS, Scharf D, Yang B, Chawla A, Newsom KJ et al.  
+**Journal:** Biomarker insights (2012)  
+**PMID:** 22798722  **DOI:** 10.4137/BMI.S9873
+**Entities:** GFAP, TBI  
+**Abstract:** After traumatic brain injury (TBI), glial fibrillary acidic protein (GFAP) and other brain-derived proteins and their breakdown products are released into biofluids such as CSF and blood. Recently, a ...
+
 ### Factors affecting blast traumatic brain injury.
 **Authors:** Kamnaksh A, Kovesdi E, Kwon SK, Wingo D, Ahmed F et al.  
 **Journal:** Journal of neurotrauma (2011)  
@@ -10262,6 +13013,55 @@
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** Home-cage monitoring (HCM) has emerged as a powerful approach for detecting subtle and context-dependent behavioral alterations in rodent models. In this mini-review, we integrate clinical observation...
 
+### Interleukin-1 receptor-1 signaling mediates neuroinflammation, neuronal injury, and cognitive decline after diffuse traumatic brain injury.
+**Authors:** Davis AC, Goodman EJ, Wangler LM, Packer JM, Thammachack R et al.  
+**Journal:** Brain, behavior, and immunity (2026)  
+**PMID:** 41780806  **DOI:** 10.1016/j.bbi.2026.106524
+**Entities:** NfL, neuroinflammation, TBI  
+**Abstract:** Traumatic brain injury (TBI) increases the risk of developing neuropsychiatric illness and cognitive impairment. Previous work indicates that inflammatory pathways associated with interleukin (IL)-1 a...
+
+### Amateur Soccer Heading and Acute Elevations in Blood-Based p-Tau217 and S100B.
+**Authors:** Hoppen MI, Königs M, Teunissen CE, Verberk IMW, Twisk J et al.  
+**Journal:** JAMA neurology (2026)  
+**PMID:** 42149575  **DOI:** 10.1001/jamaneurol.2026.1224
+**Entities:** GFAP, S100B, NfL, tau, p-tau  
+**Abstract:** IMPORTANCE: Former professional soccer players have increased risk of neurodegenerative disease, potentially due to cumulative exposure to repetitive head impacts such as heading. However, the acute e...
+
+### Tau Pathology in Chronic Traumatic Encephalopathy: Mechanisms and Diagnostic Advances.
+**Authors:** Chesters J  
+**Journal:** The Yale journal of biology and medicine (2026)  
+**PMID:** 41918502  **DOI:** 10.59249/PMHL9767
+**Entities:** tau, p-tau, CTE, Alzheimer  
+**Abstract:** Chronic Traumatic Encephalopathy (CTE) is a progressive neurodegenerative tauopathy associated with repetitive head impacts (RHI), yet it remains diagnosable only at post-mortem. Tau, a microtubule-as...
+
+### Chronic effects of traumatic brain injury and the impact of biperiden treatment in a male rat model.
+**Authors:** Sanabria V, Braga MB, Romariz S, Gimenes C, Calió ML et al.  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 41482110  **DOI:** 10.1016/j.expneurol.2025.115626
+**Entities:** NfL, tau, neuroinflammation, TBI, Simoa  
+**Abstract:** Traumatic brain injury (TBI) disrupts brain function and may lead to post-traumatic epilepsy (PTE), a long-term complication. Anticholinergic drugs, such as biperiden, have shown potential in modulati...
+
+### The emerging role of serum neurofilaments in pediatric neurological disorders.
+**Authors:** Sverakova A, Rostásy K  
+**Journal:** European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society (2026)  
+**PMID:** 42119430  **DOI:** 10.1016/j.ejpn.2026.05.003
+**Entities:** NfL, neuroinflammation, Alzheimer, aging  
+**Abstract:** Neurofilaments, particularly neurofilament light chain (NfL), have emerged as promising biomarkers of neuroaxonal damage across a wide range of neurological diseases. While their application in adult ...
+
+### Development of a Novel Blood-Based Assay for Brain-Derived Tau and Its Validation in Traumatic Brain Injury.
+**Authors:** Balogun WG, Zeng X, Nafash MN, Sehrawat A, Shi R et al.  
+**Journal:** Journal of neurochemistry (2026)  
+**PMID:** 42470153  **DOI:** 10.1111/jnc.70518
+**Entities:** tau, TBI, Alzheimer, Simoa, Quanterix  
+**Abstract:** Brain-derived tau (BD-tau) is an emerging blood-based biomarker for neurodegeneration, yet there are currently limited well validated BD-tau assays available for research and clinical use. To enhance ...
+
+### Development of a paediatric model of diffuse traumatic brain injury in ferrets.
+**Authors:** Krieg JL, Hooper C, Kapuwelle H, George RP, Hood RJ et al.  
+**Journal:** Scientific reports (2026)  
+**PMID:** 41577806  **DOI:** 10.1038/s41598-026-37303-6
+**Entities:** GFAP, NfL, Aβ42, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a leading cause of death and disability in children, especially those under five, with younger children more vulnerable to persistent cognitive and neuropsychological e...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -10492,6 +13292,55 @@
 **PMID:** 40930713  **DOI:** 10.1177/08977151251377449
 **Entities:** NfL, mTBI, TBI  
 **Abstract:** Mean apparent propagator MRI (MAP-MRI) quantifies subtle alterations in tissue microstructure noninvasively and provides a more nuanced and comprehensive assessment of tissue architectural and structu...
+
+### Plasma brain-derived tau: analytical and clinical validation of the first commercial immunoassay.
+**Authors:** Nafash MN, Svirsky SE, Zeng X, Chen Y, Kofler JK et al.  
+**Journal:** medRxiv : the preprint server for health sciences (2025)  
+**PMID:** 40778158  **DOI:** 10.1101/2025.07.21.25331193
+**Entities:** GFAP, NfL, tau, TBI, Alzheimer  
+**Abstract:** BACKGROUND: Brain-derived tau (BD-tau) is a promising blood-based biomarker for neurodegeneration/brain injury in neurodegenerative and acute neurological disorders. However, widespread use is hampere...
+
+### Biomarker evidence of neurodegeneration in mid-life former rugby players.
+**Authors:** Graham NSN, Zimmerman KA, Hain J, Rooney E, Lee Y et al.  
+**Journal:** Brain : a journal of neurology (2025)  
+**PMID:** 40602789  **DOI:** 10.1093/brain/awaf152
+**Entities:** NfL, tau, CTE, Alzheimer, Simoa  
+**Abstract:** Repetitive head impacts and traumatic brain injuries in contact sports, such as rugby union, are associated with increased risk of neurodegenerative diseases such as Alzheimer's disease and chronic tr...
+
+### Neurofilament Light Chain under the Lens of Structural Mass Spectrometry.
+**Authors:** Coppens S, Gogishvili D, Faustinelli V, Scollo E, Hopley C et al.  
+**Journal:** ACS chemical neuroscience (2025)  
+**PMID:** 39746934  **DOI:** 10.1021/acschemneuro.4c00526
+**Entities:** NfL, TBI  
+**Abstract:** Neurofilament light chain (NfL) is an early nonspecific biomarker in neurodegenerative diseases and traumatic brain injury, indicating axonal damage. This work describes the detailed structural charac...
+
+### Trajectories of blood-based protein biomarkers in chronic traumatic brain injury.
+**Authors:** Hicks AJ, Plourde J, Selmanovic E, de Souza NL, Blennow K et al.  
+**Journal:** medRxiv : the preprint server for health sciences (2025)  
+**PMID:** 40034765  **DOI:** 10.1101/2025.02.16.25322303
+**Entities:** TBI, Alzheimer  
+**Abstract:** Blood-based protein biomarkers may provide important insights into the long-term neuropathology of traumatic brain injury (TBI). This is urgently required to identify mechanistic processes underlying ...
+
+### Effects of sex, injury, and docosahexaenoic acid in a preclinical porcine model of pediatric traumatic brain injury using novel serial collection of CSF, urine, and serum biomarkers.
+**Authors:** Schober ME, Terry CR, Jones GC, Slusher N, McAllister JP et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2025)  
+**PMID:** 41004855  **DOI:** 10.3171/2025.6.PEDS2555
+**Entities:** ROS, NfL, neuroinflammation, oxidative stress, TBI  
+**Abstract:** OBJECTIVE: Traumatic brain injury (TBI) is a leading cause of acquired neurological disability in children of both sexes. Therapies that improve neurological disability in animal TBI models have unive...
+
+### IGF-1 as a biomarker for symptom severity in adolescents with traumatic brain injury.
+**Authors:** Mishra V, Rosenthal K, Hillaker E, Martinez M, Bath J et al.  
+**Journal:** Brain injury (2025)  
+**PMID:** 40856302  **DOI:** 10.1080/02699052.2025.2552336
+**Entities:** tau, mTBI, TBI  
+**Abstract:** OBJECTIVE: This study assessed the relationship between insulin-like growth factor 1 (IGF-1) level and symptom severity in adolescents with traumatic brain injury (TBI), focusing on correlation with p...
+
+### Blood biomarkers to identify patients with different intracranial lesion combinations after traumatic brain injury.
+**Authors:** Koivikko P, Katila AJ, Takala RS, Hossain I, Luoto TM et al.  
+**Journal:** Brain & spine (2025)  
+**PMID:** 40007799  **DOI:** 10.1016/j.bas.2025.104195
+**Entities:** GFAP, S100B, NfL, tau, Aβ42  
+**Abstract:** INTRODUCTION: There is a lack of studies examining the most promising blood biomarkers for traumatic brain injury (TBI) in relation to gross pathology types. RESEARCH QUESTION: To examine whether the ...
 
 ### Duration of Ice Hockey Play and Chronic Traumatic Encephalopathy.
 **Authors:** Abdolmohammadi B, Tuz-Zahra F, Uretsky M, Nicks R, Mosaheb S et al.  
@@ -10758,6 +13607,48 @@
 **PMID:** 38735562  **DOI:** 10.1016/j.wneu.2024.05.026
 **Entities:** NfL  
 **Abstract:** OBJECTIVE: The National Football League (NFL) has seen increasing scrutiny regarding its management of concussions, especially following an on-field incident involving the Miami Dolphins' quarterback ...
+
+### Murine Traumatic Brain Injury Model Comparison: Closed Head Injury Versus Controlled Cortical Impact.
+**Authors:** Baucom MR, Price AD, England L, Schuster RM, Pritts TA et al.  
+**Journal:** The Journal of surgical research (2024)  
+**PMID:** 38295710  **DOI:** 10.1016/j.jss.2024.01.002
+**Entities:** GFAP, tau, p-tau, TBI  
+**Abstract:** INTRODUCTION: Various murine models have been utilized to study TBI, including closed head injury (CHI) and controlled cortical impact (CCI), without direct comparison. The aim of our study was to eva...
+
+### Tranexamic Acid Administration Does Not Alter Inflammation After Traumatic Brain Injury, Regardless of Timing.
+**Authors:** Baucom MR, Wallen TE, Price AD, England LG, Schuster RM et al.  
+**Journal:** The Journal of surgical research (2024)  
+**PMID:** 39094257  **DOI:** 10.1016/j.jss.2024.07.023
+**Entities:** GFAP, tau, p-tau, IL-1β, TBI  
+**Abstract:** INTRODUCTION: Tranexamic acid (TXA) administered early after traumatic brain injury (TBI) can decrease morbidity and mortality. The purpose of this study is to determine if the timing of TXA administr...
+
+### Late Blood Levels of Neurofilament Light Correlate With Outcome in Patients With Traumatic Brain Injury.
+**Authors:** Tuure J, Mohammadian M, Tenovuo O, Blennow K, Hossain I et al.  
+**Journal:** Journal of neurotrauma (2024)  
+**PMID:** 37698882  **DOI:** 10.1089/neu.2023.0207
+**Entities:** NfL, mTBI, TBI, GOS-E  
+**Abstract:** Neurofilament light (NF-L) is an axonal protein that has shown promise as a traumatic brain injury (TBI) biomarker. Serum NF-L shows a rather slow rise after injury, peaking after 1-2 weeks, although ...
+
+### Temporal Profiles of P-Tau, T-Tau, and P-Tau:Tau Ratios in Cerebrospinal Fluid and Blood from Moderate-Severe Traumatic Brain Injury Patients and Relationship to 6-12 Month Global Outcomes.
+**Authors:** Rubenstein R, McQuillan L, Wang KKW, Robertson C, Chang B et al.  
+**Journal:** Journal of neurotrauma (2024)  
+**PMID:** 37725589  **DOI:** 10.1089/neu.2022.0479
+**Entities:** tau, p-tau, TBI  
+**Abstract:** Traumatic brain injury (TBI) can initiate progressive injury responses, which are linked to increased risk of neurodegenerative diseases known as "tauopathies." Increased post-TBI tau hyperphosphoryla...
+
+### Parallel Cerebrospinal Fluid and Serum Temporal Profile Assessment of Axonal Injury Biomarkers Neurofilament-Light Chain and Phosphorylated Neurofilament-Heavy Chain: Associations With Patient Outcome in Moderate-Severe Traumatic Brain Injury.
+**Authors:** Wang KKW, Barton DJ, McQuillan LE, Kobeissy F, Cai G et al.  
+**Journal:** Journal of neurotrauma (2024)  
+**PMID:** 38588256  **DOI:** 10.1089/neu.2023.0449
+**Entities:** NfL, TBI, GOS-E  
+**Abstract:** Neurofilament-light chain (NF-L) and phosphorylated neurofilament-heavy chain (pNF-H) are axonal proteins that have been reported as potential diagnostic and prognostic biomarkers in traumatic brain i...
+
+### Cerebrospinal fluid biomarkers and cognitive trajectories in patients with Alzheimer's disease and a history of traumatic brain injury.
+**Authors:** van Amerongen S, Das S, Kamps S, Goossens J, Bongers B et al.  
+**Journal:** Neurobiology of aging (2024)  
+**PMID:** 38908030  **DOI:** 10.1016/j.neurobiolaging.2024.06.001
+**Entities:** TBI, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) and Alzheimer's disease (AD) have overlapping mechanisms but it remains unknown if pathophysiological characteristics and cognitive trajectories in AD patients are influen...
 
 ### Consensus statement on concussion in sport: the 6th International Conference on Concussion in Sport-Amsterdam, October 2022.
 **Authors:** Patricios JS, Schneider KJ, Dvorak J, Ahmed OH, Blauwet C et al.  
@@ -11172,6 +14063,90 @@
 **Entities:** mTBI  
 **Abstract:** The purpose of this paper is to summarise the consensus methodology that was used to inform the International Consensus Statement on Concussion in Sport (Amsterdam 2022). Building on a Delphi process ...
 
+### Child SCOAT6.
+**Authors:** Davis GA, Patricios JS, Purcell LK, Anderson V, Gioia G et al.  
+**Journal:** British journal of sports medicine (2023)  
+**PMID:** 37316206  **DOI:** 10.1136/bjsports-2023-106984
+**Entities:** —  
+**Abstract:** 
+
+### Neurofilament-Light, a Promising Biomarker: Analytical, Metrological and Clinical Challenges.
+**Authors:** Coppens S, Lehmann S, Hopley C, Hirtz C  
+**Journal:** International journal of molecular sciences (2023)  
+**PMID:** 37511382  **DOI:** 10.3390/ijms241411624
+**Entities:** NfL, TBI  
+**Abstract:** Neurofilament-light chain (Nf-L) is a non-specific early-stage biomarker widely studied in the context of neurodegenerative diseases (NDD) and traumatic brain injuries (TBI), which can be measured in ...
+
+### Polypathology-associated neurodegeneration after remote head injury.
+**Authors:** Brennan D, Delaney C, Farrell M, Campbell M, Doherty CP  
+**Journal:** Clinical neuropathology (2023)  
+**PMID:** 37840527  **DOI:** 10.5414/NP301576
+**Entities:** tau, p-tau, BBB, mTBI, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a leading cause of morbidity and mortality worldwide. TBI ranges from mild to severe and is a recognized risk factor for later neurodegenerative conditions including ch...
+
+### Serum Neurofilament light chain (NfL) levels in children with and without neurologic diseases.
+**Authors:** Geis T, Gutzeit S, Fouzas S, Ambrosch A, Benkert P et al.  
+**Journal:** European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society (2023)  
+**PMID:** 37236127  **DOI:** 10.1016/j.ejpn.2023.05.003
+**Entities:** NfL, TBI  
+**Abstract:** BACKGROUND/OBJECTIVE: Serum neurofilament light chain (sNfL) is a specific biomarker of neuronal damage. Elevated sNfL levels have been reported in numerous neurologic diseases in adults, whereas data...
+
+### Plasma neurofilament light chain protein is not increased in forensic psychiatric populations: a pilot study.
+**Authors:** Fernqvist A, Alexiou E, Zetterberg H, Howner K, Nilsson T et al.  
+**Journal:** Frontiers in psychiatry (2023)  
+**PMID:** 37215673  **DOI:** 10.3389/fpsyt.2023.1176266
+**Entities:** NfL, mTBI, TBI  
+**Abstract:** INTRODUCTION: Neurofilament light chain protein (NfL) is a fluid biomarker of neural injury measurable in cerebrospinal fluid and blood. Patients with different neurodegenerative disorders and mild tr...
+
+### Neuronal tau pathology worsens late-phase white matter degeneration after traumatic brain injury in transgenic mice.
+**Authors:** Yu F, Iacono D, Perl DP, Lai C, Gill J et al.  
+**Journal:** Acta neuropathologica (2023)  
+**PMID:** 37578550  **DOI:** 10.1007/s00401-023-02622-9
+**Entities:** NfL, tau, mTBI, TBI, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) causes diffuse axonal injury which can produce chronic white matter pathology and subsequent post-traumatic neurodegeneration with poor patient outcomes. Tau modulates axo...
+
+### Function and regulation of cis P-tau in the pathogenesis and treatment of conventional and nonconventional tauopathies.
+**Authors:** Wang R, Lu KP, Zhou XZ  
+**Journal:** Journal of neurochemistry (2023)  
+**PMID:** 37638382  **DOI:** 10.1111/jnc.15909
+**Entities:** tau, p-tau, TBI, CTE, Alzheimer  
+**Abstract:** Conventional tauopathies are a group of disease characterized by tau inclusions in the brains, including Alzheimer's disease (AD), Pick's disease (PiD), progressive supranuclear palsy (PSP), corticoba...
+
+### Role of integrin and its potential as a novel postmortem biomarker in traumatic axonal injury.
+**Authors:** Yijie D, Weisheng H, Ji Z, Jiao M, Yiwu Z et al.  
+**Journal:** International journal of legal medicine (2023)  
+**PMID:** 36562807  **DOI:** 10.1007/s00414-022-02938-3
+**Entities:** NfL, Aβ42, TBI  
+**Abstract:** Traumatic axonal injury (TAI) accounts for a large proportion of the mortality of traumatic brain injury (TBI). The diagnosis of TAI is currently of limited use for medicolegal purposes. It is known t...
+
+### Altered Tau Kinase Activity in rTg4510 Mice after a Single Interfaced CHIMERA Traumatic Brain Injury.
+**Authors:** Cheng WH, Cheung H, Kang A, Fan J, Cooper J et al.  
+**Journal:** International journal of molecular sciences (2023)  
+**PMID:** 37298388  **DOI:** 10.3390/ijms24119439
+**Entities:** tau, p-tau, Iba1, TBI, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) is an established risk factor for neurodegenerative diseases. In this study, we used the Closed Head Injury Model of Engineered Rotational Acceleration (CHIMERA) to invest...
+
+### Nanowired delivery of antibodies to tau and neuronal nitric oxide synthase together with cerebrolysin attenuates traumatic brain injury induced exacerbation of brain pathology in Parkinson's disease.
+**Authors:** Ozkizilcik A, Sharma A, Feng L, Muresanu DF, Tian ZR et al.  
+**Journal:** International review of neurobiology (2023)  
+**PMID:** 37783564  **DOI:** 10.1016/bs.irn.2023.07.001
+**Entities:** ROS, tau, p-tau, oxidative stress, TBI  
+**Abstract:** Concussive head injury (CHI) is one of the major risk factors for developing Parkinson's disease in later life of military personnel affecting lifetime functional and cognitive disturbances. Till date...
+
+### Association of Serum Brain-Derived Tau With Clinical Outcome and Longitudinal Change in Patients With Severe Traumatic Brain Injury.
+**Authors:** Gonzalez-Ortiz F, Dulewicz M, Ashton NJ, Kac PR, Zetterberg H et al.  
+**Journal:** JAMA network open (2023)  
+**PMID:** 37399012  **DOI:** 10.1001/jamanetworkopen.2023.21554
+**Entities:** NfL, tau, TBI  
+**Abstract:** IMPORTANCE: Blood-based measurements of total tau (T-tau) are commonly used to examine neuronal injury in patients with traumatic brain injury (TBI), but current assays do not differentiate between br...
+
+### Exploring the Therapeutic Potential of Phosphorylated Cis-Tau Antibody in a Pig Model of Traumatic Brain Injury.
+**Authors:** Shin SS, Mazandi VM, Schneider ALC, Morton S, Starr JP et al.  
+**Journal:** Biomedicines (2023)  
+**PMID:** 37509447  **DOI:** 10.3390/biomedicines11071807
+**Entities:** tau, p-tau, TBI  
+**Abstract:** Traumatic brain injury (TBI) results in the generation of tau. As hyperphosphorylated tau (p-tau) is one of the major consequences of TBI, targeting p-tau in TBI may lead to the development of new the...
+
 ### Neurofilaments in neurologic disorders and beyond.
 **Authors:** Mak G, Menon S, Lu JQ  
 **Journal:** Journal of the neurological sciences (2022)  
@@ -11424,6 +14399,62 @@
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: Neuropsychologists commonly use a large battery of tests to inform clinical decisions. Decision analysis can be used to determine which individual tests play a role in the decision-making p...
 
+### Cerebral Biomarkers and Blood-Brain Barrier Integrity in Preeclampsia.
+**Authors:** Friis T, Wikström AK, Acurio J, León J, Zetterberg H et al.  
+**Journal:** Cells (2022)  
+**PMID:** 35269411  **DOI:** 10.3390/cells11050789
+**Entities:** S100B, NfL, tau, BBB, TBI  
+**Abstract:** Cerebral complications in preeclampsia contribute substantially to maternal mortality and morbidity. There is a lack of reliable and accessible predictors for preeclampsia-related cerebral complicatio...
+
+### Tau as a fluid biomarker of concussion and neurodegeneration.
+**Authors:** Hossain I, Blennow K, Posti JP, Zetterberg H  
+**Journal:** Concussion (London, England) (2022)  
+**PMID:** 36687115  **DOI:** 10.2217/cnc-2022-0004
+**Entities:** tau, mTBI, TBI, CTE, Alzheimer  
+**Abstract:** Concussion is predominant among the vast number of traumatic brain injuries that occur worldwide. Difficulties in timely identification, whether concussion led to neuronal injury or not, diagnosis and...
+
+### Tau PET following acute TBI: Off-target binding to blood products, tauopathy, or both?
+**Authors:** Butler T, Chiang GC, Niogi SN, Wang XH, Skudin C et al.  
+**Journal:** Frontiers in neuroimaging (2022)  
+**PMID:** 36876118  **DOI:** 10.3389/fnimg.2022.958558
+**Entities:** tau, mTBI, TBI, CTE, Alzheimer  
+**Abstract:** Repeated mild Traumatic Brain Injury (TBI) is a risk factor for Chronic Traumatic Encephalopathy (CTE), characterized pathologically by neurofibrillary tau deposition in the depths of brain sulci and ...
+
+### Active immunotherapy against pathogenic Cis pT231-tau suppresses neurodegeneration in traumatic brain injury mouse models.
+**Authors:** Alipour M, Tebianian M, Tofigh N, Taheri RS, Mousavi SA et al.  
+**Journal:** Neuropeptides (2022)  
+**PMID:** 36087426  **DOI:** 10.1016/j.npep.2022.102285
+**Entities:** tau, p-tau, neuroinflammation, TBI, CTE  
+**Abstract:** Traumatic brain injury (TBI), characterized by acute neurological impairment, is associated with a higher incidence of neurodegenerative diseases, particularly chronic traumatic encephalopathy (CTE), ...
+
+### Elevated Axonal Protein Markers Following Repetitive Blast Exposure in Military Personnel.
+**Authors:** Vorn R, Naunheim R, Lai C, Wagner C, Gill JM  
+**Journal:** Frontiers in neuroscience (2022)  
+**PMID:** 35573288  **DOI:** 10.3389/fnins.2022.853616
+**Entities:** —  
+**Abstract:** Blast exposures that occur during training are common in military personnel; however, the biomarkers that relate to these subtle injuries is not well understood. Therefore, the purpose of this study i...
+
+### Postinjury Treatment to Mitigate the Effects of Aeromedical Evacuation After Traumatic Brain Injury in a Porcine Model.
+**Authors:** Baucom MR, Wallen TE, Singer KE, Youngs J, Schuster RM et al.  
+**Journal:** The Journal of surgical research (2022)  
+**PMID:** 35810552  **DOI:** 10.1016/j.jss.2022.05.019
+**Entities:** tau, p-tau, IL-6, TBI  
+**Abstract:** INTRODUCTION: Early aeromedical evacuation after traumatic brain injury (TBI) has been associated with worse neurologic outcomes in murine studies and military populations. The goal of this study was ...
+
+### [Neurofilaments: a key new biomarker for clinicians. Part 2: Neurofilaments, an asset beyond neurodegenerative diseases].
+**Authors:** Delaby C, Bousiges O, Bouvier D, Fillée C, Fourier A et al.  
+**Journal:** Annales de biologie clinique (2022)  
+**PMID:** 36453743  **DOI:** 10.1684/abc.2022.1758
+**Entities:** NfL, TBI  
+**Abstract:** Neurofilaments (Nf) are proteins selectively expressed in the cytoskeleton of neurons, and their increase is a marker of neuronal damage. The potential utility of neurofilament light chain (NfL) has r...
+
+### ADHD May Associate With Reduced Tolerance to Acute Subconcussive Head Impacts: A Pilot Case-Control Intervention Study.
+**Authors:** Nowak MK, Ejima K, Quinn PD, Bazarian JJ, Mickleborough TD et al.  
+**Journal:** Journal of attention disorders (2022)  
+**PMID:** 33161816  **DOI:** 10.1177/1087054720969977
+**Entities:** GFAP, UCH-L1, NfL, tau  
+**Abstract:** OBJECTIVE: To test our hypothesis that individuals with ADHD would exhibit reduced resiliency to subconcussive head impacts induced by ten soccer headings. METHOD: We conducted a case-control interven...
+
 ### CSF and Blood Neurofilament Levels in Athletes Participating in Physical Contact Sports: A Systematic Review.
 **Authors:** Verduyn C, Bjerke M, Duerinck J, Engelborghs S, Peers K et al.  
 **Journal:** Neurology (2021)  
@@ -11592,6 +14623,27 @@
 **Entities:** —  
 **Abstract:** 
 
+### Developing methods to detect and diagnose chronic traumatic encephalopathy during life: rationale, design, and methodology for the DIAGNOSE CTE Research Project.
+**Authors:** Alosco ML, Mariani ML, Adler CH, Balcer LJ, Bernick C et al.  
+**Journal:** Alzheimer's research & therapy (2021)  
+**PMID:** 34384490  **DOI:** 10.1186/s13195-021-00872-x
+**Entities:** tau, CTE  
+**Abstract:** BACKGROUND: Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease that has been neuropathologically diagnosed in brain donors exposed to repetitive head impacts, including boxers and A...
+
+### Sustained Axonal Degeneration in Prolonged Disorders of Consciousness.
+**Authors:** Bagnato S, D'Ippolito ME, Boccagni C, De Tanti A, Lucca LF et al.  
+**Journal:** Brain sciences (2021)  
+**PMID:** 34439687  **DOI:** 10.3390/brainsci11081068
+**Entities:** NfL, TBI  
+**Abstract:** (1) Background: Sustained axonal degeneration may play a critical role in prolonged disorder of consciousness (DOCs) pathophysiology. We evaluated levels of neurofilament light chain (NFL), an axonal ...
+
+### Brain and blood biomarkers of tauopathy and neuronal injury in humans and rats with neurobehavioral syndromes following blast exposure.
+**Authors:** Dickstein DL, De Gasperi R, Gama Sosa MA, Perez-Garcia G, Short JA et al.  
+**Journal:** Molecular psychiatry (2021)  
+**PMID:** 32094584  **DOI:** 10.1038/s41380-020-0674-z
+**Entities:** tau, mTBI, TBI, CTE  
+**Abstract:** Traumatic brain injury (TBI) is a risk factor for the later development of neurodegenerative diseases that may have various underlying pathologies. Chronic traumatic encephalopathy (CTE) in particular...
+
 ### Neurofilament light as a biomarker in traumatic brain injury.
 **Authors:** Shahim P, Politis A, van der Merwe A, Moore B, Chou YY et al.  
 **Journal:** Neurology (2020)  
@@ -11717,6 +14769,48 @@
 **PMID:** biorxiv:10.1101/2020.05.20.106575  **DOI:** 10.1101/2020.05.20.106575
 **Entities:** tau, Alzheimer  
 **Abstract:** COVID-19 pandemic caused by SARS-CoV-2 infection is a public health emergency. COVID-19 typically exhibits respiratory illness. Unexpectedly, emerging clinical reports indicate that neurological sympt...
+
+### Blood neurofilament light: a critical review of its application to neurologic disease.
+**Authors:** Barro C, Chitnis T, Weiner HL  
+**Journal:** Annals of clinical and translational neurology (2020)  
+**PMID:** 33146954  **DOI:** 10.1002/acn3.51234
+**Entities:** NfL, TBI  
+**Abstract:** Neuronal injury is a universal event that occurs in disease processes that affect both the central and peripheral nervous systems. A blood biomarker linked to neuronal injury would provide a critical ...
+
+### Fluid Biomarkers for Chronic Traumatic Encephalopathy.
+**Authors:** Shahim P, Gill JM, Blennow K, Zetterberg H  
+**Journal:** Seminars in neurology (2020)  
+**PMID:** 32740901  **DOI:** 10.1055/s-0040-1715095
+**Entities:** CTE  
+**Abstract:** Chronic traumatic encephalopathy (CTE) is a neuropathological condition that has been described in individuals who have been exposed to repetitive head impacts, including concussions and subconcussive...
+
+### Neurofilament light and tau in serum after head-impact exposure in soccer.
+**Authors:** Sandmo SB, Filipcik P, Cente M, Hanes J, Andersen TE et al.  
+**Journal:** Brain injury (2020)  
+**PMID:** 32096660  **DOI:** 10.1080/02699052.2020.1725129
+**Entities:** NfL, tau  
+**Abstract:** 
+
+### Comparison of neurofilament light chain results between two independent facilities.
+**Authors:** Sejbaek T, Mendoza JP, Penner N, Madsen JS, Olsen DA et al.  
+**Journal:** BMJ neurology open (2020)  
+**PMID:** 33681796  **DOI:** 10.1136/bmjno-2020-000063
+**Entities:** NfL, Simoa, Quanterix  
+**Abstract:** OBJECTIVES: To examine levels of neurofilament light chain (NFL) in identical cerebrospinal fluid (CSF) and blood samples at two different facilities, and how differences affect interpretation of leve...
+
+### Sex Differences in Circulating T-Tau Trajectories After Sports-Concussion and Correlation With Outcome.
+**Authors:** Mondello S, Guedes VA, Lai C, Jeromin A, Bazarian JJ et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 32733367  **DOI:** 10.3389/fneur.2020.00651
+**Entities:** tau, mTBI  
+**Abstract:** Sex differences in molecular biomarkers after sports-related concussion (SRC) could steadily advance our understanding of injury heterogeneity and complexity, and help capture phenotypic characteristi...
+
+### Serum levels of tau protein increase according to the severity of the injury in DAI rat model.
+**Authors:** Tomita K, Nakada TA, Oshima T, Kawaguchi R, Oda S  
+**Journal:** F1000Research (2020)  
+**PMID:** 33299544  **DOI:** 10.12688/f1000research.21132.1
+**Entities:** tau, TBI  
+**Abstract:** Traumatic brain injury (TBI) in the form of diffuse axonal injury (DAI) is difficult to diagnose in the early phase of the injury. Early diagnosis of DAI may provide opportunity for developing treatme...
 
 ### Neurofilament light chain as a biomarker in neurological disorders.
 **Authors:** Gaetani L, Blennow K, Calabresi P, Di Filippo M, Parnetti L et al.  
@@ -11865,6 +14959,48 @@
 **Entities:** NfL, TBI, CTE, Alzheimer  
 **Abstract:** Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease associated with exposure to repetitive head impacts. CTE has been linked to disruptions in cognition, mood, and behavior. Unfortun...
 
+### Understanding neurodegeneration after traumatic brain injury: from mechanisms to clinical trials in dementia.
+**Authors:** Graham NS, Sharp DJ  
+**Journal:** Journal of neurology, neurosurgery, and psychiatry (2019)  
+**PMID:** 31542723  **DOI:** 10.1136/jnnp-2017-317557
+**Entities:** NfL, tau, TBI, CTE, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) leads to increased rates of dementia, including Alzheimer's disease. The mechanisms by which trauma can trigger neurodegeneration are increasingly understood. For example,...
+
+### Chronic Traumatic Encephalopathy Pathology After Shotgun Injury to the Brain.
+**Authors:** Tribett T, Erskine B, Bailey K, Brown T, Castellani RJ  
+**Journal:** Journal of forensic sciences (2019)  
+**PMID:** 30644555  **DOI:** 10.1111/1556-4029.14001
+**Entities:** tau, p-tau, TBI, CTE  
+**Abstract:** Chronic traumatic encephalopathy (CTE) was initially conceptualized in boxers, but has extended to other athletes in recent years, albeit with limited clinical correlations. It is often asserted that ...
+
+### Characterisation of serum total tau following paediatric traumatic brain injury: a case-control study.
+**Authors:** Stukas S, Higgins V, Frndova H, Gill J, Hubara E et al.  
+**Journal:** The Lancet. Child & adolescent health (2019)  
+**PMID:** 31231066  **DOI:** 10.1016/S2352-4642(19)30194-4
+**Entities:** tau, mTBI, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) is a major health problem in children. Blood-based biomarkers interpreted by use of normative values might improve the accuracy of diagnosis. Ultrasensitive as...
+
+### Association of Acute Increase in Plasma Neurofilament Light with Repetitive Subconcussive Head Impacts: A Pilot Randomized Control Trial.
+**Authors:** Wirsching A, Chen Z, Bevilacqua ZW, Huibregtse ME, Kawata K  
+**Journal:** Journal of neurotrauma (2019)  
+**PMID:** 30019617  **DOI:** 10.1089/neu.2018.5836
+**Entities:** NfL  
+**Abstract:** The purpose of the study was to examine an association of repetitive subconcussive head impacts with changes in plasma neurofilament light (NF-L) levels following 10 bouts of controlled soccer heading...
+
+### PET-detectable tau pathology correlates with long-term neuropsychiatric outcomes in patients with traumatic brain injury.
+**Authors:** Takahata K, Kimura Y, Sahara N, Koga S, Shimada H et al.  
+**Journal:** Brain : a journal of neurology (2019)  
+**PMID:** 31504227  **DOI:** 10.1093/brain/awz238
+**Entities:** tau, p-tau, TBI, CTE  
+**Abstract:** Tau deposits is a core feature of neurodegenerative disorder following traumatic brain injury (TBI). Despite ample evidence from post-mortem studies demonstrating exposure to both mild-repetitive and ...
+
+### Tau protein as a diagnostic marker for diffuse axonal injury.
+**Authors:** Tomita K, Nakada TA, Oshima T, Motoshima T, Kawaguchi R et al.  
+**Journal:** PloS one (2019)  
+**PMID:** 30901365  **DOI:** 10.1371/journal.pone.0214381
+**Entities:** tau, TBI  
+**Abstract:** BACKGROUND: Diffuse axonal injury (DAI) is difficult to identify in the early phase of traumatic brain injury (TBI) using common diagnostic methods. Tau protein is localized specifically in nerve axon...
+
 ### Chronic traumatic encephalopathy: fluid biomarkers.
 **Authors:** Zetterberg H, Blennow K  
 **Journal:** Handbook of clinical neurology (2018)  
@@ -11962,6 +15098,27 @@
 **PMID:** 29360998  **DOI:** 10.1093/brain/awx350
 **Entities:** tau, p-tau, neuroinflammation, BBB, mTBI  
 **Abstract:** The mechanisms underpinning concussion, traumatic brain injury, and chronic traumatic encephalopathy, and the relationships between these disorders, are poorly understood. We examined post-mortem brai...
+
+### Traumatic Brain Injury and Alzheimer's Disease: The Cerebrovascular Link.
+**Authors:** Ramos-Cejudo J, Wisniewski T, Marmar C, Zetterberg H, Blennow K et al.  
+**Journal:** EBioMedicine (2018)  
+**PMID:** 29396300  **DOI:** 10.1016/j.ebiom.2018.01.021
+**Entities:** tau, Aβ42, TBI, CTE, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) and Alzheimer's disease (AD) are devastating neurological disorders, whose complex relationship is not completely understood. Cerebrovascular pathology, a key element in b...
+
+### Heading in soccer increases serum neurofilament light protein and SCAT3 symptom metrics.
+**Authors:** Wallace C, Smirl JD, Zetterberg H, Blennow K, Bryk K et al.  
+**Journal:** BMJ open sport & exercise medicine (2018)  
+**PMID:** 30233810  **DOI:** 10.1136/bmjsem-2018-000433
+**Entities:** NfL, tau, mTBI  
+**Abstract:** OBJECTIVES: To determine the effect of heading a soccer ball on serum neurofilament light (NF-L) protein, plasma tau protein and symptom metrics including total number of symptoms reported and symptom...
+
+### Serum ST2 as a potential prognostic biomarker for traumatic brain injury.
+**Authors:** Du Q, Weng JF, Luo LF, Cen M, Yu WH et al.  
+**Journal:** Clinica chimica acta; international journal of clinical chemistry (2018)  
+**PMID:** 30266513  **DOI:** 10.1016/j.cca.2018.09.035
+**Entities:** S100B, tau, IL-6, TNF-α, TBI  
+**Abstract:** BACKGROUND: ST2, a receptor of interleukin-33, is involved in inflammation. We discerned the relationship between serum soluble ST2 (sST2) concentrations, inflammation, severity and prognosis followin...
 
 ### A systematic review of potential long-term effects of sport-related concussion.
 **Authors:** Manley G, Gardner AJ, Schneider KJ, Guskiewicz KM, Bailes J et al.  
@@ -12173,6 +15330,20 @@
 **Entities:** tau, p-tau, BBB, mTBI, TBI  
 **Abstract:** Blast exposure can cause mild traumatic brain injury (TBI) in mice and other mammals. However, there are important gaps in our understanding of the neuropathology underlying repetitive blast exposure ...
 
+### Brain injury in sports.
+**Authors:** Lloyd J, Conidi F  
+**Journal:** Journal of neurosurgery (2016)  
+**PMID:** 26473777  **DOI:** 10.3171/2014.11.JNS141742
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: Helmets are used for sports, military, and transportation to protect against impact forces and associated injuries. The common belief among end users is that the helmet protects the whole h...
+
+### Serum Neurofilament Light in American Football Athletes over the Course of a Season.
+**Authors:** Oliver JM, Jones MT, Kirk KM, Gable DA, Repshas JT et al.  
+**Journal:** Journal of neurotrauma (2016)  
+**PMID:** 26700106  
+**Entities:** NfL, mTBI  
+**Abstract:** Despite being underreported, American football boasts the highest incidence of concussion among all team sports, likely due to exposure to head impacts that vary in number and magnitude over the seaso...
+
 ### Neurodegeneration and sport.
 **Authors:** Davis GA, Castellani RJ, McCrory P  
 **Journal:** Neurosurgery (2015)  
@@ -12250,6 +15421,27 @@
 **Entities:** —  
 **Abstract:** 
 
+### The neuropathology of traumatic brain injury.
+**Authors:** Mckee AC, Daneshvar DH  
+**Journal:** Handbook of clinical neurology (2015)  
+**PMID:** 25702209  **DOI:** 10.1016/B978-0-444-52892-6.00004-0
+**Entities:** tau, mTBI, TBI, CTE, Alzheimer  
+**Abstract:** Traumatic brain injury, a leading cause of mortality and morbidity, is divided into three grades of severity: mild, moderate, and severe, based on the Glasgow Coma Scale, the loss of consciousness, an...
+
+### Neurological consequences of traumatic brain injuries in sports.
+**Authors:** Ling H, Hardy J, Zetterberg H  
+**Journal:** Molecular and cellular neurosciences (2015)  
+**PMID:** 25770439  **DOI:** 10.1016/j.mcn.2015.03.012
+**Entities:** tau, neuroinflammation, mTBI, TBI, CTE  
+**Abstract:** Traumatic brain injury (TBI) is common in boxing and other contact sports. The long term irreversible and progressive aftermath of TBI in boxers depicted as punch drunk syndrome was described almost a...
+
+### Neuroimaging assessment of early and late neurobiological sequelae of traumatic brain injury: implications for CTE.
+**Authors:** Sundman M, Doraiswamy PM, Morey RA  
+**Journal:** Frontiers in neuroscience (2015)  
+**PMID:** 26441507  **DOI:** 10.3389/fnins.2015.00334
+**Entities:** tau, TBI, CTE  
+**Abstract:** Traumatic brain injury (TBI) has been increasingly accepted as a major external risk factor for neurodegenerative morbidity and mortality. Recent evidence indicates that the resultant chronic neurobio...
+
 ### Military-related traumatic brain injury and neurodegeneration.
 **Authors:** McKee AC, Robinson ME  
 **Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2014)  
@@ -12313,6 +15505,20 @@
 **Entities:** —  
 **Abstract:** 
 
+### Brain injury in the context of tauopathies.
+**Authors:** Abisambra JF, Scheff S  
+**Journal:** Journal of Alzheimer's disease : JAD (2014)  
+**PMID:** 24496078  **DOI:** 10.3233/JAD-131019
+**Entities:** tau, TBI  
+**Abstract:** Traumatic brain injury (TBI) is the most common form of head injury and is a leading cause of death worldwide. Due to the vast variability in the types and severity of trauma, the cellular consequence...
+
+### Neuroimaging in repetitive brain trauma.
+**Authors:** Ng TS, Lin AP, Koerte IK, Pasternak O, Liao H et al.  
+**Journal:** Alzheimer's research & therapy (2014)  
+**PMID:** 25031630  **DOI:** 10.1186/alzrt239
+**Entities:** tau, p-tau, mTBI, TBI, CTE  
+**Abstract:** Sports-related concussions are one of the major causes of mild traumatic brain injury. Although most patients recover completely within days to weeks, those who experience repetitive brain trauma (RBT...
+
 ### Neuroscience. NFL kicks off brain injury research effort.
 **Authors:** Underwood E  
 **Journal:** Science (New York, N.Y.) (2013)  
@@ -12326,6 +15532,13 @@
 **PMID:** 24328519  **DOI:** 10.1080/01947648.2013.859969
 **Entities:** —  
 **Abstract:** 
+
+### Chronic traumatic encephalopathy.
+**Authors:** Yi J, Padalino DJ, Chin LS, Montenegro P, Cantu RC  
+**Journal:** Current sports medicine reports (2013)  
+**PMID:** 23314081  **DOI:** 10.1249/JSR.0b013e31827ec9e3
+**Entities:** NfL, tau, neuroinflammation, mTBI, CTE  
+**Abstract:** Sports-related concussion has gained increased prominence, in part due to media coverage of several well-known athletes who have died from consequences of chronic traumatic encephalopathy (CTE). CTE w...
 
 ### Chronic traumatic encephalopathy: neurodegeneration following repetitive concussive and subconcussive brain trauma.
 **Authors:** Baugh CM, Stamm JM, Riley DO, Gavett BE, Shenton ME et al.  
@@ -12376,6 +15589,20 @@
 **Entities:** GFAP, NfL, tau, mTBI, TBI  
 **Abstract:** BACKGROUND: Boxing has received increased public attention and acceptance in recent years. However, this development has not been accompanied by a critical discussion of the early and late health comp...
 
+### Tau proteins in serum predict outcome after severe traumatic brain injury.
+**Authors:** Liliang PC, Liang CL, Weng HC, Lu K, Wang KW et al.  
+**Journal:** The Journal of surgical research (2010)  
+**PMID:** 19345376  **DOI:** 10.1016/j.jss.2008.12.022
+**Entities:** tau, TBI  
+**Abstract:** BACKGROUND: The identification of reliable outcome predictors after traumatic brain injury (TBI) is crucial. The objective of our study was to investigate the role of tau protein as a serum marker of ...
+
+### Biomarkers associated with diffuse traumatic axonal injury: exploring pathogenesis, early diagnosis, and prognosis.
+**Authors:** Li J, Li XY, Feng DF, Pan DC  
+**Journal:** The Journal of trauma (2010)  
+**PMID:** 21150538  **DOI:** 10.1097/TA.0b013e3181f5a9ed
+**Entities:** TBI  
+**Abstract:** BACKGROUND: Diffuse traumatic axonal injury (dTAI) is a significant pathologic feature of traumatic brain injury and is associated with substantial mortality and morbidity. It is still a challenge for...
+
 ### Contributions of neuroimaging, balance testing, electrophysiology and blood markers to the assessment of sport-related concussion.
 **Authors:** Davis GA, Iverson GL, Guskiewicz KM, Ptito A, Johnston KM  
 **Journal:** British journal of sports medicine (2009)  
@@ -12403,6 +15630,13 @@
 **PMID:** 9671657  
 **Entities:** GFAP, TBI  
 **Abstract:** The temporal pattern of apoptosis in the adult rat brain after lateral fluid-percussion (FP) brain injury was characterized using terminal deoxynucleotidyl-transferase-mediated biotin-dUTP nick end la...
+
+### Temporal Profile of Serum Neurofilament Light (NF-L) and Heavy (pNF-H) Level Associations With 6-Month Cognitive Performance in Patients With Moderate-Severe Traumatic Brain Injury.
+**Authors:** Trifilio E, Bottari S, McQuillan LE, Barton DJ, Lamb DG et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 38758056  **DOI:** 10.1097/HTR.0000000000000932
+**Entities:** NfL, TBI, Simoa, Quanterix  
+**Abstract:** OBJECTIVE: Identification of biomarkers of cognitive recovery after traumatic brain injury (TBI) will inform care and improve outcomes. This study assessed the utility of neurofilament (NF-L and pNF-H...
 
 
 ## Cluster: nqo2
@@ -15175,6 +18409,55 @@
 **Entities:** mTBI, TBI  
 **Abstract:** PURPOSE OF REVIEW: Concussion is a common form of mild traumatic brain injury affecting nearly two million people yearly, costing the US nearly 19 billion dollars annually. In light of such significan...
 
+### Persisting Symptoms after Concussion.
+**Authors:** Carpenter-Thompson JR, Kutcher JS  
+**Journal:** Clinics in sports medicine (2026)  
+**PMID:** 41786401  **DOI:** 10.1016/j.csm.2025.05.008
+**Entities:** mTBI  
+**Abstract:** Persisting symptoms after concussion (PSaC) is a common issue affecting individuals diagnosed with concussion, posing a formidable challenge for both clinicians and patients. Recognizing the distinct ...
+
+### Incidence, risk factors and outcomes of persistent post-concussion symptoms in Singaporean school-going children.
+**Authors:** Ngai CH, Koh PS, Teo JH, Loo BKG, Qian PTW et al.  
+**Journal:** Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery (2026)  
+**PMID:** 41801431  **DOI:** 10.1007/s00381-026-07195-y
+**Entities:** mTBI, PPCS  
+**Abstract:** PURPOSE: Concussion and its sequalae of persistent post-concussion symptoms (PPCS) are significant healthcare burdens in the paediatric population. For affected patients, PPCS significantly impacts th...
+
+### Investigating the Effectiveness of Multidisciplinary Rehabilitation for Persistent Post-Concussive Symptoms.
+**Authors:** Olver J, Fedele B, Acher R, Bosco J, McKenzie D  
+**Journal:** American journal of physical medicine & rehabilitation (2026)  
+**PMID:** 42296468  **DOI:** 10.1097/PHM.0000000000003064
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: To evaluate the effectiveness of an individualized multidisciplinary rehabilitation program for treating individuals with persistent post-concussive symptoms (PPCS), and identify initial sy...
+
+### Every Four-Legged Animal is Not a Dog: Investigating Concussive Symptoms in a Non-Concussed Psychiatric Sample.
+**Authors:** Abrar K, Goldstein BM, Frank JB, Zakzanis KK  
+**Journal:** Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists (2026)  
+**PMID:** 41359410  **DOI:** 10.1093/arclin/acaf108
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Persistent somatic, cognitive, and psychological symptoms following an uncomplicated mild traumatic brain injury are often attributed to post-concussion syndrome. However, existing research demonstrat...
+
+### Effect of co-morbid anxiety and depression history on multidomain concussion clinical outcomes and recovery time.
+**Authors:** Anish EJ, Thomas G, Zynda AJ, French J, Collins MW et al.  
+**Journal:** Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology (2026)  
+**PMID:** 41781759  **DOI:** 10.1007/s10072-026-08930-8
+**Entities:** mTBI  
+**Abstract:** IMPORTANCE: Extant evidence supports a history of psychological health diagnoses, such as anxiety and depression, as risk factors associated with greater symptom burden and prolonged recovery followin...
+
+### Relationship between illness perceptions, coping style and post-concussion symptoms after systemic traumatic injury: A comparison of those with and without mild traumatic brain injury.
+**Authors:** Anderson JFI  
+**Journal:** Journal of health psychology (2026)  
+**PMID:** 41508719  **DOI:** 10.1177/13591053251395636
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Research has reported variable findings when investigating the relationship between outcome and coping style and illness perceptions after mild traumatic brain injury (mTBI). The present study investi...
+
+### Preliminary examination of symptom validity in veterans using the Rivermead post-concussion symptoms questionnaire.
+**Authors:** Rolin SN, Davis JJ  
+**Journal:** Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists (2026)  
+**PMID:** 42186233  **DOI:** 10.1093/arclin/acag037
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: The Rivermead Post Concussion Symptoms Questionnaire (RPSQ) is commonly used post-concussive symptom measure. Simulation research has explored it as a symptom validity (SV) indicator. This ...
+
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
 **Journal:** Expert review of neurotherapeutics (2025)  
@@ -15314,6 +18597,62 @@
 **PMID:** 39988038  **DOI:** 10.1016/j.apmr.2025.02.008
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: To determine if performance on symptom, cognitive, balance, fatigue, physical activity, and quality of life outcomes at 4 weeks postinjury in children with concussion differs based on acute...
+
+### Long-Term outcomes of mild traumatic brain injury in veterans of the second Nagorno-Karabakh war.
+**Authors:** Shafiyev J, İsmayılov A, Aliyev A, Qubadov R, Gahramanov I  
+**Journal:** Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology (2025)  
+**PMID:** 40954435  **DOI:** 10.1007/s10072-025-08509-9
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVES: This study aimed to investigate the types, frequency, and longitudinal course of post-concussive symptoms (PCS) in veterans diagnosed with mild traumatic brain injury (mTBI) during the Sec...
+
+### The Use of Magnetoencephalography in the Diagnosis and Monitoring of Mild Traumatic Brain Injuries and Post-Concussion Syndrome.
+**Authors:** Mavroudis I, Kazis D, Petridis FE, Balmus IM, Ciobica A  
+**Journal:** Brain sciences (2025)  
+**PMID:** 40002487  **DOI:** 10.3390/brainsci15020154
+**Entities:** mTBI, PPCS  
+**Abstract:** 
+
+### Recovery, interrupted: persisting symptoms after concussion and the power of iatrogenesis.
+**Authors:** O'Reilly MA, Hammond JB, Marschall KP, Barros K, Lichtenstein JD  
+**Journal:** Child neuropsychology : a journal on normal and abnormal development in childhood and adolescence (2025)  
+**PMID:** 39804712  **DOI:** 10.1080/09297049.2025.2451322
+**Entities:** mTBI  
+**Abstract:** Persisting symptoms after concussion (PSaC) affect up to 30% of children, adolescents, and young adults beyond 1 month post-injury, posing challenges in clinical care. This retrospective study examine...
+
+### Concussion characteristics in children and adolescents with ADHD: Exploring symptom burden and recovery trajectories.
+**Authors:** Swann-Thomsen HE, Dillion N, Palumbo EAC, Pardue K, Flint H et al.  
+**Journal:** Applied neuropsychology. Child (2025)  
+**PMID:** 39891515  **DOI:** 10.1080/21622965.2025.2459235
+**Entities:** mTBI, PPCS  
+**Abstract:** Concussions are a significant health concern for pediatric populations as children and adolescents engage in sports and recreational activities that increase their likelihood of sustaining brain injur...
+
+### Effects of sleep symptomatology post-concussion on return to sport in collegiate athletes.
+**Authors:** Peplowski AD, Liebl AL  
+**Journal:** Brain injury (2025)  
+**PMID:** 40205694  **DOI:** 10.1080/02699052.2025.2487933
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To describe the relationship between sleep-symptom severity and number of days to return to play following concussion in student-athletes. DESIGN: Case series. SETTING: A D1 NCAA university...
+
+### Mechanism of Injury and Clinical Recovery Outcomes Following Pediatric Concussion.
+**Authors:** Gudymenko A, Iuliano SG, Gagnon IJ, Iverson GL, Cook NE et al.  
+**Journal:** Journal of neurotrauma (2025)  
+**PMID:** 40244878  **DOI:** 10.1089/neu.2024.0483
+**Entities:** mTBI  
+**Abstract:** Children with concussion are injured through a variety of mechanisms, but the relationship between mechanism of injury (MOI) and recovery outcomes is unclear due to small sample sizes and varied metho...
+
+### A narrative review of risk factors and predictors for poor outcome and prolonged recovery after a mild traumatic brain injury.
+**Authors:** Mavroudis I, Balmus IM, Ciobica A, Hogas M  
+**Journal:** The International journal of neuroscience (2025)  
+**PMID:** 38465501  **DOI:** 10.1080/00207454.2024.2328710
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Mild traumatic brain injuries (mTBI) are often caused by a blow to the head or a sudden jolt resulting in a wide range of physical, cognitive, and emotional temporary symptoms. Mild TBI diagnosis can ...
+
+### Identifying Growth Hormone Deficiency in Brain-Injured Patients: The Quality of Life Scale-99.
+**Authors:** Barnard S, Gattu R, Baragi VM, Alzohaili O, Benson R  
+**Journal:** Journal of neurotrauma (2025)  
+**PMID:** 39681340  **DOI:** 10.1089/neu.2024.0114
+**Entities:** mTBI, TBI  
+**Abstract:** Traumatic brain injury (TBI) is frequently associated with hypopituitarism. The hypothalamic-pituitary axis appears to be susceptible to the same forces that cause injury to the parenchyma of the brai...
 
 ### The search for blood-biomarkers of persistent post-concussion symptoms.
 **Authors:** Meier TB  
@@ -15511,6 +18850,76 @@
 **Entities:** mTBI  
 **Abstract:** BACKGROUND: Aerobic exercise facilitates postconcussion symptom resolution at the group level, but patient-level characteristics may affect the likelihood of treatment efficacy. PURPOSE: This study ai...
 
+### [Not Available].
+**Authors:** Rytter HM, Lexell J  
+**Journal:** Ugeskrift for laeger (2024)  
+**PMID:** 38704707  **DOI:** 10.61409/V10230645
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury, such as concussion, was once considered self-resolving. However, over the past decade, increased understanding of the short- and long-term impact has led to new guidelines...
+
+### Assessment of post-concussion emotional symptom load using PCSS and PROMIS instruments in pediatric patients.
+**Authors:** Johnson GM, Wild JT, Burgess JK, McCracken K, Malekian S et al.  
+**Journal:** The Physician and sportsmedicine (2024)  
+**PMID:** 37483167  **DOI:** 10.1080/00913847.2023.2239159
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: The purpose of this study is to evaluate the utility of the Patient-Reported Outcomes Measurement Information System (PROMIS) anxiety and depressive symptom domains in conjunction with the...
+
+### A retrospective analysis of concussion and post-concussional syndrome diagnoses in Western Australian emergency departments.
+**Authors:** Thomas E, Chih H, Thorne J, Fitzgerald M, Cowen G  
+**Journal:** Injury (2024)  
+**PMID:** 38280260  **DOI:** 10.1016/j.injury.2024.111333
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE(S): To determine the rate of concussion diagnoses per capita recorded in hospital emergency departments in Western Australia (WA) from 2002-2018 for ICD-10-AM concussion diagnoses S06.00-S06...
+
+### Psychological Predictors of Mental Health Difficulties After Pediatric Concussion.
+**Authors:** Gornall A, Takagi M, Clarke C, Babl FE, Cheng N et al.  
+**Journal:** Journal of neurotrauma (2024)  
+**PMID:** 38661521  **DOI:** 10.1089/neu.2023.0116
+**Entities:** mTBI  
+**Abstract:** Children often experience mental health difficulties after a concussion. Yet, the extent to which a concussion precipitates or exacerbates mental health difficulties remains unclear. This study aimed ...
+
+### Convergence insufficiency in patients with post-concussion syndrome is accompanied by a higher symptom load: a cross-sectional study.
+**Authors:** Nisted I, Hellemose LA, Eggertsen PP, Odgaard L, Bek T et al.  
+**Journal:** Brain injury (2024)  
+**PMID:** 38530005  **DOI:** 10.1080/02699052.2024.2334355
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: To estimate the prevalence of convergence insufficiency (CI) in adult patients with post-concussion syndrome and determine the impact of CI on symptom load. METHODS: Cross-sectional study o...
+
+### Acute psychological symptom profiles in high school athletes following sport-related concussion.
+**Authors:** Jawid MY, Williams KL, Jo J, Prosak OL, Amedy A et al.  
+**Journal:** Neurosurgical focus (2024)  
+**PMID:** 38950451  **DOI:** 10.3171/2024.4.FOCUS24160
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: Psychological symptoms following a sport-related concussion may affect recovery in adolescent athletes. Therefore, the aims of this study were to 1) describe the proportion of athletes with...
+
+### Dose-Response Effect of Mental Health Diagnoses on Concussion Recovery in Children and Adolescents.
+**Authors:** Master CL, Corwin DJ, Fedonni D, Ampah SB, Housel KC et al.  
+**Journal:** Sports health (2024)  
+**PMID:** 38349046  **DOI:** 10.1177/19417381241228870
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Pre-existing mental health diagnoses may contribute to greater emotional symptom burden and prolonged recovery after concussion. HYPOTHESIS: Youth with pre-existing mental health diagnoses...
+
+### Do preinjury life events moderate the outcomes of mild traumatic brain injuries in children? An A-CAP Study.
+**Authors:** Dharsee S, Tang K, Beauchamp MH, Craig W, Doan Q et al.  
+**Journal:** Journal of pediatric psychology (2024)  
+**PMID:** 38457314  **DOI:** 10.1093/jpepsy/jsae007
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: To examine preinjury life events as moderators of postconcussive symptoms (PCS) and quality of life (QoL) in children with pediatric mild traumatic brain injury (mTBI) versus orthopedic inj...
+
+### Early Identification and Management of Cervical Impairments in Pediatric Patients With Concussion May Reduce Risk of Delayed Recovery.
+**Authors:** McPherson JI, Kaur G, Darling SR, Surace A, Willer BS et al.  
+**Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2024)  
+**PMID:** 37462603  **DOI:** 10.1097/JSM.0000000000001179
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: Previous research, including high-quality systematic reviews, has found that cervical injury, which often accompanies concussive head injury, can delay recovery from concussion. One pilot r...
+
+### Sex differences in postconcussive symptom reporting in those with history of concussion: Findings from the federal interagency traumatic brain injury research (FITBIR) database.
+**Authors:** Jak AJ, Merritt VC, Thomas ML, Witten C, Talbert L et al.  
+**Journal:** The Clinical neuropsychologist (2024)  
+**PMID:** 38951990  **DOI:** 10.1080/13854046.2024.2371007
+**Entities:** mTBI, TBI  
+**Abstract:** 
+
 ### Thalamocortical coherence predicts persistent postconcussive symptoms.
 **Authors:** Li YT, Kuo DP, Tseng P, Chen YC, Cheng SJ et al.  
 **Journal:** Progress in neurobiology (2023)  
@@ -15686,6 +19095,76 @@
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: To examine patient and injury factors that may predict quality of life (QoL) and symptom duration after concussion. DESIGN: Prospective, longitudinal. SETTINGS: Six children's hospital-base...
 
+### Functional Overlay Model of Persistent Post-Concussion Syndrome.
+**Authors:** Mavroudis I, Chatzikonstantinou S, Petridis F, Palade OD, Ciobica A et al.  
+**Journal:** Brain sciences (2023)  
+**PMID:** 37508960  **DOI:** 10.3390/brainsci13071028
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Persistent post-concussion syndrome (PPCS) is a complex and debilitating condition that can develop after head concussions or mild traumatic brain injury (mTBI). PPCS is characterized by a wide range ...
+
+### Persistent post-concussion symptoms in children: pre-injury social difficulties and acute stress reaction as risk factors.
+**Authors:** Aviv I, Shorer M, Fennig S, Aviezer H, Singer-Harel D et al.  
+**Journal:** Child neuropsychology : a journal on normal and abnormal development in childhood and adolescence (2023)  
+**PMID:** 35545855  **DOI:** 10.1080/09297049.2022.2072823
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Following mild traumatic brain injury (mTBI) children usually experience one or more somatic, cognitive, and/or emotional-behavioral post-concussion symptoms (PCS). PCS may be transient, however for s...
+
+### A Framework for Understanding the Contribution of Psychosocial Factors in Biopsychosocial Explanatory Models of Persistent Postconcussion Symptoms.
+**Authors:** Faulkner JW, Snell DL  
+**Journal:** Physical therapy (2023)  
+**PMID:** 37104623  **DOI:** 10.1093/ptj/pzac156
+**Entities:** mTBI, PPCS  
+**Abstract:** UNLABELLED: Biopsychosocial models are currently used to explain the development of persistent postconcussion symptoms (PPCS) following concussion. These models support a holistic multidisciplinary ma...
+
+### The influence of psychological flexibility on persistent post concussion symptoms and functional status after mild traumatic brain injury.
+**Authors:** Faulkner JW, Snell DL, Theadom A, Mahon S, Barker-Collo S  
+**Journal:** Disability and rehabilitation (2023)  
+**PMID:** 35382660  **DOI:** 10.1080/09638288.2022.2055167
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** PURPOSE: This study investigated the predictive role of psychological flexibility on long-term mTBI outcomes. METHOD: Adults with mTBI (N = 147) completed a context specific measure of psychological f...
+
+### Effectiveness of non-pharmacological treatments for vestibular and oculomotor dysfunction in patients with persistent post-concussive symptoms: protocol for a systematic review and meta-analysis.
+**Authors:** Sheeba S, Cavaleri R, Summers S, Browne C  
+**Journal:** BMJ open (2023)  
+**PMID:** 36609322  **DOI:** 10.1136/bmjopen-2022-066634
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** INTRODUCTION: Concussion is a form of mild traumatic brain injury that disrupts brain function. Although symptoms are mostly transient, recovery can be delayed and result in persistent postconcussive ...
+
+### Optimizing early education provided at the Hull-Ellis Concussion and Research Clinic: A multiple methods evaluation from the Toronto Concussion Study.
+**Authors:** Moosa S, Voth J, Bayley M, Chandra T, Foster E et al.  
+**Journal:** Brain injury (2023)  
+**PMID:** 36879513  **DOI:** 10.1080/02699052.2023.2187092
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: The purpose of this study was to determine factors and characteristics associated with changes in knowledge among adults receiving education within the first 8 weeks post-concussion. The s...
+
+### Patterns of post-traumatic stress symptoms in mild traumatic brain injury and their relationship with outcomes: a latent profile analysis.
+**Authors:** Faulkner JW, Snell DL, Theadom A, de Terte I, Low R  
+**Journal:** Journal of clinical and experimental neuropsychology (2023)  
+**PMID:** 37350162  **DOI:** 10.1080/13803395.2023.2227401
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** INTRODUCTION: Post-traumatic stress symptoms (PTSS) are known to contribute to postconcussion symptoms and functional status following mild traumatic brain injury (mTBI). Identifying symptom cluster p...
+
+### Hierarchical clustering of prolonged post-concussive symptoms after 12 months: symptom-centric analysis and association with functional impairments.
+**Authors:** Alim-Marvasti A, Kuleindiren N, Tiersen F, Johal M, Lin A et al.  
+**Journal:** Brain injury (2023)  
+**PMID:** 36529935  **DOI:** 10.1080/02699052.2022.2158229
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Following a concussion, approximately 15% of individuals experience persistent symptoms that can lead to functional deficits. However, underlying symptom-clusters that persist beyond 12 mo...
+
+### Investigation of long-term symptoms and influencing factors in patients with mild traumatic brain injury: A cross-sectional study.
+**Authors:** Du Q, Liu C, Liu Y, Li J, Gong X et al.  
+**Journal:** International emergency nursing (2023)  
+**PMID:** 37348243  **DOI:** 10.1016/j.ienj.2023.101313
+**Entities:** mTBI, TBI, GOS-E  
+**Abstract:** BACKGROUND: Traumatic brain injury is the leading cause of death and disability in individuals under the age of 45, which places a heavy disease burden on patients and society. However, the prevalence...
+
+### Electrophysiological trajectories of concussion recovery: From acute to prolonged stages in late teenagers.
+**Authors:** Mortazavi M, Lucini FA, Joffe D, Oakley DS  
+**Journal:** Journal of pediatric rehabilitation medicine (2023)  
+**PMID:** 36710690  **DOI:** 10.3233/PRM-210114
+**Entities:** mTBI, PPCS  
+**Abstract:** PURPOSE: Numerous studies have reported electrophysiological differences between concussed and non-concussed groups, but few studies have systematically explored recovery trajectories from acute concu...
+
 ### Post-Concussion Syndrome and Chronic Traumatic Encephalopathy: Narrative Review on the Neuropathology, Neuroimaging and Fluid Biomarkers.
 **Authors:** Mavroudis I, Kazis D, Chowdhury R, Petridis F, Costa V et al.  
 **Journal:** Diagnostics (Basel, Switzerland) (2022)  
@@ -15804,6 +19283,139 @@
 **PMID:** 35489100  **DOI:** 10.1016/j.ptsp.2022.04.010
 **Entities:** mTBI, PPCS  
 **Abstract:** PURPOSE: To determine the proportion of adolescents at moderate/high risk for Persistent Postconcussion Symptoms (PPCS) who develop PPCS when randomized to early aerobic exercise or standard-of-care a...
+
+### Assault-Related Concussion in a Pediatric Population.
+**Authors:** Means MJ, Myers RK, Master CL, Arbogast KB, Fein JA et al.  
+**Journal:** Pediatric emergency care (2022)  
+**PMID:** 36040470  **DOI:** 10.1097/PEC.0000000000002664
+**Entities:** mTBI, Arc  
+**Abstract:** OBJECTIVES: The aim of this study was to compare demographic characteristics, medical care, and outcomes among patients with assault-related concussion (ARC) versus sports and recreation-related concu...
+
+### Reframing postconcussional syndrome as an interface disorder of neurology, psychiatry and psychology.
+**Authors:** Clark CN, Edwards MJ, Ong BE, Goodliffe L, Ahmad H et al.  
+**Journal:** Brain : a journal of neurology (2022)  
+**PMID:** 35472071  **DOI:** 10.1093/brain/awac149
+**Entities:** mTBI, TBI  
+**Abstract:** Persistent symptoms following a minor head injury can cause significant morbidity, yet the underlying mechanisms for this are poorly understood. The shortcomings of the current terminology that refer ...
+
+### Examining initial post-concussion dizziness and postural stability as predictors of time to symptom resolution.
+**Authors:** Smulligan KL, Wingerson MJ, Seehusen CN, Wilson JC, Howell DR  
+**Journal:** Journal of science and medicine in sport (2022)  
+**PMID:** 35221201  **DOI:** 10.1016/j.jsams.2022.01.010
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: To examine the utility of a multimodal assessment battery of self-reported dizziness, clinician obtained postural stability, and symptom severity ratings within 14 days of concussion to pr...
+
+### Dizziness, Psychosocial Function, and Postural Stability Following Sport-Related Concussion.
+**Authors:** Hunt DL, Oldham J, Aaron SE, Tan CO, Meehan WP et al.  
+**Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2022)  
+**PMID:** 34009789  **DOI:** 10.1097/JSM.0000000000000923
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To examine if self-reported dizziness is associated with concussion symptoms, depression and/or anxiety symptoms, or gait performance within 2 weeks of postconcussion. DESIGN: Cross-section...
+
+### Clinical Outcomes of Pediatric Acute Sport- and Non-Sport-Related Concussions.
+**Authors:** Ballinger K, McGuinty D, Girardin R, Zerkee L, Ellis MJ et al.  
+**Journal:** The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques (2022)  
+**PMID:** 33902784  **DOI:** 10.1017/cjn.2021.82
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: The objectives were to examine clinical characteristics, length of recovery, and the prevalence of delayed physician-documented recovery, compare clinical outcomes among those with sport-r...
+
+### Clinical predictors of post-injury anxiety in adolescent patients following concussion.
+**Authors:** Gillie BL, Fazio-Sumrok V, Eagle SR, Kegel N, Trbovich AM et al.  
+**Journal:** Applied neuropsychology. Child (2022)  
+**PMID:** 32723100  **DOI:** 10.1080/21622965.2020.1799790
+**Entities:** mTBI  
+**Abstract:** The purpose of the current study was to examine predictors (e.g., pre-injury anxiety and sub-types, concussion symptom severity, neurocognitive performance, and vestibular/ocular-motor impairment) of ...
+
+### The Toronto Concussion Study: Sense of smell is not associated with concussion severity or recovery.
+**Authors:** Foster E, Bayley M, Langer L, Saverino C, Chandra T et al.  
+**Journal:** Brain injury (2022)  
+**PMID:** 35171730  **DOI:** 10.1080/02699052.2022.2037713
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: To examine sense of smell as a biomarker for both severity and duration of post-concussion symptoms. METHODS: Participants were recruited prospectively from an outpatient concussion clinic....
+
+### Post-concussion symptoms and clinical reaction time performance of athletes with a history of concussion.
+**Authors:** Coenen J, Henckert S, Lausberg H, Helmich I  
+**Journal:** The Journal of sports medicine and physical fitness (2022)  
+**PMID:** 36193646  **DOI:** 10.23736/S0022-4707.21.13040-3
+**Entities:** mTBI, PPCS  
+**Abstract:** BACKGROUND: The symptom presentation after sport-related concussion is highly subjective, while the clinical test of reaction time (RT) has been presented as an objective tool to the effects of sport-...
+
+### Association of sleep symptoms with mood and vestibular subtypes following sport-related concussion.
+**Authors:** Brustman K, Eagle SR, Mucha A, Trbovich A, Collins MW et al.  
+**Journal:** Applied neuropsychology. Child (2022)  
+**PMID:** 32672475  **DOI:** 10.1080/21622965.2020.1788563
+**Entities:** mTBI  
+**Abstract:** Sport-related concussion (SRC) is a heterogenous injury with diverse symptoms and impairments that can be aggregated into clinical subtypes (cognitive, headache/migraine, vestibular, ocular-motor, anx...
+
+### Risk factors for prolonged recovery from concussion in young patients.
+**Authors:** Cuff S, Maki A, Feiss R, Young J, Shi J et al.  
+**Journal:** British journal of sports medicine (2022)  
+**PMID:** 36104148  **DOI:** 10.1136/bjsports-2022-105598
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVES: For young patients sustaining concussion, assessing recovery is vital in determining safe return to play. Identifying risk factors may aid clinicians in recognising patients at risk for pr...
+
+### Lower post-injury psychological resilience is associated with increased recovery time and symptom burden following sport-related concussion.
+**Authors:** Ernst N, Eagle S, Trbovich A, Kissinger-Knox A, Bitzer H et al.  
+**Journal:** Applied neuropsychology. Child (2022)  
+**PMID:** 34410842  **DOI:** 10.1080/21622965.2021.1964966
+**Entities:** mTBI  
+**Abstract:** The purpose of this study was to compare athletes with high and low resilience scores on concussion outcomes, and identify significant predictors associated with protracted recovery (>30 days). Forty-...
+
+### Average symptom severity and related predictors of prolonged recovery in pediatric patients with concussion.
+**Authors:** Kowalczyk CL, Eagle SR, Holland CL, Collins MW, Kontos AP  
+**Journal:** Applied neuropsychology. Child (2022)  
+**PMID:** 32515244  **DOI:** 10.1080/21622965.2020.1774376
+**Entities:** mTBI  
+**Abstract:** The purpose of this study is to compare the predictive utility of total number of individual symptoms endorsed, total symptom severity, and average symptom severity on prolonged recovery among childre...
+
+### Longitudinal Assessment of Acute Concussion Outcomes Through SMS Text (ConText Study).
+**Authors:** Schoenfeld R, Drendel A, Ahamed SI, Thomas D  
+**Journal:** Pediatric emergency care (2022)  
+**PMID:** 34986585  **DOI:** 10.1097/PEC.0000000000002596
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: Mild traumatic brain injury (mTBI), or concussion, is a common health problem that has seen a recent increase in US adolescents. This study uses SMS text messaging (a mobile health [mHealth...
+
+### Incidence and characteristics of physical disabilities in patients with postconcussion syndromefollowing mTBI.
+**Authors:** Jang SH, Choi EB, Lee YS  
+**Journal:** Medicine (2022)  
+**PMID:** 35777034  **DOI:** 10.1097/MD.0000000000029784
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** This study aimed to examine the incidence and characteristics of physical disabilities in patients with postconcussion syndrome (PCS) after a mild traumatic brain injury (mTBI). Of 203 patients diagno...
+
+### Pre-Injury headache and post-traumatic headache in patients with mild traumatic brain injury: neuropsychological, psychiatric, and post-concussion symptom outcomes.
+**Authors:** Karr JE, Williams MW, Iverson GL, Huang SJ, Yang CC  
+**Journal:** Brain injury (2022)  
+**PMID:** 35226574  **DOI:** 10.1080/02699052.2022.2043440
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** PRIMARY OBJECTIVE: Headache, both before and after injury, has been associated with worse outcome following mild traumatic brain injury (MTBI). This study examined whether three MTBI patient groups - ...
+
+### N -acetylcysteine is associated with reduction of postconcussive symptoms in elderly patients: A pilot study.
+**Authors:** Mcpherson RA, Mangram AJ, Barletta JF, Dzandu JK  
+**Journal:** The journal of trauma and acute care surgery (2022)  
+**PMID:** 35393384  **DOI:** 10.1097/TA.0000000000003639
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: N -acetylcysteine (NAC) may be neuroprotective by minimizing postconcussion symptoms after mild traumatic brain injury (TBI), but limited data exist. This study evaluated the effects of ...
+
+### Identifying Risks for Persistent Postconcussive Symptoms in a Pediatric Emergency Department: An Examination of a Clinical Risk Score.
+**Authors:** Root JM, Gai J, Sady MD, Vaughan CG, Madati PJ  
+**Journal:** Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists (2022)  
+**PMID:** 33993203  **DOI:** 10.1093/arclin/acab032
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: External examination of a clinical risk score to predict persistent postconcussive symptoms (PPCS) in a pediatric emergency department (ED). METHODS: Prospective cohort study of 5- to 18-ye...
+
+### Depressive Symptoms in Individuals With Persistent Postconcussion Symptoms: A Systematic Review and Meta-Analysis.
+**Authors:** Lambert M, Sheldrake E, Deneault AA, Wheeler A, Burke M et al.  
+**Journal:** JAMA network open (2022)  
+**PMID:** 36574246  **DOI:** 10.1001/jamanetworkopen.2022.48453
+**Entities:** mTBI, PPCS  
+**Abstract:** IMPORTANCE: Approximately 15% to 30% of individuals with a history of concussion present with persistent postconcussion symptoms (PPCS). Individuals with PPCS are at greater risk of experiencing depre...
+
+### Interdisciplinary intervention (GAIN) for adults with post-concussion symptoms: a study protocol for a stepped-wedge cluster randomised trial.
+**Authors:** Næss-Schmidt ET, Thastum MM, Stabel HH, Odgaard L, Pedersen AR et al.  
+**Journal:** Trials (2022)  
+**PMID:** 35906645  **DOI:** 10.1186/s13063-022-06572-7
+**Entities:** mTBI, PPCS  
+**Abstract:** BACKGROUND: Persistent post-concussion symptoms (PCS) are associated with prolonged disability, reduced health-related quality of life and reduced workability. At present, no strong evidence for treat...
 
 ### Behavioral and Cognitive Aspects of Concussion.
 **Authors:** Bauer RM, Jaffee MS  
@@ -15980,6 +19592,55 @@
 **Entities:** mTBI, TBI  
 **Abstract:** The detection and association of in vivo biomarkers in white matter (WM) pathology after acute and chronic mild traumatic brain injury (mTBI) are needed to improve care and develop therapies. In this ...
 
+### Interprofessional Collaborative Management of Postconcussion Cognitive Symptoms.
+**Authors:** Mashima PA, Waldron-Perrine B, MacLennan D, Sohlberg MM, Perla LY et al.  
+**Journal:** American journal of speech-language pathology (2021)  
+**PMID:** 34170743  **DOI:** 10.1044/2021_AJSLP-20-00313
+**Entities:** mTBI  
+**Abstract:** Purpose The purpose of this clinical focus article is to illustrate an interprofessional cognitive rehabilitation approach. Invited experts representing physical medicine and rehabilitation, clinical ...
+
+### The Role of Cervical Symptoms in Post-concussion Management: A Systematic Review.
+**Authors:** Cheever K, McDevitt J, Phillips J, Kawata K  
+**Journal:** Sports medicine (Auckland, N.Z.) (2021)  
+**PMID:** 33891292  **DOI:** 10.1007/s40279-021-01469-y
+**Entities:** mTBI, PPCS  
+**Abstract:** BACKGROUND: Patients with cervicogenic symptoms following a concussion have shown a disproportionate rate of delayed symptom resolution. However, the prevalence of cervicogenic symptoms in the acute s...
+
+### Post-concussive mTBI in Student Athletes: MRI Features and Machine Learning.
+**Authors:** Tamez-Peña J, Rosella P, Totterman S, Schreyer E, Gonzalez P et al.  
+**Journal:** Frontiers in neurology (2021)  
+**PMID:** 35082743  **DOI:** 10.3389/fneur.2021.734329
+**Entities:** mTBI  
+**Abstract:** 
+
+### Diagnosing and managing paediatric concussion: Key recommendations for general paediatricians and family doctors.
+**Authors:** Dawson J, Reed N, Bauman S, Seguin R, Zemek R  
+**Journal:** Paediatrics & child health (2021)  
+**PMID:** 34777657  **DOI:** 10.1093/pch/pxab024
+**Entities:** mTBI  
+**Abstract:** Concussion in children and adolescents is an important health concern. Most paediatric patients fully recover in 1 month or less following an acute concussion. However, some experience prolonged or pe...
+
+### Cognitive complaint and objective cognition during the post-acute period after mild traumatic brain injury in pre-morbidly healthy adults.
+**Authors:** Anderson JFI  
+**Journal:** Brain injury (2021)  
+**PMID:** 33459065  **DOI:** 10.1080/02699052.2020.1859613
+**Entities:** mTBI, TBI  
+**Abstract:** 
+
+### Symptom Factors and Neuropsychological Performance in Collegiate Athletes with Chronic Concussion Symptoms.
+**Authors:** Guty E, Riegler K, Meyer J, Walter AE, Slobounov SM et al.  
+**Journal:** Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists (2021)  
+**PMID:** 33140096  **DOI:** 10.1093/arclin/acaa092
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: The present study explored the relationship between specific types of postconcussion symptoms and cognitive outcomes in student-athletes with chronic concussion symptoms. METHOD: Forty stud...
+
+### Personality Characteristics and Acute Symptom Response Predict Chronic Symptoms After Mild Traumatic Brain Injury.
+**Authors:** Parker HA, Ranson J, McCrea MA, Hoelzle J, deRoon-Cassini T et al.  
+**Journal:** Journal of the International Neuropsychological Society : JINS (2021)  
+**PMID:** 33509312  **DOI:** 10.1017/S1355617720001423
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: Despite consensus that personality influences mild traumatic brain injury (mTBI) recovery, it has been underexamined. We evaluated the extent to which diverse personality and psychiatric sy...
+
 ### Evaluation of current post-concussion protocols.
 **Authors:** Kim K, Priefer R  
 **Journal:** Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie (2020)  
@@ -16147,6 +19808,83 @@
 **PMID:** 32234413  **DOI:** 10.1016/j.apmr.2020.02.015
 **Entities:** mTBI  
 **Abstract:** OBJECTIVES: To evaluate relationships between beliefs about the impact of rest and the level of activities and symptoms over time among active duty Service members sustaining concussion, and whether t...
+
+### Headache- and Dizziness-Specific Health-Related Quality-of-Life Impairments Persist for 1 in 4 Amateur Athletes Who Are Cleared to Return to Sporting Activity Following Sport-Related Concussion: A Prospective Matched-Cohort Study.
+**Authors:** Büttner F, Howell DR, Doherty C, Blake C, Ryan J et al.  
+**Journal:** The Journal of orthopaedic and sports physical therapy (2020)  
+**PMID:** 33256513  **DOI:** 10.2519/jospt.2020.9485
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: To prospectively investigate the recovery of athlete-reported symptoms and the condition-specific health-related quality of life (HRQoL) following sport-related concussion. DESIGN: Prospec...
+
+### Medico-Legal Aspects of Concussion.
+**Authors:** Evans RW, Strutt AM  
+**Journal:** Headache (2020)  
+**PMID:** 32827445  **DOI:** 10.1111/head.13926
+**Entities:** mTBI, Alzheimer  
+**Abstract:** Concussion and the sequelae have been controversial medico-legal issues for over 150 years. The following topics which are also important in clinical practice are discussed: definitions of concussion,...
+
+### Hyperactive movement behaviour of athletes with post-concussion symptoms.
+**Authors:** Helmich I, Nussbaum N, Lausberg H  
+**Journal:** Behavioural brain research (2020)  
+**PMID:** 31862468  **DOI:** 10.1016/j.bbr.2019.112443
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: Observations of hyperactive (/restless, agitated) behaviour as a consequence of mild traumatic brain injuries (mTBI) in sports are inconclusive as reduced or slowed movement behaviour is al...
+
+### Anesthesia for the patient with a recently diagnosed concussion: think about the brain!
+**Authors:** Rasouli MR, Kavin M, Stache S, Mahla ME, Schwenk ES  
+**Journal:** Korean journal of anesthesiology (2020)  
+**PMID:** 31257815  **DOI:** 10.4097/kja.19272
+**Entities:** mTBI, TBI  
+**Abstract:** Some patients require emergent, urgent, or elective surgery in the time period immediately following diagnosis of concussion. However, changes in brain homeostatic mechanisms following a concussion an...
+
+### High Sleep Disturbance and Longer Concussion Duration in Repeat Concussions.
+**Authors:** Oyegbile TO, Dougherty A, Tanveer S, Zecavati N, Delasobera BE  
+**Journal:** Behavioral sleep medicine (2020)  
+**PMID:** 30784317  **DOI:** 10.1080/15402002.2019.1578223
+**Entities:** mTBI  
+**Abstract:** 
+
+### Concussive Symptoms Following Pediatric Mild Traumatic Brain Injury.
+**Authors:** Yumul JN, McKinlay A, Than M, Anderson V, Catroppa C  
+**Journal:** The Journal of head trauma rehabilitation (2020)  
+**PMID:** 32108715  **DOI:** 10.1097/HTR.0000000000000565
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVES: To determine the proportion of children with postconcussive symptoms (PCSs) and to explore the influence of noninjury and injury factors on parents' PCS report at 3 months postinjury. DESI...
+
+### Serum Cleaved Tau Protein and Clinical Outcome in Patients with Minor Head Trauma.
+**Authors:** Forouzan A, Motamed H, Delirrooyfard A, Zallaghi S  
+**Journal:** Open access emergency medicine : OAEM (2020)  
+**PMID:** 32021498  **DOI:** 10.2147/OAEM.S217424
+**Entities:** tau, mTBI, TBI, PPCS  
+**Abstract:** INTRODUCTION: Minor head trauma is due to the transfer of a mechanical energy to the brain caused by a traumatic event. The present study was accomplished aiming to investigate the cleaved tau protein...
+
+### Self-efficacy and acceptance of disability following mild traumatic brain injury: A pilot study.
+**Authors:** Yehene E, Lichtenstern G, Harel Y, Druckman E, Sacher Y  
+**Journal:** Applied neuropsychology. Adult (2020)  
+**PMID:** 30806085  **DOI:** 10.1080/23279095.2019.1569523
+**Entities:** mTBI, TBI, Alzheimer  
+**Abstract:** Recovery from mild traumatic brain injury (mTBI) and regaining emotional equilibrium afterward can take much longer than the typical three months. Recent works attribute persisting complaints to psych...
+
+### A Longitudinal Investigation of Symptom Recovery following Concussion in Youth Soccer.
+**Authors:** Kirkwood MW, Crossland MM, Howell DR, Wilson JC, Peterson RL  
+**Journal:** The Journal of pediatrics (2020)  
+**PMID:** 32147217  **DOI:** 10.1016/j.jpeds.2020.01.068
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To prospectively evaluate symptom outcomes after youth soccer-related concussion. STUDY DESIGN: Using a prospective cohort design, we enrolled male and female competitive soccer players age...
+
+### Postconcussive Symptoms Following Mild TBI and Extracranial Injury: What Are the Contributing Factors?
+**Authors:** Bernard CO, McKinlay A, Krieser D, Ponsford JL  
+**Journal:** Journal of the International Neuropsychological Society : JINS (2020)  
+**PMID:** 31822313  **DOI:** 10.1017/S1355617719001279
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVES: Whether mild traumatic brain injury (mTBI) sustained by children results in persistent or recurrent symptoms, over and above those experienced by children who solely sustain mild extracran...
+
+### Age differences in outcome after mild traumatic brain injury: results from the HeadSMART study.
+**Authors:** Richey LN, Rao V, Roy D, Narapareddy BR, Wigh S et al.  
+**Journal:** International review of psychiatry (Abingdon, England) (2020)  
+**PMID:** 31549522  **DOI:** 10.1080/09540261.2019.1657076
+**Entities:** mTBI, TBI  
+**Abstract:** This study longitudinally examined age differences across multiple outcome domains in individuals diagnosed with acute mild traumatic brain injury (mTBI). A sample of 447 adults meeting VA/DoD criteri...
 
 ### Behavioral Therapies and Mind-Body Interventions for Posttraumatic Headache and Post-Concussive Symptoms: A Systematic Review.
 **Authors:** Minen M, Jinich S, Vallespir Ellett G  
@@ -16316,6 +20054,27 @@
 **Entities:** mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) can affect high-level executive functioning long after somatic symptoms resolve. We tested if simple EEG responses within an oddball paradigm could capture variance ...
 
+### Efficacy of Psychoeducation and Cognitive Rehabilitation After Mild Traumatic Brain Injury for Preventing Post-concussional Syndrome in Individuals With High Risk of Poor Prognosis: A Randomized Clinical Trial.
+**Authors:** Caplain S, Chenuc G, Blancho S, Marque S, Aghakhani N  
+**Journal:** Frontiers in neurology (2019)  
+**PMID:** 31551902  **DOI:** 10.3389/fneur.2019.00929
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Unfavorable outcomes (UO) occur in 15-20% of patients with mild traumatic brain injury (mTBI). Early identification of patients at risk of UO is crucial for suitable management to be initiated, increa...
+
+### APOE-ε4 Genotype is Associated with Elevated Post-Concussion Symptoms in Military Veterans with a Remote History of Mild Traumatic Brain Injury.
+**Authors:** Merritt VC, Lapira KM, Clark AL, Sorg SF, Werhane ML et al.  
+**Journal:** Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists (2019)  
+**PMID:** 30521018  **DOI:** 10.1093/arclin/acy082
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: We evaluated the influence of the APOE-ε4 allele on post-concussive symptoms in military Veterans with a remote history of mild traumatic brain injury (mTBI). METHOD: Participants (N = 77) ...
+
+### The National Brain Injury Rescue and Rehabilitation Study - a multicenter observational study of hyperbaric oxygen for mild traumatic brain injury with post-concussive symptoms.
+**Authors:** Mozayeni BR, Duncan W, Zant E, Love TL, Beckman RL et al.  
+**Journal:** Medical gas research (2019)  
+**PMID:** 30950414  **DOI:** 10.4103/2045-9912.254636
+**Entities:** mTBI, TBI  
+**Abstract:** The National Brain Injury Rescue and Rehabilitation Project was established as a preliminary study to test the safety and practicality of multi-center hyperbaric oxygen administration for the post-con...
+
 ### Prognostic Factors in Pediatric Sport-Related Concussion.
 **Authors:** Zuckerman SL, Brett BL, Jeckell AS, Yengo-Kahn AM, Solomon GS  
 **Journal:** Current neurology and neuroscience reports (2018)  
@@ -16469,6 +20228,62 @@
 **PMID:** 29781082  **DOI:** 10.1111/head.13326
 **Entities:** —  
 **Abstract:** 
+
+### Posttraumatic Headache.
+**Authors:** Dwyer B  
+**Journal:** Seminars in neurology (2018)  
+**PMID:** 30522136  **DOI:** 10.1055/s-0038-1673692
+**Entities:** mTBI, TBI  
+**Abstract:** Posttraumatic headaches are among the most challenging complaints after mild traumatic brain injury (mTBI). They are a debilitating problem experienced by patients after TBI of all severities. Up to 9...
+
+### Prediction of Persistent Post-Concussion Symptoms after Mild Traumatic Brain Injury.
+**Authors:** Cnossen MC, van der Naalt J, Spikman JM, Nieboer D, Yue JK et al.  
+**Journal:** Journal of neurotrauma (2018)  
+**PMID:** 29690799  **DOI:** 10.1089/neu.2017.5486
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Persistent post-concussion symptoms (PPCS) occur frequently after mild traumatic brain injury (mTBI). The identification of patients at risk for poor outcome remains challenging because valid predicti...
+
+### Posttraumatic headache in pediatrics: an update and review.
+**Authors:** Blume HK  
+**Journal:** Current opinion in pediatrics (2018)  
+**PMID:** 30188411  **DOI:** 10.1097/MOP.0000000000000691
+**Entities:** mTBI, TBI  
+**Abstract:** PURPOSE OF REVIEW: Headache following concussion and mild traumatic brain injury is very common in pediatrics. There is significant concern about appropriate management of acute and persistent headach...
+
+### A Multidimensional Approach to Post-concussion Symptoms in Mild Traumatic Brain Injury.
+**Authors:** Polinder S, Cnossen MC, Real RGL, Covic A, Gorbunova A et al.  
+**Journal:** Frontiers in neurology (2018)  
+**PMID:** 30619066  **DOI:** 10.3389/fneur.2018.01113
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Mild traumatic brain injury (mTBI) presents a substantial burden to patients, families, and health care systems. Whereas, recovery can be expected in the majority of patients, a subset continues to re...
+
+### Lightheadedness After Concussion: Not All Dizziness is Vertigo.
+**Authors:** Heyer GL, Young JA, Fischer AN  
+**Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2018)  
+**PMID:** 28708707  **DOI:** 10.1097/JSM.0000000000000445
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To characterize the presence and degree of postconcussion lightheadedness in relation to postconcussion vertigo and dizziness, and to determine whether lightheadedness influences overall sy...
+
+### Fear Avoidance and Clinical Outcomes from Mild Traumatic Brain Injury.
+**Authors:** Silverberg ND, Panenka WJ, Iverson GL  
+**Journal:** Journal of neurotrauma (2018)  
+**PMID:** 29665736  **DOI:** 10.1089/neu.2018.5662
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Characterizing psychological factors that contribute to persistent symptoms after mild traumatic brain injury (MTBI) can inform early intervention. To determine whether fear avoidance, a known risk fa...
+
+### Post-concussive symptoms after a mild traumatic brain injury during childhood and adolescence.
+**Authors:** Starkey NJ, Jones K, Case R, Theadom A, Barker-Collo S et al.  
+**Journal:** Brain injury (2018)  
+**PMID:** 29446658  **DOI:** 10.1080/02699052.2018.1439533
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: Mild traumatic brain injury (mTBI) is common injury during childhood and adolescence but the long-term outcomes are poorly understood. This study examined post-concussive symptoms and behav...
+
+### Persistent symptoms and activity changes three months after mild traumatic brain injury.
+**Authors:** Cooksley R, Maguire E, Lannin NA, Unsworth CA, Farquhar M et al.  
+**Journal:** Australian occupational therapy journal (2018)  
+**PMID:** 29498077  **DOI:** 10.1111/1440-1630.12457
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** BACKGROUND/AIM: Approximately, 80% of traumatic brain injuries are considered mild in severity. Mild traumatic brain injury (mTBI) may cause temporary or persisting impairments that can adversely affe...
 
 ### Review of Vestibular and Oculomotor Screening and Concussion Rehabilitation.
 **Authors:** Kontos AP, Deitrick JM, Collins MW, Mucha A  
@@ -16645,6 +20460,62 @@
 **Entities:** TBI, PPCS  
 **Abstract:** OBJECTIVE: Traumatic brain injury (TBI) occurs in a substantial minority of military personnel, and commonly is associated with mental health disorders and postconcussive symptoms (PCS). The implicati...
 
+### Longitudinal Study of Postconcussion Syndrome: Not Everyone Recovers.
+**Authors:** Hiploylee C, Dufort PA, Davis HS, Wennberg RA, Tartaglia MC et al.  
+**Journal:** Journal of neurotrauma (2017)  
+**PMID:** 27784191  **DOI:** 10.1089/neu.2016.4677
+**Entities:** mTBI, PPCS  
+**Abstract:** We examined recovery from postconcussion syndrome (PCS) in a series of 285 patients diagnosed with concussion based on international sport concussion criteria who received a questionnaire regarding re...
+
+### Longitudinal trajectories of post-concussive and depressive symptoms in adolescents with prolonged recovery from concussion.
+**Authors:** Stein E, Howard W, Rowhani-Rahbar A, Rivara FP, Zatzick D et al.  
+**Journal:** Brain injury (2017)  
+**PMID:** 29115868  **DOI:** 10.1080/02699052.2017.1380843
+**Entities:** mTBI, PPCS  
+**Abstract:** PRIMARY OBJECTIVE: To investigate the symptom trajectories of depressive and post-concussive symptoms (PCS) in slow-to-recover adolescents to understand how the two sets of symptoms are related. RESEA...
+
+### Depression in youth recovering from concussion: Correlates and predictors.
+**Authors:** Stazyk K, DeMatteo C, Moll S, Missiuna C  
+**Journal:** Brain injury (2017)  
+**PMID:** 28326857  **DOI:** 10.1080/02699052.2017.1283533
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: Although depression can be a serious consequence of concussion, little is known about the factors that predict depression and concussion recovery outcomes in children. The purpose of this ...
+
+### Post-concussive syndrome after mild head trauma: epidemiological features in Tunisia.
+**Authors:** Chakroun-Walha O, Rejeb I, Boujelben M, Chtara K, Mtibaa A et al.  
+**Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2017)  
+**PMID:** 26972699  **DOI:** 10.1007/s00068-016-0656-7
+**Entities:** mTBI, PPCS  
+**Abstract:** BACKGROUND: Minor head injury is one of the major diagnoses requiring management in emergency departments (ED) but its squeals are not well studied in our country. OBJECTIVE: To describe the prevalenc...
+
+### Postconcussive Symptoms, PTSD, and Medical Disease Burden in Treatment-Seeking OEF/OIF/OND Veterans.
+**Authors:** Williams JL, McDevitt-Murphy ME, Murphy JG, Crouse EM  
+**Journal:** Military medicine (2017)  
+**PMID:** 28290938  **DOI:** 10.7205/MILMED-D-16-00221
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: The most common psychological and cognitive sequelae associated with deployments to Afghanistan (Operation Enduring Freedom) and Iraq (Operation Iraqi Freedom) are mild traumatic brain i...
+
+### The King-Devick (K-D) test and concussion diagnosis in semi-professional rugby union players.
+**Authors:** Molloy JH, Murphy I, Gissane C  
+**Journal:** Journal of science and medicine in sport (2017)  
+**PMID:** 28258820  **DOI:** 10.1016/j.jsams.2017.02.002
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: To determine the utility of the King-Devick (K-D) test in identifying sports-related concussion in semi-professional rugby players. DESIGN: Descriptive cohort study. METHODS: 176 male play...
+
+### Astroglial activation and altered amyloid metabolism in human repetitive concussion.
+**Authors:** Shahim P, Tegner Y, Marklund N, Höglund K, Portelius E et al.  
+**Journal:** Neurology (2017)  
+**PMID:** 28283595  **DOI:** 10.1212/WNL.0000000000003816
+**Entities:** GFAP, Aβ42, BBB, mTBI, TBI  
+**Abstract:** OBJECTIVE: To determine whether postconcussion syndrome (PCS) due to repetitive concussive traumatic brain injury (rcTBI) is associated with CSF biomarker evidence of astroglial activation, amyloid de...
+
+### Clinical predictors of vestibulo-ocular dysfunction in pediatric sports-related concussion.
+**Authors:** Ellis MJ, Cordingley DM, Vis S, Reimer KM, Leiter J et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2017)  
+**PMID:** 27689244  **DOI:** 10.3171/2016.7.PEDS16310
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE There were 2 objectives of this study. The first objective was to identify clinical variables associated with vestibulo-ocular dysfunction (VOD) detected at initial consultation among pediat...
+
 ### Traumatic brain injuries.
 **Authors:** Blennow K, Brody DL, Kochanek PM, Levin H, McKee A et al.  
 **Journal:** Nature reviews. Disease primers (2016)  
@@ -16820,6 +20691,27 @@
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** The Brain Injury and Mechanism of Action of Hyperbaric Oxygen for Persistent Post-Concussive Symptoms after Mild Traumatic Brain Injury (mTBI) (BIMA) study, sponsored by the Department of Defense and ...
 
+### Diffusion Tensor Imaging Findings in Post-Concussion Syndrome Patients after Mild Traumatic Brain Injury: A Systematic Review.
+**Authors:** Khong E, Odenwald N, Hashim E, Cusimano MD  
+**Journal:** Frontiers in neurology (2016)  
+**PMID:** 27698651  
+**Entities:** mTBI, TBI, PPCS, Alzheimer  
+**Abstract:** OBJECTIVES: To review the evidence for the use of diffusion tensor imaging (DTI) parameters in the human brain as a diagnostic tool for and predictor of post-concussion syndrome (PCS) after a mild tra...
+
+### Hyperbaric oxygen for mild traumatic brain injury: Design and baseline summary.
+**Authors:** Weaver LK, Chhoeu A, Lindblad AS, Churchill S, Wilson SH  
+**Journal:** Undersea & hyperbaric medicine : journal of the Undersea and Hyperbaric Medical Society, Inc (2016)  
+**PMID:** 28768069  
+**Entities:** mTBI, TBI  
+**Abstract:** UNLABELLED: The Brain Injury and Mechanisms of Action of Hyperbaric Oxygen for Persistent Post-Concussive Symptoms after Mild Traumatic Brain Injury (mTBI) (BIMA) study, sponsored by the Department of...
+
+### Association of Persistent Postconcussion Symptoms With Pediatric Quality of Life.
+**Authors:** Novak Z, Aglipay M, Barrowman N, Yeates KO, Beauchamp MH et al.  
+**Journal:** JAMA pediatrics (2016)  
+**PMID:** 27775762  **DOI:** 10.1001/jamapediatrics.2016.2900
+**Entities:** mTBI, PPCS  
+**Abstract:** IMPORTANCE: Persistent postconcussion symptoms (PPCS) pose long-term challenges and can negatively affect patients' health-related quality of life (HRQoL). To date, no large comprehensive study has ad...
+
 ### Physiological, vestibulo-ocular and cervicogenic post-concussion disorders: an evidence-based classification system with directions for treatment.
 **Authors:** Ellis MJ, Leddy JJ, Willer B  
 **Journal:** Brain injury (2015)  
@@ -16945,6 +20837,62 @@
 **PMID:** 25629259  **DOI:** 10.1097/HTR.0000000000000106
 **Entities:** mTBI, TBI  
 **Abstract:** OBJECTIVE: To investigate the effects of mild traumatic brain injury (mTBI) in children on symptom ratings of behavior problems across the first-year postinjury. SETTING: Emergency departments of 2 re...
+
+### A review of post-concussion syndrome and psychological factors associated with concussion.
+**Authors:** Broshek DK, De Marco AP, Freeman JR  
+**Journal:** Brain injury (2015)  
+**PMID:** 25383595  **DOI:** 10.3109/02699052.2014.974674
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: This study reviewed several topics related to post-concussion syndrome and psychological factors associated with concussion. Topics include neurobiological perspectives, psychological predi...
+
+### The role of the cervical spine in post-concussion syndrome.
+**Authors:** Marshall CM, Vernon H, Leddy JJ, Baldwin BA  
+**Journal:** The Physician and sportsmedicine (2015)  
+**PMID:** 26138797  **DOI:** 10.1080/00913847.2015.1064301
+**Entities:** mTBI, PPCS  
+**Abstract:** While much is known regarding the pathophysiology surrounding concussion injuries in the acute phase, there is little evidence to support many of the theorized etiologies to post-concussion syndrome (...
+
+### Psychiatric outcomes after pediatric sports-related concussion.
+**Authors:** Ellis MJ, Ritchie LJ, Koltek M, Hosain S, Cordingley D et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2015)  
+**PMID:** 26359916  **DOI:** 10.3171/2015.5.PEDS15220
+**Entities:** mTBI  
+**Abstract:** OBJECT: The objectives of this study were twofold: (1) to examine the prevalence of emotional symptoms among children and adolescents with a sports-related concussion (SRC) who were referred to a mult...
+
+### Benefits of strict rest after acute concussion: a randomized controlled trial.
+**Authors:** Thomas DG, Apps JN, Hoffmann RG, McCrea M, Hammeke T  
+**Journal:** Pediatrics (2015)  
+**PMID:** 25560444  **DOI:** 10.1542/peds.2014-0966
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: To determine if recommending strict rest improved concussion recovery and outcome after discharge from the pediatric emergency department (ED). METHODS: Patients aged 11 to 22 years presen...
+
+### Personality factors and symptom reporting at baseline in collegiate athletes.
+**Authors:** Merritt VC, Rabinowitz AR, Arnett PA  
+**Journal:** Developmental neuropsychology (2015)  
+**PMID:** 25649780  **DOI:** 10.1080/87565641.2014.979928
+**Entities:** mTBI  
+**Abstract:** The purpose of this study was to evaluate the relationship between personality and symptom reporting at baseline in collegiate athletes. Participants were 759 athletes who completed the Post-Concussio...
+
+### Clinical correlates of retrograde amnesia in mild traumatic brain injury.
+**Authors:** Luoto TM, Iverson GL, Losoi H, Wäljas M, Tenovuo O et al.  
+**Journal:** Brain injury (2015)  
+**PMID:** 25789824  **DOI:** 10.3109/02699052.2014.1002421
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** PRIMARY OBJECTIVE: The purpose of this study was to examine the clinical significance of retrograde amnesia (RA) in patients with acute mild traumatic brain injuries (MTBI). METHODS AND PROCEDURES: An...
+
+### Differential eye movements in mild traumatic brain injury versus normal controls.
+**Authors:** Cifu DX, Wares JR, Hoke KW, Wetzel PA, Gitchel G et al.  
+**Journal:** The Journal of head trauma rehabilitation (2015)  
+**PMID:** 24695263  **DOI:** 10.1097/HTR.0000000000000036
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVES: Objective measures to diagnose and to monitor improvement of symptoms following mild traumatic brain injury (mTBI) are lacking. Computerized eye tracking has been advocated as a rapid, use...
+
+### Predictors of postconcussion syndrome after sports-related concussion in young athletes: a matched case-control study.
+**Authors:** Morgan CD, Zuckerman SL, Lee YM, King L, Beaird S et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2015)  
+**PMID:** 25745949  **DOI:** 10.3171/2014.10.PEDS14356
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECT Sport-related concussion (SRC) is a major public health problem. Approximately 90% of SRCs in high school athletes are transient; symptoms recover to baseline within 1 week. However, a small pe...
 
 ### Violence-related mild traumatic brain injury in women: identifying a triad of postinjury disorders.
 **Authors:** Davis A  
@@ -17100,6 +21048,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: A minority of pediatric patients who have mild traumatic brain injury (mTBI) report persistent postconcussive symptoms. In adults, failure on validity tests, which help to detect exaggerat...
 
+### Patterns and predictors of follow-up in patients with mild traumatic brain injury.
+**Authors:** Crandall M, Rink RA, Shaheen AW, Butler B, Unger E et al.  
+**Journal:** Brain injury (2014)  
+**PMID:** 24945097  **DOI:** 10.3109/02699052.2014.919533
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: This study was undertaken to identify factors that influence follow-up for patients with mild traumatic brain injury (MTBI). METHODS: One hundred and ninety-nine consecutive inpatients dia...
+
 ### Biomarkers for the diagnosis and prognosis of mild traumatic brain injury/concussion.
 **Authors:** Jeter CB, Hergenroeder GW, Hylin MJ, Redell JB, Moore AN et al.  
 **Journal:** Journal of neurotrauma (2013)  
@@ -17156,6 +21111,27 @@
 **Entities:** —  
 **Abstract:** 
 
+### Blast-related traumatic brain injury.
+**Authors:** Rosenfeld JV, McFarlane AC, Bragge P, Armonda RA, Grimes JB et al.  
+**Journal:** The Lancet. Neurology (2013)  
+**PMID:** 23884075  **DOI:** 10.1016/S1474-4422(13)70161-3
+**Entities:** mTBI, TBI, CTE  
+**Abstract:** A bomb blast may cause the full severity range of traumatic brain injury (TBI), from mild concussion to severe, penetrating injury. The pathophysiology of blast-related TBI is distinctive, with injury...
+
+### The clinical spectrum of sport-related traumatic brain injury.
+**Authors:** Jordan BD  
+**Journal:** Nature reviews. Neurology (2013)  
+**PMID:** 23478462  **DOI:** 10.1038/nrneurol.2013.33
+**Entities:** mTBI, TBI, CTE, Alzheimer  
+**Abstract:** Acute and chronic sports-related traumatic brain injuries (TBIs) are a substantial public health concern. Various types of acute TBI can occur in sport, but detection and management of cerebral concus...
+
+### Predictors of child post-concussion symptoms at 6 and 18 months following mild traumatic brain injury.
+**Authors:** Olsson KA, Lloyd OT, Lebrocque RM, McKinlay L, Anderson VA et al.  
+**Journal:** Brain injury (2013)  
+**PMID:** 23384213  **DOI:** 10.3109/02699052.2012.729286
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** BACKGROUND: A proportion of children will experience persistent post-concussion symptoms (PCS) following a mild traumatic brain injury (mTBI). As persistent PCS may be maintained by pathological and p...
+
 ### Subacute to chronic mild traumatic brain injury.
 **Authors:** Mott TF, McConnon ML, Rieger BP  
 **Journal:** American family physician (2012)  
@@ -17191,6 +21167,20 @@
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** OBJECTIVE: There is continuing controversy regarding predictors of poor outcome following mild traumatic brain injury (mTBI). This study aimed to prospectively examine the influence of preinjury facto...
 
+### Post-concussion syndrome: prevalence after mild traumatic brain injury in comparison with a sample without head injury.
+**Authors:** Dean PJ, O'Neill D, Sterr A  
+**Journal:** Brain injury (2012)  
+**PMID:** 22107176  **DOI:** 10.3109/02699052.2011.635354
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** PRIMARY OBJECTIVE: To compare the prevalence of persistent post-concussion syndrome (PCS; >1 year post-injury) in participants with mild traumatic brain injury (mTBI) and those without head injury. RE...
+
+### Mild traumatic brain injury: are ED providers identifying which patients are at risk?
+**Authors:** Stuart B, Mandleco B, Wilshaw R, Beckstrand RL, Heaston S  
+**Journal:** Journal of emergency nursing (2012)  
+**PMID:** 21774974  **DOI:** 10.1016/j.jen.2011.04.006
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: To identify patients with specific ED discharge diagnoses reporting symptoms associated with a mild traumatic brain injury (MTBI), compare frequency/severity of MTBI symptoms by discharge d...
+
 ### Traumatic brain injury.
 **Authors:** Risdall JE, Menon DK  
 **Journal:** Philosophical transactions of the Royal Society of London. Series B, Biological sciences (2011)  
@@ -17205,6 +21195,20 @@
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** BACKGROUND: Between 20-50% of those suffering a mild traumatic brain injury (MTBI) will suffer symptoms beyond 3 months or post-concussive disorder (PCD). Researchers in Sydney conducted a prospective...
 
+### The acute symptoms of sport-related concussion: diagnosis and on-field management.
+**Authors:** Putukian M  
+**Journal:** Clinics in sports medicine (2011)  
+**PMID:** 21074081  **DOI:** 10.1016/j.csm.2010.09.005
+**Entities:** mTBI  
+**Abstract:** Sport-related concussion is a common injury that occurs in a variety of sports. In recent years, more attention has been focused on the importance of this injury as well as the long-term complications...
+
+### Long-term consequences: effects on normal development profile after concussion.
+**Authors:** Daneshvar DH, Riley DO, Nowinski CJ, McKee AC, Stern RA et al.  
+**Journal:** Physical medicine and rehabilitation clinics of North America (2011)  
+**PMID:** 22050943  **DOI:** 10.1016/j.pmr.2011.08.009
+**Entities:** mTBI, TBI, CTE, Alzheimer  
+**Abstract:** Each year in the United States, approximately 1.7 million people are diagnosed with a traumatic brain injury (TBI), about 75% of which are classified as mild TBIs or concussions. Although symptoms typ...
+
 ### Bomb blast, mild traumatic brain injury and psychiatric morbidity: a review.
 **Authors:** Rosenfeld JV, Ford NL  
 **Journal:** Injury (2010)  
@@ -17218,6 +21222,27 @@
 **PMID:** 20085447  **DOI:** 10.3109/02699050903508226
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** PRIMARY OBJECTIVE: To investigate the occurrence of post-concussive symptoms (PCS) and symptoms of post-traumatic stress disorder (PTSD) in children following mild traumatic brain injuries (TBI). RESE...
+
+### Postconcussion syndrome in athletes.
+**Authors:** Jotwani V, Harmon KG  
+**Journal:** Current sports medicine reports (2010)  
+**PMID:** 20071917  **DOI:** 10.1249/JSR.0b013e3181ccb55e
+**Entities:** mTBI, PPCS  
+**Abstract:** Postconcussion syndrome (PCS) is a constellation of physical, cognitive, and emotional symptoms that persist in a small percentage of patients who suffer from a concussion. There is significant debate...
+
+### Mild traumatic brain injury and Postconcussion Syndrome: a neuropsychological perspective.
+**Authors:** Williams WH, Potter S, Ryland H  
+**Journal:** Journal of neurology, neurosurgery, and psychiatry (2010)  
+**PMID:** 20802217  **DOI:** 10.1136/jnnp.2008.171298
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Symptoms of mild traumatic brain injury typically resolve within days or weeks. However, a significant group of patients may report symptoms of Post-concussional Syndrome (PCS) weeks, months and years...
+
+### Visual tracking synchronization as a metric for concussion screening.
+**Authors:** Maruta J, Suh M, Niogi SN, Mukherjee P, Ghajar J  
+**Journal:** The Journal of head trauma rehabilitation (2010)  
+**PMID:** 20611047  **DOI:** 10.1097/HTR.0b013e3181e67936
+**Entities:** mTBI, TBI  
+**Abstract:** Our goal was to determine whether performance variability during predictive visual tracking can provide a screening measure for mild traumatic brain injury (mTBI). Seventeen subjects with chronic post...
 
 ### Post-concussion syndrome.
 **Authors:** Foy K, Murphy KC  
@@ -17261,6 +21286,20 @@
 **Entities:** —  
 **Abstract:** 
 
+### Sport-related concussion.
+**Authors:** Meehan WP, Bachur RG  
+**Journal:** Pediatrics (2009)  
+**PMID:** 19117869  **DOI:** 10.1542/peds.2008-0309
+**Entities:** mTBI  
+**Abstract:** Sport-related concussion is a common injury in children and adolescents. Athletes seldom report concussive symptoms, which makes the diagnosis a challenge. The management of sport-related concussion h...
+
+### Giving context to post-deployment post-concussive-like symptoms: blast-related potential mild traumatic brain injury and comorbidities.
+**Authors:** Howe LL  
+**Journal:** The Clinical neuropsychologist (2009)  
+**PMID:** 19882474  **DOI:** 10.1080/13854040903266928
+**Entities:** mTBI, TBI  
+**Abstract:** In the military and Veterans Administration systems, individuals with potential MTBI are presenting with symptoms in excess of what would be expected based on initial injury characteristics and/or at ...
+
 ### Early prediction of favourable recovery 6 months after mild traumatic brain injury.
 **Authors:** Stulemeijer M, van der Werf S, Borm GF, Vos PE  
 **Journal:** Journal of neurology, neurosurgery, and psychiatry (2008)  
@@ -17302,6 +21341,13 @@
 **PMID:** 17703913  
 **Entities:** mTBI, PPCS  
 **Abstract:** This commentary discusses the criteria proposed by Delis and Wetter [Delis, D. C., & Wetter, S. R. (2007). Cogniform disorder and cogniform condition: proposed diagnoses for excessive cognitive sympto...
+
+### Illness perceptions and outcome in mild head injury: a longitudinal study.
+**Authors:** Whittaker R, Kemp S, House A  
+**Journal:** Journal of neurology, neurosurgery, and psychiatry (2007)  
+**PMID:** 17507448  
+**Entities:** PPCS  
+**Abstract:** BACKGROUND: A range of neuropathological and psychosocial factors have been implicated in the aetiology and maintenance of post-concussional syndrome (PCS), with a growing consensus in the literature ...
 
 ### Serum biochemical markers for post-concussion syndrome in patients with mild traumatic brain injury.
 **Authors:** Begaz T, Kyriacou DN, Segal J, Bazarian JJ  
@@ -17422,12 +21468,26 @@
 **Entities:** —  
 **Abstract:** 
 
+### Neuropsychology of sports-related head injury: Dementia Pugilistica to Post Concussion Syndrome.
+**Authors:** Erlanger DM, Kutner KC, Barth JT, Barnes R  
+**Journal:** The Clinical neuropsychologist (1999)  
+**PMID:** 10949160  
+**Entities:** mTBI, Alzheimer  
+**Abstract:** This article reviews the existing literature in the following areas of sports neuropsychology: Dementia Pugilistica, concussion and Post Concussion Syndrome, Second Impact Syndrome, and the emerging r...
+
 ### [The nature, diagnosis and treatment of post-concussion syndrome].
 **Authors:** Muñoz-Céspedes JM, Pelegrín-Valero C, Tirapu-Ustarroz J, Fernández-Guinea S  
 **Journal:** Revista de neurologia (1998)  
 **PMID:** 9859166  
 **Entities:** mTBI, PPCS  
 **Abstract:** INTRODUCTION: The relationship between brief loss of consciousness, subsequent cognitive and emotional complaints, and impact on daily functioning continues to be hotly debated. DEVELOPMENT: In this p...
+
+### [Pathogenesis and psychosocial consequences of post-concussion syndrome].
+**Authors:** Pelczar M, Polityńska B  
+**Journal:** Neurologia i neurochirurgia polska (1997)  
+**PMID:** 9513961  
+**Entities:** mTBI, PPCS  
+**Abstract:** About 35% of subjects with head injury (HI) suffer from postconcussion syndrome (PCS). These disturbances can be chronic or even permanent. Such patients are discharged from hospital without any appar...
 
 ### Post-concussion syndrome.
 **Authors:** Young WB, Silberstein SD  
@@ -17554,6 +21614,27 @@
 **PMID:** 18619007  
 **Entities:** —  
 **Abstract:** 
+
+### Sensitivity to Noise Following a Mild Traumatic Brain Injury: A Longitudinal Study.
+**Authors:** Shepherd D, Heinonen-Guzejev M, Heikkilä K, Landon J, Theadom A et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 33656468  **DOI:** 10.1097/HTR.0000000000000645
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: To describe changes in the prevalence and clinical correlates of noise sensitivity (NS) in mild traumatic brain injury (mTBI) across a 12-month period and to determine whether NS at an earl...
+
+### Post-Concussion Symptoms in Older Adults Following a Mild Traumatic Brain Injury.
+**Authors:** Massé-Pelletier M, Boucher V, Le Sage N, Neveu X, Moore L et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 40531474  **DOI:** 10.1097/HTR.0000000000001077
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: Main objective: to estimate the prevalence of post-concussion symptoms (PPCS) in patients aged ≥55 years. Secondary objective: to identify the predictive factors associated with PPCS in thi...
+
+### Association of Preinjury Medical Diagnoses With Pediatric Persistent Postconcussion Symptoms in Electronic Health Records.
+**Authors:** Yengo-Kahn AM, Hibshman N, Bonfield CM, Torstenson ES, Gifford KA et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 33935230  **DOI:** 10.1097/HTR.0000000000000686
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: To identify risk factors and generate hypotheses for pediatric persistent postconcussion symptoms (PPCS). SETTING: A regional healthcare system in the Southeastern United States. PARTICIPAN...
 
 
 ## Cluster: qr2_inhibitors
@@ -17805,6 +21886,125 @@
 **PMID:** 42599452  **DOI:** 10.1007/s00068-026-03303-4
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** OBJECTIVES: Blood biomarkers glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) were recently introduced into clinical practice for mild traumatic brain injury (mTBI...
+
+### Postconcussion physical activity frequency and plasma biomarker associations among adolescents.
+**Authors:** Moseley RR, Wingerson MJ, Richardson KL, Hurlburt KD, Warren K et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2026)  
+**PMID:** 42284615  **DOI:** 10.3171/2026.2.PEDS25624
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
+**Abstract:** OBJECTIVE: Existing studies have reported the utility of plasma biomarkers for concussion diagnosis and outcome prognostication. In parallel, physical activity (PA) after concussion is associated with...
+
+### Associations Between Blast Exposures and Intestinal Permeability and Neurotrauma Symptoms During Mortar Fire Military Tactical Training Operations.
+**Authors:** Wang Z, Liu Q, Nemes J, Kranfli A, Sullan M et al.  
+**Journal:** Military medicine (2026)  
+**PMID:** 41048049  **DOI:** 10.1093/milmed/usaf478
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: Military members are exposed in combat and training to recognized traumatic brain injury (TBI)-causing events and other sub-concussive events that result in physical, psychological, and ...
+
+### Sex Differences in Severity and Recovery Following Mild Traumatic Brain Injury: A Systematic Review.
+**Authors:** Arachchi S, Daly E, Dwivedi A, Ryan L  
+**Journal:** Brain sciences (2026)  
+**PMID:** 41594797  **DOI:** 10.3390/brainsci16010077
+**Entities:** mTBI, TBI  
+**Abstract:** 
+
+### Blood-Based Biomarkers and Cognitive-Behavioral Assessment in Mild Traumatic Brain Injury: Current Evidence and Clinical Perspectives.
+**Authors:** Kang DW  
+**Journal:** Korean journal of neurotrauma (2026)  
+**PMID:** 42111452  **DOI:** 10.13004/kjnt.2026.22.e16
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) comprises the majority of all traumatic brain injuries, but clinical evaluation remains challenging because conventional neuroimaging cannot adequately detect subtle...
+
+### Indications for repeated computed tomography after mild traumatic brain injury with intracranial haemorrhage.
+**Authors:** Vestager JD, Dyrskjøt J, Cehov B, Riis JJ  
+**Journal:** Danish medical journal (2026)  
+**PMID:** 42592764  **DOI:** 10.61409/A08250642
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: Traumatic brain injury (TBI) with intracranial haematoma and a Glasgow Coma Scale (GCS) score ≥ 13 is classified as complicated mild TBI (mTBI). Patients are often admitted for observati...
+
+### Blood-Based Mechanistic Biomarkers Improve Prognostication of Functional Outcome After Mild Traumatic Brain Injury.
+**Authors:** Visser K, de Koning ME, Jacobs B, Bourgonje AR, Chayoua W et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 42444259  **DOI:** 10.1177/08977151261468223
+**Entities:** ROS, GFAP, UCH-L1, NfL, oxidative stress  
+**Abstract:** Performance of currently available prognostic models for predicting incomplete functional recovery following mild traumatic brain injury (mTBI) is only modest. Blood-based biomarkers may improve model...
+
+### Progression of mild traumatic brain injury with intracranial hemorrhage: a retrospective study of associated factors in patients managed conservatively in the emergency department.
+**Authors:** Chingthongkham S, Tienpratarn W, Thongpuntair P, Chingthongkham S, Wongwaisayawan S  
+**Journal:** International journal of emergency medicine (2026)  
+**PMID:** 42436359  **DOI:** 10.1186/s12245-026-01290-2
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND AND OBJECTIVE: Patients with mild traumatic brain injury (mTBI) presenting with intracranial hemorrhage (ICH) represent a heterogeneous group, with some experiencing clinical or radiologic ...
+
+### Clinical Evaluation of the TBI Assay in a Representative Emergency Department Cohort.
+**Authors:** Mills CM, Roberts N, Fritsche K, Merideth D, Babic N  
+**Journal:** The journal of applied laboratory medicine (2026)  
+**PMID:** 41123594  **DOI:** 10.1093/jalm/jfaf159
+**Entities:** mTBI, TBI, i-STAT TBI  
+**Abstract:** BACKGROUND: Each year, millions of adults present to emergency departments (EDs) with suspected traumatic brain injury (TBI). While more than 80% undergo computed tomography (CT) imaging, the current ...
+
+### Persistent sleep disturbances after mild traumatic brain injury: A prospective multimodal assessment with actigraphy and hormonal biomarkers.
+**Authors:** Paredes I, Castaño-Leon AM, Cunha Alves V, Sánchez Carabias C, Delgado-Fernandez J et al.  
+**Journal:** Brain & spine (2026)  
+**PMID:** 41939282  **DOI:** 10.1016/j.bas.2026.106014
+**Entities:** mTBI, TBI, PPCS, melatonin  
+**Abstract:** INTRODUCTION: Sleep disturbance is among the most frequent and disabling persistent post-concussive symptoms (PPCS) following mild traumatic brain injury (mTBI). However, the relationship between subj...
+
+### GFAP and UCH-L1 for Ruling out Intracranial Lesions After Mild Traumatic Brain Injury: A Systematic Review and Meta-Analysis.
+**Authors:** San Miguel L, Jespers V, Roberfroid D  
+**Journal:** Journal of clinical medicine (2026)  
+**PMID:** 42452320  **DOI:** 10.3390/jcm15134858
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** 
+
+### Correlation of Routine Admission Inflammatory Biomarkers with Individual Traumatic Brain Lesion Types in Mild Traumatic Brain Injury.
+**Authors:** Lampros M, Vlachodimitropoulou L, Voulgaris S, Alexiou GA  
+**Journal:** Biomedicines (2026)  
+**PMID:** 41751265  **DOI:** 10.3390/biomedicines14020365
+**Entities:** mTBI, TBI  
+**Abstract:** 
+
+### Delayed traumatic spinal epidural hematoma after mild traumatic brain injury successfully treated with minimally invasive technique: A case report.
+**Authors:** Santoso B, Soetomo CT, Bangun KGRS, Wahyudana ING, Mahadewa TGB et al.  
+**Journal:** Surgical neurology international (2026)  
+**PMID:** 42559466  **DOI:** 10.25259/SNI_397_2026
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Concurrent traumatic cranial and spinal epidural hematomas (SEHs) are rare neurosurgical emergencies. Delayed presentation of traumatic SHE (TSEH) following mild traumatic brain injury (TB...
+
+### S100 calcium-binding protein beta (S100B) in serum as a biomarker for epilepsy after traumatic brain injury: A register-based cohort study in Danish adults.
+**Authors:** Lolk K, Zelano J, Trabjerg BB, Dreier JW, Christensen J  
+**Journal:** Epilepsia (2026)  
+**PMID:** 41432378  **DOI:** 10.1002/epi.70049
+**Entities:** S100B, mTBI, TBI  
+**Abstract:** OBJECTIVE: This study was undertaken to evaluate whether elevated serum levels of S100 calcium-binding protein beta (S100B) provide a prognostic biomarker for the development of epilepsy after traumat...
+
+### Sex differences in plasma endocannabinoids and related lipids before and after single and repeated mTBI: an exploratory study of endolipid plasma biomarkers.
+**Authors:** Richter E, Woodward TJ, Kulkarni PP, Ferris CF, Bradshaw HB  
+**Journal:** Frontiers in molecular neuroscience (2026)  
+**PMID:** 42396170  **DOI:** 10.3389/fnmol.2026.1707732
+**Entities:** neuroinflammation, mTBI, TBI  
+**Abstract:** Sex differences in mild traumatic brain injury (mTBI) symptoms and severity are documented in both initial clinical presentation and long-term outcomes. Convergent data have demonstrated that the long...
+
+### Association between early cognitive rehabilitation and long-term cognitive recovery in patients with mild traumatic brain injury: a retrospective cohort study.
+**Authors:** Ren Y, Wu H, Lu Y, Zeng Q, Su Q  
+**Journal:** Frontiers in human neuroscience (2026)  
+**PMID:** 42517055  **DOI:** 10.3389/fnhum.2026.1846518
+**Entities:** GFAP, NfL, IL-6, mTBI, TBI  
+**Abstract:** OBJECTIVE: To examine the association between early cognitive rehabilitation (E-CR) and long-term cognitive, functional, and biomarker outcomes in patients with mild traumatic brain injury (mTBI). MET...
+
+### Diagnostic Accuracy and Prognostic Value of the Dual GFAP/UCH-L1 Test in Patients Presenting to the Emergency Department with Mild Traumatic Brain Injury.
+**Authors:** Menacho-Roman M, Morales Rodríguez A, Penedo Alonso JR, Pecharromán de Las Heras I, Vicente Bartulos A et al.  
+**Journal:** The journal of applied laboratory medicine (2026)  
+**PMID:** 42474046  **DOI:** 10.1093/jalm/jfag110
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** BACKGROUND: Excessive use of head computed tomography (CT) in mild traumatic brain injury (TBI) increases radiation exposure and contributes to emergency department crowding. Blood biomarkers glial fi...
+
+### Risk factors associated with significant posttraumatic brain hemorrhage as per the QueBIC categories: A retrospective multicenter study.
+**Authors:** Benhamed A, Crombé A, Matichard R, Seux M, Frassin L et al.  
+**Journal:** The journal of trauma and acute care surgery (2026)  
+**PMID:** 42283508  **DOI:** 10.1097/TA.0000000000005090
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Among adults with mild traumatic brain injury (mTBI), only a minority develop clinically significant intracranial hemorrhage requiring neurosurgical intervention or causing death. The Queb...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
@@ -18099,6 +22299,97 @@
 **PMID:** 41449335  **DOI:** 10.1186/s12873-025-01454-y
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: Mild traumatic brain injury (mTBI) is a frequent cause of emergency department (ED) admission, with most cases being uncomplicated. However, a subset of patients presents with intracranial...
+
+### Recovery from Mild Traumatic Brain Injury in the Nonathletic Population: A Systematic Review.
+**Authors:** Déry V, Lafond G, Picard R, Langevin P  
+**Journal:** Neurotrauma reports (2025)  
+**PMID:** 40697806  **DOI:** 10.1089/neur.2025.0006
+**Entities:** mTBI, TBI, NSE  
+**Abstract:** The objective of this study was to document the resolution rate of mild Traumatic Brain Injury (mTBI) symptoms at various time points in a nonathletic adult population and identify prognostic factors ...
+
+### Mild TBI Changes Brain and Plasma Neurosteroid Levels in Mice.
+**Authors:** Umeasalugo KE, Khalin I, Seker B, Liere P, Pianos A et al.  
+**Journal:** Neurotrauma reports (2025)  
+**PMID:** 39990706  **DOI:** 10.1089/neur.2024.0151
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) accounts for 80% of all TBI, may be associated with chronic impairments, and is difficult to diagnose due to a lack of objective markers. In this study, we investiga...
+
+### Resting-state EEG and machine learning to investigate cortical connectivity as a biomarker in chronic mTBI.
+**Authors:** Marshall WJ, Conner AN, Key AP, Rex TS  
+**Journal:** medRxiv : the preprint server for health sciences (2025)  
+**PMID:** 41282759  **DOI:** 10.1101/2025.10.28.25338644
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) is a heterogeneous condition with long-term sequelae, yet diagnosis in the chronic stage remains limited by reliance on acute criteria and subjective reports. Object...
+
+### Analytical and clinical evaluations of Snibe Maglumi® S100B assay.
+**Authors:** Kahouadji S, Picard L, Bailly Defrance V, Pereira B, Bouvier D et al.  
+**Journal:** Clinical chemistry and laboratory medicine (2025)  
+**PMID:** 39918035  **DOI:** 10.1515/cclm-2024-1508
+**Entities:** S100B, mTBI, TBI  
+**Abstract:** OBJECTIVES: To assess the analytical performances of Snibe Maglumi® S100 assay and compare it with the Roche Elecsys® S100B assay in adults with mild traumatic brain injury (mTBI) focusing on reducing...
+
+### Resting-state EEG and machine learning to investigate cortical connectivity as a biomarker in chronic mTBI.
+**Authors:** Marshall WJ, Conner AN, Key AP, Rex TS  
+**Journal:** Frontiers in neurology (2025)  
+**PMID:** 41669533  **DOI:** 10.3389/fneur.2025.1721726
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: Mild traumatic brain injury (mTBI) is a heterogeneous condition with long-term sequelae, yet diagnosis in the chronic stage remains limited by reliance on acute criteria and subjective r...
+
+### Plasma levels of biomarkers associated with vasodilation and neuroinflammation in pediatric patients with head trauma and their relationship with clinical characteristics of patients.
+**Authors:** Baranoglu Kilinc Y, Dagistan Y, Kilinc E  
+**Journal:** Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery (2025)  
+**PMID:** 40608131  **DOI:** 10.1007/s00381-025-06883-5
+**Entities:** neuroinflammation, mTBI, TBI  
+**Abstract:** PURPOSE: Traumatic brain injury in children can lead to lifelong sequelae and disabilities. Identifying the mediators of the neuroinflammatory process resulting from head trauma is of great importance...
+
+### Impact of prior exposures on biomarkers of blast during military tactical training.
+**Authors:** Wang Z, Sun S, Liu Q, Kranfli AA, Nemes J et al.  
+**Journal:** Frontiers in neurology (2025)  
+**PMID:** 40433620  **DOI:** 10.3389/fneur.2025.1589742
+**Entities:** Aβ42, mTBI, TBI, Simoa  
+**Abstract:** INTRODUCTION: Blast injuries and subclinical effects are of significant concern among those Service Members (SMs) participating in military operations and tactical trainings. Studies of SMs repeatedly...
+
+### Sex Differences in Plasma Levels of Endocannabinoids and Related Lipids Before and After acute and repeated mTBI: an exploratory study for plasma biomarkers for mTBI.
+**Authors:** Richter E, Woodward T, Kulkarni PP, Ferris CF, Bradshaw HB  
+**Journal:** bioRxiv : the preprint server for biology (2025)  
+**PMID:** 41000999  **DOI:** 10.1101/2025.09.10.675401
+**Entities:** neuroinflammation, mTBI, TBI, PPCS, Alzheimer  
+**Abstract:** Mild traumatic brain injury (mTBI) is common diagnosis across all age groups and while most symptoms resolve within a few weeks; between 10 and 25 percent of mTBI patients suffer long-term problems. K...
+
+### Biological Plausibility of Using Plasma Amino Acid Profile Determination as a Potential Biomarker for Pediatric Patients with Mild Traumatic Brain Injuries.
+**Authors:** Pérez-Arredondo A, Cázares-Ramírez E, Tristán-López L, Jiménez-Gutiérrez C, Pérez-Lozano DL et al.  
+**Journal:** Neurology international (2025)  
+**PMID:** 41002933  **DOI:** 10.3390/neurolint17090145
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Amino acid biomarkers have a crucial influence on our understanding of brain injury mechanisms, and their plasma concentrations may indicate neurological damage and recovery patterns. Pedi...
+
+### Computed Tomography Findings of Children Under 3 Years of Age with Mild Traumatic Brain Injury (TBI) and No Neurological Focal Signs.
+**Authors:** Markovic K, Djuricic G, Milojkovic D, Banovac D, Davidovic K et al.  
+**Journal:** Journal of clinical medicine (2025)  
+**PMID:** 40283558  **DOI:** 10.3390/jcm14082728
+**Entities:** mTBI, TBI  
+**Abstract:** 
+
+### Multimodal Canonical Correlation Analysis with Joint Independent Component Analysis (mCCA+jICA) of IVIM and ASL MRI Reveals Perfusion and Diffusion Abnormalities in mTBI-A Pilot Study.
+**Authors:** Bergamino M, Ott LR, McElvogue MM, Jha R, Moreno C et al.  
+**Journal:** NeuroSci (2025)  
+**PMID:** 41441200  **DOI:** 10.3390/neurosci6040123
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) frequently causes subtle brain changes that are difficult to detect with conventional diagnostic approaches. In this exploratory pilot study, we combined tri-exponen...
+
+### Near Infrared Spectroscopy as a Diagnostic Tool for Screening of Intracranial Hematomas; A Systematic Review and Meta-Analysis.
+**Authors:** Zarei H, Zarrin A, Janmohamadi M, Saadatipour N, Yarahmadi M et al.  
+**Journal:** Archives of academic emergency medicine (2025)  
+**PMID:** 39465060  **DOI:** 10.22037/aaem.v13i1.2411
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: Evidence supports the clinical applicability of near-infrared spectroscopy (NIRS) in intracranial hematoma detection in prehospital settings. This systematic review and meta-analysis aim...
+
+### Evaluating NfL and NTproBNP as predictive biomarkers of intracranial injuries after mild traumatic brain injury in children presenting to emergency departments.
+**Authors:** Chiollaz AC, Pouillard V, Seiler M, Habre C, Romano F et al.  
+**Journal:** Frontiers in neurology (2025)  
+**PMID:** 39949794  **DOI:** 10.3389/fneur.2025.1518776
+**Entities:** GFAP, S100B, NfL, mTBI, TBI  
+**Abstract:** OBJECTIVE: Blood-biomarkers have the potential to aid clinicians in pediatric emergency departments (PED) in managing children with mild traumatic brain injury (mTBI) acutely. However, studies focusin...
 
 ### Macroscopic changes in aquaporin-4 underlie blast traumatic brain injury-related impairment in glymphatic function.
 **Authors:** Braun M, Sevao M, Keil SA, Gino E, Wang MX et al.  
@@ -18415,6 +22706,62 @@
 **Entities:** —  
 **Abstract:** BackgroundAcute respiratory distress syndrome (ARDS) is pathologically characterized by diffuse alveolar damage (DAD) and is associated with high morbidity and mortality rates. Remodeling of the extra...
 
+### Predicting recovery in patients with mild traumatic brain injury and a normal CT using serum biomarkers and diffusion tensor imaging (CENTER-TBI): an observational cohort study.
+**Authors:** Richter S, Winzeck S, Correia MM, Czeiter E, Whitehouse D et al.  
+**Journal:** EClinicalMedicine (2024)  
+**PMID:** 39720677  **DOI:** 10.1016/j.eclinm.2024.102751
+**Entities:** GFAP, S100B, NfL, mTBI, TBI  
+**Abstract:** BACKGROUND: Even patients with normal computed tomography (CT) head imaging may experience persistent symptoms for months to years after mild traumatic brain injury (mTBI). There is currently no good ...
+
+### Correction to: Serum biomarkers and disease progression in CT-negative mild traumatic brain injury.
+**Authors:** —  
+**Journal:** Cerebral cortex (New York, N.Y. : 1991) (2024)  
+**PMID:** 38442148  **DOI:** 10.1093/cercor/bhae115
+**Entities:** —  
+**Abstract:** 
+
+### Assessment of Oculomotor Functions as a Biomarker in Mild Traumatic Brain Injury.
+**Authors:** Lunkova E, Chen JK, Saluja RS, Ptito A  
+**Journal:** Neurotrauma reports (2024)  
+**PMID:** 39036432  **DOI:** 10.1089/neur.2024.0018
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI), or concussion, is a major public health problem, and ambiguity still exists regarding its diagnosis. While functional magnetic resonance imaging (fMRI) has been ide...
+
+### Update on the role of S100B in traumatic brain injury in pediatric population: a meta-analysis.
+**Authors:** Morello A, Schiavetti I, Lo Bue E, Portonero I, Colonna S et al.  
+**Journal:** Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery (2024)  
+**PMID:** 39177800  **DOI:** 10.1007/s00381-024-06565-8
+**Entities:** S100B, mTBI, TBI  
+**Abstract:** OBJECTIVE: Cranial computed tomography (CT) scan is the most widely used tool to rule out intracranial lesions after pediatric traumatic brain injury (TBI). However, in pediatric population, the radia...
+
+### Concussions: A Review of Physiological Changes and Long-Term Sequelae.
+**Authors:** Patel H, Polam S, Joseph R  
+**Journal:** Cureus (2024)  
+**PMID:** 38505457  **DOI:** 10.7759/cureus.54375
+**Entities:** IL-6, mTBI, TBI, CTE  
+**Abstract:** A concussion is a type of mild traumatic brain injury (mTBI). It is prevalent among athletes across a wide variety of sports. The exact mechanism of a concussion is unknown, but it is currently accept...
+
+### Sex-specific antioxidant biomarker depletion in patients with a history of mild traumatic brain injury.
+**Authors:** Koza LA, Grossberg AN, Bishop M, Prusmack C, Linseman DA  
+**Journal:** Advances in redox research (2024)  
+**PMID:** 38562523  **DOI:** 10.1016/j.arres.2024.100097
+**Entities:** mTBI, TBI  
+**Abstract:** Individuals with a history of mild traumatic brain injury (mTBI) are at an increased risk for neurodegenerative disease, suggesting that intrinsic neuroprotective mechanisms, such as the endogenous an...
+
+### Diagnostic potential of IL6 and other blood-based inflammatory biomarkers in mild traumatic brain injury among children.
+**Authors:** Chiollaz AC, Pouillard V, Habre C, Seiler M, Romano F et al.  
+**Journal:** Frontiers in neurology (2024)  
+**PMID:** 39055316  **DOI:** 10.3389/fneur.2024.1432217
+**Entities:** IL-6, mTBI, TBI  
+**Abstract:** OBJECTIVES: Inflammatory biomarkers, as indicators of biological states, provide a valuable approach for accurate and reproducible measurements, crucial for the effective management of mild traumatic ...
+
+### Evaluating the Utility of Repeat Computed Tomography Scans in Patients with Isolated Mild Traumatic Subarachnoid Hemorrhage.
+**Authors:** Nawabi NLA, Kilgallon JL, McNulty JJ, Stopa BM, Gerstl JVE et al.  
+**Journal:** World neurosurgery (2024)  
+**PMID:** 38403015  **DOI:** 10.1016/j.wneu.2024.02.100
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Traumatic subarachnoid hemorrhage (tSAH) is a common consequence of head trauma. Treatment of patients with tSAH commonly involves serial computed tomography (CT) scans to assess for expan...
+
 ### [Mild traumatic brain injuries].
 **Authors:** Vesterlund R, Thelin E, Rubenson Wahlin R, Jin Yang L  
 **Journal:** Lakartidningen (2023)  
@@ -18610,6 +22957,76 @@
 **PMID:** biorxiv:10.1101/2023.01.10.23284296  **DOI:** 10.1101/2023.01.10.23284296
 **Entities:** GFAP, UCH-L1, S100B, tau, mTBI  
 **Abstract:** <h4>Background</h4> There is no objective way of diagnosing or prognosticating acute traumatic brain injuries (TBIs). A systematic review conducted by Mondello et al . reviewed studies looking at bloo...
+
+### Blood biomarkers of secondary outcomes following concussion: A systematic review.
+**Authors:** Swaney EEK, Cai T, Seal ML, Ignjatovic V  
+**Journal:** Frontiers in neurology (2023)  
+**PMID:** 36925940  **DOI:** 10.3389/fneur.2023.989974
+**Entities:** GFAP, S100B, tau, mTBI  
+**Abstract:** INTRODUCTION: Blood biomarkers have been identified as an alternative tool for predicting secondary outcomes following concussion. This systematic review aimed to summarize the literature on blood bio...
+
+### Emergency department visits for mild traumatic brain injury in early childhood.
+**Authors:** Rose SC, Levine DA, Shi J, Wheeler K, Aungst T et al.  
+**Journal:** The American journal of emergency medicine (2023)  
+**PMID:** 36580699  **DOI:** 10.1016/j.ajem.2022.12.035
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Brain injury during early childhood may disrupt key periods of neurodevelopment. Most research regarding mild traumatic brain injury (mTBI) has focused on school-age children. We sought to...
+
+### Plasma von Willebrand Factor Is Elevated Hyperacutely After Mild Traumatic Brain Injury.
+**Authors:** Thomas R, Lynch CE, Debad J, Campbell C, Chidomere O et al.  
+**Journal:** Neurotrauma reports (2023)  
+**PMID:** 37908322  **DOI:** 10.1089/neur.2023.0044
+**Entities:** mTBI, TBI  
+**Abstract:** Each year in the United States, ∼2.7 million persons seek medical attention for traumatic brain injury (TBI), of which ∼85% are characterized as being mild brain injuries. Many different cell types in...
+
+### Neuroinflammatory Biomarkers for Traumatic Brain Injury Diagnosis and Prognosis: A TRACK-TBI Pilot Study.
+**Authors:** Yue JK, Kobeissy FH, Jain S, Sun X, Phelps RRL et al.  
+**Journal:** Neurotrauma reports (2023)  
+**PMID:** 36974122  **DOI:** 10.1089/neur.2022.0060
+**Entities:** IL-6, neuroinflammation, mTBI, TBI, GOS-E  
+**Abstract:** The relationship between systemic inflammation and secondary injury in traumatic brain injury (TBI) is complex. We investigated associations between inflammatory markers and clinical confirmation of T...
+
+### Extracting the most discriminating functional connections in mild traumatic brain injury based on machine learning.
+**Authors:** Teng J, Liu W, Mi C, Zhang H, Shi J et al.  
+**Journal:** Neuroscience letters (2023)  
+**PMID:** 37236344  **DOI:** 10.1016/j.neulet.2023.137311
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Mild traumatic brain injury (mTBI) is characterized as brain microstructural damage, which may cause a wide range of brain functional disturbances and emotional problems. Brain network ana...
+
+### Hippocampal vulnerability to hyperhomocysteinemia worsens pathological outcomes of mild traumatic brain injury in rats.
+**Authors:** Tchantchou F, Hsia RC, Puche A, Fiskum G  
+**Journal:** Journal of central nervous system disease (2023)  
+**PMID:** 36909831  **DOI:** 10.1177/11795735231160025
+**Entities:** ROS, oxidative stress, BBB, mTBI, TBI  
+**Abstract:** BACKGROUND: Mild traumatic brain injury (mTBI) generally resolves within weeks. However, 15-30% of patients present persistent pathological and neurobehavioral sequelae that negatively affect their qu...
+
+### Association of Plasma Biomarkers with Sleep Outcomes and Treatment Response After Mild Traumatic Brain Injury.
+**Authors:** Eagle SR, Puccio AM, Agoston DV, Mancinelli M, Nwafo R et al.  
+**Journal:** Neurotrauma reports (2023)  
+**PMID:** 37095856  **DOI:** 10.1089/neur.2023.0002
+**Entities:** mTBI, TBI  
+**Abstract:** Sleep disturbances occur in up to 70% of patients with mild traumatic brain injury (mTBI). Modern mTBI management recommends targeted treatment for the patient's unique clinical manifestations (i.e., ...
+
+### Assessing blood oxygen level-dependent signal variability as a biomarker of brain injury in sport-related concussion.
+**Authors:** Anderson ED, Talukdar T, Goodwin G, Di Pietro V, Yakoub KM et al.  
+**Journal:** Brain communications (2023)  
+**PMID:** 37649639  **DOI:** 10.1093/braincomms/fcad215
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Mild traumatic brain injury is a complex neurological disorder of significant concern among athletes who play contact sports. Athletes who sustain sport-related concussion typically undergo physical e...
+
+### Justification of Indication for Cranial CT Imaging after Mild Traumatic Brain Injury According to the Current National Guidelines.
+**Authors:** Sakkas A, Weiß C, Wilde F, Ebeling M, Scheurer M et al.  
+**Journal:** Diagnostics (Basel, Switzerland) (2023)  
+**PMID:** 37296677  **DOI:** 10.3390/diagnostics13111826
+**Entities:** mTBI, TBI  
+**Abstract:** The primary aim was to evaluate the compliance of cranial CT indication with the national guideline-based decision rules in patients after mTBI. The secondary aim was to determine the incidence of CT ...
+
+### Levels of Arachidonic Acid-Derived Oxylipins and Anandamide Are Elevated Among Military APOE ɛ4 Carriers With a History of Mild Traumatic Brain Injury and Post-Traumatic Stress Disorder Symptoms.
+**Authors:** Nkiliza A, Huguenard CJC, Aldrich GJ, Ferguson S, Cseresznye A et al.  
+**Journal:** Neurotrauma reports (2023)  
+**PMID:** 37786567  **DOI:** 10.1089/neur.2023.0045
+**Entities:** mTBI, TBI  
+**Abstract:** Currently approved blood biomarkers detect intracranial lesions in adult patients with mild to moderate traumatic brain injury (TBI) acutely post-injury. However, blood biomarkers are still needed to ...
 
 ### Traumatic Subarachnoid Hemorrhage: A Scoping Review.
 **Authors:** Griswold DP, Fernandez L, Rubiano AM  
@@ -18862,6 +23279,83 @@
 **PMID:** biorxiv:10.1101/2022.04.01.22273270  **DOI:** 10.1101/2022.04.01.22273270
 **Entities:** —  
 **Abstract:** <h4>ABSTRACT</h4> <h4>Background</h4> Interstitial lung disease (ILD) is a known complication of rheumatoid arthritis (RA) with a lifetime risk in any individual of 7.7%. The TRAIL1 trial was a random...
+
+### Extracellular vesicle-associated cytokines in sport-related concussion.
+**Authors:** Meier TB, Guedes VA, Smith EG, Sass D, Mithani S et al.  
+**Journal:** Brain, behavior, and immunity (2022)  
+**PMID:** 34848337  **DOI:** 10.1016/j.bbi.2021.11.015
+**Entities:** IL-6, TNF-α, IL-1β, mTBI  
+**Abstract:** Growing evidence suggests that sport-related concussion results in a robust inflammatory response that can be measured in serum or plasma and is predictive of symptom recovery. Recently, extracellular...
+
+### Alterations in Baroreflex Sensitivity and Blood Pressure Variability Following Sport-Related Concussion.
+**Authors:** Ellingson CJ, Singh J, Ellingson CA, Sirant LW, Krätzig GP et al.  
+**Journal:** Life (Basel, Switzerland) (2022)  
+**PMID:** 36143435  **DOI:** 10.3390/life12091400
+**Entities:** mTBI  
+**Abstract:** Current methods to diagnose concussions are subjective and difficult to confirm. A variety of physiological biomarkers have been reported, but with conflicting results. This study assessed heart rate ...
+
+### Synaptamide Modulates Astroglial Activity in Mild Traumatic Brain Injury.
+**Authors:** Ponomarenko A, Tyrtyshnaia A, Ivashkevich D, Ermolenko E, Dyuizen I et al.  
+**Journal:** Marine drugs (2022)  
+**PMID:** 36005540  **DOI:** 10.3390/md20080538
+**Entities:** mTBI, TBI  
+**Abstract:** At present, the study of the neurotropic activity of polyunsaturated fatty acid ethanolamides (N-acylethanolamines) is becoming increasingly important. N-docosahexaenoylethanolamine (synaptamide, DHEA...
+
+### APOE Is Associated With Serum Tau Following Uncomplicated Mild Traumatic Brain Injury.
+**Authors:** Lippa SM, Lange RT, Dalgard CL, Soltis AR, Guedes VA et al.  
+**Journal:** Frontiers in neurology (2022)  
+**PMID:** 35911887  **DOI:** 10.3389/fneur.2022.816625
+**Entities:** tau, mTBI, TBI  
+**Abstract:** BACKGROUND AND OBJECTIVES: APOE e4 has been linked to poor outcome following traumatic brain injury (TBI); however, the mechanisms behind this relationship are unclear. Few studies have investigated t...
+
+### A Novel Blood Inflammatory Indicator for Predicting Deterioration Risk of Mild Traumatic Brain Injury.
+**Authors:** Ge X, Zhu L, Li M, Li W, Chen F et al.  
+**Journal:** Frontiers in aging neuroscience (2022)  
+**PMID:** 35557838  **DOI:** 10.3389/fnagi.2022.878484
+**Entities:** mTBI, TBI, aging  
+**Abstract:** Mild traumatic brain injury (mTBI) has a relatively higher incidence in aging people due to walking problems. Cranial computed tomography and magnetic resonance imaging provide the standard diagnostic...
+
+### Proteomic Profiling of Plasma Biomarkers Associated With Return to Sport Following Concussion: Findings From the NCAA and Department of Defense CARE Consortium.
+**Authors:** Vorn R, Mithani S, Devoto C, Meier TB, Lai C et al.  
+**Journal:** Frontiers in neurology (2022)  
+**PMID:** 35928129  **DOI:** 10.3389/fneur.2022.901238
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To investigate the plasma proteomic profiling in identifying biomarkers related to return to sport (RTS) following a sport-related concussion (SRC). METHODS: This multicenter, prospective, ...
+
+### Potential of heart fatty-acid binding protein, neurofilament light, interleukin-10 and S100 calcium-binding protein B in the acute diagnostics and severity assessment of traumatic brain injury.
+**Authors:** Koivikko P, Posti JP, Mohammadian M, Lagerstedt L, Azurmendi L et al.  
+**Journal:** Emergency medicine journal : EMJ (2022)  
+**PMID:** 34916280  **DOI:** 10.1136/emermed-2020-209471
+**Entities:** S100B, NfL, mTBI, TBI  
+**Abstract:** BACKGROUND: There is substantial interest in blood biomarkers as fast and objective diagnostic tools for traumatic brain injury (TBI) in the acute setting. METHODS: Adult patients (≥18) with TBI of an...
+
+### A Versatile Pep-CPDs Nanoprobe for Rapid Detection of mTBI Biomarker in Clinical Instances and Safe Fluorescence Imaging In Vivo for Improved Weight-Drop Mouse Model.
+**Authors:** Shi J, Li X, Cavagnaro MJ, Cai J, Zhang C et al.  
+**Journal:** Frontiers in bioengineering and biotechnology (2022)  
+**PMID:** 35340839  **DOI:** 10.3389/fbioe.2022.807486
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) is the most common form of traumatic brain injury; however, it is the most difficult to be accurately identified in the early stage because it lacks more reliable bi...
+
+### Fluid biomarkers and risk of neurodegenerative disease in retired athletes with multiple concussions: results from the International Concussion and Head Injury Research Foundation Brain health in Retired athletes Study of Ageing and Impact-Related Neurodegenerative Disease (ICHIRF-BRAIN study).
+**Authors:** Swann OJ, Turner M, Heslegrave A, Zetterberg H  
+**Journal:** BMJ open sport & exercise medicine (2022)  
+**PMID:** 36111130  **DOI:** 10.1136/bmjsem-2022-001327
+**Entities:** GFAP, NfL, tau, Aβ42, mTBI  
+**Abstract:** OBJECTIVES: To investigate the association and utility of blood plasma markers of neurodegeneration in a population of retired athletes self-reporting multiple concussions throughout a sporting career...
+
+### Quick cell-free DNA testing for the prediction of postconcussion syndrome: a single-center prospective pilot trial.
+**Authors:** Ben Zvi I, Harel OS, Douvdevani A, Weiss P, Cohen C et al.  
+**Journal:** Journal of neurosurgery (2022)  
+**PMID:** 34624860  **DOI:** 10.3171/2021.5.JNS21501
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: Mild traumatic brain injury (mTBI) is a major cause of emergency room (ER) admission. Thirty percent of mTBI patients have postconcussion syndrome (PCS), and 15% have symptoms for over a ye...
+
+### Alterations to the gut microbiome after sport-related concussion in a collegiate football players cohort: A pilot study.
+**Authors:** Soriano S, Curry K, Sadrameli SS, Wang Q, Nute M et al.  
+**Journal:** Brain, behavior, & immunity - health (2022)  
+**PMID:** 35284846  **DOI:** 10.1016/j.bbih.2022.100438
+**Entities:** GFAP, S100B, mTBI  
+**Abstract:** Concussions, both single and repetitive, cause brain and body alterations in athletes during contact sports. The role of the brain-gut connection and changes in the microbiota have not been well estab...
 
 ### Assessing the efficacy of mild traumatic brain injury management.
 **Authors:** Weber MW, Nie JZ, Espinosa JA, Delfino KR, Michael AP  
@@ -19170,6 +23664,55 @@
 **PMID:** biorxiv:10.1101/2020.12.30.20248929  **DOI:** 10.1101/2020.12.30.20248929
 **Entities:** —  
 **Abstract:** <h4>ABSTRACT</h4> <h4>Background</h4> Acute respiratory distress syndrome (ARDS) is the major cause of death in coronavirus disease 2019 (COVID-19). Multiple autopsy-based reports of COVID-19 lung pat...
+
+### Plasma-based S100B testing for management of traumatic brain injury in emergency setting.
+**Authors:** Haselmann V, Schamberger C, Trifonova F, Ast V, Froelich MF et al.  
+**Journal:** Practical laboratory medicine (2021)  
+**PMID:** 34041343  **DOI:** 10.1016/j.plabm.2021.e00236
+**Entities:** S100B, mTBI, TBI  
+**Abstract:** BACKGROUND: Serum biomarker S100B has been explored for its potential benefit to improve clinical decision-making in the management of patients suffering from traumatic brain injury (TBI), especially ...
+
+### Cognitive deficits and rehabilitation mechanisms in mild traumatic brain injury patients revealed by EEG connectivity markers.
+**Authors:** Liu S, Shi C, Ma X, Zhao B, Chen X et al.  
+**Journal:** Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology (2021)  
+**PMID:** 33453686  **DOI:** 10.1016/j.clinph.2020.11.034
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: To explore the multiple specific biomarkers and cognitive compensatory mechanisms of mild traumatic brain injury (mTBI) patients at recovery stage. METHODS: The experiment was performed in ...
+
+### Delayed intracranial hemorrhage after mild traumatic brain injury in patients on oral anticoagulants: is the juice worth the squeeze?
+**Authors:** Covino M, Manno A, Della Pepa GM, Piccioni A, Tullo G et al.  
+**Journal:** European review for medical and pharmacological sciences (2021)  
+**PMID:** 33877670  **DOI:** 10.26355/eurrev_202104_25560
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: Mild Traumatic Brain Injury (MTBI) in anticoagulated patients is a common challenge for Emergency Department (ED) Physicians. Anticoagulation is considered a risk factor for developing dela...
+
+### Putative Concussion Biomarkers Identified in Adolescent Male Athletes Using Targeted Plasma Proteomics.
+**Authors:** Miller MR, Robinson M, Fischer L, DiBattista A, Patel MA et al.  
+**Journal:** Frontiers in neurology (2021)  
+**PMID:** 34987469  **DOI:** 10.3389/fneur.2021.787480
+**Entities:** mTBI  
+**Abstract:** Sport concussions can be difficult to diagnose and if missed, they can expose athletes to greater injury risk and long-lasting neurological disabilities. Discovery of objective biomarkers to aid concu...
+
+### Blood-Brain Barrier Disruption in Mild Traumatic Brain Injury Patients with Post-Concussion Syndrome: Evaluation with Region-Based Quantification of Dynamic Contrast-Enhanced MR Imaging Parameters Using Automatic Whole-Brain Segmentation.
+**Authors:** Yoen H, Yoo RE, Choi SH, Kim E, Oh BM et al.  
+**Journal:** Korean journal of radiology (2021)  
+**PMID:** 32783413  **DOI:** 10.3348/kjr.2020.0016
+**Entities:** BBB, mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: This study aimed to investigate the blood-brain barrier (BBB) disruption in mild traumatic brain injury (mTBI) patients with post-concussion syndrome (PCS) using dynamic contrast-enhanced (...
+
+### Omega-3 Fatty Acids and Vitamin D Decrease Plasma T-Tau, GFAP, and UCH-L1 in Experimental Traumatic Brain Injury.
+**Authors:** Scrimgeour AG, Condlin ML, Loban A, DeMar JC  
+**Journal:** Frontiers in nutrition (2021)  
+**PMID:** 34150829  **DOI:** 10.3389/fnut.2021.685220
+**Entities:** GFAP, UCH-L1, tau, neuroinflammation, mTBI  
+**Abstract:** Traumatic brain injury (TBI) results in neuronal, axonal and glial damage. Interventions targeting neuroinflammation to enhance recovery from TBI are needed. Exercise is known to improve cognitive fun...
+
+### Hippocampal cerebral blood flow increased following low-pressure hyperbaric oxygenation in firefighters with mild traumatic brain injury and emotional distress.
+**Authors:** Ma J, Hong G, Ha E, Hong H, Kim J et al.  
+**Journal:** Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology (2021)  
+**PMID:** 33532950  **DOI:** 10.1007/s10072-021-05094-5
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Recent evidence suggests that hyperbaric oxygenation (HBO), which has been used as an effective treatment for certain types of tissue injury, may change neural activities in the human brai...
 
 ### 'Concussion' is not a true diagnosis.
 **Authors:** Smith DH, Stewart W  
@@ -19584,6 +24127,104 @@
 **Entities:** —  
 **Abstract:** Current bottlenecks for improving accessibility and scalability of SARS-CoV-2 testing include diagnostic assay costs, complexity, and supply chain shortages. To resolve these issues, we developed Sali...
 
+### Inflammatory Cytokines Associate With Neuroimaging After Acute Mild Traumatic Brain Injury.
+**Authors:** Edwards KA, Pattinson CL, Guedes VA, Peyer J, Moore C et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 32508732  **DOI:** 10.3389/fneur.2020.00348
+**Entities:** mTBI, TBI  
+**Abstract:** 
+
+### Serum Protein Biomarker Findings Reflective of Oxidative Stress and Vascular Abnormalities in Male, but Not Female, Collision Sport Athletes.
+**Authors:** Major BP, McDonald SJ, O'Brien WT, Symons GF, Clough M et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 33117257  **DOI:** 10.3389/fneur.2020.549624
+**Entities:** ROS, oxidative stress  
+**Abstract:** Studies have indicated that concussive and sub-concussive brain injuries that are frequent during collision sports may lead to long-term neurological abnormalities, however there is a knowledge gap on...
+
+### Circulating GFAP and Iba-1 levels are associated with pathophysiological sequelae in the thalamus in a pig model of mild TBI.
+**Authors:** Lafrenaye AD, Mondello S, Wang KK, Yang Z, Povlishock JT et al.  
+**Journal:** Scientific reports (2020)  
+**PMID:** 32770054  **DOI:** 10.1038/s41598-020-70266-w
+**Entities:** GFAP, UCH-L1, Iba1, IL-6, mTBI  
+**Abstract:** Serum biomarkers are promising tools for evaluating patients following traumatic brain injury (TBI). However, their relationship with diffuse histopathology remains unclear. Additionally, translatabil...
+
+### Alterations in high-order diffusion imaging in veterans with Gulf War Illness is associated with chemical weapons exposure and mild traumatic brain injury.
+**Authors:** Cheng CH, Koo BB, Calderazzo S, Quinn E, Aenlle K et al.  
+**Journal:** Brain, behavior, and immunity (2020)  
+**PMID:** 32745586  **DOI:** 10.1016/j.bbi.2020.07.006
+**Entities:** TNF-α, neuroinflammation, mTBI, TBI  
+**Abstract:** The complex etiology behind Gulf War Illness (GWI) has been attributed to the combined exposure to neurotoxicant chemicals, brain injuries, and some combat experiences. Chronic GWI symptoms have been ...
+
+### S100B Blood Level Determination for Early Management of Ski-Related Mild Traumatic Brain Injury: A Pilot Study.
+**Authors:** Kahouadji S, Salamin P, Praz L, Coiffier J, Frochaux V et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 32922357  **DOI:** 10.3389/fneur.2020.00856
+**Entities:** S100B, mTBI, TBI  
+**Abstract:** 
+
+### Blood-based biomarkers for prediction of intracranial hemorrhage and outcome in patients with moderate or severe traumatic brain injury.
+**Authors:** Anderson TN, Hwang J, Munar M, Papa L, Hinson HE et al.  
+**Journal:** The journal of trauma and acute care surgery (2020)  
+**PMID:** 32251265  **DOI:** 10.1097/TA.0000000000002706
+**Entities:** GFAP, UCH-L1, mTBI, TBI, GOS-E  
+**Abstract:** BACKGROUND: Early identification of traumatic intracranial hemorrhage (ICH) has implications for triage and intervention. Blood-based biomarkers were recently approved by the Food and Drug Administrat...
+
+### Diagnostic properties of a portable near-infrared spectroscopy to detect intracranial hematoma in traumatic brain injury patients.
+**Authors:** Yuksen C, Sricharoen P, Puengsamran N, Saksobhavivat N, Sittichanbuncha Y et al.  
+**Journal:** European journal of radiology open (2020)  
+**PMID:** 32775555  **DOI:** 10.1016/j.ejro.2020.100246
+**Entities:** mTBI, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a major public health issue worldwide. A portable near-infrared spectroscopy (NIRS) is a non-invasive device to detect intracranial hematoma. The advantages of the NIRS...
+
+### Plasma Lipidomic Analyses in Cohorts With mTBI and/or PTSD Reveal Lipids Differentially Associated With Diagnosis and APOE ε4 Carrier Status.
+**Authors:** Huguenard CJC, Cseresznye A, Evans JE, Oberlin S, Langlois H et al.  
+**Journal:** Frontiers in physiology (2020)  
+**PMID:** 32082186  **DOI:** 10.3389/fphys.2020.00012
+**Entities:** mTBI, TBI  
+**Abstract:** The differential diagnosis between mild Traumatic Brain Injury (mTBI) sequelae and Post-Traumatic Stress Disorder (PTSD) is challenging due to their symptomatic overlap and co-morbidity. As such, ther...
+
+### Towards the Development of an Integrative, Evidence-Based Suite of Indicators for the Prediction of Outcome Following Mild Traumatic Brain Injury: Results from a Pilot Study.
+**Authors:** Gozt A, Licari M, Halstrom A, Milbourn H, Lydiard S et al.  
+**Journal:** Brain sciences (2020)  
+**PMID:** 31906443  **DOI:** 10.3390/brainsci10010023
+**Entities:** GFAP, mTBI, TBI, PPCS  
+**Abstract:** BACKGROUND: Persisting post-concussion symptoms (PPCS) is a complex, multifaceted condition in which individuals continue to experience the symptoms of mild traumatic brain injury (mTBI; concussion) b...
+
+### Comparing Glial Fibrillary Acidic Protein (GFAP) in Serum and Plasma Following Mild Traumatic Brain Injury in Older Adults.
+**Authors:** Huebschmann NA, Luoto TM, Karr JE, Berghem K, Blennow K et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 33071938  **DOI:** 10.3389/fneur.2020.01054
+**Entities:** GFAP, mTBI, TBI  
+**Abstract:** 
+
+### Admission Levels of Total Tau and β-Amyloid Isoforms 1-40 and 1-42 in Predicting the Outcome of Mild Traumatic Brain Injury.
+**Authors:** Hossain I, Mohammadian M, Takala RSK, Tenovuo O, Azurmendi Gil L et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 32477238  **DOI:** 10.3389/fneur.2020.00325
+**Entities:** tau, mTBI, TBI  
+**Abstract:** 
+
+### Serum Neurosteroid Levels Are Associated With Cortical Thickness in Individuals Diagnosed With Posttraumatic Stress Disorder and History of Mild Traumatic Brain Injury.
+**Authors:** Kinzel P, Marx CE, Sollmann N, Hartl E, Guenette JP et al.  
+**Journal:** Clinical EEG and neuroscience (2020)  
+**PMID:** 32186207  **DOI:** 10.1177/1550059420909676
+**Entities:** mTBI, TBI  
+**Abstract:** Posttraumatic stress disorder (PTSD) co-occurring with mild traumatic brain injury (mTBI) is common in veterans. Worse clinical outcome in those with PTSD has been associated with decreased serum neur...
+
+### Plasma Biomarker for Post-concussive Syndrome: A Pilot Study Using an Alternating Current Electro-Kinetic Platform.
+**Authors:** Lewis JM, Dhawan S, Obirieze AC, Sarno B, Akers J et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 32760343  **DOI:** 10.3389/fneur.2020.00685
+**Entities:** —  
+**Abstract:** 
+
+### Serum SNTF, a Surrogate Marker of Axonal Injury, Is Prognostic for Lasting Brain Dysfunction in Mild TBI Treated in the Emergency Department.
+**Authors:** Siman R, Cui H, Wewerka SS, Hamel L, Smith DH et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 32322237  **DOI:** 10.3389/fneur.2020.00249
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Mild traumatic brain injury (mTBI) causes persisting post-concussion syndrome for many patients without abnormalities on conventional neuroimaging. Currently, there is no method for identifying at-ris...
+
 ### Sports-Related Concussion: Neurometabolic Aspects.
 **Authors:** Banks RE, Domínguez DC  
 **Journal:** Seminars in speech and language (2019)  
@@ -19821,6 +24462,34 @@
 **PMID:** 31591179  **DOI:** 10.1212/WNL.0000000000008255
 **Entities:** —  
 **Abstract:** 
+
+### Correlation of Blood Biomarkers and Biomarker Panels with Traumatic Findings on Computed Tomography after Traumatic Brain Injury.
+**Authors:** Posti JP, Takala RSK, Lagerstedt L, Dickens AM, Hossain I et al.  
+**Journal:** Journal of neurotrauma (2019)  
+**PMID:** 30760178  **DOI:** 10.1089/neu.2018.6254
+**Entities:** GFAP, S100B, NfL, tau, Aβ42  
+**Abstract:** The aim of the study was to examine the ability of eight protein biomarkers and their combinations in discriminating computed tomography (CT)-negative and CT-positive patients with traumatic brain inj...
+
+### Evaluating glial and neuronal blood biomarkers GFAP and UCH-L1 as gradients of brain injury in concussive, subconcussive and non-concussive trauma: a prospective cohort study.
+**Authors:** Papa L, Zonfrillo MR, Welch RD, Lewis LM, Braga CF et al.  
+**Journal:** BMJ paediatrics open (2019)  
+**PMID:** 31531405  **DOI:** 10.1136/bmjpo-2019-000473
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** OBJECTIVES: To evaluate the ability of glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase (UCH-L1) to detect concussion in children and adult trauma patients with a normal menta...
+
+### Measurement of S100B protein: evaluation of a new prototype on a bioMérieux Vidas® 3 analyzer.
+**Authors:** Oris C, Chabanne R, Durif J, Kahouadji S, Brailova M et al.  
+**Journal:** Clinical chemistry and laboratory medicine (2019)  
+**PMID:** 30763262  **DOI:** 10.1515/cclm-2018-1217
+**Entities:** S100B, mTBI, TBI  
+**Abstract:** Background The addition of S100B protein to guidelines for the management of mild traumatic brain injury (mTBI) decreases the amount of unnecessary computed tomography (CT) scans with a significant de...
+
+### Fluctuations in blood biomarkers of head trauma in NCAA football athletes over the course of a season.
+**Authors:** Oliver JM, Anzalone AJ, Stone JD, Turner SM, Blueitt D et al.  
+**Journal:** Journal of neurosurgery (2019)  
+**PMID:** 29807487  **DOI:** 10.3171/2017.12.JNS172035
+**Entities:** NfL, tau  
+**Abstract:** OBJECTIVE: Repetitive subconcussive head trauma is a consequence of participation in contact sports and may be linked to neurodegenerative diseases. The degree of neurological injury caused by subconc...
 
 ### Exercise is Medicine for Concussion.
 **Authors:** Leddy JJ, Haider MN, Ellis M, Willer BS  
@@ -20192,6 +24861,48 @@
 **PMID:** 29315100  **DOI:** 10.1249/JSR.0000000000000438
 **Entities:** —  
 **Abstract:** 
+
+### Detection of a Traumatic Brain Injury Biomarker at the 10 fg/mL Level.
+**Authors:** Mathew AS, Shi X, Yau ST  
+**Journal:** Molecular diagnosis & therapy (2018)  
+**PMID:** 30377977  **DOI:** 10.1007/s40291-018-0365-5
+**Entities:** S100B, tau, mTBI, TBI  
+**Abstract:** BACKGROUND: The detection of minute amounts of protein biomarkers in body fluids is believed to provide early diagnosis and prognosis of mild traumatic brain injury (mTBI). An ultrasensitive detection...
+
+### A Mild Traumatic Brain Injury in Mice Produces Lasting Deficits in Brain Metabolism.
+**Authors:** Lyons DN, Vekaria H, Macheda T, Bakshi V, Powell DK et al.  
+**Journal:** Journal of neurotrauma (2018)  
+**PMID:** 29808778  **DOI:** 10.1089/neu.2018.5663
+**Entities:** mTBI, TBI  
+**Abstract:** Metabolic uncoupling has been well-characterized during the first minutes-to-days after a traumatic brain injury (TBI), yet mitochondrial bioenergetics during the weeks-to-months after a brain injury ...
+
+### High-Intensity Interval Training Is Associated With Alterations in Blood Biomarkers Related to Brain Injury.
+**Authors:** Di Battista AP, Moes KA, Shiu MY, Hutchison MG, Churchill N et al.  
+**Journal:** Frontiers in physiology (2018)  
+**PMID:** 30323770  **DOI:** 10.3389/fphys.2018.01367
+**Entities:** TBI  
+**Abstract:** 
+
+### Resting-state functional connectivity as a biomarker of aggression in mild traumatic brain injury.
+**Authors:** Dailey NS, Smith R, Vanuk JR, Raikes AC, Killgore WDS  
+**Journal:** Neuroreport (2018)  
+**PMID:** 30204638  **DOI:** 10.1097/WNR.0000000000001127
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) can alter the structure of the brain and result in a range of symptoms, including elevated aggression. Neurological damage associated with mTBI is traditionally view...
+
+### A Cross-Sectional Study on Cerebral Hemodynamics After Mild Traumatic Brain Injury in a Pediatric Population.
+**Authors:** Thibeault CM, Thorpe S, O'Brien MJ, Canac N, Ranjbaran M et al.  
+**Journal:** Frontiers in neurology (2018)  
+**PMID:** 29674994  **DOI:** 10.3389/fneur.2018.00200
+**Entities:** mTBI, TBI  
+**Abstract:** The microvasculature is prominently affected by traumatic brain injury (TBI), including mild TBI (concussion). Assessment of cerebral hemodynamics shows promise as biomarkers of TBI, and may help info...
+
+### Early measurement of interleukin-10 predicts the absence of CT scan lesions in mild traumatic brain injury.
+**Authors:** Lagerstedt L, Egea-Guerrero JJ, Rodríguez-Rodríguez A, Bustamante A, Montaner J et al.  
+**Journal:** PloS one (2018)  
+**PMID:** 29466474  **DOI:** 10.1371/journal.pone.0193278
+**Entities:** S100B, mTBI, TBI  
+**Abstract:** Traumatic brain injury is a common event where 70%-90% will be classified as mild TBI (mTBI). Among these, only 10% will have a brain lesion visible via CT scan. A triage biomarker would help clinicia...
 
 ### Research Letter: Relationship of Blood Biomarkers of Inflammation With Acute Concussion Symptoms and Recovery in the CARE Consortium.
 **Authors:** Meier TB, Huber DL, Goeckner BD, Gill JM, Pasquina P et al.  
@@ -22488,6 +27199,34 @@
 **Entities:** neuroinflammation, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) poses significant health challenges, involving complex immune responses and neuroinflammation. In TBI, immunoglobulin G (IgG) plays a key role in modulating ne...
 
+### Traumatic Brain Injury: Multi-Omics Insights into Brain Aging, Neurodegeneration, and Precision Therapeutics.
+**Authors:** Shafie A, Ashour AA, Alhujaily MM, Anjum F, Akhtar F et al.  
+**Journal:** Ageing research reviews (2026)  
+**PMID:** 42660464  **DOI:** 10.1016/j.arr.2026.103339
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a major cause of mortality and persistent neurological disability and is increasingly recognized as a potential contributor to accelerated brain aging and long-term neu...
+
+### Propranolol attenuates systemic inflammatory response in aged traumatic brain injury patients.
+**Authors:** Zhu Y, Lu Z, Wang C, Zhu X, Qu J et al.  
+**Journal:** International immunopharmacology (2026)  
+**PMID:** 42556280  **DOI:** 10.1016/j.intimp.2026.117196
+**Entities:** neuroinflammation, TBI, aging  
+**Abstract:** Aged traumatic brain injury (TBI) patients typically have a worse prognosis than younger individuals, though the underlying mechanisms remain incompletely understood. Secondary neuroinflammation is a ...
+
+### Brain-Derived Proteins Induce Autoimmune Responses via MBP-IgG Immune Complexes and Participate in Pulmonary Edema Following Traumatic Brain Injury.
+**Authors:** Shi Q, Hu TT, Liang B, Fang YH, Xu LX et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 42300019  **DOI:** 10.1177/08977151251404034
+**Entities:** TBI, MBP  
+**Abstract:** Neurogenic pulmonary edema (NPE) is a complication that often affects patients following central nervous system (CNS) injury. Nevertheless, the complex relationship between CNS injury and NPE initiati...
+
+### From Sensation to Action: Neuroplasticity, Cognitive-Motor Training, and Emerging Biomarkers of Adaptation.
+**Authors:** Witbeck C, Montina T, Metz GAS  
+**Journal:** Brain sciences (2026)  
+**PMID:** 42512523  **DOI:** 10.3390/brainsci16070749
+**Entities:** TBI, aging  
+**Abstract:** Human interaction with the environment depends on the integration of sensory input, cognitive processing, and motor output within dynamic sensorimotor loops. These processes are supported by distribut...
+
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
 **Journal:** Cell reports. Medicine (2025)  
@@ -22837,6 +27576,27 @@
 **PMID:** biorxiv:10.1101/2025.11.08.687178  **DOI:** 10.1101/2025.11.08.687178
 **Entities:** ROS, oxidative stress  
 **Abstract:** Staphylococcus haemolyticus is a common commensal bacterium but also an opportunistic pathogen, frequently implicated in bacteraemia and sepsis in preterm neonates and immunocompromised patients.  Des...
+
+### Intestinal 8 gingerol attenuates TBI-induced neuroinflammation by inhibiting microglia NLRP3 inflammasome activation in a PINK1/Parkin-dependent manner.
+**Authors:** Tang X, Huang L, Ma W, Huang M, Zeng Z et al.  
+**Journal:** Phytomedicine : international journal of phytotherapy and phytopharmacology (2025)  
+**PMID:** 40058316  **DOI:** 10.1016/j.phymed.2025.156580
+**Entities:** neuroinflammation, TBI  
+**Abstract:** BACKGROUND: traumatic brain injury (TBI) is irreversible brain damage, leading to inflammation and cognitive dysfunction. Microglia involved in the inflammatory response after TBI. The gut microbiota,...
+
+### GsMTx4 Mitigates Neuroinflammation and Promotes Functional Recovery by Maintaining Microenvironmental Homeostasis During the Acute Phase After Traumatic Brain Injury in Mice.
+**Authors:** Hong R, Xu C, Wang X, Zhang L, Cao H et al.  
+**Journal:** Neurochemical research (2025)  
+**PMID:** 41042419  **DOI:** 10.1007/s11064-025-04567-9
+**Entities:** neuroinflammation, TBI  
+**Abstract:** Traumatic brain injury (TBI) can lead to secondary brain damage, with post-traumatic neuroinflammation being a crucial indicator of the condition's progression and a predictor of patient prognosis. Ho...
+
+### High-rate mechano-stimulation alters proliferation- and maturation-related signaling of oligodendrocyte precursor cells in a 3D hydrogel.
+**Authors:** Yokosawa R, Mazur RA, Wilson KA, Lee JH, Showalter NW et al.  
+**Journal:** Mechanobiology in medicine (2025)  
+**PMID:** 40519865  **DOI:** 10.1016/j.mbm.2025.100126
+**Entities:** neuroinflammation, mTBI, TBI, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) leads to neuroinflammation and is associated with chronic neurodegeneration. Many TBI studies aim to understand further the mechanism by which cells in the brain respond t...
 
 ### Brain perivascular macrophages: current understanding and future prospects.
 **Authors:** Wen W, Cheng J, Tang Y  
@@ -23201,6 +27961,13 @@
 **PMID:** biorxiv:10.1101/2024.06.10.24308599  **DOI:** 10.1101/2024.06.10.24308599
 **Entities:** —  
 **Abstract:** <h4>ABSTRACT</h4>  The pathophysiology underlying various manifestations of cerebral small vessel disease (cSVD) remains obscure. Using high-throughput proteomics, we identified common and distinct pr...
+
+### Spatial lipidomics maps brain alterations associated with mild traumatic brain injury.
+**Authors:** Leontyev D, Pulliam AN, Ma X, Gaul DA, LaPlaca MC et al.  
+**Journal:** Frontiers in chemistry (2024)  
+**PMID:** 38873407  **DOI:** 10.3389/fchem.2024.1394064
+**Entities:** ROS, neuroinflammation, oxidative stress, mTBI, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a global public health problem with 50-60 million incidents per year, most of which are considered mild (mTBI) and many of these repetitive (rmTBI). Despite their massi...
 
 ### Integrated spatial transcriptome and metabolism study reveals metabolic heterogeneity in human injured brain.
 **Authors:** Zheng P, Zhang N, Ren D, Yu C, Zhao B et al.  
@@ -24315,6 +29082,20 @@
 **Entities:** TBI  
 **Abstract:** The heterogeneous injury pathophysiology of traumatic brain injury (TBI) is a barrier to developing highly sensitive and specific diagnostic tools. Embracing neural injury complexity is critical for t...
 
+### Cathepsin B in neurodegeneration of Alzheimer's disease, traumatic brain injury, and related brain disorders.
+**Authors:** Hook V, Yoon M, Mosier C, Ito G, Podvin S et al.  
+**Journal:** Biochimica et biophysica acta. Proteins and proteomics (2020)  
+**PMID:** 32305689  **DOI:** 10.1016/j.bbapap.2020.140428
+**Entities:** TBI, Alzheimer  
+**Abstract:** Investigations of Alzheimer's disease (AD), traumatic brain injury (TBI), and related brain disorders have provided extensive evidence for involvement of cathepsin B, a lysosomal cysteine protease, in...
+
+### Simultaneous Determination of Eight Urinary Metabolites by HPLC-MS/MS for Noninvasive Assessment of Traumatic Brain Injury.
+**Authors:** Sigler A, He X, Bose M, Cristea A, Liu W et al.  
+**Journal:** Journal of the American Society for Mass Spectrometry (2020)  
+**PMID:** 32700913  **DOI:** 10.1021/jasms.0c00181
+**Entities:** mTBI, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a serious public health concern for which sensitive and objective diagnostic methods remain lacking. While advances in neuroimaging have improved diagnostic capabilitie...
+
 ### Traumatic Brain Injury Temporal Proteome Guides KCC2-Targeted Therapy.
 **Authors:** Lizhnyak PN, Muldoon PP, Pilaka PP, Povlishock JT, Ottens AK  
 **Journal:** Journal of neurotrauma (2019)  
@@ -24819,6 +29600,13 @@
 **Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) is a serious public health problem and the leading cause of death in children and young adults. It also contributes to a substantial number of cases of permanent disabilit...
 
+### Rhein exhibits antioxidative effects similar to Rhubarb in a rat model of traumatic brain injury.
+**Authors:** Xu X, Lv H, Xia Z, Fan R, Zhang C et al.  
+**Journal:** BMC complementary and alternative medicine (2017)  
+**PMID:** 28264680  **DOI:** 10.1186/s12906-017-1655-x
+**Entities:** ROS, TBI, SOD, glutathione, catalase  
+**Abstract:** BACKGROUND: The brain is secondarily harmed by pathological, physiological, and biological reactions that are caused by traumatic brain injury (TBI). Rhein, a significant composition of Rhubarb, is a ...
+
 ### Role of Metabolomics in Traumatic Brain Injury Research.
 **Authors:** Wolahan SM, Hirt D, Braas D, Glenn TC  
 **Journal:** Neurosurgery clinics of North America (2016)  
@@ -24951,6 +29739,13 @@
 **PMID:** 27692983  **DOI:** 10.1016/j.ebiom.2016.09.024
 **Entities:** —  
 **Abstract:** 
+
+### Imaging mass spectrometry reveals loss of polyunsaturated cardiolipins in the cortical contusion, hippocampus, and thalamus after traumatic brain injury.
+**Authors:** Sparvero LJ, Amoscato AA, Fink AB, Anthonymuthu T, New LA et al.  
+**Journal:** Journal of neurochemistry (2016)  
+**PMID:** 27591733  **DOI:** 10.1111/jnc.13840
+**Entities:** ROS, TBI  
+**Abstract:** Traumatic brain injury (TBI) leads to changes in ion fluxes, alterations in mitochondrial function, and increased generation of reactive oxygen species, resulting in secondary tissue damage. Mitochond...
 
 ### Sleep disruption and the sequelae associated with traumatic brain injury.
 **Authors:** Lucke-Wold BP, Smith KE, Nguyen L, Turner RC, Logsdon AF et al.  
@@ -25105,6 +29900,13 @@
 **PMID:** 24941216  **DOI:** 10.1038/pr.2014.86
 **Entities:** TBI  
 **Abstract:** BACKGROUND: Abusive head trauma (AHT) is the leading cause of death from traumatic brain injury in infants and young children. Identification of mild AHT (Glasgow Coma Scale score: 13-15) is difficult...
+
+### Determination of hydroxysafflor yellow A in biological fluids of patients with traumatic brain injury by UPLC-ESI-MS/MS after injection of Xuebijing.
+**Authors:** Guo Y, Wang Y, Huang X, Lv H, Fan R et al.  
+**Journal:** Biomedical chromatography : BMC (2014)  
+**PMID:** 24535782  **DOI:** 10.1002/bmc.3124
+**Entities:** TBI  
+**Abstract:** A simple, novel, specific, rapid and reproducible ultra-performance liquid chromatography electrospray ionization tandem mass spectrometry method has been developed and validated for the determination...
 
 ### Integration of proteomics, bioinformatics, and systems biology in traumatic brain injury biomarker discovery.
 **Authors:** Guingab-Cagmat JD, Cagmat EB, Hayes RL, Anagli J  
@@ -25441,6 +30243,13 @@
 **PMID:** 20058179  **DOI:** 10.1007/978-1-59745-562-6_19
 **Entities:** TBI  
 **Abstract:** In recent years, the term proteomics is often mentioned together with biomarker discovery, as proteomic studies have the capability of identifying unique and unobvious protein biomarkers from tissues ...
+
+### Plasma oxidation-reduction potential and protein oxidation in traumatic brain injury.
+**Authors:** Rael LT, Bar-Or R, Mains CW, Slone DS, Levy AS et al.  
+**Journal:** Journal of neurotrauma (2009)  
+**PMID:** 19317602  
+**Entities:** ROS, oxidative stress, TBI  
+**Abstract:** The amount of oxidative stress in patients with an isolated traumatic brain injury (ITBI) can be estimated by measuring several biochemical parameters, such as total antioxidants, lipid peroxidation, ...
 
 ### Molecular mechanisms of traumatic brain injury in children. A review.
 **Authors:** Jagannathan P, Jagannathan J  

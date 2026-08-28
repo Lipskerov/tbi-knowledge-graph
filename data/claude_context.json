@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 3656,
+  "n_papers": 4343,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -60,36 +60,36 @@
         "entities": "aging"
       },
       {
-        "pmid": "42576170",
-        "title": "Neurobiological markers across joint profiles of subjective cognitive decline and objective cognitive function in older adults.",
-        "authors": "Wan L, Kang C, Harrison R, Solis-Urra P, Sewell KR et al.",
-        "year": 2026,
-        "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-        "entities": "GFAP, NfL, tau, p-tau, Alzheimer, aging"
-      },
-      {
-        "pmid": "42543123",
-        "title": "Brain aging clocks: From methodological advances to cellular mechanisms.",
-        "authors": "Suk K",
-        "year": 2026,
-        "journal": "Experimental gerontology",
-        "entities": "GFAP, NfL, tau, p-tau, BBB, Alzheimer, aging"
-      },
-      {
-        "pmid": "42435941",
-        "title": "Cellular viscous properties in senescence: An emerging biophysical perspective and potential biomarker.",
-        "authors": "Kim JH, Nih LR, Park S",
-        "year": 2026,
-        "journal": "Ageing research reviews",
-        "entities": "aging"
-      },
-      {
-        "pmid": "42367807",
-        "title": "Modulation of the immunological and neuroinflammatory microenvironment in older people with multiple sclerosis.",
-        "authors": "Oreja-Guevara C, Meuth SG, Grigoriadis N, Vermersch P, Hartung HP et al.",
+        "pmid": "42661704",
+        "title": "Editorial: Exploring miRNA roles in neuroinflammation and brain aging: mechanisms and therapeutic potential.",
+        "authors": "Fukuchi KI, Yang J, Williams J",
         "year": 2026,
         "journal": "Frontiers in immunology",
-        "entities": "neuroinflammation, BBB, Alzheimer, aging"
+        "entities": null
+      },
+      {
+        "pmid": "42654174",
+        "title": "Food-Derived Omega-3 Fatty Acids and Cognitive Aging: Integrating Nutritional Neuroscience and Geroscience.",
+        "authors": "M\u00f3zes N, Lip\u00e9cz \u00c1, Cs\u00edp\u0151 T, Fazekas-Pongor V, Major D et al.",
+        "year": 2026,
+        "journal": "Nutrients",
+        "entities": "ROS, neuroinflammation, oxidative stress, Alzheimer, aging"
+      },
+      {
+        "pmid": "42650840",
+        "title": "Polycomb Repressive Complex 2 (PRC2): A Context-Dependent Epigenetic Regulator of Brain Aging.",
+        "authors": "Katsianou MA, Vetsika EK, Markouli M, Piperi C, Gargalionis AN",
+        "year": 2026,
+        "journal": "Biomolecules",
+        "entities": "Alzheimer, aging"
+      },
+      {
+        "pmid": "42640575",
+        "title": "Central Sensitization and Cognitive Vulnerability: A Neurobiological Framework for CNS Resilience and Brain Aging.",
+        "authors": "Hackshaw KV",
+        "year": 2026,
+        "journal": "Pain medicine (Malden, Mass.)",
+        "entities": "Alzheimer, aging"
       }
     ],
     "exosomal_rna": [
@@ -166,12 +166,12 @@
         "entities": "neuroinflammation, TBI"
       },
       {
-        "pmid": "42196237",
-        "title": "Extracellular Vesicle and Plasma miRNAs as Candidate Biomarkers of Traumatic Brain Injury in the Context of Polytrauma.",
-        "authors": "Schindler CR, Henrich D, Kr\u00e4mer L, Schaible I, H\u00f6rauf JA et al.",
+        "pmid": "42239156",
+        "title": "Microglia modulate concussion biomarkers and cognitive recovery in male mice.",
+        "authors": "Anderson ED, Augustin DV, Georges AP, Kim T, Issadore DA et al.",
         "year": 2026,
-        "journal": "International journal of molecular sciences",
-        "entities": "TBI"
+        "journal": "bioRxiv : the preprint server for biology",
+        "entities": "neuroinflammation, mTBI, TBI, AMPA receptor"
       }
     ],
     "gfap_uchl1": [
@@ -224,6 +224,14 @@
         "entities": "GFAP, UCH-L1, mTBI, TBI"
       },
       {
+        "pmid": "42475131",
+        "title": "[Mild Traumatic Brain Injury: National Consensus Clinical Recommendations].",
+        "authors": "Ferreira F, Lopes A, Freitas C, Domingues C, Silva H et al.",
+        "year": 2026,
+        "journal": "Acta medica portuguesa",
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
+      },
+      {
         "pmid": "42405663",
         "title": "Diagnostic Value of Neurofilament Light Chain and Glial Fibrillary Acidic Protein in Differentiating Primary From Serious Secondary Headache.",
         "authors": "Camerin SJ, Atila C, Blum CA, Sandgren S, Maleska A et al.",
@@ -246,14 +254,6 @@
         "year": 2026,
         "journal": "Medicina (Kaunas, Lithuania)",
         "entities": "mTBI, TBI"
-      },
-      {
-        "pmid": "42340459",
-        "title": "Blood-based biomarkers GFAP/UCH-L1 for the diagnosis of mild traumatic brain injury (mTBI): a single-center implementation experience.",
-        "authors": "Maegele M, Breidenbach L, Kaufmann J, Keles Y, Uhl E et al.",
-        "year": 2026,
-        "journal": "European journal of trauma and emergency surgery : official publication of the European Trauma Society",
-        "entities": "GFAP, UCH-L1, mTBI, TBI"
       }
     ],
     "nfl_tau": [
@@ -280,6 +280,14 @@
         "year": 2026,
         "journal": "Brain communications",
         "entities": "GFAP, NfL, mTBI, Quanterix"
+      },
+      {
+        "pmid": "42470153",
+        "title": "Development of a Novel Blood-Based Assay for Brain-Derived Tau and Its Validation in Traumatic Brain Injury.",
+        "authors": "Balogun WG, Zeng X, Nafash MN, Sehrawat A, Shi R et al.",
+        "year": 2026,
+        "journal": "Journal of neurochemistry",
+        "entities": "tau, TBI, Alzheimer, Simoa, Quanterix"
       },
       {
         "pmid": "42437586",
@@ -328,14 +336,6 @@
         "year": 2026,
         "journal": "BMJ open",
         "entities": "NfL, tau, mTBI, TBI"
-      },
-      {
-        "pmid": "42135390",
-        "title": "Simoa and MSD platforms show analytical discordance but comparable diagnostic performance for GFAP, NF-L, and T-tau in adolescent concussion.",
-        "authors": "Galarneau JM, Tabor JB, Bodnar T, Josafatow-Garc\u00eda NO, Yeates KO et al.",
-        "year": 2026,
-        "journal": "Scientific reports",
-        "entities": "GFAP, NfL, tau, mTBI, Simoa"
       }
     ],
     "nqo2": [
@@ -430,12 +430,28 @@
         "entities": "mTBI, TBI"
       },
       {
+        "pmid": "42296468",
+        "title": "Investigating the Effectiveness of Multidisciplinary Rehabilitation for Persistent Post-Concussive Symptoms.",
+        "authors": "Olver J, Fedele B, Acher R, Bosco J, McKenzie D",
+        "year": 2026,
+        "journal": "American journal of physical medicine & rehabilitation",
+        "entities": "mTBI, PPCS"
+      },
+      {
         "pmid": "42191347",
         "title": "Multimodal symptom-targeted treatment for young people with persisting post-concussion symptoms: a randomised clinical trial.",
         "authors": "Anderson V, Davies K, Rausa VC, Anderson N, Barlow KM et al.",
         "year": 2026,
         "journal": "British journal of sports medicine",
         "entities": "mTBI, PPCS"
+      },
+      {
+        "pmid": "42186233",
+        "title": "Preliminary examination of symptom validity in veterans using the Rivermead post-concussion symptoms questionnaire.",
+        "authors": "Rolin SN, Davis JJ",
+        "year": 2026,
+        "journal": "Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists",
+        "entities": "mTBI, TBI, PPCS"
       },
       {
         "pmid": "42165680",
@@ -470,36 +486,20 @@
         "entities": "tau, mTBI, TBI, PPCS"
       },
       {
-        "pmid": "41786399",
-        "title": "Cardiac Dysautonomia after Concussion in Athletes.",
-        "authors": "Singh K, Saucier S, Fernandez AB",
+        "pmid": "41801431",
+        "title": "Incidence, risk factors and outcomes of persistent post-concussion symptoms in Singaporean school-going children.",
+        "authors": "Ngai CH, Koh PS, Teo JH, Loo BKG, Qian PTW et al.",
+        "year": 2026,
+        "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+        "entities": "mTBI, PPCS"
+      },
+      {
+        "pmid": "41786401",
+        "title": "Persisting Symptoms after Concussion.",
+        "authors": "Carpenter-Thompson JR, Kutcher JS",
         "year": 2026,
         "journal": "Clinics in sports medicine",
         "entities": "mTBI"
-      },
-      {
-        "pmid": "41581789",
-        "title": "Frequency and Predictors of Persisting Symptoms 1 Year After Early Childhood Concussion.",
-        "authors": "Rose SC, Dupont D, Tang K, Yeates KO, D\u00e9geilh F et al.",
-        "year": 2026,
-        "journal": "Pediatrics",
-        "entities": "mTBI"
-      },
-      {
-        "pmid": "41574089",
-        "title": "Biofluid-based predictors of post-concussion symptoms: a narrative review of mild traumatic brain injury biomarkers.",
-        "authors": "Lyons HS, Hubbard JC, Thomas CN, Roberts JA, Mugo CW et al.",
-        "year": 2026,
-        "journal": "Brain communications",
-        "entities": "S100B, NfL, tau, BDNF, IL-6, mTBI, TBI, PPCS, melatonin"
-      },
-      {
-        "pmid": "41564301",
-        "title": "Predictors of Depressive Symptoms in Post-Concussion Syndrome: Role of Pre- and Post-Injury Substance and Medication Use.",
-        "authors": "Snyder EM, Nakamura R, Ogawa M, Bersamin K, Ishikawa K et al.",
-        "year": 2026,
-        "journal": "NeuroRehabilitation",
-        "entities": "mTBI, TBI, PPCS"
       }
     ],
     "qr2_inhibitors": [
@@ -554,6 +554,30 @@
         "entities": "GFAP, UCH-L1, mTBI, TBI"
       },
       {
+        "pmid": "42592764",
+        "title": "Indications for repeated computed tomography after mild traumatic brain injury with intracranial haemorrhage.",
+        "authors": "Vestager JD, Dyrskj\u00f8t J, Cehov B, Riis JJ",
+        "year": 2026,
+        "journal": "Danish medical journal",
+        "entities": "mTBI, TBI"
+      },
+      {
+        "pmid": "42559466",
+        "title": "Delayed traumatic spinal epidural hematoma after mild traumatic brain injury successfully treated with minimally invasive technique: A case report.",
+        "authors": "Santoso B, Soetomo CT, Bangun KGRS, Wahyudana ING, Mahadewa TGB et al.",
+        "year": 2026,
+        "journal": "Surgical neurology international",
+        "entities": "mTBI, TBI"
+      },
+      {
+        "pmid": "42517055",
+        "title": "Association between early cognitive rehabilitation and long-term cognitive recovery in patients with mild traumatic brain injury: a retrospective cohort study.",
+        "authors": "Ren Y, Wu H, Lu Y, Zeng Q, Su Q",
+        "year": 2026,
+        "journal": "Frontiers in human neuroscience",
+        "entities": "GFAP, NfL, IL-6, mTBI, TBI, GOS-E"
+      },
+      {
         "pmid": "42489732",
         "title": "Acute-on-chronic versus isolated acute subdural hematoma in complicated mild traumatic brain injury: association with radiological mass effect markers in a multicenter cohort.",
         "authors": "Cromb\u00e9 A, Benhamed A, Seux M, Frassin L, Matichard R et al.",
@@ -562,68 +586,44 @@
         "entities": "mTBI, TBI, Alzheimer"
       },
       {
-        "pmid": "42329650",
-        "title": "Youth Soccer Participation and Brain Health Outcomes in Adolescent Athletes.",
-        "authors": "Koerte IK, Wiegand TLT, Bonke EM, Sandmo SK, Kaufmann D et al.",
+        "pmid": "42474046",
+        "title": "Diagnostic Accuracy and Prognostic Value of the Dual GFAP/UCH-L1 Test in Patients Presenting to the Emergency Department with Mild Traumatic Brain Injury.",
+        "authors": "Menacho-Roman M, Morales Rodr\u00edguez A, Penedo Alonso JR, Pecharrom\u00e1n de Las Heras I, Vicente Bartulos A et al.",
         "year": 2026,
-        "journal": "JAMA network open",
-        "entities": "GFAP, NfL, Alzheimer"
-      },
-      {
-        "pmid": "42322082",
-        "title": "Reduced Cerebral Blood Flow in the Early Chronic Phase of Recurrent Concussion Among Female Collegiate-Aged Athletes.",
-        "authors": "Andersson MJ, Goeckner BD, Espa\u00f1a LY, Mayer AR, Brett BL et al.",
-        "year": 2026,
-        "journal": "Human brain mapping",
-        "entities": "mTBI"
-      },
-      {
-        "pmid": "42114983",
-        "title": "The study of epigenetic clocks in former professional contact sports athletes with repetitive head impacts.",
-        "authors": "Tang X, Sumra V, Sato C, Moreno D, Khodadadi M et al.",
-        "year": 2026,
-        "journal": "Journal of neurology, neurosurgery, and psychiatry",
-        "entities": "NfL, aging"
-      },
-      {
-        "pmid": "42047078",
-        "title": "Evaluation of brain injury biomarkers in mild traumatic brain injury with and without computed tomography findings.",
-        "authors": "Osmi\u0107-Husni A, Jadri\u0107 R, Jovi\u0107-Lackovi\u0107 S, \u017dabi\u0107 A, \u010camd\u017ei\u0107-Smaji\u0107 S",
-        "year": 2026,
-        "journal": "Medicinski glasnik : official publication of the Medical Association of Zenica-Doboj Canton, Bosnia and Herzegovina",
+        "journal": "The journal of applied laboratory medicine",
         "entities": "GFAP, UCH-L1, mTBI, TBI"
       },
       {
-        "pmid": "42019915",
-        "title": "Comparative Analysis of Repeat Cranial Imaging in Mild Traumatic Brain Injury: Evaluating Risk Factors, Costs, and Radiation Exposure Between 2017 and 2023.",
-        "authors": "Jehli E, Kupka M, Bellut D, Stienen MN, Delgado Chavez NC et al.",
+        "pmid": "42452320",
+        "title": "GFAP and UCH-L1 for Ruling out Intracranial Lesions After Mild Traumatic Brain Injury: A Systematic Review and Meta-Analysis.",
+        "authors": "San Miguel L, Jespers V, Roberfroid D",
         "year": 2026,
-        "journal": "World neurosurgery",
-        "entities": "mTBI, TBI"
+        "journal": "Journal of clinical medicine",
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
       },
       {
-        "pmid": "41962995",
-        "title": "Pathophysiological pathways in mild traumatic brain injury.",
-        "authors": "Mohanty M, Torres AR",
-        "year": 2026,
-        "journal": "Seminars in pediatric neurology",
-        "entities": "mTBI, TBI"
-      },
-      {
-        "pmid": "41925534",
-        "title": "Development of a neurologic deterioration risk score in pediatric mild traumatic brain injury and intracranial injuries.",
-        "authors": "Chaudhari PP, Durham S, Pineda J, Bachur R, Durazo-Arvizu R et al.",
-        "year": 2026,
-        "journal": "The journal of trauma and acute care surgery",
-        "entities": "mTBI, TBI"
-      },
-      {
-        "pmid": "41870014",
-        "title": "Blood Biomarkers for Identifying Epidural Hematoma in Patients Presenting with a Glasgow Coma Scale of 13-15: A Collaborative European Neurotrauma Effectiveness Research in Traumatic Brain Injury (CENTER-TBI) Study.",
-        "authors": "Malmi K, Pisic\u0103 D, Hossain I, Mohammadian M, van Essen T et al.",
+        "pmid": "42444259",
+        "title": "Blood-Based Mechanistic Biomarkers Improve Prognostication of Functional Outcome After Mild Traumatic Brain Injury.",
+        "authors": "Visser K, de Koning ME, Jacobs B, Bourgonje AR, Chayoua W et al.",
         "year": 2026,
         "journal": "Journal of neurotrauma",
-        "entities": "GFAP, UCH-L1, mTBI, TBI"
+        "entities": "ROS, GFAP, UCH-L1, NfL, oxidative stress, mTBI, TBI, GOS-E"
+      },
+      {
+        "pmid": "42436359",
+        "title": "Progression of mild traumatic brain injury with intracranial hemorrhage: a retrospective study of associated factors in patients managed conservatively in the emergency department.",
+        "authors": "Chingthongkham S, Tienpratarn W, Thongpuntair P, Chingthongkham S, Wongwaisayawan S",
+        "year": 2026,
+        "journal": "International journal of emergency medicine",
+        "entities": "mTBI, TBI"
+      },
+      {
+        "pmid": "42396170",
+        "title": "Sex differences in plasma endocannabinoids and related lipids before and after single and repeated mTBI: an exploratory study of endolipid plasma biomarkers.",
+        "authors": "Richter E, Woodward TJ, Kulkarni PP, Ferris CF, Bradshaw HB",
+        "year": 2026,
+        "journal": "Frontiers in molecular neuroscience",
+        "entities": "neuroinflammation, mTBI, TBI"
       }
     ],
     "tbi_panel_poc": [
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42660464",
+        "title": "Traumatic Brain Injury: Multi-Omics Insights into Brain Aging, Neurodegeneration, and Precision Therapeutics.",
+        "authors": "Shafie A, Ashour AA, Alhujaily MM, Anjum F, Akhtar F et al.",
+        "year": 2026,
+        "journal": "Ageing research reviews",
+        "entities": "ROS, neuroinflammation, oxidative stress, BBB, TBI, Alzheimer, aging"
+      },
+      {
         "pmid": "42648802",
         "title": "Advanced glycomics approach for characterization of IgG glycan alterations and immune modulation in traumatic brain injury.",
         "authors": "Onigbinde S, Solomon J, Sandilya V, Daramola O, Fowowe M et al.",
@@ -758,6 +766,14 @@
         "entities": "neuroinflammation, TBI"
       },
       {
+        "pmid": "42556280",
+        "title": "Propranolol attenuates systemic inflammatory response in aged traumatic brain injury patients.",
+        "authors": "Zhu Y, Lu Z, Wang C, Zhu X, Qu J et al.",
+        "year": 2026,
+        "journal": "International immunopharmacology",
+        "entities": "neuroinflammation, TBI, aging"
+      },
+      {
         "pmid": "42539370",
         "title": "Proteomic Changes of Neurodegenerative and Inflammatory Plasma Biomarkers Following Traumatic Brain Injury.",
         "authors": "Abbruzzese S, Patel R, Walter AE, Lynch CE, Sandsmark DK et al.",
@@ -772,22 +788,6 @@
         "year": 2026,
         "journal": "bioRxiv : the preprint server for biology",
         "entities": "ROS, neuroinflammation, oxidative stress, mTBI, TBI"
-      },
-      {
-        "pmid": "42511491",
-        "title": "Exploring the Metabolic Impact of Traumatic Brain Injury in CCI Mouse Models: A Focus on Early and Prolonged Injury Responses.",
-        "authors": "Banoei MM, Scott BNV, Winston BW",
-        "year": 2026,
-        "journal": "International journal of molecular sciences",
-        "entities": "TBI"
-      },
-      {
-        "pmid": "42501776",
-        "title": "Specific serum metabolites can differentiate severe and mild human traumatic brain injury.",
-        "authors": "Shi L, Wang Z, Zhang J, Zheng P, Bai L",
-        "year": 2026,
-        "journal": "Clinica chimica acta; international journal of clinical chemistry",
-        "entities": "mTBI, TBI"
       }
     ]
   },
@@ -795,42 +795,52 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 1987
+      "paper_count": 2261
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1157
+      "paper_count": 1401
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 680
+      "paper_count": 955
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 641
+      "paper_count": 920
     },
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 509
+      "paper_count": 581
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 396
+      "paper_count": 544
     },
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 345
+      "paper_count": 460
     },
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 322
+      "paper_count": 404
+    },
+    {
+      "name": "ROS",
+      "type": "metabolite",
+      "paper_count": 335
+    },
+    {
+      "name": "oxidative stress",
+      "type": "pathway",
+      "paper_count": 316
     },
     {
       "name": "NQO2",
@@ -838,34 +848,39 @@
       "paper_count": 314
     },
     {
-      "name": "ROS",
-      "type": "metabolite",
-      "paper_count": 268
-    },
-    {
-      "name": "oxidative stress",
-      "type": "pathway",
-      "paper_count": 250
+      "name": "PPCS",
+      "type": "disease",
+      "paper_count": 297
     },
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 248
-    },
-    {
-      "name": "PPCS",
-      "type": "disease",
-      "paper_count": 230
+      "paper_count": 271
     },
     {
       "name": "S100B",
       "type": "protein",
-      "paper_count": 186
+      "paper_count": 216
     },
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 153
+      "paper_count": 192
+    },
+    {
+      "name": "p-tau",
+      "type": "protein",
+      "paper_count": 147
+    },
+    {
+      "name": "A\u03b242",
+      "type": "protein",
+      "paper_count": 125
+    },
+    {
+      "name": "IL-6",
+      "type": "protein",
+      "paper_count": 123
     },
     {
       "name": "NQO1",
@@ -873,19 +888,14 @@
       "paper_count": 119
     },
     {
+      "name": "CTE",
+      "type": "disease",
+      "paper_count": 116
+    },
+    {
       "name": "NSE",
       "type": "protein",
-      "paper_count": 106
-    },
-    {
-      "name": "IL-6",
-      "type": "protein",
-      "paper_count": 101
-    },
-    {
-      "name": "p-tau",
-      "type": "protein",
-      "paper_count": 100
+      "paper_count": 115
     },
     {
       "name": "NRH",
@@ -893,176 +903,206 @@
       "paper_count": 94
     },
     {
-      "name": "CTE",
-      "type": "disease",
-      "paper_count": 90
-    },
-    {
-      "name": "A\u03b242",
+      "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 84
+      "paper_count": 83
     },
     {
       "name": "melatonin",
       "type": "drug",
-      "paper_count": 79
-    },
-    {
-      "name": "TNF-\u03b1",
-      "type": "protein",
-      "paper_count": 73
-    },
-    {
-      "name": "MBP",
-      "type": "protein",
-      "paper_count": 67
+      "paper_count": 82
     },
     {
       "name": "Simoa",
       "type": "drug",
-      "paper_count": 61
+      "paper_count": 79
+    },
+    {
+      "name": "MBP",
+      "type": "protein",
+      "paper_count": 73
     },
     {
       "name": "GOS-E",
       "type": "disease",
-      "paper_count": 59
+      "paper_count": 67
+    },
+    {
+      "name": "BDNF",
+      "type": "protein",
+      "paper_count": 55
     },
     {
       "name": "dopamine",
       "type": "metabolite",
-      "paper_count": 50
+      "paper_count": 54
     },
     {
       "name": "glutathione",
       "type": "metabolite",
-      "paper_count": 48
-    },
-    {
-      "name": "IL-1\u03b2",
-      "type": "protein",
-      "paper_count": 45
+      "paper_count": 51
     }
   ],
   "top_cooccurrences": [
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 833.0
-    },
-    {
-      "source": "GFAP",
-      "target": "TBI",
-      "weight": 425.0
+      "weight": 1003.0
     },
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 345.0
+      "weight": 542.0
+    },
+    {
+      "source": "GFAP",
+      "target": "TBI",
+      "weight": 475.0
     },
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 232.0
-    },
-    {
-      "source": "tau",
-      "target": "TBI",
-      "weight": 228.0
-    },
-    {
-      "source": "UCH-L1",
-      "target": "TBI",
-      "weight": 226.0
+      "weight": 294.0
     },
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 223.0
+      "weight": 289.0
+    },
+    {
+      "source": "tau",
+      "target": "Alzheimer",
+      "weight": 287.0
+    },
+    {
+      "source": "tau",
+      "target": "TBI",
+      "weight": 278.0
+    },
+    {
+      "source": "UCH-L1",
+      "target": "TBI",
+      "weight": 246.0
+    },
+    {
+      "source": "TBI",
+      "target": "Alzheimer",
+      "weight": 240.0
     },
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 216.0
+      "weight": 237.0
     },
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 209.0
-    },
-    {
-      "source": "TBI",
-      "target": "Alzheimer",
-      "weight": 202.0
+      "weight": 233.0
     },
     {
       "source": "NfL",
       "target": "TBI",
-      "weight": 192.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "TBI",
-      "weight": 187.0
+      "weight": 230.0
     },
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 186.0
+      "weight": 220.0
     },
     {
-      "source": "tau",
-      "target": "Alzheimer",
-      "weight": 185.0
-    },
-    {
-      "source": "GFAP",
-      "target": "tau",
-      "weight": 166.0
-    },
-    {
-      "source": "tau",
-      "target": "mTBI",
-      "weight": 164.0
-    },
-    {
-      "source": "NfL",
-      "target": "tau",
-      "weight": 164.0
-    },
-    {
-      "source": "S100B",
+      "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 163.0
-    },
-    {
-      "source": "TBI",
-      "target": "PPCS",
-      "weight": 154.0
+      "weight": 213.0
     },
     {
       "source": "NfL",
-      "target": "mTBI",
-      "weight": 143.0
+      "target": "tau",
+      "weight": 211.0
     },
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 128.0
-    },
-    {
-      "source": "GFAP",
-      "target": "S100B",
-      "weight": 128.0
+      "weight": 207.0
     },
     {
       "source": "neuroinflammation",
       "target": "aging",
-      "weight": 124.0
+      "weight": 201.0
+    },
+    {
+      "source": "GFAP",
+      "target": "tau",
+      "weight": 195.0
+    },
+    {
+      "source": "TBI",
+      "target": "PPCS",
+      "weight": 194.0
+    },
+    {
+      "source": "S100B",
+      "target": "TBI",
+      "weight": 190.0
+    },
+    {
+      "source": "tau",
+      "target": "mTBI",
+      "weight": 186.0
+    },
+    {
+      "source": "NfL",
+      "target": "mTBI",
+      "weight": 159.0
+    },
+    {
+      "source": "ROS",
+      "target": "aging",
+      "weight": 158.0
+    },
+    {
+      "source": "oxidative stress",
+      "target": "aging",
+      "weight": 152.0
+    },
+    {
+      "source": "GFAP",
+      "target": "S100B",
+      "weight": 147.0
+    },
+    {
+      "source": "tau",
+      "target": "aging",
+      "weight": 146.0
+    },
+    {
+      "source": "NfL",
+      "target": "Alzheimer",
+      "weight": 145.0
+    },
+    {
+      "source": "tau",
+      "target": "p-tau",
+      "weight": 142.0
     },
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 120.0
+      "weight": 133.0
+    },
+    {
+      "source": "BBB",
+      "target": "TBI",
+      "weight": 126.0
+    },
+    {
+      "source": "ROS",
+      "target": "Alzheimer",
+      "weight": 118.0
+    },
+    {
+      "source": "S100B",
+      "target": "mTBI",
+      "weight": 118.0
     },
     {
       "source": "NQO2",
@@ -1070,9 +1110,9 @@
       "weight": 114.0
     },
     {
-      "source": "BBB",
-      "target": "TBI",
-      "weight": 113.0
+      "source": "oxidative stress",
+      "target": "Alzheimer",
+      "weight": 112.0
     },
     {
       "source": "PERK",
@@ -1080,18 +1120,28 @@
       "weight": 111.0
     },
     {
-      "source": "ROS",
-      "target": "aging",
+      "source": "GFAP",
+      "target": "Alzheimer",
       "weight": 105.0
     },
     {
-      "source": "NfL",
-      "target": "Alzheimer",
-      "weight": 102.0
+      "source": "TBI",
+      "target": "NSE",
+      "weight": 104.0
     },
     {
-      "source": "S100B",
-      "target": "mTBI",
+      "source": "mTBI",
+      "target": "Alzheimer",
+      "weight": 100.0
+    },
+    {
+      "source": "ROS",
+      "target": "neuroinflammation",
+      "weight": 100.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "oxidative stress",
       "weight": 100.0
     },
     {
@@ -1100,23 +1150,23 @@
       "weight": 100.0
     },
     {
-      "source": "oxidative stress",
-      "target": "aging",
-      "weight": 99.0
+      "source": "UCH-L1",
+      "target": "tau",
+      "weight": 98.0
     },
     {
-      "source": "tau",
-      "target": "p-tau",
-      "weight": 97.0
-    },
-    {
-      "source": "TBI",
-      "target": "NSE",
+      "source": "p-tau",
+      "target": "Alzheimer",
       "weight": 96.0
     },
     {
+      "source": "oxidative stress",
+      "target": "TBI",
+      "weight": 92.0
+    },
+    {
       "source": "UCH-L1",
-      "target": "tau",
+      "target": "S100B",
       "weight": 92.0
     },
     {
@@ -1125,74 +1175,24 @@
       "weight": 89.0
     },
     {
+      "source": "ROS",
+      "target": "TBI",
+      "weight": 89.0
+    },
+    {
       "source": "NQO2",
       "target": "NRH",
       "weight": 89.0
     },
     {
       "source": "UCH-L1",
-      "target": "S100B",
-      "weight": 85.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "TBI",
-      "weight": 82.0
-    },
-    {
-      "source": "mTBI",
-      "target": "Alzheimer",
-      "weight": 82.0
-    },
-    {
-      "source": "GFAP",
-      "target": "Alzheimer",
-      "weight": 81.0
-    },
-    {
-      "source": "UCH-L1",
       "target": "NfL",
-      "weight": 80.0
+      "weight": 87.0
     },
     {
-      "source": "ROS",
+      "source": "A\u03b242",
       "target": "Alzheimer",
-      "weight": 79.0
-    },
-    {
-      "source": "ROS",
-      "target": "TBI",
-      "weight": 78.0
-    },
-    {
-      "source": "tau",
-      "target": "aging",
-      "weight": 77.0
-    },
-    {
-      "source": "GFAP",
-      "target": "NSE",
-      "weight": 75.0
-    },
-    {
-      "source": "oxidative stress",
-      "target": "Alzheimer",
-      "weight": 73.0
-    },
-    {
-      "source": "NQO2",
-      "target": "ROS",
-      "weight": 72.0
-    },
-    {
-      "source": "IL-6",
-      "target": "TBI",
-      "weight": 72.0
-    },
-    {
-      "source": "NQO2",
-      "target": "ROS",
-      "weight": 72.0
+      "weight": 86.0
     }
   ]
 }
