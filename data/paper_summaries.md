@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-28*
-*Total papers: 4343*
+*Generated: 2026-08-29*
+*Total papers: 4344*
 
 
 ## Cluster: aging_neuro
@@ -22005,6 +22005,13 @@
 **PMID:** 42283508  **DOI:** 10.1097/TA.0000000000005090
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: Among adults with mild traumatic brain injury (mTBI), only a minority develop clinically significant intracranial hemorrhage requiring neurosurgical intervention or causing death. The Queb...
+
+### Predictors of Intracranial Hemorrhage on Initial Head Computed Tomography After Mild Traumatic Brain Injury.
+**Authors:** Lin CY, Hsieh MH, Yen TL, Liu CC, Hsieh CT  
+**Journal:** In vivo (Athens, Greece) (2026)  
+**PMID:** 42665398  **DOI:** 10.21873/invivo.14461
+**Entities:** mTBI, TBI, aging  
+**Abstract:** BACKGROUND/AIM: Traumatic intracranial hemorrhage after mild traumatic brain injury (mTBI) remains a major clinical challenge, particularly in aging societies. This study characterized the incidence, ...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T19:23:44.720206",
-  "n_papers": 4343,
+  "generated_at": "2026-08-29T13:08:22.133192",
+  "n_papers": 4344,
   "n_entities": 115,
   "n_edges": 694,
   "cluster_stats": {
@@ -11,7 +11,7 @@
     "nqo2": 378,
     "ppcs_prognosis": 478,
     "qr2_inhibitors": 5,
-    "tbi_mild_blood": 462,
+    "tbi_mild_blood": 463,
     "tbi_panel_poc": 245,
     "tbi_proteomics": 543
   },
@@ -20,14 +20,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2261,
+      "paper_count": 2262,
       "centrality": 0.4474
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1401,
+      "paper_count": 1402,
       "centrality": 0.3509
     },
     {
@@ -41,7 +41,7 @@
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 920,
+      "paper_count": 921,
       "centrality": 0.3333
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 1003.0,
-      "n_papers": 1003.0,
+      "weight": 1004.0,
+      "n_papers": 1004.0,
       "annotation": null
     },
     {
@@ -2464,6 +2464,16 @@
       "annotation": null
     },
     {
+      "source": "TBI",
+      "target": "aging",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 55.0,
+      "n_papers": 55.0,
+      "annotation": null
+    },
+    {
       "source": "NfL",
       "target": "p-tau",
       "relation": "co-occurs",
@@ -2476,16 +2486,6 @@
     {
       "source": "NQO2",
       "target": "oxidative stress",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 54.0,
-      "n_papers": 54.0,
-      "annotation": null
-    },
-    {
-      "source": "TBI",
-      "target": "aging",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3109,8 +3109,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 22.0,
-      "n_papers": 22.0,
+      "weight": 23.0,
+      "n_papers": 23.0,
       "annotation": null
     },
     {
