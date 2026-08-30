@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-29*
-*Total papers: 4344*
+*Generated: 2026-08-30*
+*Total papers: 4345*
 
 
 ## Cluster: aging_neuro
@@ -18457,6 +18457,13 @@
 **PMID:** 42186233  **DOI:** 10.1093/arclin/acag037
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** OBJECTIVE: The Rivermead Post Concussion Symptoms Questionnaire (RPSQ) is commonly used post-concussive symptom measure. Simulation research has explored it as a symptom validity (SV) indicator. This ...
+
+### Exploratory proteomic biomarker combinations associated with post-concussion symptoms following a concussion in adolescents.
+**Authors:** Gill J, Lim A, Dennis E, Bickart K, Yun S et al.  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 42666808  **DOI:** 10.3389/fneur.2026.1872460
+**Entities:** GFAP, UCH-L1, NfL, tau, p-tau  
+**Abstract:** OBJECTIVE: This study examined the ability of established brain biomarkers, glial fibrillary acid protein (GFAP), neuro-filament light chain (NFL), ubiquitin carboxy hydrolase-L1(UCH-L1), tau, and pho...
 
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
