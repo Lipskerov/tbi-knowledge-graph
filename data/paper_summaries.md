@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-08-30*
-*Total papers: 4345*
+*Generated: 2026-09-01*
+*Total papers: 4346*
 
 
 ## Cluster: aging_neuro
@@ -10279,6 +10279,13 @@
 **PMID:** 41580617  **DOI:** 10.1186/s12245-025-01088-8
 **Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** BACKGROUND: Mild traumatic brain injury (mTBI) accounts for 80% of TBI cases. Although only 16% show intracranial lesions and <1% require neurosurgical intervention, CT overutilization remains common....
+
+### Nanomaterial-enhanced biosensors for traumatic brain injury biomarker detection: a review of analytical performance, machine learning integration, clinical validation, and point-of-care translation.
+**Authors:** Wekalao J, Topisia T  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 42676354  **DOI:** 10.3389/fneur.2026.1876862
+**Entities:** GFAP, UCH-L1, S100B, NfL, TBI  
+**Abstract:** Traumatic brain injury (TBI) affects an estimated 69 million people each year and remains difficult to diagnose rapidly because conventional assessment relies heavily on neurological examination and c...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
