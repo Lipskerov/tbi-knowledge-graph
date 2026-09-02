@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-01*
-*Total papers: 4346*
+*Generated: 2026-09-02*
+*Total papers: 4348*
 
 
 ## Cluster: aging_neuro
@@ -21650,6 +21650,13 @@
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** OBJECTIVE: To identify risk factors and generate hypotheses for pediatric persistent postconcussion symptoms (PPCS). SETTING: A regional healthcare system in the Southeastern United States. PARTICIPAN...
 
+### Sleep Disturbance and Postconcussive Symptoms in Pediatric Mild Traumatic Brain Injury and Orthopedic Injury.
+**Authors:** Luszawski CA, Minich NM, Bigler ED, Taylor HG, Bacevice A et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 39808542  **DOI:** 10.1097/HTR.0000000000001005
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: Sleep disturbance (SD) is common after pediatric mild traumatic brain injury (mTBI) and may predict increased postconcussive symptoms (PCS) and prolonged recovery. Our objective was to inve...
+
 
 ## Cluster: qr2_inhibitors
 
@@ -25130,6 +25137,13 @@
 **PMID:** 42628128  **DOI:** 10.3171/2026.4.PEDS25694
 **Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** OBJECTIVE: Emerging traumatic brain injury (TBI) guidelines increasingly recognize the role of blood-based biomarkers in improving diagnostic and triage accuracy, yet their integration into pediatric ...
+
+### Integration of GFAP/UCH-L1 Testing into an Emergency Department Concussion Pathway and Calculator to Model TBI Biomarker Impact on Time.
+**Authors:** Wilson JW, Bailey G, Baker M, Balen C, Holbrook EA et al.  
+**Journal:** Neurotrauma reports (2026)  
+**PMID:** 42676860  **DOI:** 10.1177/2689288X261481953
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) accounts for 70-90% of all TBI cases and represents a significant burden on emergency departments (EDs) across the United States. Despite its prevalence, mTBI evalua...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  

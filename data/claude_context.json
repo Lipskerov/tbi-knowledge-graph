@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 4346,
+  "n_papers": 4348,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -628,6 +628,14 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42676860",
+        "title": "Integration of GFAP/UCH-L1 Testing into an Emergency Department Concussion Pathway and Calculator to Model TBI Biomarker Impact on Time.",
+        "authors": "Wilson JW, Bailey G, Baker M, Balen C, Holbrook EA et al.",
+        "year": 2026,
+        "journal": "Neurotrauma reports",
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
+      },
+      {
         "pmid": "42628128",
         "title": "Biomarker-informed prediction of neurosurgical intervention in pediatric traumatic brain injury: a proof-of-concept study.",
         "authors": "Reisner A, Alawieh AM, Lepard JR, Baer AV, Zohdy YM et al.",
@@ -698,14 +706,6 @@
         "year": 2026,
         "journal": "Journal of emergencies, trauma, and shock",
         "entities": "mTBI, TBI"
-      },
-      {
-        "pmid": "42346702",
-        "title": "A Decision Tree Cost Analysis of Intracranial Bleed Detection Using a Near-Infrared Device Across Various Healthcare Levels.",
-        "authors": "Patel M, Mittal AK, Agrawal M, Sachin O, Rajsekar K et al.",
-        "year": 2026,
-        "journal": "Journal of market access & health policy",
-        "entities": "TBI"
       }
     ],
     "tbi_proteomics": [
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2263
+      "paper_count": 2265
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1403
+      "paper_count": 1405
     },
     {
       "name": "Alzheimer",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 583
+      "paper_count": 584
     },
     {
       "name": "tau",
@@ -850,12 +850,12 @@
     {
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 298
+      "paper_count": 299
     },
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 273
+      "paper_count": 274
     },
     {
       "name": "S100B",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 1004.0
+      "weight": 1006.0
     },
     {
       "source": "Alzheimer",
@@ -957,7 +957,7 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 476.0
+      "weight": 477.0
     },
     {
       "source": "ROS",
@@ -967,7 +967,7 @@
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 290.0
+      "weight": 291.0
     },
     {
       "source": "tau",
@@ -982,7 +982,7 @@
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 247.0
+      "weight": 248.0
     },
     {
       "source": "TBI",
@@ -992,12 +992,12 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 239.0
+      "weight": 240.0
     },
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 234.0
+      "weight": 235.0
     },
     {
       "source": "NfL",
@@ -1037,7 +1037,7 @@
     {
       "source": "TBI",
       "target": "PPCS",
-      "weight": 194.0
+      "weight": 195.0
     },
     {
       "source": "S100B",
@@ -1087,7 +1087,7 @@
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 134.0
+      "weight": 135.0
     },
     {
       "source": "BBB",

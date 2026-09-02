@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T12:31:29.316693",
-  "n_papers": 4346,
+  "generated_at": "2026-09-02T12:04:29.589638",
+  "n_papers": 4348,
   "n_entities": 115,
   "n_edges": 695,
   "cluster_stats": {
@@ -9,10 +9,10 @@
     "gfap_uchl1": 424,
     "nfl_tau": 392,
     "nqo2": 378,
-    "ppcs_prognosis": 479,
+    "ppcs_prognosis": 480,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 463,
-    "tbi_panel_poc": 245,
+    "tbi_panel_poc": 246,
     "tbi_proteomics": 543
   },
   "nodes": [
@@ -20,14 +20,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2263,
+      "paper_count": 2265,
       "centrality": 0.4474
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1403,
+      "paper_count": 1405,
       "centrality": 0.3509
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 583,
+      "paper_count": 584,
       "centrality": 0.307
     },
     {
@@ -97,14 +97,14 @@
       "id": 40,
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 298,
+      "paper_count": 299,
       "centrality": 0.1842
     },
     {
       "id": 10,
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 273,
+      "paper_count": 274,
       "centrality": 0.2632
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 1004.0,
-      "n_papers": 1004.0,
+      "weight": 1006.0,
+      "n_papers": 1006.0,
       "annotation": null
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 476.0,
-      "n_papers": 476.0,
+      "weight": 477.0,
+      "n_papers": 477.0,
       "annotation": null
     },
     {
@@ -1799,8 +1799,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 290.0,
-      "n_papers": 290.0,
+      "weight": 291.0,
+      "n_papers": 291.0,
       "annotation": null
     },
     {
@@ -1829,8 +1829,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 247.0,
-      "n_papers": 247.0,
+      "weight": 248.0,
+      "n_papers": 248.0,
       "annotation": null
     },
     {
@@ -1849,8 +1849,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 239.0,
-      "n_papers": 239.0,
+      "weight": 240.0,
+      "n_papers": 240.0,
       "annotation": null
     },
     {
@@ -1859,8 +1859,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 234.0,
-      "n_papers": 234.0,
+      "weight": 235.0,
+      "n_papers": 235.0,
       "annotation": null
     },
     {
@@ -1939,8 +1939,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 194.0,
-      "n_papers": 194.0,
+      "weight": 195.0,
+      "n_papers": 195.0,
       "annotation": null
     },
     {
@@ -2039,8 +2039,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 134.0,
-      "n_papers": 134.0,
+      "weight": 135.0,
+      "n_papers": 135.0,
       "annotation": null
     },
     {
