@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-02*
-*Total papers: 4348*
+*Generated: 2026-09-03*
+*Total papers: 4350*
 
 
 ## Cluster: aging_neuro
@@ -13069,6 +13069,13 @@
 **Entities:** GFAP, NfL, Aβ42, TBI  
 **Abstract:** Traumatic brain injury (TBI) is a leading cause of death and disability in children, especially those under five, with younger children more vulnerable to persistent cognitive and neuropsychological e...
 
+### Utility of Amyloid Beta and Tau Positron Emission Tomography Scans for Identifying Early-Stage Neurodegenerative Changes in Former Professional Football Players and Healthy Controls: Results from the Brain Health Initiative.
+**Authors:** Eagle SR, Collins M, Kontos AP, Lopez O, Mountz JM et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41854183  **DOI:** 10.1177/08977151261433820
+**Entities:** tau, mTBI  
+**Abstract:** The aim of this study is to determine if there is a difference in tau and amyloid beta (Aβ) deposition on positron emission tomography (PET) scans between former players and controls, and if there is ...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -18471,6 +18478,13 @@
 **PMID:** 42666808  **DOI:** 10.3389/fneur.2026.1872460
 **Entities:** GFAP, UCH-L1, NfL, tau, p-tau  
 **Abstract:** OBJECTIVE: This study examined the ability of established brain biomarkers, glial fibrillary acid protein (GFAP), neuro-filament light chain (NFL), ubiquitin carboxy hydrolase-L1(UCH-L1), tau, and pho...
+
+### Acute interleukin-10 predicts persistent post-concussion symptoms in children with mild traumatic brain injury: exploratory findings from the t-BIOMAP study.
+**Authors:** Chiollaz AC, Pouillard V, Seiler M, Habre C, Romano F et al.  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 42682381  **DOI:** 10.3389/fneur.2026.1893730
+**Entities:** GFAP, S100B, NfL, IL-6, neuroinflammation  
+**Abstract:** BACKGROUND: Children are a vulnerable population for mild traumatic brain injury (mTBI), accounting for a high burden of emergency department (ED) visits. A significant and unpredictable subset will d...
 
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
