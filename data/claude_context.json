@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 4350,
+  "n_papers": 4418,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42689994",
+        "title": "From an Age-Stratified Perspective: Divergent Adaptive Mechanisms of the Traumatic Brain Injury Repair Network Between Pediatric and Adult Patients.",
+        "authors": "Yu S, Pan L, Yang T, Chen X, Ma Y et al.",
+        "year": 2026,
+        "journal": "Frontiers in bioscience (Landmark edition)",
+        "entities": "BDNF, TBI, aging"
+      },
+      {
         "pmid": "42660464",
         "title": "Traumatic Brain Injury: Multi-Omics Insights into Brain Aging, Neurodegeneration, and Precision Therapeutics.",
         "authors": "Shafie A, Ashour AA, Alhujaily MM, Anjum F, Akhtar F et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "Neurotrauma reports",
         "entities": "TBI"
-      },
-      {
-        "pmid": "42539240",
-        "title": "Transglutaminase 2 Deletion Enhances Astrocyte-to-Neuron Metabolic Support and Attenuates Subacute Pathology Following Repetitive Mild Traumatic Brain Injury.",
-        "authors": "Delgado T, Arefin TM, Pagan I, Weekley BH, Rodwell-Bullock J et al.",
-        "year": 2026,
-        "journal": "bioRxiv : the preprint server for biology",
-        "entities": "ROS, neuroinflammation, oxidative stress, mTBI, TBI"
       }
     ]
   },
@@ -795,52 +795,52 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2266
+      "paper_count": 2305
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1407
+      "paper_count": 1447
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 955
+      "paper_count": 962
     },
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 921
+      "paper_count": 923
     },
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 585
+      "paper_count": 598
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 546
+      "paper_count": 563
     },
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 461
+      "paper_count": 464
     },
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 407
+      "paper_count": 428
     },
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 335
+      "paper_count": 336
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 316
+      "paper_count": 317
     },
     {
       "name": "NQO2",
@@ -850,52 +850,52 @@
     {
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 300
+      "paper_count": 305
     },
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 274
+      "paper_count": 280
     },
     {
       "name": "S100B",
       "type": "protein",
-      "paper_count": 218
+      "paper_count": 223
     },
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 192
+      "paper_count": 196
     },
     {
       "name": "p-tau",
       "type": "protein",
-      "paper_count": 148
+      "paper_count": 151
     },
     {
       "name": "A\u03b242",
       "type": "protein",
-      "paper_count": 125
+      "paper_count": 128
     },
     {
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 124
+      "paper_count": 125
+    },
+    {
+      "name": "CTE",
+      "type": "disease",
+      "paper_count": 121
+    },
+    {
+      "name": "NSE",
+      "type": "protein",
+      "paper_count": 120
     },
     {
       "name": "NQO1",
       "type": "protein",
       "paper_count": 119
-    },
-    {
-      "name": "CTE",
-      "type": "disease",
-      "paper_count": 116
-    },
-    {
-      "name": "NSE",
-      "type": "protein",
-      "paper_count": 115
     },
     {
       "name": "NRH",
@@ -905,7 +905,7 @@
     {
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 84
+      "paper_count": 85
     },
     {
       "name": "melatonin",
@@ -915,12 +915,12 @@
     {
       "name": "Simoa",
       "type": "drug",
-      "paper_count": 79
+      "paper_count": 80
     },
     {
       "name": "MBP",
       "type": "protein",
-      "paper_count": 73
+      "paper_count": 75
     },
     {
       "name": "GOS-E",
@@ -930,7 +930,7 @@
     {
       "name": "BDNF",
       "type": "protein",
-      "paper_count": 55
+      "paper_count": 57
     },
     {
       "name": "dopamine",
@@ -938,8 +938,8 @@
       "paper_count": 54
     },
     {
-      "name": "glutathione",
-      "type": "metabolite",
+      "name": "IL-1\u03b2",
+      "type": "protein",
       "paper_count": 51
     }
   ],
@@ -947,82 +947,82 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 1007.0
+      "weight": 1026.0
     },
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 542.0
+      "weight": 543.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 478.0
-    },
-    {
-      "source": "ROS",
-      "target": "oxidative stress",
-      "weight": 294.0
+      "weight": 490.0
     },
     {
       "source": "mTBI",
       "target": "PPCS",
+      "weight": 297.0
+    },
+    {
+      "source": "ROS",
+      "target": "oxidative stress",
+      "weight": 295.0
+    },
+    {
+      "source": "tau",
+      "target": "Alzheimer",
       "weight": 292.0
     },
     {
       "source": "tau",
-      "target": "Alzheimer",
-      "weight": 287.0
-    },
-    {
-      "source": "tau",
       "target": "TBI",
-      "weight": 278.0
+      "weight": 291.0
     },
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 248.0
+      "weight": 254.0
     },
     {
       "source": "TBI",
       "target": "Alzheimer",
-      "weight": 240.0
+      "weight": 245.0
     },
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 240.0
+      "weight": 244.0
+    },
+    {
+      "source": "NfL",
+      "target": "TBI",
+      "weight": 241.0
     },
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 236.0
-    },
-    {
-      "source": "NfL",
-      "target": "TBI",
-      "weight": 232.0
+      "weight": 240.0
     },
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 223.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "TBI",
-      "weight": 214.0
+      "weight": 228.0
     },
     {
       "source": "NfL",
       "target": "tau",
-      "weight": 212.0
+      "weight": 215.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "TBI",
+      "weight": 215.0
     },
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 207.0
+      "weight": 208.0
     },
     {
       "source": "neuroinflammation",
@@ -1030,29 +1030,29 @@
       "weight": 201.0
     },
     {
-      "source": "TBI",
-      "target": "PPCS",
-      "weight": 196.0
-    },
-    {
       "source": "GFAP",
       "target": "tau",
-      "weight": 196.0
+      "weight": 201.0
     },
     {
-      "source": "S100B",
-      "target": "TBI",
-      "weight": 192.0
+      "source": "TBI",
+      "target": "PPCS",
+      "weight": 199.0
     },
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 188.0
+      "weight": 198.0
+    },
+    {
+      "source": "S100B",
+      "target": "TBI",
+      "weight": 197.0
     },
     {
       "source": "NfL",
       "target": "mTBI",
-      "weight": 161.0
+      "weight": 177.0
     },
     {
       "source": "ROS",
@@ -1060,14 +1060,14 @@
       "weight": 158.0
     },
     {
+      "source": "GFAP",
+      "target": "S100B",
+      "weight": 153.0
+    },
+    {
       "source": "oxidative stress",
       "target": "aging",
       "weight": 152.0
-    },
-    {
-      "source": "GFAP",
-      "target": "S100B",
-      "weight": 149.0
     },
     {
       "source": "tau",
@@ -1077,27 +1077,27 @@
     {
       "source": "NfL",
       "target": "Alzheimer",
-      "weight": 145.0
+      "weight": 146.0
     },
     {
       "source": "tau",
       "target": "p-tau",
-      "weight": 143.0
+      "weight": 146.0
     },
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 135.0
+      "weight": 137.0
     },
     {
       "source": "BBB",
       "target": "TBI",
-      "weight": 126.0
+      "weight": 129.0
     },
     {
       "source": "S100B",
       "target": "mTBI",
-      "weight": 119.0
+      "weight": 120.0
     },
     {
       "source": "ROS",
@@ -1120,19 +1120,24 @@
       "weight": 111.0
     },
     {
-      "source": "GFAP",
-      "target": "Alzheimer",
-      "weight": 105.0
-    },
-    {
       "source": "TBI",
       "target": "NSE",
-      "weight": 104.0
+      "weight": 109.0
+    },
+    {
+      "source": "GFAP",
+      "target": "Alzheimer",
+      "weight": 106.0
     },
     {
       "source": "mTBI",
       "target": "Alzheimer",
-      "weight": 100.0
+      "weight": 102.0
+    },
+    {
+      "source": "UCH-L1",
+      "target": "tau",
+      "weight": 101.0
     },
     {
       "source": "ROS",
@@ -1151,37 +1156,32 @@
     },
     {
       "source": "UCH-L1",
-      "target": "tau",
-      "weight": 99.0
+      "target": "S100B",
+      "weight": 97.0
     },
     {
       "source": "p-tau",
       "target": "Alzheimer",
-      "weight": 96.0
-    },
-    {
-      "source": "UCH-L1",
-      "target": "S100B",
-      "weight": 93.0
+      "weight": 97.0
     },
     {
       "source": "oxidative stress",
       "target": "TBI",
-      "weight": 92.0
-    },
-    {
-      "source": "NQO2",
-      "target": "NRH",
-      "weight": 89.0
-    },
-    {
-      "source": "ROS",
-      "target": "TBI",
-      "weight": 89.0
+      "weight": 93.0
     },
     {
       "source": "UCH-L1",
       "target": "NfL",
+      "weight": 92.0
+    },
+    {
+      "source": "ROS",
+      "target": "TBI",
+      "weight": 90.0
+    },
+    {
+      "source": "NQO2",
+      "target": "NRH",
       "weight": 89.0
     },
     {
@@ -1192,7 +1192,7 @@
     {
       "source": "A\u03b242",
       "target": "Alzheimer",
-      "weight": 86.0
+      "weight": 87.0
     }
   ]
 }
