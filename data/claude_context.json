@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 4418,
+  "n_papers": 4427,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -710,6 +710,22 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42697480",
+        "title": "Evaluation of a novel high-capacity dry plasma biosampling-lateral flow device for the testing of traumatic brain injury protein biomarkers.",
+        "authors": "Kobeissy F, Elbayoumi E, Arja RD, Cai G, Boukholda K et al.",
+        "year": 2026,
+        "journal": "Journal of advanced research",
+        "entities": "GFAP, UCH-L1, NfL, tau, TBI, Quanterix"
+      },
+      {
+        "pmid": "42695900",
+        "title": "Development of a High-Sensitivity Glycoproteomics Approach for Fc-Specific Quantification of IgG Core Fucosylation in Traumatic Brain Injury.",
+        "authors": "Onigbinde S, Solomon J, Sandilya V, Daramola O, Fowowe M et al.",
+        "year": 2026,
+        "journal": "Journal of proteome research",
+        "entities": "neuroinflammation, TBI"
+      },
+      {
         "pmid": "42689994",
         "title": "From an Age-Stratified Perspective: Divergent Adaptive Mechanisms of the Traumatic Brain Injury Repair Network Between Pediatric and Adult Patients.",
         "authors": "Yu S, Pan L, Yang T, Chen X, Ma Y et al.",
@@ -772,22 +788,6 @@
         "year": 2026,
         "journal": "Cell reports",
         "entities": "neuroinflammation, TBI"
-      },
-      {
-        "pmid": "42556280",
-        "title": "Propranolol attenuates systemic inflammatory response in aged traumatic brain injury patients.",
-        "authors": "Zhu Y, Lu Z, Wang C, Zhu X, Qu J et al.",
-        "year": 2026,
-        "journal": "International immunopharmacology",
-        "entities": "neuroinflammation, TBI, aging"
-      },
-      {
-        "pmid": "42539370",
-        "title": "Proteomic Changes of Neurodegenerative and Inflammatory Plasma Biomarkers Following Traumatic Brain Injury.",
-        "authors": "Abbruzzese S, Patel R, Walter AE, Lynch CE, Sandsmark DK et al.",
-        "year": 2026,
-        "journal": "Neurotrauma reports",
-        "entities": "TBI"
       }
     ]
   },
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2305
+      "paper_count": 2313
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1447
+      "paper_count": 1452
     },
     {
       "name": "Alzheimer",
@@ -815,22 +815,22 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 598
+      "paper_count": 601
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 563
+      "paper_count": 564
     },
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 464
+      "paper_count": 465
     },
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 428
+      "paper_count": 429
     },
     {
       "name": "ROS",
@@ -850,12 +850,12 @@
     {
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 305
+      "paper_count": 307
     },
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 280
+      "paper_count": 282
     },
     {
       "name": "S100B",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 1026.0
+      "weight": 1030.0
     },
     {
       "source": "Alzheimer",
@@ -957,12 +957,12 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 490.0
+      "weight": 493.0
     },
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 297.0
+      "weight": 299.0
     },
     {
       "source": "ROS",
@@ -971,18 +971,23 @@
     },
     {
       "source": "tau",
-      "target": "Alzheimer",
+      "target": "TBI",
       "weight": 292.0
     },
     {
       "source": "tau",
-      "target": "TBI",
-      "weight": 291.0
+      "target": "Alzheimer",
+      "weight": 292.0
     },
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 254.0
+      "weight": 256.0
+    },
+    {
+      "source": "GFAP",
+      "target": "UCH-L1",
+      "weight": 246.0
     },
     {
       "source": "TBI",
@@ -990,14 +995,9 @@
       "weight": 245.0
     },
     {
-      "source": "GFAP",
-      "target": "UCH-L1",
-      "weight": 244.0
-    },
-    {
       "source": "NfL",
       "target": "TBI",
-      "weight": 241.0
+      "weight": 242.0
     },
     {
       "source": "GFAP",
@@ -1007,17 +1007,17 @@
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 228.0
+      "weight": 229.0
     },
     {
       "source": "NfL",
       "target": "tau",
-      "weight": 215.0
+      "weight": 216.0
     },
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 215.0
+      "weight": 216.0
     },
     {
       "source": "neuroinflammation",
@@ -1025,19 +1025,19 @@
       "weight": 208.0
     },
     {
+      "source": "GFAP",
+      "target": "tau",
+      "weight": 202.0
+    },
+    {
       "source": "neuroinflammation",
       "target": "aging",
       "weight": 201.0
     },
     {
-      "source": "GFAP",
-      "target": "tau",
-      "weight": 201.0
-    },
-    {
       "source": "TBI",
       "target": "PPCS",
-      "weight": 199.0
+      "weight": 201.0
     },
     {
       "source": "tau",
@@ -1137,7 +1137,7 @@
     {
       "source": "UCH-L1",
       "target": "tau",
-      "weight": 101.0
+      "weight": 102.0
     },
     {
       "source": "ROS",
@@ -1172,7 +1172,7 @@
     {
       "source": "UCH-L1",
       "target": "NfL",
-      "weight": 92.0
+      "weight": 93.0
     },
     {
       "source": "ROS",

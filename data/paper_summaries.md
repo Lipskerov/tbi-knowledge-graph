@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-04*
-*Total papers: 4418*
+*Generated: 2026-09-05*
+*Total papers: 4427*
 
 
 ## Cluster: aging_neuro
@@ -12632,6 +12632,20 @@
 **Entities:** GFAP, UCH-L1, S100B, BBB, TBI  
 **Abstract:** BACKGROUND: Blood biomarkers of neurovascular damage are used clinically to diagnose the presence severity or absence of neurological diseases, but data interpretation is confounded by a limited under...
 
+### Intravenous Administration of Simvastatin Improves Cognitive Outcome following Severe Traumatic Brain Injury in Rats.
+**Authors:** Mountney A, Boutté AM, Gilsdorf J, Lu XC, Tortella FC et al.  
+**Journal:** Journal of neurotrauma (2016)  
+**PMID:** 26542887  **DOI:** 10.1089/neu.2015.4139
+**Entities:** GFAP, TBI  
+**Abstract:** Simvastatin is a 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitor commonly used to reduce serum cholesterol. The beneficial effects of oral simvastatin have been reported in pre-clinical mode...
+
+### Microdialysis as Clinical Evaluation of Therapeutic Hypothermia in Rat Subdural Hematoma Model.
+**Authors:** Yokobori S, Spurlock MS, Lee SW, Gajavelli S, Bullock RM  
+**Journal:** Methods in molecular biology (Clifton, N.J.) (2016)  
+**PMID:** 27604731  **DOI:** 10.1007/978-1-4939-3816-2_23
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** Cerebral microdialysis (MD) is a fine laboratory technique which has been established for studying physiological, pharmacological, and pathological changes in the experimental studies of traumatic bra...
+
 ### Serum ubiquitin C-terminal hydrolase L1 as a biomarker for traumatic brain injury: a systematic review and meta-analysis.
 **Authors:** Li J, Yu C, Sun Y, Li Y  
 **Journal:** The American journal of emergency medicine (2015)  
@@ -13810,6 +13824,13 @@
 **PMID:** 38149331  **DOI:** 10.1177/19417381231217744
 **Entities:** mTBI  
 **Abstract:** BACKGROUND: Sport-related concussions are a complex injury requiring multifaceted assessment, including physical exertion. Currently, concussion testing relies primarily on a treadmill-based protocol ...
+
+### Cognition Uniquely Influences Dual-Task Tandem Gait Performance Among Athletes With a Concussion History.
+**Authors:** Shumski EJ, Schmidt JD, Lynall RC  
+**Journal:** Sports health (2024)  
+**PMID:** 37377161  **DOI:** 10.1177/19417381231183413
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: After a concussion, there are unique associations between static balance and landing with cognition. Previous research has explored these unique correlations, but the factor of time, dual-...
 
 ### Consensus statement on concussion in sport: the 6th International Conference on Concussion in Sport-Amsterdam, October 2022.
 **Authors:** Patricios JS, Schneider KJ, Dvorak J, Ahmed OH, Blauwet C et al.  
@@ -20313,6 +20334,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** This study longitudinally examined age differences across multiple outcome domains in individuals diagnosed with acute mild traumatic brain injury (mTBI). A sample of 447 adults meeting VA/DoD criteri...
 
+### Effect of Transcranial Low-Level Light Therapy vs Sham Therapy Among Patients With Moderate Traumatic Brain Injury: A Randomized Clinical Trial.
+**Authors:** Figueiro Longo MG, Tan CO, Chan ST, Welt J, Avesta A et al.  
+**Journal:** JAMA network open (2020)  
+**PMID:** 32926117  **DOI:** 10.1001/jamanetworkopen.2020.17337
+**Entities:** mTBI, TBI  
+**Abstract:** IMPORTANCE: Preclinical studies have shown that transcranial near-infrared low-level light therapy (LLLT) administered after traumatic brain injury (TBI) confers a neuroprotective response. OBJECTIVES...
+
 ### Behavioral Therapies and Mind-Body Interventions for Posttraumatic Headache and Post-Concussive Symptoms: A Systematic Review.
 **Authors:** Minen M, Jinich S, Vallespir Ellett G  
 **Journal:** Headache (2019)  
@@ -21188,6 +21216,20 @@
 **Entities:** mTBI  
 **Abstract:** OBJECTIVES: In 2010, there were 2.5 million hospitalizations, emergency room visits, or deaths associated with concussions in the United States.[1] Knowledge deficits exist among physicians regarding ...
 
+### Prognostic Indicators of Persistent Post-Concussive Symptoms after Deployment-Related Mild Traumatic Brain Injury: A Prospective Longitudinal Study in U.S. Army Soldiers.
+**Authors:** Stein MB, Ursano RJ, Campbell-Sills L, Colpe LJ, Fullerton CS et al.  
+**Journal:** Journal of neurotrauma (2016)  
+**PMID:** 26905672  
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** Mild traumatic brain injury (mTBI), or concussion, is prevalent in the military. The course of recovery can be highly variable. This study investigates whether deployment-acquired mTBI is associated w...
+
+### Occupational outcomes following mild traumatic brain injury in Canadian military personnel deployed in support of the mission in Afghanistan: a retrospective cohort study.
+**Authors:** Garber BG, Rusu C, Zamorski MA, Boulos D  
+**Journal:** BMJ open (2016)  
+**PMID:** 27147386  **DOI:** 10.1136/bmjopen-2015-010780
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: Deployment-related mild traumatic brain injury (MTBI) occurs in a significant number of military personnel but its long-term impacts are unclear. This study explores the impact of deploymen...
+
 ### Physiological, vestibulo-ocular and cervicogenic post-concussion disorders: an evidence-based classification system with directions for treatment.
 **Authors:** Ellis MJ, Leddy JJ, Willer B  
 **Journal:** Brain injury (2015)  
@@ -21719,6 +21761,13 @@
 **PMID:** 20611047  **DOI:** 10.1097/HTR.0b013e3181e67936
 **Entities:** mTBI, TBI  
 **Abstract:** Our goal was to determine whether performance variability during predictive visual tracking can provide a screening measure for mild traumatic brain injury (mTBI). Seventeen subjects with chronic post...
+
+### Mild traumatic brain injury (concussion) during combat: lack of association of blast mechanism with persistent postconcussive symptoms.
+**Authors:** Wilk JE, Thomas JL, McGurk DM, Riviere LA, Castro CA et al.  
+**Journal:** The Journal of head trauma rehabilitation (2010)  
+**PMID:** 20051900  **DOI:** 10.1097/HTR.0b013e3181bd090f
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: To determine whether screening for a blast mechanism of concussion identifies individuals at higher risk of persistent postconcussive symptoms (PCS). SETTING: United States Army post. PARTI...
 
 ### Post-concussion syndrome.
 **Authors:** Foy K, Murphy KC  
@@ -27751,6 +27800,20 @@
 **PMID:** 42689994  **DOI:** 10.31083/FBL45754
 **Entities:** BDNF, TBI, aging  
 **Abstract:** Traumatic brain injury (TBI) remains a leading cause of chronic neurological impairment across the lifespan, with significant disparities in clinical recovery trajectories between pediatric and adult ...
+
+### Evaluation of a novel high-capacity dry plasma biosampling-lateral flow device for the testing of traumatic brain injury protein biomarkers.
+**Authors:** Kobeissy F, Elbayoumi E, Arja RD, Cai G, Boukholda K et al.  
+**Journal:** Journal of advanced research (2026)  
+**PMID:** 42697480  **DOI:** 10.1016/j.jare.2026.09.003
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
+**Abstract:** BACKGROUND AND PURPOSE: Current blood-based diagnostic tests for traumatic brain injury (TBI), such as those measuring UCH-L1 and GFAP, require venous whole blood or plasma samples collection and cold...
+
+### Development of a High-Sensitivity Glycoproteomics Approach for Fc-Specific Quantification of IgG Core Fucosylation in Traumatic Brain Injury.
+**Authors:** Onigbinde S, Solomon J, Sandilya V, Daramola O, Fowowe M et al.  
+**Journal:** Journal of proteome research (2026)  
+**PMID:** 42695900  **DOI:** 10.1021/acs.jproteome.5c01154
+**Entities:** neuroinflammation, TBI  
+**Abstract:** Traumatic brain injury (TBI) triggers complex neuroinflammatory cascades that involve sustained immune activation and dysregulated antibody effector functions. Immunoglobulin G (IgG) Fc N-glycosylatio...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
