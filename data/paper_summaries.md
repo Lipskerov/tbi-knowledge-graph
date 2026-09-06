@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-05*
-*Total papers: 4427*
+*Generated: 2026-09-06*
+*Total papers: 4438*
 
 
 ## Cluster: aging_neuro
@@ -13503,6 +13503,20 @@
 **Entities:** GFAP, S100B, NfL, tau, Aβ42  
 **Abstract:** INTRODUCTION: There is a lack of studies examining the most promising blood biomarkers for traumatic brain injury (TBI) in relation to gross pathology types. RESEARCH QUESTION: To examine whether the ...
 
+### Characterizing the Effects of Concussion and Head Impact Exposure: Design, Methods, and Participant Traits of the CARE 2.0 Study.
+**Authors:** McAllister TW, Broglio SP, Perkins SM, Katz BP, Pasquina PF et al.  
+**Journal:** The Journal of neuropsychiatry and clinical neurosciences (2025)  
+**PMID:** 39385574  **DOI:** 10.1176/appi.neuropsych.20240022
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: This article describes the design, methods, and participant characteristics of the second phase of the Concussion Assessment, Research, and Education (CARE) Consortium study ("CARE 2.0") of...
+
+### Detection of Injury Biomarkers in Sweat of Collegiate Athletes Pre- and Post-Football Season: A Pilot Study.
+**Authors:** Svirsky SE, Wood CC, Raymond O, McIntyre P, Appleton H et al.  
+**Journal:** Neurotrauma reports (2025)  
+**PMID:** 40918994  **DOI:** 10.1177/08977151251367345
+**Entities:** TBI  
+**Abstract:** The sports medicine community and society at large have recognized traumatic brain injury (TBI) as a major public health concern. It is estimated that more than 150 million youths have played football...
+
 ### Duration of Ice Hockey Play and Chronic Traumatic Encephalopathy.
 **Authors:** Abdolmohammadi B, Tuz-Zahra F, Uretsky M, Nicks R, Mosaheb S et al.  
 **Journal:** JAMA network open (2024)  
@@ -13831,6 +13845,13 @@
 **PMID:** 37377161  **DOI:** 10.1177/19417381231183413
 **Entities:** mTBI  
 **Abstract:** BACKGROUND: After a concussion, there are unique associations between static balance and landing with cognition. Previous research has explored these unique correlations, but the factor of time, dual-...
+
+### Age of First Exposure Does Not Relate to Post-Career Health in Former Professional American-Style Football Players.
+**Authors:** Terry DP, Grashow R, Iverson GL, Atkeson P, Rotem R et al.  
+**Journal:** Sports medicine (Auckland, N.Z.) (2024)  
+**PMID:** 38918303  **DOI:** 10.1007/s40279-024-02062-9
+**Entities:** mTBI, Alzheimer  
+**Abstract:** OBJECTIVE: Prior studies examining small samples of symptomatic former professional football players suggest that earlier age of first exposure (AFE) to American football is associated with adverse la...
 
 ### Consensus statement on concussion in sport: the 6th International Conference on Concussion in Sport-Amsterdam, October 2022.
 **Authors:** Patricios JS, Schneider KJ, Dvorak J, Ahmed OH, Blauwet C et al.  
@@ -15316,6 +15337,13 @@
 **Entities:** NfL, CTE  
 **Abstract:** Subconcussive hits pose a threat to neuronal health as they have shown to induce neuronal structural damage and functional impairment without causing outward symptomology and appear to be a key contri...
 
+### Low-level blast exposure disrupts gliovascular and neurovascular connections and induces a chronic vascular pathology in rat brain.
+**Authors:** Gama Sosa MA, De Gasperi R, Perez Garcia GS, Perez GM, Searcy C et al.  
+**Journal:** Acta neuropathologica communications (2019)  
+**PMID:** 30626447  **DOI:** 10.1186/s40478-018-0647-5
+**Entities:** GFAP, mTBI, TBI  
+**Abstract:** Much concern exists over the role of blast-induced traumatic brain injury (TBI) in the chronic cognitive and mental health problems that develop in veterans and active duty military personnel. The bra...
+
 ### Chronic traumatic encephalopathy: fluid biomarkers.
 **Authors:** Zetterberg H, Blennow K  
 **Journal:** Handbook of clinical neurology (2018)  
@@ -15589,6 +15617,13 @@
 **Entities:** tau, p-tau, mTBI, TBI, CTE  
 **Abstract:** INTRODUCTION: Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease linked to repetitive head injuries. Chronic traumatic encephalopathy symptoms include changes in mood, behavior, cog...
 
+### Staying in the game: a pilot study examining the efficacy of protective headgear in an animal model of mild traumatic brain injury (mTBI).
+**Authors:** Candy S, Ma I, McMahon JM, Farrell M, Mychasiuk R  
+**Journal:** Brain injury (2017)  
+**PMID:** 28972405  **DOI:** 10.1080/02699052.2017.1363407
+**Entities:** GFAP, TNF-α, mTBI, TBI  
+**Abstract:** PRIMARY OBJECTIVE: Rugby is one of the few contact sports that do not mandate protective headgear, possibly because studies have shown poor efficacy for protection related to concussion pathology with...
+
 ### Potential Blood-based Biomarkers for Concussion.
 **Authors:** Papa L  
 **Journal:** Sports medicine and arthroscopy review (2016)  
@@ -15701,6 +15736,13 @@
 **Entities:** NfL, mTBI  
 **Abstract:** The authors present the development and laboratory system-level testing of an impact monitoring "Intelligent Mouthguard" intended to help with identification of potentially concussive head impacts and...
 
+### Study of neurometabolic and behavioral alterations in rodent model of mild traumatic brain injury: a pilot study.
+**Authors:** Singh K, Trivedi R, Haridas S, Manda K, Khushu S  
+**Journal:** NMR in biomedicine (2016)  
+**PMID:** 27779341  **DOI:** 10.1002/nbm.3627
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) is the most common form of TBI (70-90%) with consequences of anxiety-like behavioral alterations in approximately 23% of mTBI cases. This study aimed to assess wheth...
+
 ### Neurodegeneration and sport.
 **Authors:** Davis GA, Castellani RJ, McCrory P  
 **Journal:** Neurosurgery (2015)  
@@ -15798,6 +15840,13 @@
 **PMID:** 26441507  **DOI:** 10.3389/fnins.2015.00334
 **Entities:** tau, TBI, CTE  
 **Abstract:** Traumatic brain injury (TBI) has been increasingly accepted as a major external risk factor for neurodegenerative morbidity and mortality. Recent evidence indicates that the resultant chronic neurobio...
+
+### Temporal MRI characterization, neurobiochemical and neurobehavioral changes in a mouse repetitive concussive head injury model.
+**Authors:** Yang Z, Wang P, Morgan D, Lin D, Pan J et al.  
+**Journal:** Scientific reports (2015)  
+**PMID:** 26058556  **DOI:** 10.1038/srep11178
+**Entities:** GFAP, tau, p-tau, mTBI, TBI  
+**Abstract:** Single and repeated sports-related mild traumatic brain injury (mTBI), also referred to as concussion, can result in chronic post-concussive syndrome (PCS), neuropsychological and cognitive deficits, ...
 
 ### Military-related traumatic brain injury and neurodegeneration.
 **Authors:** McKee AC, Robinson ME  
@@ -15924,6 +15973,13 @@
 **PMID:** 22552850  **DOI:** 10.1007/s11682-012-9164-5
 **Entities:** tau, CTE, Alzheimer  
 **Abstract:** Chronic Traumatic Encephalopathy (CTE) is a neurodegenerative disease thought to be caused, at least in part, by repetitive brain trauma, including concussive and subconcussive injuries. It is thought...
+
+### Chronic traumatic encephalopathy in blast-exposed military veterans and a blast neurotrauma mouse model.
+**Authors:** Goldstein LE, Fisher AM, Tagge CA, Zhang XL, Velisek L et al.  
+**Journal:** Science translational medicine (2012)  
+**PMID:** 22593173  **DOI:** 10.1126/scitranslmed.3003716
+**Entities:** tau, neuroinflammation, TBI, CTE, Alzheimer  
+**Abstract:** Blast exposure is associated with traumatic brain injury (TBI), neuropsychiatric symptoms, and long-term cognitive disability. We examined a case series of postmortem brains from U.S. military veteran...
 
 ### Long-term consequences of repetitive brain trauma: chronic traumatic encephalopathy.
 **Authors:** Stern RA, Riley DO, Daneshvar DH, Nowinski CJ, Cantu RC et al.  
@@ -25677,6 +25733,13 @@
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) accounts for 70-90% of all TBI cases and represents a significant burden on emergency departments (EDs) across the United States. Despite its prevalence, mTBI evalua...
 
+### An Eye on Survival: Association Between Initial Optic Nerve Sheath Diameter and 30-Day Mortality in Patients With Traumatic Brain Injury.
+**Authors:** C A, Karmegam G, Raja M C S, R P, K S et al.  
+**Journal:** Cureus (2026)  
+**PMID:** 42699344  **DOI:** 10.7759/cureus.114013
+**Entities:** TBI  
+**Abstract:** Background Traumatic brain injury (TBI) is a major cause of morbidity and mortality worldwide, necessitating early identification of high-risk patients for timely management. Elevated intracranial pre...
+
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
 **Journal:** Journal of neurology (2025)  
@@ -27814,6 +27877,20 @@
 **PMID:** 42695900  **DOI:** 10.1021/acs.jproteome.5c01154
 **Entities:** neuroinflammation, TBI  
 **Abstract:** Traumatic brain injury (TBI) triggers complex neuroinflammatory cascades that involve sustained immune activation and dysregulated antibody effector functions. Immunoglobulin G (IgG) Fc N-glycosylatio...
+
+### Multi-omics integration reveals TIM-4 as a master regulatory hub of neuroinflammation and neuronal cell death.
+**Authors:** Chen L, Li YY, Han L, Lu S  
+**Journal:** Frontiers in cell and developmental biology (2026)  
+**PMID:** 42698755  **DOI:** 10.3389/fcell.2026.1876873
+**Entities:** neuroinflammation, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) is a leading cause of severe disability, frequently resulting in persistent cognitive dysfunction. Microglial M1/M2 polarization is critically involved in TBI ...
+
+### Artificial Intelligence-Driven Multi-Omics Analysis Reveals Hydroxytyrosol Targeting of the TXNIP-NLRP3 Inflammasome Axis in Traumatic Brain Injury.
+**Authors:** Qin Y, Zhang W, Wei Q  
+**Journal:** European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences (2026)  
+**PMID:** 42700807  **DOI:** 10.1016/j.ejps.2026.107651
+**Entities:** ROS, IL-1β, neuroinflammation, oxidative stress, TBI  
+**Abstract:** Traumatic brain injury (TBI) induces secondary neuroinflammation driven by oxidative stress, inflammasome activation, and immune remodeling, yet specific mechanism-guided pharmacological interventions...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-05T11:14:48.720697",
-  "n_papers": 4427,
+  "generated_at": "2026-09-06T11:37:35.992364",
+  "n_papers": 4438,
   "n_entities": 115,
   "n_edges": 699,
   "cluster_stats": {
     "aging_neuro": 1050,
     "exosomal_rna": 374,
     "gfap_uchl1": 438,
-    "nfl_tau": 431,
+    "nfl_tau": 439,
     "nqo2": 378,
     "ppcs_prognosis": 496,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 463,
-    "tbi_panel_poc": 246,
-    "tbi_proteomics": 546
+    "tbi_panel_poc": 247,
+    "tbi_proteomics": 548
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2313,
+      "paper_count": 2322,
       "centrality": 0.4474
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1452,
+      "paper_count": 1458,
       "centrality": 0.3509
     },
     {
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 962,
+      "paper_count": 964,
       "centrality": 0.4123
     },
     {
@@ -48,21 +48,21 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 601,
+      "paper_count": 604,
       "centrality": 0.3158
     },
     {
       "id": 14,
       "name": "tau",
       "type": "protein",
-      "paper_count": 564,
+      "paper_count": 566,
       "centrality": 0.3158
     },
     {
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 465,
+      "paper_count": 468,
       "centrality": 0.3421
     },
     {
@@ -76,14 +76,14 @@
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 336,
+      "paper_count": 337,
       "centrality": 0.386
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 317,
+      "paper_count": 318,
       "centrality": 0.3684
     },
     {
@@ -97,7 +97,7 @@
       "id": 40,
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 307,
+      "paper_count": 308,
       "centrality": 0.1842
     },
     {
@@ -125,7 +125,7 @@
       "id": 15,
       "name": "p-tau",
       "type": "protein",
-      "paper_count": 151,
+      "paper_count": 152,
       "centrality": 0.2105
     },
     {
@@ -146,7 +146,7 @@
       "id": 41,
       "name": "CTE",
       "type": "disease",
-      "paper_count": 121,
+      "paper_count": 123,
       "centrality": 0.1491
     },
     {
@@ -174,7 +174,7 @@
       "id": 19,
       "name": "TNF-\u03b1",
       "type": "protein",
-      "paper_count": 85,
+      "paper_count": 86,
       "centrality": 0.2544
     },
     {
@@ -223,7 +223,7 @@
       "id": 20,
       "name": "IL-1\u03b2",
       "type": "protein",
-      "paper_count": 51,
+      "paper_count": 52,
       "centrality": 0.2368
     },
     {
@@ -909,8 +909,8 @@
       "relation": "predicts",
       "edge_kind": "curated",
       "directed": true,
-      "weight": 16.0,
-      "n_papers": 16.0,
+      "weight": 17.0,
+      "n_papers": 17.0,
       "annotation": null
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 1030.0,
-      "n_papers": 1030.0,
+      "weight": 1034.0,
+      "n_papers": 1034.0,
       "annotation": null
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 493.0,
-      "n_papers": 493.0,
+      "weight": 496.0,
+      "n_papers": 496.0,
       "annotation": null
     },
     {
@@ -1789,8 +1789,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 299.0,
-      "n_papers": 299.0,
+      "weight": 300.0,
+      "n_papers": 300.0,
       "annotation": null
     },
     {
@@ -1799,8 +1799,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 295.0,
-      "n_papers": 295.0,
+      "weight": 296.0,
+      "n_papers": 296.0,
       "annotation": null
     },
     {
@@ -1809,8 +1809,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 292.0,
-      "n_papers": 292.0,
+      "weight": 294.0,
+      "n_papers": 294.0,
       "annotation": null
     },
     {
@@ -1819,8 +1819,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 292.0,
-      "n_papers": 292.0,
+      "weight": 293.0,
+      "n_papers": 293.0,
       "annotation": null
     },
     {
@@ -1834,6 +1834,16 @@
       "annotation": null
     },
     {
+      "source": "TBI",
+      "target": "Alzheimer",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 246.0,
+      "n_papers": 246.0,
+      "annotation": null
+    },
+    {
       "source": "GFAP",
       "target": "UCH-L1",
       "relation": "co-occurs",
@@ -1844,13 +1854,13 @@
       "annotation": null
     },
     {
-      "source": "TBI",
-      "target": "Alzheimer",
+      "source": "GFAP",
+      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 245.0,
-      "n_papers": 245.0,
+      "weight": 243.0,
+      "n_papers": 243.0,
       "annotation": null
     },
     {
@@ -1865,22 +1875,22 @@
     },
     {
       "source": "GFAP",
-      "target": "mTBI",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 240.0,
-      "n_papers": 240.0,
-      "annotation": null
-    },
-    {
-      "source": "GFAP",
       "target": "NfL",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
       "weight": 229.0,
       "n_papers": 229.0,
+      "annotation": null
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 219.0,
+      "n_papers": 219.0,
       "annotation": null
     },
     {
@@ -1895,27 +1905,27 @@
     },
     {
       "source": "neuroinflammation",
-      "target": "TBI",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 216.0,
-      "n_papers": 216.0,
-      "annotation": null
-    },
-    {
-      "source": "neuroinflammation",
       "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 208.0,
-      "n_papers": 208.0,
+      "weight": 209.0,
+      "n_papers": 209.0,
       "annotation": null
     },
     {
       "source": "GFAP",
       "target": "tau",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 203.0,
+      "n_papers": 203.0,
+      "annotation": null
+    },
+    {
+      "source": "TBI",
+      "target": "PPCS",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -1934,23 +1944,13 @@
       "annotation": null
     },
     {
-      "source": "TBI",
-      "target": "PPCS",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 201.0,
-      "n_papers": 201.0,
-      "annotation": null
-    },
-    {
       "source": "tau",
       "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 198.0,
-      "n_papers": 198.0,
+      "weight": 199.0,
+      "n_papers": 199.0,
       "annotation": null
     },
     {
@@ -2005,6 +2005,16 @@
     },
     {
       "source": "tau",
+      "target": "p-tau",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 147.0,
+      "n_papers": 147.0,
+      "annotation": null
+    },
+    {
+      "source": "tau",
       "target": "aging",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
@@ -2016,16 +2026,6 @@
     {
       "source": "NfL",
       "target": "Alzheimer",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 146.0,
-      "n_papers": 146.0,
-      "annotation": null
-    },
-    {
-      "source": "tau",
-      "target": "p-tau",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2119,8 +2119,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 102.0,
-      "n_papers": 102.0,
+      "weight": 103.0,
+      "n_papers": 103.0,
       "annotation": null
     },
     {
@@ -2139,8 +2139,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 100.0,
-      "n_papers": 100.0,
+      "weight": 101.0,
+      "n_papers": 101.0,
       "annotation": null
     },
     {
@@ -2149,8 +2149,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 100.0,
-      "n_papers": 100.0,
+      "weight": 101.0,
+      "n_papers": 101.0,
       "annotation": null
     },
     {
@@ -2179,8 +2179,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 93.0,
-      "n_papers": 93.0,
+      "weight": 94.0,
+      "n_papers": 94.0,
       "annotation": null
     },
     {
@@ -2199,8 +2199,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 90.0,
-      "n_papers": 90.0,
+      "weight": 91.0,
+      "n_papers": 91.0,
       "annotation": null
     },
     {
@@ -2239,8 +2239,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 84.0,
-      "n_papers": 84.0,
+      "weight": 85.0,
+      "n_papers": 85.0,
       "annotation": null
     },
     {
@@ -2269,8 +2269,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 77.0,
-      "n_papers": 77.0,
+      "weight": 79.0,
+      "n_papers": 79.0,
       "annotation": null
     },
     {
@@ -2294,8 +2294,8 @@
       "annotation": null
     },
     {
-      "source": "neuroinflammation",
-      "target": "BBB",
+      "source": "tau",
+      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2304,13 +2304,13 @@
       "annotation": null
     },
     {
-      "source": "tau",
-      "target": "CTE",
+      "source": "neuroinflammation",
+      "target": "BBB",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 73.0,
-      "n_papers": 73.0,
+      "weight": 75.0,
+      "n_papers": 75.0,
       "annotation": null
     },
     {
@@ -2334,18 +2334,18 @@
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "neuroinflammation",
+      "source": "mTBI",
+      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 70.0,
-      "n_papers": 70.0,
+      "weight": 71.0,
+      "n_papers": 71.0,
       "annotation": null
     },
     {
-      "source": "mTBI",
-      "target": "CTE",
+      "source": "GFAP",
+      "target": "neuroinflammation",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2379,8 +2379,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 66.0,
-      "n_papers": 66.0,
+      "weight": 67.0,
+      "n_papers": 67.0,
       "annotation": null
     },
     {
@@ -2419,8 +2419,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 61.0,
-      "n_papers": 61.0,
+      "weight": 62.0,
+      "n_papers": 62.0,
       "annotation": null
     },
     {
@@ -2549,6 +2549,16 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
+      "weight": 49.0,
+      "n_papers": 49.0,
+      "annotation": null
+    },
+    {
+      "source": "GFAP",
+      "target": "p-tau",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
       "weight": 48.0,
       "n_papers": 48.0,
       "annotation": null
@@ -2566,16 +2576,6 @@
     {
       "source": "NQO1",
       "target": "NRH",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 47.0,
-      "n_papers": 47.0,
-      "annotation": null
-    },
-    {
-      "source": "GFAP",
-      "target": "p-tau",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2679,8 +2679,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 40.0,
-      "n_papers": 40.0,
+      "weight": 41.0,
+      "n_papers": 41.0,
       "annotation": null
     },
     {
@@ -2764,6 +2764,16 @@
       "annotation": null
     },
     {
+      "source": "IL-1\u03b2",
+      "target": "TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 35.0,
+      "n_papers": 35.0,
+      "annotation": null
+    },
+    {
       "source": "NQO1",
       "target": "ROS",
       "relation": "co-occurs",
@@ -2774,8 +2784,8 @@
       "annotation": null
     },
     {
-      "source": "IL-1\u03b2",
-      "target": "TBI",
+      "source": "p-tau",
+      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2796,16 +2806,6 @@
     {
       "source": "NQO2",
       "target": "resveratrol",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 33.0,
-      "n_papers": 33.0,
-      "annotation": null
-    },
-    {
-      "source": "p-tau",
-      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3034,6 +3034,16 @@
       "annotation": null
     },
     {
+      "source": "tau",
+      "target": "PPCS",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 24.0,
+      "n_papers": 24.0,
+      "annotation": null
+    },
+    {
       "source": "mTBI",
       "target": "GOS-E",
       "relation": "co-occurs",
@@ -3086,16 +3096,6 @@
     {
       "source": "GFAP",
       "target": "MBP",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 23.0,
-      "n_papers": 23.0,
-      "annotation": null
-    },
-    {
-      "source": "tau",
-      "target": "PPCS",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3159,6 +3159,16 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
+      "weight": 23.0,
+      "n_papers": 23.0,
+      "annotation": null
+    },
+    {
+      "source": "IL-1\u03b2",
+      "target": "neuroinflammation",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
       "weight": 22.0,
       "n_papers": 22.0,
       "annotation": null
@@ -3166,16 +3176,6 @@
     {
       "source": "S100B",
       "target": "MBP",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 21.0,
-      "n_papers": 21.0,
-      "annotation": null
-    },
-    {
-      "source": "IL-1\u03b2",
-      "target": "neuroinflammation",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3236,6 +3236,16 @@
     {
       "source": "ROS",
       "target": "GFAP",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 20.0,
+      "n_papers": 20.0,
+      "annotation": null
+    },
+    {
+      "source": "GFAP",
+      "target": "TNF-\u03b1",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3316,16 +3326,6 @@
     {
       "source": "Alzheimer",
       "target": "MBP",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 19.0,
-      "n_papers": 19.0,
-      "annotation": null
-    },
-    {
-      "source": "GFAP",
-      "target": "TNF-\u03b1",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3454,6 +3454,16 @@
       "annotation": null
     },
     {
+      "source": "GFAP",
+      "target": "PPCS",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 17.0,
+      "n_papers": 17.0,
+      "annotation": null
+    },
+    {
       "source": "TBI",
       "target": "dopamine",
       "relation": "co-occurs",
@@ -3484,8 +3494,8 @@
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "PPCS",
+      "source": "neuroinflammation",
+      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3564,8 +3574,8 @@
       "annotation": null
     },
     {
-      "source": "neuroinflammation",
-      "target": "CTE",
+      "source": "S100B",
+      "target": "IL-6",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3574,8 +3584,8 @@
       "annotation": null
     },
     {
-      "source": "S100B",
-      "target": "IL-6",
+      "source": "GFAP",
+      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3696,16 +3706,6 @@
     {
       "source": "S100B",
       "target": "neuroinflammation",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 14.0,
-      "n_papers": 14.0,
-      "annotation": null
-    },
-    {
-      "source": "GFAP",
-      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3944,6 +3944,16 @@
       "annotation": null
     },
     {
+      "source": "ROS",
+      "target": "IL-1\u03b2",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 11.0,
+      "n_papers": 11.0,
+      "annotation": null
+    },
+    {
       "source": "oxidative stress",
       "target": "HO-1",
       "relation": "co-occurs",
@@ -4054,8 +4064,8 @@
       "annotation": null
     },
     {
-      "source": "ROS",
-      "target": "IL-1\u03b2",
+      "source": "IL-1\u03b2",
+      "target": "oxidative stress",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -4176,16 +4186,6 @@
     {
       "source": "ROS",
       "target": "A\u03b242",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 9.0,
-      "n_papers": 9.0,
-      "annotation": null
-    },
-    {
-      "source": "IL-1\u03b2",
-      "target": "oxidative stress",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -4664,6 +4664,16 @@
       "annotation": null
     },
     {
+      "source": "PPCS",
+      "target": "CTE",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 7.0,
+      "n_papers": 7.0,
+      "annotation": null
+    },
+    {
       "source": "IL-6",
       "target": "BBB",
       "relation": "co-occurs",
@@ -4946,16 +4956,6 @@
     {
       "source": "NfH",
       "target": "IL-6",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 6.0,
-      "n_papers": 6.0,
-      "annotation": null
-    },
-    {
-      "source": "PPCS",
-      "target": "CTE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -5286,6 +5286,16 @@
     {
       "source": "UCH-L1",
       "target": "BDNF",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 5.0,
+      "n_papers": 5.0,
+      "annotation": null
+    },
+    {
+      "source": "p-tau",
+      "target": "PPCS",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -5806,16 +5816,6 @@
     {
       "source": "PPCS",
       "target": "melatonin",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 4.0,
-      "n_papers": 4.0,
-      "annotation": null
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "resveratrol",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
