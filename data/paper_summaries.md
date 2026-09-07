@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-06*
-*Total papers: 4438*
+*Generated: 2026-09-07*
+*Total papers: 4439*
 
 
 ## Cluster: aging_neuro
@@ -21285,6 +21285,13 @@
 **PMID:** 27147386  **DOI:** 10.1136/bmjopen-2015-010780
 **Entities:** mTBI, TBI  
 **Abstract:** OBJECTIVE: Deployment-related mild traumatic brain injury (MTBI) occurs in a significant number of military personnel but its long-term impacts are unclear. This study explores the impact of deploymen...
+
+### Prognostic Markers for Poor Recovery After Mild Traumatic Brain Injury in Older Adults: A Pilot Cohort Study.
+**Authors:** Kristman VL, Brison RJ, Bédard M, Reguly P, Chisholm S  
+**Journal:** The Journal of head trauma rehabilitation (2016)  
+**PMID:** 27022959  
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: To identify prognostic markers associated with poor recovery from mild traumatic brain injury (MTBI) in older adults. SETTING: Three Ontario emergency departments. PARTICIPANTS: Forty-nine ...
 
 ### Physiological, vestibulo-ocular and cervicogenic post-concussion disorders: an evidence-based classification system with directions for treatment.
 **Authors:** Ellis MJ, Leddy JJ, Willer B  
