@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-07-12*
-*Total papers: 3508*
+*Generated: 2026-09-08*
+*Total papers: 3676*
 
 
 ## Cluster: aging_neuro
@@ -403,6 +403,41 @@
 **PMID:** 42129136  **DOI:** 10.1038/s41398-026-04081-8
 **Entities:** Alzheimer, aging  
 **Abstract:** Accelerated brain aging is implicated in Alzheimer's disease (AD). However, the spatial heterogeneity of brain aging patterns across different functional systems along the AD continuum remains largely...
+
+### Neurobiological markers across joint profiles of subjective cognitive decline and objective cognitive function in older adults.
+**Authors:** Wan L, Kang C, Harrison R, Solis-Urra P, Sewell KR et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2026)  
+**PMID:** 42576170  **DOI:** 10.1002/alz.71743
+**Entities:** GFAP, NfL, tau, p-tau, Alzheimer  
+**Abstract:** INTRODUCTION: Subjective cognitive concerns frequently diverge from objective cognitive performance in cognitively unimpaired (CU) older adults, yet the neurobiological basis of this mismatch remains ...
+
+### Brain maintenance biomarkers from structural and functional interactions in aging and neurodegeneration.
+**Authors:** Li Y, Zhang X, Li X, Zhang Z  
+**Journal:** Nature communications (2026)  
+**PMID:** 42204140  **DOI:** 10.1038/s41467-026-73071-7
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain maintenance may help explain why some individuals remain cognitively resilient despite aging, but its biological basis is not well understood. Here, we show that brain maintenance can be quantif...
+
+### Brain aging clocks: From methodological advances to cellular mechanisms.
+**Authors:** Suk K  
+**Journal:** Experimental gerontology (2026)  
+**PMID:** 42543123  **DOI:** 10.1016/j.exger.2026.113260
+**Entities:** GFAP, NfL, tau, p-tau, BBB  
+**Abstract:** Brain aging represents a critical risk factor for neurodegenerative diseases and cognitive decline, yet the measurement of biological brain age remains challenging. Brain aging clocks, which quantify ...
+
+### Cellular viscous properties in senescence: An emerging biophysical perspective and potential biomarker.
+**Authors:** Kim JH, Nih LR, Park S  
+**Journal:** Ageing research reviews (2026)  
+**PMID:** 42435941  **DOI:** 10.1016/j.arr.2026.103255
+**Entities:** aging  
+**Abstract:** Cellular mechanical properties are key regulators of diverse cellular functions. In particular, cellular senescence, a state of permanent cell cycle arrest, is closely associated with mechanical alter...
+
+### Toward Precision Diagnosis of Late-Life Mood Disorders: A Neuropathology-Informed Framework and Research Agenda.
+**Authors:** Elhossieny E, Awan AI, Sweeney E, Eldokmak M  
+**Journal:** The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry (2026)  
+**PMID:** 42103608  **DOI:** 10.1016/j.jagp.2026.04.001
+**Entities:** NfL, neuroinflammation, Alzheimer, aging  
+**Abstract:** OBJECTIVE: Late-onset mood disorders frequently emerge in the context of aging-related brain changes, medical comorbidity, and cognitive vulnerability, complicating diagnosis and treatment. Symptom-ba...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -5174,6 +5209,55 @@
 **Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) can cause severe neurological damage. Ferroptosis, a recently discovered form of iron-regulated cell death, is closely associated with TBI. Cannabidiol (CBD) has been demo...
 
+### Progress on rotator cuff tendon-to-bone interface tissue regeneration and repair.
+**Authors:** Wu L, Qian C, Wu N, Shen Y, Xu C et al.  
+**Journal:** Biomaterials science (2026)  
+**PMID:** 42593127  **DOI:** 10.1039/d6bm00763e
+**Entities:** ROS, oxidative stress, TBI  
+**Abstract:** Tendon-bone interface (TBI) injuries, typified by rotator cuff tears, are common musculoskeletal disorders. Their intrinsic healing capacity is limited by pathological conditions such as local hypoxia...
+
+### Neurotrophic Factors in Stroke, Traumatic Brain Injury, and Neurodegeneration: A Convergent Pathophysiological and Translational Perspective.
+**Authors:** Shcheblykina OV, Kostina DA, Pokrovskii MV, Korokin MV  
+**Journal:** Journal of integrative neuroscience (2026)  
+**PMID:** 42530052  **DOI:** 10.31083/JIN51543
+**Entities:** ROS, BDNF, neuroinflammation, oxidative stress, BBB  
+**Abstract:** Neurotrophic factors (NTFs), including nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF), neurotrophin-3 (NT-3), glial cell line-derived neurotrophic factor (GDNF), ciliary neurotrop...
+
+### Tissue-Derived Small Extracellular Vesicles: Emerging Regulators of Inter-Organ Crosstalk in Health and Disease.
+**Authors:** Huang YQ, Zhong CY, Burley G, Shi YC, Lin S  
+**Journal:** Metabolites (2026)  
+**PMID:** 41893300  **DOI:** 10.3390/metabo16030148
+**Entities:** BBB, TBI, Alzheimer  
+**Abstract:** Small extracellular vesicles (sEVs; commonly referred to as "exosomes" in many studies) are nanoscopic messengers released by healthy and diseased cells that mediate intercellular communication by tra...
+
+### Circulating microRNAs: A Potential Biomarker in TBI and PTSD War Veterans.
+**Authors:** Stewart W, Hejl C, Guleria RS, Gupta S  
+**Journal:** Neurotrauma reports (2026)  
+**PMID:** 42539349  **DOI:** 10.1177/2689288X251415246
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) is a debilitating condition caused by one or more concussive insults to the head and is frequently observed in combat Veterans deployed in support of Operation Enduring Fr...
+
+### Advances in biomarkers for diagnosing and prognosticating disorders of consciousness.
+**Authors:** Yang X, Luo Y, Chen Z, Li Y, Pan L et al.  
+**Journal:** Frontiers in neuroscience (2026)  
+**PMID:** 42534937  **DOI:** 10.3389/fnins.2026.1823376
+**Entities:** TBI  
+**Abstract:** Disorders of Consciousness (DoC) resulting from brain injury comprise a spectrum of clinical syndromes, where the level of impairment varies considerably depending on lesion location, etiology, severi...
+
+### Traumatic Brain Injury in the Omics Era: Plasma and Extracellular Vesicle Proteomic Signatures in Polytrauma.
+**Authors:** Leppik L, Weber B, Schindler CR, Funda L, Krüger M et al.  
+**Journal:** Medical sciences (Basel, Switzerland) (2026)  
+**PMID:** 42646564  **DOI:** 10.3390/medsci14040429
+**Entities:** TBI  
+**Abstract:** 
+
+### Microglia modulate concussion biomarkers and cognitive recovery in male mice.
+**Authors:** Anderson ED, Augustin DV, Georges AP, Kim T, Issadore DA et al.  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42239156  **DOI:** 10.1101/2025.05.01.651070
+**Entities:** neuroinflammation, mTBI, TBI, AMPA receptor  
+**Abstract:** There is a critical unmet need for concussion biomarkers that predict cognitive recovery. Existing TBI biomarkers largely capture acute cellular damage rather than the multicellular repair processes t...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -5685,6 +5769,27 @@
 **Entities:** —  
 **Abstract:** Circular RNAs (circRNAs) are an expanding class of largely unexplored RNAs which are prominently enriched in the mammalian brain. Here, we systematically interrogated their role in excitatory synaptog...
 
+### MicroRNA-based engineered mesenchymal stem cell extracellular vesicles to treat visual deficits after blast-induced trauma.
+**Authors:** Anvarinia Y, Del Mar NA, Awad AM, Hossain S, Seetharaman AT et al.  
+**Journal:** Experimental eye research (2024)  
+**PMID:** 39128668  **DOI:** 10.1016/j.exer.2024.110031
+**Entities:** neuroinflammation, mTBI, TBI  
+**Abstract:** Our previous studies have shown the benefit of intravitreal injection of a mesenchymal stem cell (MSC)- derived secretome to treat visual deficits in a mild traumatic brain injury (mTBI) mouse model. ...
+
+### Author Correction: Serum exosomes miR-206 and miR-549a-3p as potential biomarkers of traumatic brain injury.
+**Authors:** Yang Y, Wang Y, Li P, Bai F, Liu C et al.  
+**Journal:** Scientific reports (2024)  
+**PMID:** 38890383  **DOI:** 10.1038/s41598-024-64962-0
+**Entities:** —  
+**Abstract:** 
+
+### Circulating microRNAs and isomiRs as biomarkers for the initial insult and epileptogenesis in four experimental epilepsy models: The EPITARGET study.
+**Authors:** van Vliet EA, Scheper M, Mills JD, Puhakka N, Szydlowska K et al.  
+**Journal:** Epilepsia (2024)  
+**PMID:** 39352406  **DOI:** 10.1111/epi.18134
+**Entities:** —  
+**Abstract:** OBJECTIVE: Structural epilepsies can manifest months or years after the occurrence of an initial epileptogenic insult, making them amenable for secondary prevention. However, development of preventive...
+
 ### Liquid Biopsy in Neurological Diseases.
 **Authors:** Malhotra S, Miras MCM, Pappolla A, Montalban X, Comabella M  
 **Journal:** Cells (2023)  
@@ -5915,6 +6020,13 @@
 **PMID:** 36751776  **DOI:** 10.4103/1673-5374.363819
 **Entities:** neuroinflammation, TBI  
 **Abstract:** There is growing evidence that long-term central nervous system (CNS) inflammation exacerbates secondary deterioration of brain structures and functions and is one of the major determinants of disease...
+
+### Regulation of Circulating miR-342-3p Alleviates the Radiation-Induced Immune System Injury.
+**Authors:** Wei W, Bai H, Zhang T, Cai S, Zhou Y et al.  
+**Journal:** Radiation research (2023)  
+**PMID:** 37874034  **DOI:** 10.1667/RADE-23-00125.1
+**Entities:** IL-6, TBI  
+**Abstract:** Ionizing radiation in space, radiation devices or nuclear disasters are major threats to human health and public security. Expanding countermeasures for dealing with accidental or occupational radiati...
 
 ### A Literature Review of Traumatic Brain Injury Biomarkers.
 **Authors:** Ghaith HS, Nawar AA, Gabra MD, Abdelrahman ME, Nafady MH et al.  
@@ -6182,6 +6294,27 @@
 **Entities:** BBB, TBI, Alzheimer  
 **Abstract:** Microglia, as innate immune cells in the brain, closely monitor changes in the internal environment and participate in the maintenance of homeostasis in the central nervous system (CNS). Microglia can...
 
+### A preliminary model of football-related neural stress that integrates metabolomics with transcriptomics and virtual reality.
+**Authors:** Vike NL, Bari S, Stetsiv K, Walter A, Newman S et al.  
+**Journal:** iScience (2022)  
+**PMID:** 35106455  **DOI:** 10.1016/j.isci.2021.103483
+**Entities:** neuroinflammation  
+**Abstract:** Research suggests contact sports affect neurological health. This study used permutation-based mediation statistics to integrate measures of metabolomics, neuroinflammatory miRNAs, and virtual reality...
+
+### lncRNA NEAT1-let 7b-P21 axis mediates the proliferation of neural stem cells cultured in vitro promoted by radial extracorporeal shock wave.
+**Authors:** Han K, Kang N, Yu X, Lu J, Ma Y  
+**Journal:** Regenerative therapy (2022)  
+**PMID:** 35844294  **DOI:** 10.1016/j.reth.2022.06.006
+**Entities:** NEAT1  
+**Abstract:** In previous studies, we found radial extracorporeal shock wave (rESW), can promote the proliferation of neural stem cells (NSCs). Emerging evidence suggests that lncRNA NEAT1 can regulate NSCs prolife...
+
+### Integrated Analysis of Expression Profile and Potential Pathogenic Mechanism of Temporal Lobe Epilepsy With Hippocampal Sclerosis.
+**Authors:** Wang ZB, Qu J, Yang ZY, Liu DY, Jiang SL et al.  
+**Journal:** Frontiers in neuroscience (2022)  
+**PMID:** 35784838  **DOI:** 10.3389/fnins.2022.892022
+**Entities:** TBI  
+**Abstract:** OBJECTIVE: To investigate the potential pathogenic mechanism of temporal lobe epilepsy with hippocampal sclerosis (TLE+HS) by analyzing the expression profiles of microRNA/ mRNA/ lncRNA/ DNA methylati...
+
 ### Biomarkers for posttraumatic epilepsy.
 **Authors:** Pitkänen A, Paananen T, Kyyriäinen J, Das Gupta S, Heiskanen M et al.  
 **Journal:** Epilepsy & behavior : E&B (2021)  
@@ -6398,6 +6531,13 @@
 **PMID:** 34423051  **DOI:** 10.1155/2021/3101146
 **Entities:** TBI  
 **Abstract:** BACKGROUND: Propofol is a widely used intravenous anesthetic drug with potential neuroprotective effect in diverse diseases of neuronal injuries such as traumatic brain injury and ischemic stroke. How...
+
+### Integrating multi-omics with neuroimaging and behavior: A preliminary model of dysfunction in football athletes.
+**Authors:** Bari S, Vike NL, Stetsiv K, Walter A, Newman S et al.  
+**Journal:** Neuroimage. Reports (2021)  
+**PMID:** 40567291  **DOI:** 10.1016/j.ynirp.2021.100032
+**Entities:** neuroinflammation  
+**Abstract:** Contact sports affect measures at multiple scales such as transcriptomics, metabolomics, brain function, and behavior, but studies have not yet studied the statistical structure of how they are integr...
 
 ### Astrocyte-derived exosomes enriched with miR-873a-5p inhibit neuroinflammation via microglia phenotype modulation after traumatic brain injury.
 **Authors:** Long X, Yao X, Jiang Q, Yang Y, He X et al.  
@@ -6658,6 +6798,20 @@
 **Entities:** TBI  
 **Abstract:** BackgroundDetection of brain-specific miRNAs in the peripheral blood could serve as a surrogate marker of traumatic brain injury (TBI). Here, we systematically identified brain-enriched miRNAs, and te...
 
+### Profiling of novel circulating microRNAs as a non-invasive biomarker in diagnosis and follow-up of high and low-grade gliomas.
+**Authors:** Tabibkhooei A, Izadpanahi M, Arab A, Zare-Mirzaei A, Minaeian S et al.  
+**Journal:** Clinical neurology and neurosurgery (2020)  
+**PMID:** 31896490  **DOI:** 10.1016/j.clineuro.2019.105652
+**Entities:** TBI  
+**Abstract:** OBJECTIVE: Glioblastoma (GBM) is the most common primary malignant neoplasm of the central nervous system (CNS). Despite the progress in therapeutic strategies such as surgical techniques, radiotherap...
+
+### Comment: Biomarkers for mild traumatic brain injury: Role of the exosomes.
+**Authors:** Tonarelli SB, Quinn DK  
+**Journal:** Neurology (2020)  
+**PMID:** 32461280  **DOI:** 10.1212/WNL.0000000000009574
+**Entities:** —  
+**Abstract:** 
+
 ### Mesenchymal stem cell-derived exosomes as a nanotherapeutic agent for amelioration of inflammation-induced astrocyte alterations in mice.
 **Authors:** Xian P, Hei Y, Wang R, Wang T, Yang J et al.  
 **Journal:** Theranostics (2019)  
@@ -6776,6 +6930,41 @@
 **PMID:** 30529438  **DOI:** 10.1016/j.expneurol.2018.12.003
 **Entities:** TBI  
 **Abstract:** BACKGROUND AND OBJECTIVE: Circular RNA (circRNA) is an important type of non-coding RNA that has not been widely researched in traumatic brain injury (TBI). The present study aimd to detect the altere...
+
+### The effects of Radix Angelica Sinensis and Radix Hedysari ultrafiltration extract on X-irradiation-induced myocardial fibrosis in rats.
+**Authors:** Ma C, Fu Z, Guo H, Wei H, Zhao X et al.  
+**Journal:** Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie (2019)  
+**PMID:** 30780109  **DOI:** 10.1016/j.biopha.2019.01.057
+**Entities:** miR-21, TBI  
+**Abstract:** Radix Angelica Sinensis and Radix Hedysari are traditional Chinese medicines that are used for preventing and treating various diseases. This study aimed to investigate the effect and possible underly...
+
+### Distinct Profiles of Cell-Free MicroRNAs in Plasma of Veterans with Post-Traumatic Stress Disorder.
+**Authors:** Lee MY, Baxter D, Scherler K, Kim TK, Wu X et al.  
+**Journal:** Journal of clinical medicine (2019)  
+**PMID:** 31277223  **DOI:** 10.3390/jcm8070963
+**Entities:** —  
+**Abstract:** Dysregulation of circulating microRNAs (miRNAs) in body fluids has been reported in psychiatric disorders such as schizophrenia, bipolar disorder, major depressive disorder, and post-traumatic stress ...
+
+### Long noncoding RNA nuclear enriched abundant transcript 1 promotes the proliferation and migration of Schwann cells by regulating the miR-34a/Satb1 axis.
+**Authors:** Liu X, Yu X, He Y, Wang L  
+**Journal:** Journal of cellular physiology (2019)  
+**PMID:** 30747445  **DOI:** 10.1002/jcp.28302
+**Entities:** NEAT1, TBI  
+**Abstract:** The proliferation and migration of Schwann cells contribute to axonal outgrowth and functional recovery after peripheral nerve injury. Studies have found that long noncoding RNAs (lncRNAs) were abnorm...
+
+### Research on the correlation of changes in plasma lncRNA MEG3 with change in inflammatory factors and prognosis in patients with traumatic brain injury.
+**Authors:** Shao HF, Li ZZ, Zheng XF, Wang HJ, Wang YG et al.  
+**Journal:** European review for medical and pharmacological sciences (2019)  
+**PMID:** 31173307  **DOI:** 10.26355/eurrev_201905_17940
+**Entities:** IL-6, TNF-α, IL-1β, TBI  
+**Abstract:** OBJECTIVE: To study the correlation between the plasma long non-coding RNA (lncRNA) maternally expressed gene 3 (MEG3) and the levels of inflammatory cytokines in patients with traumatic brain injury ...
+
+### Intranasally Administered Human MSC-Derived Extracellular Vesicles Pervasively Incorporate into Neurons and Microglia in both Intact and Status Epilepticus Injured Forebrain.
+**Authors:** Kodali M, Castro OW, Kim DK, Thomas A, Shuai B et al.  
+**Journal:** International journal of molecular sciences (2019)  
+**PMID:** 31888012  **DOI:** 10.3390/ijms21010181
+**Entities:** TBI, Alzheimer  
+**Abstract:** Extracellular vesicles (EVs) derived from human bone marrow mesenchymal stem cells (hMSCs) have great promise as biologics to treat neurological and neurodegenerative conditions due to their robust an...
 
 ### Traumatic brain injury: classification, models, and markers.
 **Authors:** Najem D, Rennie K, Ribecco-Lutkiewicz M, Ly D, Haukenfrers J et al.  
@@ -7105,6 +7294,27 @@
 **PMID:** 25760028  **DOI:** 10.1590/1414-431X20144012
 **Entities:** miR-21, TBI  
 **Abstract:** MicroRNAs (miRNAs) may be important mediators of the profound molecular and cellular changes that occur after traumatic brain injury (TBI). However, the changes and possible roles of miRNAs induced by...
+
+### Serum microRNAs are early indicators of survival after radiation-induced hematopoietic injury.
+**Authors:** Acharya SS, Fendler W, Watson J, Hamilton A, Pan Y et al.  
+**Journal:** Science translational medicine (2015)  
+**PMID:** 25972001  **DOI:** 10.1126/scitranslmed.aaa6593
+**Entities:** TBI  
+**Abstract:** Accidental radiation exposure is a threat to human health that necessitates effective clinical planning and diagnosis. Minimally invasive biomarkers that can predict long-term radiation injury are urg...
+
+### Anti-hypertensive effect of Lycium barbarum L. with down-regulated expression of renal endothelial lncRNA sONE in a rat model of salt-sensitive hypertension.
+**Authors:** Zhang X, Yang X, Lin Y, Suo M, Gong L et al.  
+**Journal:** International journal of clinical and experimental pathology (2015)  
+**PMID:** 26261587  
+**Entities:** —  
+**Abstract:** The present study aims to test whether Lycium barbarum L. has anti-hypertensive effect through regulating expression of lncRNA sONE in a rat model of salt-sensitive hypertension. Nine weeks old border...
+
+### Long intergenic non-coding RNA induced by X-ray irradiation regulates DNA damage response signaling in the human bronchial epithelial BEAS-2B cell line.
+**Authors:** Jiao Y, Liu C, Cui FM, Xu JY, Tong J et al.  
+**Journal:** Oncology letters (2015)  
+**PMID:** 25435953  
+**Entities:** TBI  
+**Abstract:** Long non-coding RNAs (lncRNAs) have been regarded as the primary genetic regulators of several important biological processes. However, the biological functions of lncRNAs in radiation-induced lung da...
 
 ### Exosome platform for diagnosis and monitoring of traumatic brain injury.
 **Authors:** Taylor DD, Gercel-Taylor C  
@@ -7479,6 +7689,34 @@
 **PMID:** 42405663  **DOI:** 10.1111/ene.70691
 **Entities:** GFAP, NfL  
 **Abstract:** BACKGROUND: Headache is one of the most frequent reasons for emergency department (ED) visits, and distinguishing primary from secondary headache remains challenging. Blood biomarkers may improve earl...
+
+### Impact of routine use of the GFAP and UCH-L1 TBI blood test for management of mild TBI on patient care in a European emergency department.
+**Authors:** Brüning-Wolter F, Wolff N, Schrader M, Musaelyan K, Chandran R et al.  
+**Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2026)  
+**PMID:** 42599452  **DOI:** 10.1007/s00068-026-03303-4
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** OBJECTIVES: Blood biomarkers glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) were recently introduced into clinical practice for mild traumatic brain injury (mTBI...
+
+### Updating Traumatic Brain Injury Classification for Surgeons: Integrating the CBI-M Framework Into Trauma and Acute Care Practice.
+**Authors:** Peralta R, Cardona-Collazos S, Msheik A, Gonzalez WD, Restrepo AS et al.  
+**Journal:** World journal of surgery (2026)  
+**PMID:** 42227605  **DOI:** 10.1002/wjs.70440
+**Entities:** GFAP, UCH-L1, NfL, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) remains a major cause of death and disability worldwide. Traditional classification based on the Glasgow Coma Scale (GCS) provides a shared clinical language b...
+
+### Biomarker-informed prediction of neurosurgical intervention in pediatric traumatic brain injury: a proof-of-concept study.
+**Authors:** Reisner A, Alawieh AM, Lepard JR, Baer AV, Zohdy YM et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2026)  
+**PMID:** 42628128  **DOI:** 10.3171/2026.4.PEDS25694
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
+**Abstract:** OBJECTIVE: Emerging traumatic brain injury (TBI) guidelines increasingly recognize the role of blood-based biomarkers in improving diagnostic and triage accuracy, yet their integration into pediatric ...
+
+### Blood Biomarkers for Identifying Epidural Hematoma in Patients Presenting with a Glasgow Coma Scale of 13-15: A Collaborative European Neurotrauma Effectiveness Research in Traumatic Brain Injury (CENTER-TBI) Study.
+**Authors:** Malmi K, Pisică D, Hossain I, Mohammadian M, van Essen T et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41870014  **DOI:** 10.1177/08977151261430239
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** Triage of patients with mild traumatic brain injury (mTBI) and possible isolated epidural hematoma (iEDH) remains a clinical challenge. Blood-based biomarkers are being integrated into mTBI management...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -8761,6 +8999,13 @@
 **Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
 **Abstract:** Blood-based biomarkers have been increasingly studied for diagnostic and prognostic purposes in patients with mild traumatic brain injury (MTBI). Biomarker levels in blood have been shown to vary thro...
 
+### Microwave scan and brain biomarkers to rule out intracranial hemorrhage: study protocol of a planned prospective study (MBI01).
+**Authors:** Vedin T, Bergenfeldt H, Holmström E, Lundager-Forberg J, Edelhamre M  
+**Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2022)  
+**PMID:** 33944977  **DOI:** 10.1007/s00068-021-01671-7
+**Entities:** GFAP, UCH-L1, S100B, NfL, Aβ42  
+**Abstract:** PURPOSE: The aim of this planned study is to evaluate the ability of a cranial microwave scanner in conjunction with nine brain biomarkers (Aβ40, Aβ42, GFAP, H-FABP, S100B, NF-L, NSE, UCH-L1 and IL-10...
+
 ### Systematic review and cumulative meta-analysis of the diagnostic accuracy of glial fibrillary acidic protein vs. S100 calcium binding protein B as blood biomarkers in observational studies of patients with mild or moderate acute traumatic brain injury.
 **Authors:** Mastandrea P, Mengozzi S, Bernardini S  
 **Journal:** Diagnosis (Berlin, Germany) (2021)  
@@ -9062,6 +9307,27 @@
 **Entities:** GFAP, mTBI, TBI  
 **Abstract:** We report a case study on a single military member who received moderate blast overpressure (OP) exposure during routine breacher training. We extend previous research on blast exposure during trainin...
 
+### Plasma Biomarker for Post-concussive Syndrome: A Pilot Study Using an Alternating Current Electro-Kinetic Platform.
+**Authors:** Lewis JM, Dhawan S, Obirieze AC, Sarno B, Akers J et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 32760343  **DOI:** 10.3389/fneur.2020.00685
+**Entities:** —  
+**Abstract:** 
+
+### Circulating GFAP and Iba-1 levels are associated with pathophysiological sequelae in the thalamus in a pig model of mild TBI.
+**Authors:** Lafrenaye AD, Mondello S, Wang KK, Yang Z, Povlishock JT et al.  
+**Journal:** Scientific reports (2020)  
+**PMID:** 32770054  **DOI:** 10.1038/s41598-020-70266-w
+**Entities:** GFAP, UCH-L1, Iba1, IL-6, mTBI  
+**Abstract:** Serum biomarkers are promising tools for evaluating patients following traumatic brain injury (TBI). However, their relationship with diffuse histopathology remains unclear. Additionally, translatabil...
+
+### Blood biomarkers on admission in acute traumatic brain injury: Relations to severity, CT findings and care path in the CENTER-TBI study.
+**Authors:** Czeiter E, Amrein K, Gravesteijn BY, Lecky F, Menon DK et al.  
+**Journal:** EBioMedicine (2020)  
+**PMID:** 32464528  **DOI:** 10.1016/j.ebiom.2020.102785
+**Entities:** GFAP, UCH-L1, S100B, NfL, tau  
+**Abstract:** BACKGROUND: Serum biomarkers may inform and improve care in traumatic brain injury (TBI). We aimed to correlate serum biomarkers with clinical severity, care path and imaging abnormalities in TBI, and...
+
 ### Multi-Biomarker Detection Following Traumatic Brain Injury.
 **Authors:** Cardinell BA, Addington CP, Stabenfeldt SE, La Belle JT  
 **Journal:** Critical reviews in biomedical engineering (2019)  
@@ -9349,6 +9615,13 @@
 **Entities:** GFAP, UCH-L1, S100B, mTBI, TBI  
 **Abstract:** There is a pressing need to identify objective biomarkers for the assessment of sport-related concussion (SRC) to reduce the reliance on clinical judgment for the management of these injuries. The goa...
 
+### Utility of Serum Biomarkers in the Diagnosis and Stratification of Mild Traumatic Brain Injury.
+**Authors:** Lewis LM, Schloemann DT, Papa L, Fucetola RP, Bazarian J et al.  
+**Journal:** Academic emergency medicine : official journal of the Society for Academic Emergency Medicine (2017)  
+**PMID:** 28170122  **DOI:** 10.1111/acem.13174
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** OBJECTIVE: The objective was to compare test characteristics of a single serum concentration of glial fibrillary acidic protein (GFAP), S-100β, and ubiquitin carboxyl terminal hydrolase L1 (UCH-L1), o...
+
 ### Time Course and Diagnostic Accuracy of Glial and Neuronal Blood Biomarkers GFAP and UCH-L1 in a Large Cohort of Trauma Patients With and Without Mild Traumatic Brain Injury.
 **Authors:** Papa L, Brophy GM, Welch RD, Lewis LM, Braga CF et al.  
 **Journal:** JAMA neurology (2016)  
@@ -9468,6 +9741,34 @@
 **Entities:** GFAP, mTBI, TBI  
 **Abstract:** BACKGROUND: The extent and severity of traumatic brain injuries (TBIs) can be difficult to determine with current diagnostic methods. To address this, there has been increased interest in developing b...
 
+### The direction of the acceleration and rotational forces associated with mild traumatic brain injury in rodents effect behavioural and molecular outcomes.
+**Authors:** Mychasiuk R, Hehar H, Candy S, Ma I, Esser MJ  
+**Journal:** Journal of neuroscience methods (2016)  
+**PMID:** 26484783  **DOI:** 10.1016/j.jneumeth.2015.10.002
+**Entities:** GFAP, tau, BDNF, mTBI, TBI  
+**Abstract:** BACKGROUND: The translation of research to clinical application is only as good as the modelling platforms employed. This study sought to improve understanding of mild traumatic brain injury (mTBI), b...
+
+### High-Fidelity Simulation of Primary Blast: Direct Effects on the Head.
+**Authors:** Sawyer TW, Wang Y, Ritzel DV, Josey T, Villanueva M et al.  
+**Journal:** Journal of neurotrauma (2016)  
+**PMID:** 26582146  **DOI:** 10.1089/neu.2015.3914
+**Entities:** GFAP, NfH, TBI  
+**Abstract:** The role of primary blast in blast-induced traumatic brain injury (bTBI) is controversial in part due to the technical difficulties of generating free-field blast conditions in the laboratory. The use...
+
+### Improving the clinical management of traumatic brain injury through the pharmacokinetic modeling of peripheral blood biomarkers.
+**Authors:** Dadas A, Washington J, Marchi N, Janigro D  
+**Journal:** Fluids and barriers of the CNS (2016)  
+**PMID:** 27903281  **DOI:** 10.1186/s12987-016-0045-y
+**Entities:** GFAP, UCH-L1, S100B, BBB, TBI  
+**Abstract:** BACKGROUND: Blood biomarkers of neurovascular damage are used clinically to diagnose the presence severity or absence of neurological diseases, but data interpretation is confounded by a limited under...
+
+### Intravenous Administration of Simvastatin Improves Cognitive Outcome following Severe Traumatic Brain Injury in Rats.
+**Authors:** Mountney A, Boutté AM, Gilsdorf J, Lu XC, Tortella FC et al.  
+**Journal:** Journal of neurotrauma (2016)  
+**PMID:** 26542887  **DOI:** 10.1089/neu.2015.4139
+**Entities:** GFAP, TBI  
+**Abstract:** Simvastatin is a 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitor commonly used to reduce serum cholesterol. The beneficial effects of oral simvastatin have been reported in pre-clinical mode...
+
 ### Serum ubiquitin C-terminal hydrolase L1 as a biomarker for traumatic brain injury: a systematic review and meta-analysis.
 **Authors:** Li J, Yu C, Sun Y, Li Y  
 **Journal:** The American journal of emergency medicine (2015)  
@@ -9573,6 +9874,13 @@
 **Entities:** GFAP, S100B, mTBI, TBI  
 **Abstract:** Both glial fibrillary acidic protein (GFAP) and S100β are found in glial cells and are released into serum following a traumatic brain injury (TBI), however, the clinical utility of S100β as a biomark...
 
+### Serum biomarkers predict acute symptom burden in children after concussion: a preliminary study.
+**Authors:** Mannix R, Eisenberg M, Berry M, Meehan WP, Hayes RL  
+**Journal:** Journal of neurotrauma (2014)  
+**PMID:** 24494742  **DOI:** 10.1089/neu.2013.3265
+**Entities:** GFAP, mTBI  
+**Abstract:** Pediatric emergency department (ED) visits for concussion have nearly tripled in the past decade. Despite this, there are limited bedside tools available to objectively diagnose injury and prognostica...
+
 ### Biomarkers for the clinical differential diagnosis in traumatic brain injury--a systematic review.
 **Authors:** Yokobori S, Hosein K, Burks S, Sharma I, Gajavelli S et al.  
 **Journal:** CNS neuroscience & therapeutics (2013)  
@@ -9607,6 +9915,20 @@
 **PMID:** 23489259  **DOI:** 10.1089/neu.2013.2883
 **Entities:** GFAP, TBI  
 **Abstract:** Reliable diagnosis of traumatic brain injury (TBI) is a major public health need. Glial fibrillary acidic protein (GFAP) is expressed in the central nervous system, and breakdown products (GFAP-BDP) a...
+
+### Traumatic brain injury induces a downregulation of MSK1 in rat brain cortex.
+**Authors:** Ning B, Li Z, Zhu N, Hou G, Pang Q  
+**Journal:** Journal of molecular neuroscience : MN (2013)  
+**PMID:** 23065332  **DOI:** 10.1007/s12031-012-9893-3
+**Entities:** GFAP, TBI  
+**Abstract:** Mitogen- and stress-activated protein kinase (MSK) 1 protein was initially identified as a particularly interesting protein of mitogen-activated protein kinase. It was reported to enhance B cell lymph...
+
+### Investigation of the course of GFAP in blood in the initial 24 hours in rats subjected to minor head trauma.
+**Authors:** Cikriklar HI, Ekici MA, Ozbek Z, Cosan DT, Baydemir C et al.  
+**Journal:** European review for medical and pharmacological sciences (2013)  
+**PMID:** 24379073  
+**Entities:** GFAP, TBI  
+**Abstract:** AIM: Aim of this study is to evaluate the diagnostic efficacy of Glial Fibrillar Acidic Protein (GFAP) particularly in minor head traumas. MATERIALS AND METHODS: 72 female and male, 3 month-old, Sprag...
 
 ### A literature review of the feasibility of glial fibrillary acidic protein as a biomarker for stroke and traumatic brain injury.
 **Authors:** Schiff L, Hadker N, Weiser S, Rausch C  
@@ -9699,6 +10021,13 @@
 **Entities:** GFAP, TBI  
 **Abstract:** Foxj1 is a member of the Forkhead/winged-helix (Fox) family of transcription factors, which is required for postnatal differentiation of ependymal cells and a subset of astrocytes in the subventricula...
 
+### Elevated serum ubiquitin carboxy-terminal hydrolase L1 is associated with abnormal blood-brain barrier function after traumatic brain injury.
+**Authors:** Blyth BJ, Farahvar A, He H, Nayak A, Yang C et al.  
+**Journal:** Journal of neurotrauma (2011)  
+**PMID:** 21428722  **DOI:** 10.1089/neu.2010.1653
+**Entities:** UCH-L1, S100B, NfH, BBB, TBI  
+**Abstract:** Serum S100B elevations accurately reflect blood-brain barrier (BBB) damage. Because S100B is also present in peripheral tissues, release of this protein may not be specific to central nervous system (...
+
 ### Ubiquitin C-terminal hydrolase-L1 as a biomarker for ischemic and traumatic brain injury in rats.
 **Authors:** Liu MC, Akinyi L, Scharf D, Mo J, Larner SF et al.  
 **Journal:** The European journal of neuroscience (2010)  
@@ -9726,6 +10055,13 @@
 **PMID:** 21079180  **DOI:** 10.1212/WNL.0b013e3181fd62d2
 **Entities:** GFAP, S100B, TBI, GOS-E  
 **Abstract:** BACKGROUND: Biomarker levels in blood after traumatic brain injury (TBI) may offer diagnostic and prognostic tools in addition to clinical indices. This study aims to validate glial fibrillary acidic ...
+
+### A pilot study of novel biomarkers in neonates with hypoxic-ischemic encephalopathy.
+**Authors:** Douglas-Escobar M, Yang C, Bennett J, Shuster J, Theriaque D et al.  
+**Journal:** Pediatric research (2010)  
+**PMID:** 20736881  **DOI:** 10.1203/PDR.0b013e3181f85a03
+**Entities:** UCH-L1, NfH, TBI  
+**Abstract:** Severe hypoxic-ischemic encephalopathy (HIE) is a devastating condition that can lead to mortality and long-term disabilities in term newborns. No rapid and reliable laboratory test exists to assess t...
 
 ### Glial fibrillary acidic protein is highly correlated with brain injury.
 **Authors:** Lumpkins KM, Bochicchio GV, Keledjian K, Simard JM, McCunn M et al.  
@@ -9762,6 +10098,13 @@
 **Entities:** TBI  
 **Abstract:** To establish reliable methods to aid the timing of brain damage after traumatic brain injury (TBI), brain tissue from 56 autopsy cases with TBI and known survival times, ranging from a few minutes to ...
 
+### Immature and mature neurons coexist among glial scars after rat traumatic brain injury.
+**Authors:** Itoh T, Satou T, Nishida S, Hashimoto S, Ito H  
+**Journal:** Neurological research (2007)  
+**PMID:** 18183647  
+**Entities:** GFAP, TBI  
+**Abstract:** OBJECTIVES: Glial scars around a damaged area after brain injury inhibit neurite elongation from surviving neurons and axonal plasticity, and thus prevent neural network regeneration. However, the gen...
+
 ### Alterations in hippocampal neurogenesis following traumatic brain injury in mice.
 **Authors:** Rola R, Mizumatsu S, Otsuka S, Morhardt DR, Noble-Haeusslein LJ et al.  
 **Journal:** Experimental neurology (2006)  
@@ -9782,6 +10125,20 @@
 **PMID:** 15217991  
 **Entities:** GFAP, S100B, mTBI, TBI, NSE  
 **Abstract:** BACKGROUND: Detection of brain injury by serum markers is not a standard procedure in clinical practice, although several proteins, such as S100B, neuron-specific enolase (NSE), myelin basic protein, ...
+
+### Measurement of glial fibrillary acidic protein in blood: an analytical method.
+**Authors:** van Geel WJ, de Reus HP, Nijzing H, Verbeek MM, Vos PE et al.  
+**Journal:** Clinica chimica acta; international journal of clinical chemistry (2002)  
+**PMID:** 12417106  
+**Entities:** GFAP, TBI  
+**Abstract:** BACKGROUND: In the present study, a new assay for the measurement of glial fibrillary acidic protein (GFAP) in human blood is described. The aim of the study was to present the characteristics of a ne...
+
+### Glial and neuronal serum markers after controlled cortical impact injury in the rat.
+**Authors:** Woertgen C, Rothoerl RD, Wiesmann M, Missler U, Brawanski A  
+**Journal:** Acta neurochirurgica. Supplement (2002)  
+**PMID:** 12168305  
+**Entities:** GFAP, TBI, NSE  
+**Abstract:** The aim of this study was to investigate the time course and the correlation of glial fibrillary acidic protein (GFAP), protein S-100B, and neuron specific enolase (NSE) serum levels to the severity o...
 
 ### GFAP and astrogliosis.
 **Authors:** Eng LF, Ghirnikar RS  
@@ -9883,6 +10240,27 @@
 **PMID:** 42377763  **DOI:** 10.1007/s40279-026-02479-4
 **Entities:** GFAP, UCH-L1, NfL, tau, IL-6  
 **Abstract:** BACKGROUND: Growing evidence supports the potential of blood-based biomarkers for aiding in concussion diagnosis, though most work has focused on biomarker changes at the group level. Here, reliable c...
+
+### Prevalence and Risk of Anxiety and Depression after Concussion: A TRANSCENDENT Study.
+**Authors:** van Ierssel JJ, Kutcher SA, Johnston S, Pham NK, Lamoureux M et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41622503  **DOI:** 10.1177/08977151261416446
+**Entities:** mTBI  
+**Abstract:** Anxiety and depression are associated with high symptom burden, functional limitations, and poor quality-of-life. Understanding the prevalence and risk factors for mental health symptoms after concuss...
+
+### Imaging the later-life white matter pathologies of repetitive head impacts: A novel pattern revealed through T2 FLAIR MRI.
+**Authors:** Groh JR, Miner AE, Alshikho MJ, Farris C, Cui A et al.  
+**Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2026)  
+**PMID:** 42002804  **DOI:** 10.1002/alz.71351
+**Entities:** NfL, aging  
+**Abstract:** INTRODUCTION: Repetitive head impacts (RHI) from contact sports may cause a unique pattern of white matter hyperintensities (WMH) on T2-weighted fluid-attenuated inversion recovery (FLAIR) magnetic re...
+
+### Utility of Amyloid Beta and Tau Positron Emission Tomography Scans for Identifying Early-Stage Neurodegenerative Changes in Former Professional Football Players and Healthy Controls: Results from the Brain Health Initiative.
+**Authors:** Eagle SR, Collins M, Kontos AP, Lopez O, Mountz JM et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41854183  **DOI:** 10.1177/08977151261433820
+**Entities:** tau, mTBI  
+**Abstract:** The aim of this study is to determine if there is a difference in tau and amyloid beta (Aβ) deposition on positron emission tomography (PET) scans between former players and controls, and if there is ...
 
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
@@ -10093,6 +10471,13 @@
 **PMID:** 38835137  **DOI:** 10.1177/19417381241255308
 **Entities:** mTBI  
 **Abstract:** BACKGROUND: Mental health disorders are linked to prolonged concussion symptoms. However, the association of premorbid anxiety/depression symptoms with postconcussion return-to-play timelines and tota...
+
+### Quantifying Longitudinal Microstructural Changes in Mild Traumatic Brain Injury Patients with Mean Apparent Propagator MRI.
+**Authors:** Gangolli M, Nadar P, Marinelli L, Basser PJ, Avram AV  
+**Journal:** Journal of neurotrauma (2025)  
+**PMID:** 40930713  **DOI:** 10.1177/08977151251377449
+**Entities:** NfL, mTBI, TBI  
+**Abstract:** Mean apparent propagator MRI (MAP-MRI) quantifies subtle alterations in tissue microstructure noninvasively and provides a more nuanced and comprehensive assessment of tissue architectural and structu...
 
 ### Duration of Ice Hockey Play and Chronic Traumatic Encephalopathy.
 **Authors:** Abdolmohammadi B, Tuz-Zahra F, Uretsky M, Nicks R, Mosaheb S et al.  
@@ -10338,6 +10723,41 @@
 **PMID:** biorxiv:10.1101/2024.01.17.576077  **DOI:** 10.1101/2024.01.17.576077
 **Entities:** Alzheimer  
 **Abstract:** ObjectiveHexanucleotide repeat expansions in the C9orf72 gene are the most common genetic cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). A large body of evidence impli...
+
+### Sex Differences Across Concussion Characteristics in US Service Academy Cadets: A CARE Consortium Study.
+**Authors:** Kelly LA, Caccese JB, Jain D, Master CL, Lempke L et al.  
+**Journal:** Sports medicine (Auckland, N.Z.) (2024)  
+**PMID:** 38995598  **DOI:** 10.1007/s40279-024-02068-3
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To describe sex differences in concussion characteristics in US Service Academy cadets. DESIGN: Descriptive epidemiology study. SETTING: Four US service academies. PARTICIPANTS: 2209 cadets...
+
+### Investigating the Association Between Extended Participation in Collision Sports and Fluid Biomarkers Among Masters Athletes.
+**Authors:** Giesler LP, O'Brien WT, Symons GF, Salberg S, Spitz G et al.  
+**Journal:** Neurotrauma reports (2024)  
+**PMID:** 38463419  **DOI:** 10.1089/neur.2023.0086
+**Entities:** TBI, Alzheimer, Simoa, aging  
+**Abstract:** Traumatic brain injuries (TBIs) and concussions are prevalent in collision sports, and there is evidence that levels of exposure to such sports may increase the risk of neurological abnormalities. Ele...
+
+### Comparison of the Buffalo Concussion Treadmill Test With a Physiologically Informed Cycle Test: Calgary Concussion Cycle Test.
+**Authors:** Miutz LN, Burma JS, Brassard P, Phillips AA, Emery CA et al.  
+**Journal:** Sports health (2024)  
+**PMID:** 38149331  **DOI:** 10.1177/19417381231217744
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Sport-related concussions are a complex injury requiring multifaceted assessment, including physical exertion. Currently, concussion testing relies primarily on a treadmill-based protocol ...
+
+### Cognition Uniquely Influences Dual-Task Tandem Gait Performance Among Athletes With a Concussion History.
+**Authors:** Shumski EJ, Schmidt JD, Lynall RC  
+**Journal:** Sports health (2024)  
+**PMID:** 37377161  **DOI:** 10.1177/19417381231183413
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: After a concussion, there are unique associations between static balance and landing with cognition. Previous research has explored these unique correlations, but the factor of time, dual-...
+
+### Analysis of Concussions Reported in American Professional Football Injury Reports in the 2019 Through 2023 Regular Seasons.
+**Authors:** O'Malley GR, Sarwar SA, Posner KM, Polavarapu H, Adams D et al.  
+**Journal:** World neurosurgery (2024)  
+**PMID:** 38735562  **DOI:** 10.1016/j.wneu.2024.05.026
+**Entities:** NfL  
+**Abstract:** OBJECTIVE: The National Football League (NFL) has seen increasing scrutiny regarding its management of concussions, especially following an on-field incident involving the Miami Dolphins' quarterback ...
 
 ### Consensus statement on concussion in sport: the 6th International Conference on Concussion in Sport-Amsterdam, October 2022.
 **Authors:** Patricios JS, Schneider KJ, Dvorak J, Ahmed OH, Blauwet C et al.  
@@ -10738,6 +11158,27 @@
 **Entities:** NMDA receptor  
 **Abstract:** NMDA receptors (NMDARs) are glutamate-gated ion channels playing a central role in synaptic transmission and plasticity. Dysregulation of NMDARs is linked to various neuropsychiatric disorders, emphas...
 
+### Amsterdam 2022 process: A summary of the methodology for the Amsterdam International Consensus on Concussion in Sport.
+**Authors:** Schneider KJ, Patricios JS, Meeuwisse W, Schneider GM, Hayden KA et al.  
+**Journal:** British journal of sports medicine (2023)  
+**PMID:** 37316208  **DOI:** 10.1136/bjsports-2022-106663
+**Entities:** mTBI  
+**Abstract:** The purpose of this paper is to summarise the consensus methodology that was used to inform the International Consensus Statement on Concussion in Sport (Amsterdam 2022). Building on a Delphi process ...
+
+### Introducing the Child Sport Concussion Office Assessment Tool 6 (Child SCOAT6).
+**Authors:** Davis GA, Patricios JS, Purcell LK, Anderson V, Gioia GA et al.  
+**Journal:** British journal of sports medicine (2023)  
+**PMID:** 37316205  **DOI:** 10.1136/bjsports-2023-106858
+**Entities:** —  
+**Abstract:** 
+
+### Interaction of Surface Type, Temperature, and Week of Season on Concussion Risk in the National Football League: A Bayesian Analysis.
+**Authors:** Smoliga JM, Deshpande SK, Binney ZO  
+**Journal:** Epidemiology (Cambridge, Mass.) (2023)  
+**PMID:** 37732833  **DOI:** 10.1097/EDE.0000000000001657
+**Entities:** NfL, mTBI  
+**Abstract:** BACKGROUND: Artificial turf fields and environmental conditions may influence sports concussion risk, but existing research is limited by uncontrolled confounding factors, limited sample size, and the...
+
 ### Neurofilaments in neurologic disorders and beyond.
 **Authors:** Mak G, Menon S, Lu JQ  
 **Journal:** Journal of the neurological sciences (2022)  
@@ -10983,6 +11424,20 @@
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: Investigate whether resuming physical activity (PA) at 72 hours post concussion is safe and reduces symptoms at 2 weeks, compared with resting until asymptomatic. METHODS: Real-life conditi...
 
+### A Cross-Sectional Decision-Making Approach to Inform Neuropsychological Battery Development in Professional Hockey.
+**Authors:** Bruce JM, Meeuwisse W, Thelen J, Hutchison MG, Comper P et al.  
+**Journal:** Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists (2022)  
+**PMID:** 34929026  **DOI:** 10.1093/arclin/acab092
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: Neuropsychologists commonly use a large battery of tests to inform clinical decisions. Decision analysis can be used to determine which individual tests play a role in the decision-making p...
+
+### Fluid biomarkers and risk of neurodegenerative disease in retired athletes with multiple concussions: results from the International Concussion and Head Injury Research Foundation Brain health in Retired athletes Study of Ageing and Impact-Related Neurodegenerative Disease (ICHIRF-BRAIN study).
+**Authors:** Swann OJ, Turner M, Heslegrave A, Zetterberg H  
+**Journal:** BMJ open sport & exercise medicine (2022)  
+**PMID:** 36111130  **DOI:** 10.1136/bmjsem-2022-001327
+**Entities:** GFAP, NfL, tau, Aβ42, mTBI  
+**Abstract:** OBJECTIVES: To investigate the association and utility of blood plasma markers of neurodegeneration in a population of retired athletes self-reporting multiple concussions throughout a sporting career...
+
 ### CSF and Blood Neurofilament Levels in Athletes Participating in Physical Contact Sports: A Systematic Review.
 **Authors:** Verduyn C, Bjerke M, Duerinck J, Engelborghs S, Peers K et al.  
 **Journal:** Neurology (2021)  
@@ -11144,6 +11599,62 @@
 **Entities:** tau, mTBI  
 **Abstract:** CONTEXT: Current evidence regarding the protective effect of mouthguard use on symptom severity in children and adolescents who sustain sport-related concussions is insufficient to make clinical recom...
 
+### Influence of Sleep Dysfunction on Concussion Assessment Outcomes Among Adolescent Athletes After Concussion and Healthy Controls.
+**Authors:** Blaney NA, Trbovich A, Ernst N, Eagle SR, Collins MW et al.  
+**Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2021)  
+**PMID:** 32941365  **DOI:** 10.1097/JSM.0000000000000860
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Sleep dysfunction (SD) is associated with a high symptom burden and lower neurocognitive performance after concussion and on baseline testing without injury. However, few studies have comp...
+
+### Distinct latent profiles based on neurobehavioural, physical and psychosocial functioning of former National Football League (NFL) players: an NFL-LONG Study.
+**Authors:** Brett BL, Walton SR, Kerr ZY, Nelson LD, Chandran A et al.  
+**Journal:** Journal of neurology, neurosurgery, and psychiatry (2021)  
+**PMID:** 33483350  **DOI:** 10.1136/jnnp-2020-324244
+**Entities:** NfL, mTBI  
+**Abstract:** OBJECTIVE: To identify subgroups of former National Football League (NFL) players using latent profile analysis (LPA) and examine their associations with total years of participation (TYP) and self-re...
+
+### Author Response: Exosomal Neurofilament Light: A Prognostic Biomarker for Remote Symptoms After Mild Traumatic Brain Injury?
+**Authors:** Kenney K, Guedes VA, Gill JM  
+**Journal:** Neurology (2021)  
+**PMID:** 33846171  **DOI:** 10.1212/WNL.0000000000011786
+**Entities:** —  
+**Abstract:** 
+
+### Mural cell dysfunction leads to altered cerebrovascular tau uptake following repetitive head trauma.
+**Authors:** Ojo J, Eisenbaum M, Shackleton B, Lynch C, Joshi U et al.  
+**Journal:** Neurobiology of disease (2021)  
+**PMID:** 33383188  **DOI:** 10.1016/j.nbd.2020.105237
+**Entities:** tau, mTBI, TBI  
+**Abstract:** A pathological characteristic of repetitive traumatic brain injury (TBI) is the deposition of hyperphosphorylated and aggregated tau species in the brain and increased levels of extracellular monomeri...
+
+### Molecular Deficits Relevant to Concussion Are Prevalent in Top-Ranked Football Players Entering the National Football League Draft.
+**Authors:** Kunces LJ, Keenan J, Schmidt CM, Schmidt MA  
+**Journal:** Journal of strength and conditioning research (2021)  
+**PMID:** 34533486  **DOI:** 10.1519/JSC.0000000000004131
+**Entities:** NfL, mTBI, TBI  
+**Abstract:** Kunces, LJ, Keenan, J, Schmidt, CM, and Schmidt, MA. Molecular deficits relevant to concussion are prevalent in top-ranked football players entering the National Football League draft. J Strength Cond...
+
+### Extracellular Vesicle Proteins and MicroRNAs Are Linked to Chronic Post-Traumatic Stress Disorder Symptoms in Service Members and Veterans With Mild Traumatic Brain Injury.
+**Authors:** Guedes VA, Lai C, Devoto C, Edwards KA, Mithani S et al.  
+**Journal:** Frontiers in pharmacology (2021)  
+**PMID:** 34690777  **DOI:** 10.3389/fphar.2021.745348
+**Entities:** mTBI, TBI  
+**Abstract:** Symptoms of post-traumatic stress disorder (PTSD) are common in military populations, and frequently associated with a history of combat-related mild traumatic brain injury (mTBI). In this study, we e...
+
+### Nanodelivery of oxiracetam enhances memory, functional recovery and induces neuroprotection following concussive head injury.
+**Authors:** Niu F, Sharma A, Wang Z, Feng L, Muresanu DF et al.  
+**Journal:** Progress in brain research (2021)  
+**PMID:** 34560921  **DOI:** 10.1016/bs.pbr.2021.06.004
+**Entities:** tau, p-tau, IL-6, TNF-α, BBB  
+**Abstract:** Military personnel are the most susceptible to concussive head injury (CHI) caused by explosion, blast or missile or blunt head trauma. Mild to moderate CHI could induce lifetime functional and cognit...
+
+### Reader Response: Exosomal Neurofilament Light: A Prognostic Biomarker for Remote Symptoms After Mild Traumatic Brain Injury?
+**Authors:** Kawada T  
+**Journal:** Neurology (2021)  
+**PMID:** 33846170  **DOI:** 10.1212/WNL.0000000000011784
+**Entities:** —  
+**Abstract:** 
+
 ### Neurofilament light as a biomarker in traumatic brain injury.
 **Authors:** Shahim P, Politis A, van der Merwe A, Moore B, Chou YY et al.  
 **Journal:** Neurology (2020)  
@@ -11269,6 +11780,48 @@
 **PMID:** biorxiv:10.1101/2020.05.20.106575  **DOI:** 10.1101/2020.05.20.106575
 **Entities:** tau, Alzheimer  
 **Abstract:** COVID-19 pandemic caused by SARS-CoV-2 infection is a public health emergency. COVID-19 typically exhibits respiratory illness. Unexpectedly, emerging clinical reports indicate that neurological sympt...
+
+### Association Between Proteomic Blood Biomarkers and DTI/NODDI Metrics in Adolescent Football Players: A Pilot Study.
+**Authors:** Kawata K, Steinfeldt JA, Huibregtse ME, Nowak MK, Macy JT et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 33304306  **DOI:** 10.3389/fneur.2020.581781
+**Entities:** GFAP, NfL, tau, TBI, Alzheimer  
+**Abstract:** While neuroimaging and blood biomarker have been two of the most active areas of research in the neurotrauma community, these fields rarely intersect to delineate subconcussive brain injury. The aim o...
+
+### CCL2 is associated with microglia and macrophage recruitment in chronic traumatic encephalopathy.
+**Authors:** Cherry JD, Meng G, Daley S, Xia W, Svirsky S et al.  
+**Journal:** Journal of neuroinflammation (2020)  
+**PMID:** 33278887  **DOI:** 10.1186/s12974-020-02036-4
+**Entities:** tau, Iba1, Aβ42, neuroinflammation, CTE  
+**Abstract:** BACKGROUND: Neuroinflammation has been implicated in the pathogenesis of chronic traumatic encephalopathy (CTE), a progressive neurodegenerative disease association with exposure to repetitive head im...
+
+### Serum Protein Biomarker Findings Reflective of Oxidative Stress and Vascular Abnormalities in Male, but Not Female, Collision Sport Athletes.
+**Authors:** Major BP, McDonald SJ, O'Brien WT, Symons GF, Clough M et al.  
+**Journal:** Frontiers in neurology (2020)  
+**PMID:** 33117257  **DOI:** 10.3389/fneur.2020.549624
+**Entities:** ROS, oxidative stress  
+**Abstract:** Studies have indicated that concussive and sub-concussive brain injuries that are frequent during collision sports may lead to long-term neurological abnormalities, however there is a knowledge gap on...
+
+### The Сerebrovascular Time Constant in Patients with Head Injury and Posttraumatic Cerebral Vasospasm.
+**Authors:** Sheludyakov A, Martynov D, Yuryev M, Kopylov A, Trofimov A  
+**Journal:** Acta neurochirurgica. Supplement (2020)  
+**PMID:** 31407084  **DOI:** 10.1007/978-3-030-04615-6_30
+**Entities:** TBI  
+**Abstract:** The aim of the study was to assess the time constant of cerebral arterial bed in TBI patients with cerebral vasospasm (CVS) with and without intracranial hematomas (ICH).We examined 84 patients with s...
+
+### Association between (GT)n Promoter Polymorphism and Recovery from Concussion: A Pilot Study.
+**Authors:** McDevitt J, Rubin LH, De Simone FI, Phillips J, Langford D  
+**Journal:** Journal of neurotrauma (2020)  
+**PMID:** 31847698  **DOI:** 10.1089/neu.2019.6590
+**Entities:** mTBI  
+**Abstract:** Variability in recovery among concussed athletes can be attributed to several risk factors. One risk factor not definitively explored is genetic variation. Genetic variations such as variable number t...
+
+### Chitinase-3-Like Protein 1, Serum Amyloid A1, C-Reactive Protein, and Procalcitonin Are Promising Biomarkers for Intracranial Severity Assessment of Traumatic Brain Injury: Relationship with Glasgow Coma Scale and Computed Tomography Volumetry.
+**Authors:** Carabias CS, Gomez PA, Panero I, Eiriz C, Castaño-León AM et al.  
+**Journal:** World neurosurgery (2020)  
+**PMID:** 31606503  **DOI:** 10.1016/j.wneu.2019.09.143
+**Entities:** GFAP, S100B, NfH, tau, TBI  
+**Abstract:** OBJECTIVE: The volume and location of intracranial hematomas are well-known prognostic factors for traumatic brain injury. The aim of this study was to determine the relationship of serum biomarkers S...
 
 ### Neurofilament light chain as a biomarker in neurological disorders.
 **Authors:** Gaetani L, Blennow K, Calabresi P, Di Filippo M, Parnetti L et al.  
@@ -11410,6 +11963,83 @@
 **Entities:** TBI  
 **Abstract:** Collegiate football athletes are subject to repeated traumatic brain injuriesthat may cause brain injury. The hippocampus is composed of several distinct subfields with possible differential susceptib...
 
+### DNA damage as a marker of brain damage in individuals with history of concussions.
+**Authors:** Schwab N, Tator C, Hazrati LN  
+**Journal:** Laboratory investigation; a journal of technical methods and pathology (2019)  
+**PMID:** 30760862  **DOI:** 10.1038/s41374-019-0199-8
+**Entities:** tau, p-tau, mTBI, TBI, CTE  
+**Abstract:** Mild traumatic brain injury (mTBI) is common in many populations, including athletes, veterans, and domestic abuse victims. mTBI can cause chronic symptoms, including depression, irritability, memory ...
+
+### International study of video review of concussion in professional sports.
+**Authors:** Davis GA, Makdissi M, Bloomfield P, Clifton P, Echemendia RJ et al.  
+**Journal:** British journal of sports medicine (2019)  
+**PMID:** 30262454  **DOI:** 10.1136/bjsports-2018-099727
+**Entities:** mTBI  
+**Abstract:** BACKGROUND: Video review has become an important tool in professional sporting codes to help sideline identification and management of players with a potential concussion. AIM: To assess current pract...
+
+### Limbic system structure volumes and associated neurocognitive functioning in former NFL players.
+**Authors:** Lepage C, Muehlmann M, Tripodis Y, Hufschmidt J, Stamm J et al.  
+**Journal:** Brain imaging and behavior (2019)  
+**PMID:** 29779184  **DOI:** 10.1007/s11682-018-9895-z
+**Entities:** NfL, TBI, CTE, Alzheimer  
+**Abstract:** Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease associated with exposure to repetitive head impacts. CTE has been linked to disruptions in cognition, mood, and behavior. Unfortun...
+
+### Engaging Athletic Trainers in Concussion Detection: Overview of the National Football League ATC Spotter Program, 2011-2017.
+**Authors:** Mack C, Myers E, Barnes R, Solomon G, Sills A  
+**Journal:** Journal of athletic training (2019)  
+**PMID:** 31415183  **DOI:** 10.4085/1062-6050-181-19
+**Entities:** NfL, mTBI  
+**Abstract:** OBJECTIVE: To assist sideline medical staff and to augment detection of concussion in National Football League (NFL) players during preseason and regular season games via the use of certified athletic...
+
+### Concussions and Contracts: The National Football League's Limitations to Protecting Its Players from Chronic Traumatic Encephalopathy.
+**Authors:** Wolpert J  
+**Journal:** Journal of law and health (2019)  
+**PMID:** 31841615  
+**Entities:** NfL, TBI, CTE  
+**Abstract:** Chronic Traumatic Encephalopathy (CTE) is a neurodegenerative brain injury that has become prevalent among high-contact professional sports, especially American football. More and more retired players...
+
+### Elevated cerebrospinal fluid total tau in former professional athletes with multiple concussions.
+**Authors:** Taghdiri F, Multani N, Tarazi A, Naeimi SA, Khodadadi M et al.  
+**Journal:** Neurology (2019)  
+**PMID:** 31068482  **DOI:** 10.1212/WNL.0000000000007608
+**Entities:** tau, Alzheimer  
+**Abstract:** OBJECTIVE: To identify CSF biomarkers that are related to decreased white matter (WM) integrity and poor cognitive performance in former professional athletes with a history of multiple concussions. M...
+
+### DNA repair deficiency and senescence in concussed professional athletes involved in contact sports.
+**Authors:** Schwab N, Grenier K, Hazrati LN  
+**Journal:** Acta neuropathologica communications (2019)  
+**PMID:** 31727161  **DOI:** 10.1186/s40478-019-0822-3
+**Entities:** tau, mTBI, TBI, Alzheimer, MBP  
+**Abstract:** Mild traumatic brain injury (mTBI) leads to diverse symptoms including mood disorders, cognitive decline, and behavioral changes. In some individuals, these symptoms become chronic and persist in the ...
+
+### Elevated markers of brain injury as a result of clinically asymptomatic high-acceleration head impacts in high-school football athletes.
+**Authors:** Joseph JR, Swallow JS, Willsey K, Lapointe AP, Khalatbari S et al.  
+**Journal:** Journal of neurosurgery (2019)  
+**PMID:** 29966462  **DOI:** 10.3171/2017.12.JNS172386
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
+**Abstract:** OBJECTIVE: This prospective observational cohort study of high-school football athletes was performed to determine if high-acceleration head impacts (HHIs) that do not result in clinically diagnosed c...
+
+### In Vivo Protocol of Controlled Subconcussive Head Impacts for the Validation of Field Study Data.
+**Authors:** Bevilacqua ZW, Huibregtse ME, Kawata K  
+**Journal:** Journal of visualized experiments : JoVE (2019)  
+**PMID:** 31058892  **DOI:** 10.3791/59381
+**Entities:** NfL, CTE  
+**Abstract:** Subconcussive hits pose a threat to neuronal health as they have shown to induce neuronal structural damage and functional impairment without causing outward symptomology and appear to be a key contri...
+
+### Fluctuations in blood biomarkers of head trauma in NCAA football athletes over the course of a season.
+**Authors:** Oliver JM, Anzalone AJ, Stone JD, Turner SM, Blueitt D et al.  
+**Journal:** Journal of neurosurgery (2019)  
+**PMID:** 29807487  **DOI:** 10.3171/2017.12.JNS172035
+**Entities:** NfL, tau  
+**Abstract:** OBJECTIVE: Repetitive subconcussive head trauma is a consequence of participation in contact sports and may be linked to neurodegenerative diseases. The degree of neurological injury caused by subconc...
+
+### Assessing Neuronal and Astrocyte Derived Exosomes From Individuals With Mild Traumatic Brain Injury for Markers of Neurodegeneration and Cytotoxic Activity.
+**Authors:** Winston CN, Romero HK, Ellisman M, Nauss S, Julovich DA et al.  
+**Journal:** Frontiers in neuroscience (2019)  
+**PMID:** 31680797  **DOI:** 10.3389/fnins.2019.01005
+**Entities:** mTBI, TBI, Alzheimer  
+**Abstract:** Mild traumatic brain injury (mTBI) disproportionately affects military service members and is very difficult to diagnose. To-date, there is currently no blood-based, diagnostic biomarker for mTBI case...
+
 ### Chronic traumatic encephalopathy: fluid biomarkers.
 **Authors:** Zetterberg H, Blennow K  
 **Journal:** Handbook of clinical neurology (2018)  
@@ -11500,6 +12130,13 @@
 **PMID:** biorxiv:10.1101/369074  **DOI:** 10.1101/369074
 **Entities:** tau, TBI, Alzheimer  
 **Abstract:** Tau protein accumulation is the most common pathology among degenerative brain diseases, including Alzheimers disease (AD), progressive supranuclear palsy (PSP), traumatic brain injury (TBI) and over ...
+
+### Clinical and Biochemical Outcomes Following EEG Neurofeedback Training in Traumatic Brain Injury in the Context of Spontaneous Recovery.
+**Authors:** Bennett CN, Gupta RK, Prabhakar P, Christopher R, Sampath S et al.  
+**Journal:** Clinical EEG and neuroscience (2018)  
+**PMID:** 29268620  **DOI:** 10.1177/1550059417744899
+**Entities:** tau, TBI  
+**Abstract:** UNLABELLED: It has been found that reduction of posttraumatic stress symptoms is positively associated with the reduction of postconcussive symptoms. Cortisol is commonly used as a biomarker of stress...
 
 ### A systematic review of potential long-term effects of sport-related concussion.
 **Authors:** Manley G, Gardner AJ, Schneider KJ, Guskiewicz KM, Bailes J et al.  
@@ -11606,6 +12243,48 @@
 **Entities:** tau, p-tau, mTBI, TBI, CTE  
 **Abstract:** Repeated mild traumatic brain injury (rmTBI) caused by playing collision sports or by exposure to blasts during military operations can lead to late onset, chronic diseases such as chronic traumatic e...
 
+### Descriptive Characteristics of Concussions in National Football League Games, 2010-2011 to 2013-2014.
+**Authors:** Clark MD, Asken BM, Marshall SW, Guskiewicz KM  
+**Journal:** The American journal of sports medicine (2017)  
+**PMID:** 28056179  **DOI:** 10.1177/0363546516677793
+**Entities:** NfL, mTBI  
+**Abstract:** BACKGROUND: Despite a high reported incidence rate of concussion, little is known about the on-field characteristics of injurious head impacts in National Football League (NFL) games. PURPOSE: To char...
+
+### The Child Sport Concussion Assessment Tool 5th Edition (Child SCAT5): Background and rationale.
+**Authors:** Davis GA, Purcell L, Schneider KJ, Yeates KO, Gioia GA et al.  
+**Journal:** British journal of sports medicine (2017)  
+**PMID:** 28446452  **DOI:** 10.1136/bjsports-2017-097492
+**Entities:** mTBI  
+**Abstract:** This article presents the Child Sport Concussion Assessment Tool 5th Edition (Child SCAT5). The Sport Concussion Assessment Tool was introduced in 2004, following the 2nd International Conference on C...
+
+### Head impacts in a junior rugby league team measured with a wireless head impact sensor: an exploratory analysis.
+**Authors:** King D, Hume P, Gissane C, Clark T  
+**Journal:** Journal of neurosurgery. Pediatrics (2017)  
+**PMID:** 27791705  **DOI:** 10.3171/2016.7.PEDS1684
+**Entities:** —  
+**Abstract:** OBJECTIVE The aim of this study was to investigate the frequency, magnitude, and distribution of head impacts sustained by players in a junior rugby league over a season of matches. METHODS The author...
+
+### Utility of providing a concussion definition in the assessment of concussion history in former NFL players.
+**Authors:** Alosco ML, Jarnagin J, Tripodis Y, Martin B, Chaisson C et al.  
+**Journal:** Brain injury (2017)  
+**PMID:** 28471243  **DOI:** 10.1080/02699052.2017.1294709
+**Entities:** NfL, mTBI  
+**Abstract:** OBJECTIVE: Former National Football League (NFL) players' working knowledge of concussion has not yet been evaluated, despite this population being a major clinical research target due to the associat...
+
+### Effect of Concussion on Performance of National Football League Players.
+**Authors:** Reams N, Hayward RA, Kutcher JS, Burke JF  
+**Journal:** International journal of sports physiology and performance (2017)  
+**PMID:** 28095082  **DOI:** 10.1123/ijspp.2016-0508
+**Entities:** NfL, mTBI  
+**Abstract:** PURPOSE: Lingering neurologic injury after concussion may expose athletes to increased risk if return to play is premature. The authors explored whether on-field performance after concussion is a mark...
+
+### Clinical correlates to assist with chronic traumatic encephalopathy diagnosis: Insights from a novel rodent repeat concussion model.
+**Authors:** Thomsen GM, Ko A, Harada MY, Ma A, Wyss L et al.  
+**Journal:** The journal of trauma and acute care surgery (2017)  
+**PMID:** 28520686  **DOI:** 10.1097/TA.0000000000001443
+**Entities:** tau, p-tau, mTBI, TBI, CTE  
+**Abstract:** INTRODUCTION: Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease linked to repetitive head injuries. Chronic traumatic encephalopathy symptoms include changes in mood, behavior, cog...
+
 ### Potential Blood-based Biomarkers for Concussion.
 **Authors:** Papa L  
 **Journal:** Sports medicine and arthroscopy review (2016)  
@@ -11676,6 +12355,27 @@
 **Entities:** TBI  
 **Abstract:** The cerebrovascular time constant (τ) theoretically estimates how fast the cerebral arterial bed is filled by blood volume after a sudden change in arterial blood pressure during one cardiac cycle. Th...
 
+### Development of a head impact monitoring "Intelligent Mouthguard".
+**Authors:** Hedin DS, Gibson PL, Bartsch AJ, Samorezov S  
+**Journal:** Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference (2016)  
+**PMID:** 28268724  **DOI:** 10.1109/EMBC.2016.7591119
+**Entities:** NfL, mTBI  
+**Abstract:** The authors present the development and laboratory system-level testing of an impact monitoring "Intelligent Mouthguard" intended to help with identification of potentially concussive head impacts and...
+
+### Repetitive blast exposure in mice and combat veterans causes persistent cerebellar dysfunction.
+**Authors:** Meabon JS, Huber BR, Cross DJ, Richards TL, Minoshima S et al.  
+**Journal:** Science translational medicine (2016)  
+**PMID:** 26764157  **DOI:** 10.1126/scitranslmed.aaa9585
+**Entities:** tau, p-tau, BBB, mTBI, TBI  
+**Abstract:** Blast exposure can cause mild traumatic brain injury (TBI) in mice and other mammals. However, there are important gaps in our understanding of the neuropathology underlying repetitive blast exposure ...
+
+### Altered Blood Biomarker Profiles in Athletes with a History of Repetitive Head Impacts.
+**Authors:** Di Battista AP, Rhind SG, Richards D, Churchill N, Baker AJ et al.  
+**Journal:** PloS one (2016)  
+**PMID:** 27458972  **DOI:** 10.1371/journal.pone.0159929
+**Entities:** tau, mTBI, TBI, Alzheimer  
+**Abstract:** The long-term health effects of concussion and sub-concussive impacts in sport are unknown. Growing evidence suggests both inflammation and neurodegeneration are pivotal to secondary injury processes ...
+
 ### Neurodegeneration and sport.
 **Authors:** Davis GA, Castellani RJ, McCrory P  
 **Journal:** Neurosurgery (2015)  
@@ -11732,6 +12432,13 @@
 **Entities:** TBI  
 **Abstract:** The great majority of acute brain injury results from trauma or from disorders of the cerebrovasculature, i.e. ischaemic stroke or haemorrhage. These injuries are characterized by an initial insult th...
 
+### Comparative Assessment of the Prognostic Value of Biomarkers in Traumatic Brain Injury Reveals an Independent Role for Serum Levels of Neurofilament Light.
+**Authors:** Al Nimer F, Thelin E, Nyström H, Dring AM, Svenningsson A et al.  
+**Journal:** PloS one (2015)  
+**PMID:** 26136237  **DOI:** 10.1371/journal.pone.0132177
+**Entities:** S100B, NfL, neuroinflammation, TBI, NSE  
+**Abstract:** Traumatic brain injury (TBI) is a common cause of death and disability, worldwide. Early determination of injury severity is essential to improve care. Neurofilament light (NF-L) has been introduced a...
+
 ### Military-related traumatic brain injury and neurodegeneration.
 **Authors:** McKee AC, Robinson ME  
 **Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association (2014)  
@@ -11774,6 +12481,41 @@
 **Entities:** NfL, mTBI  
 **Abstract:** There is no other sport that has come under greater scrutiny surrounding the incidence and treatment of concussion than football, and there is no other professional sports league that has experienced ...
 
+### Relationship between concussion history and neurocognitive test performance in National Football League draft picks.
+**Authors:** Solomon GS, Kuhn A  
+**Journal:** The American journal of sports medicine (2014)  
+**PMID:** 24496507  **DOI:** 10.1177/0363546513518742
+**Entities:** NfL, mTBI, cAMP  
+**Abstract:** BACKGROUND: There are limited empirical data available regarding the relationship between concussion history and neurocognitive functioning in active National Football League (NFL) players in general ...
+
+### Tau, s-100 calcium-binding protein B, and neuron-specific enolase as biomarkers of concussion-reply.
+**Authors:** Shahim P, Blennow K, Zetterberg H  
+**Journal:** JAMA neurology (2014)  
+**PMID:** 25023557  **DOI:** 10.1001/jamaneurol.2014.1160
+**Entities:** —  
+**Abstract:** 
+
+### Tau, s-100 calcium-binding protein B, and neuron-specific enolase as biomarkers of concussion.
+**Authors:** Bazarian JJ, Merchant-Borna K  
+**Journal:** JAMA neurology (2014)  
+**PMID:** 25023555  **DOI:** 10.1001/jamaneurol.2014.1082
+**Entities:** —  
+**Abstract:** 
+
+### Rates of concussion are lower in National Football League games played at higher altitudes.
+**Authors:** Myer GD, Smith D, Barber Foss KD, Dicesare CA, Kiefer AW et al.  
+**Journal:** The Journal of orthopaedic and sports physical therapy (2014)  
+**PMID:** 24471872  **DOI:** 10.2519/jospt.2014.5298
+**Entities:** NfL, mTBI  
+**Abstract:** STUDY DESIGN: Retrospective epidemiologic investigation. OBJECTIVE: To investigate the relationship between altitude and concussion rate in the National Football League (NFL). Because of the physiolog...
+
+### Depressive symptoms and white matter dysfunction in retired NFL players with concussion history.
+**Authors:** Strain J, Didehbani N, Cullum CM, Mansinghani S, Conover H et al.  
+**Journal:** Neurology (2013)  
+**PMID:** 23709590  **DOI:** 10.1212/WNL.0b013e318299ccf8
+**Entities:** NfL, mTBI  
+**Abstract:** OBJECTIVE: To determine whether correlates of white matter integrity can provide general as well as specific insight into the chronic effects of head injury coupled with depression symptom expression ...
+
 ### Chronic traumatic encephalopathy: neurodegeneration following repetitive concussive and subconcussive brain trauma.
 **Authors:** Baugh CM, Stamm JM, Riley DO, Gavett BE, Shenton ME et al.  
 **Journal:** Brain imaging and behavior (2012)  
@@ -11809,6 +12551,27 @@
 **Entities:** mTBI, TBI  
 **Abstract:** The pathophysiology of concussion may lead to a variety of both short- and long-term effects, which may lead to a decision to retire from contact sports. These effects follow a recognizable progressio...
 
+### Psychometric data for the NFL neuropsychological test battery.
+**Authors:** Lovell MR, Solomon GS  
+**Journal:** Applied neuropsychology (2011)  
+**PMID:** 21846219  **DOI:** 10.1080/09084282.2011.595446
+**Entities:** NfL, mTBI, TBI  
+**Abstract:** As part of a comprehensive league-wide study of concussion, the National Football League's Committee on Mild Traumatic Brain Injury sponsored a neuropsychological testing program from 1996 through 200...
+
+### The Immediate Post-Concussion Assessment and Cognitive Testing battery and traditional neuropsychological measures: a construct and concurrent validity study.
+**Authors:** Allen BJ, Gfeller JD  
+**Journal:** Brain injury (2011)  
+**PMID:** 21219090  **DOI:** 10.3109/02699052.2010.541897
+**Entities:** NfL, mTBI  
+**Abstract:** PRIMARY OBJECTIVE: This study examined the construct and concurrent validity of ImPACT, a computerized neuropsychological test battery used for evaluating sports-related concussion. RESEARCH DESIGN: A...
+
+### Concussion management at the NFL, college, high school, and youth sports levels.
+**Authors:** Maroon JC, Bost J  
+**Journal:** Clinical neurosurgery (2011)  
+**PMID:** 21916127  
+**Entities:** —  
+**Abstract:** 
+
 ### Boxing-acute complications and late sequelae: from concussion to dementia.
 **Authors:** Förstl H, Haass C, Hemmer B, Meyer B, Halle M  
 **Journal:** Deutsches Arzteblatt international (2010)  
@@ -11829,6 +12592,48 @@
 **PMID:** 19487898  **DOI:** 10.1227/01.NEU.0000316855.40986.2A
 **Entities:** GFAP, NfL, mTBI, TBI  
 **Abstract:** OBJECTIVE: An animal model of concussions in National Football League players has been described in a previous study. It involves a freely moving 300-g Wistar rat impacted on the side of the head at v...
+
+### APOE, APOE promoter, and Tau genotypes and risk for concussion in college athletes.
+**Authors:** Terrell TR, Bostick RM, Abramson R, Xie D, Barfield W et al.  
+**Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2008)  
+**PMID:** 18185033  **DOI:** 10.1097/JSM.0b013e31815c1d4c
+**Entities:** tau, mTBI  
+**Abstract:** OBJECTIVE: To investigate associations of APOE, APOE promoter (G-219T), and tau protein exon 6 polymorphisms (47 and 53) and a history of self-reported concussion in college athletes. DESIGN: Multi-ce...
+
+### Serum cleaved tau does not predict postconcussion syndrome after mild traumatic brain injury.
+**Authors:** Ma M, Lindsell CJ, Rosenberry CM, Shaw GJ, Zemlan FP  
+**Journal:** The American journal of emergency medicine (2008)  
+**PMID:** 18774039  **DOI:** 10.1016/j.ajem.2007.10.029
+**Entities:** tau, mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVES: Our objective was to determine if the biomarker for axonal injury, serum cleaved tau (C-tau), predicts postconcussion syndrome (PCS) in adults after mild traumatic brain injury (mTBI). MET...
+
+### Symptoms and disability until 3 months after mild TBI.
+**Authors:** Lundin A, de Boussard C, Edman G, Borg J  
+**Journal:** Brain injury (2006)  
+**PMID:** 17060147  
+**Entities:** tau, mTBI, TBI  
+**Abstract:** OBJECTIVE: Examine frequency, character and course of symptoms until 3 months after MTBI and the relation between symptoms and disability. METHODS: Prospective cohort study of 122 consecutive patients...
+
+### Concussion in professional football: recovery of NFL and high school athletes assessed by computerized neuropsychological testing--Part 12.
+**Authors:** Pellman EJ, Lovell MR, Viano DC, Casson IR  
+**Journal:** Neurosurgery (2006)  
+**PMID:** 16462480  
+**Entities:** NfL, mTBI, TBI  
+**Abstract:** OBJECTIVE: Acute recovery from concussion (mild traumatic brain injury) is assessed in samples of NFL and high school athletes evaluated within days of injury. METHODS: All athletes were evaluated wit...
+
+### Concussion in professional football: comparison with boxing head impacts--part 10.
+**Authors:** Viano DC, Casson IR, Pellman EJ, Bir CA, Zhang L et al.  
+**Journal:** Neurosurgery (2005)  
+**PMID:** 16331164  
+**Entities:** NfL, mTBI  
+**Abstract:** OBJECTIVE: This study addresses impact biomechanics from boxing punches causing translational and rotational head acceleration. Olympic boxers threw four different punches at an instrumented Hybrid II...
+
+### Mild head injury increasing the brain's vulnerability to a second concussive impact.
+**Authors:** Laurer HL, Bareyre FM, Lee VM, Trojanowski JQ, Longhi L et al.  
+**Journal:** Journal of neurosurgery (2001)  
+**PMID:** 11702878  
+**Entities:** tau, BBB, TBI  
+**Abstract:** OBJECT: Mild, traumatic repetitive head injury (RHI) leads to neurobehavioral impairment and is associated with the early onset of neurodegenerative disease. The authors developed an animal model to i...
 
 ### Experimental brain injury induces regionally distinct apoptosis during the acute and delayed post-traumatic period.
 **Authors:** Conti AC, Raghupathi R, Trojanowski JQ, McIntosh TK  
@@ -11923,6 +12728,34 @@
 **PMID:** 42368545  **DOI:** 10.3389/fpls.2026.1862064
 **Entities:** —  
 **Abstract:** This study aimed to establish an event-specific detection method for the genetically modified soybean WYN029GmA. WYN029GmA is a glyphosate-resistant transgenic soybean carrying the
+
+### Isorhoifolin regulates S1PR3-CK2-GSK3β axis and promotes neurite regrowth and functional recovery after traumatic brain injury.
+**Authors:** Wang Y, Liao WL, Wang C, Li YC, Lu TH et al.  
+**Journal:** Phytomedicine : international journal of phytotherapy and phytopharmacology (2026)  
+**PMID:** 42604624  **DOI:** 10.1016/j.phymed.2026.158688
+**Entities:** NQO2, ROS, neuroinflammation, BBB, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) disrupts anatomical structure and cellular signaling, yet the molecular mechanisms governing endogenous repair remain incompletely defined. Accumulating eviden...
+
+### Leveraging Homologous Recombination Deficiency via the Repositioned Prodrug CB1954.
+**Authors:** Elia JL, Hill J, Heer CD, Smolev S, Sykes AM et al.  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42465319  **DOI:** 10.64898/2026.07.08.737246
+**Entities:** NQO2  
+**Abstract:** Homologous recombination deficiency (HRD) is an actionable vulnerability found in a substantial fraction of human cancers, yet current HRD-directed therapies are limited by toxicity, incomplete respon...
+
+### Low Brain Levels of Dietary Polyphenols and Their Conjugates: Reassessing Mechanisms of Alzheimer's Disease Prevention.
+**Authors:** Sharma R, Shkirkova K, Mack WJ, Gopalakrishna R  
+**Journal:** Journal of dementia and alzheimer's disease (2026)  
+**PMID:** 42592146  **DOI:** 10.3390/jdad3020027
+**Entities:** NQO2, Alzheimer, cAMP, quercetin, resveratrol  
+**Abstract:** Dietary polyphenols such as quercetin, resveratrol, and (-)-epigallocatechin-3-gallate (EGCG) have shown neuroprotective effects in epidemiologic and experimental studies of Alzheimer's disease (AD), ...
+
+### The β-carboline derivative Carbacetam attenuates mortality and neuroendocrine dysfunction in a rodent model of traumatic brain injury: A multi-target pharmacological and molecular docking study.
+**Authors:** Yevstifeiev DI, Ziablitsev SV, Aleksandrenko NO, Bohza SL, Bilson MY et al.  
+**Journal:** Neuropharmacology (2026)  
+**PMID:** 42617972  **DOI:** 10.1016/j.neuropharm.2026.111155
+**Entities:** NQO2, TBI  
+**Abstract:** Carbacetam is a synthetic β-carboline with clinical neuroprotective potential whose primary targets include quinone reductase 2 (QR2), neuronal L-type calcium channels (Cav1.2), DYRK1A kinase, and the...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
@@ -14573,6 +15406,20 @@
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: To examine whether initial concussion symptom severity predicts long-term neurobehavioral, anxiety, and depressive symptoms in adolescents with sport-related concussion (SRC). METHODS: This...
 
+### Exploratory proteomic biomarker combinations associated with post-concussion symptoms following a concussion in adolescents.
+**Authors:** Gill J, Lim A, Dennis E, Bickart K, Yun S et al.  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 42666808  **DOI:** 10.3389/fneur.2026.1872460
+**Entities:** GFAP, UCH-L1, NfL, tau, p-tau  
+**Abstract:** OBJECTIVE: This study examined the ability of established brain biomarkers, glial fibrillary acid protein (GFAP), neuro-filament light chain (NFL), ubiquitin carboxy hydrolase-L1(UCH-L1), tau, and pho...
+
+### Physiological Outcomes of Physical Activity Interventions in Persistent Postconcussive Symptoms: A Scoping Review.
+**Authors:** Dehghani B, Ellingson CJ, Neary JP, Singh J  
+**Journal:** Sports medicine (Auckland, N.Z.) (2026)  
+**PMID:** 41920292  **DOI:** 10.1007/s40279-026-02421-8
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** BACKGROUND: Persistent postconcussive symptoms (PPCS) are associated with prolonged functional impairment and physiological dysregulation following mild traumatic brain injury, yet objective markers o...
+
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
 **Journal:** Expert review of neurotherapeutics (2025)  
@@ -15798,6 +16645,27 @@
 **Entities:** tau, mTBI  
 **Abstract:** OBJECTIVES: To examine the safety and tolerability of an active rehabilitation program for adolescents who are slow to recover from a sport-related concussion, and secondarily to estimate the treatmen...
 
+### Hyperbaric oxygen for post-concussive symptoms in United States military service members: a randomized clinical trial.
+**Authors:** Weaver LK, Wilson SH, Lindblad AS, Churchill S, Deru K et al.  
+**Journal:** Undersea & hyperbaric medicine : journal of the Undersea and Hyperbaric Medical Society, Inc (2018)  
+**PMID:** 29734566  
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: In prior military randomized trials, participants with persistent symptoms after mild traumatic brain injury (TBI) reported improvement regardless of receiving hyperbaric oxygen (HBO₂) or ...
+
+### Evaluating the test-retest reliability of symptom indices associated with the ImPACT post-concussion symptom scale (PCSS).
+**Authors:** Merritt VC, Bradson ML, Meyer JE, Arnett PA  
+**Journal:** Journal of clinical and experimental neuropsychology (2018)  
+**PMID:** 28728465  **DOI:** 10.1080/13803395.2017.1353590
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: The Immediate Post-Concussion Assessment and Cognitive Testing (ImPACT) is a commonly used tool in sports concussion assessment. While test-retest reliabilities have been established for th...
+
+### Near Point of Convergence and Gait Deficits in Adolescents After Sport-Related Concussion.
+**Authors:** Howell DR, OʼBrien MJ, Raghuram A, Shah AS, Meehan WP  
+**Journal:** Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine (2018)  
+**PMID:** 28742610  **DOI:** 10.1097/JSM.0000000000000439
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: To prospectively examine gait characteristics of participants acutely after concussion with and without receded near point of convergence (NPC), compared with healthy controls. DESIGN: Cros...
+
 ### Review of Vestibular and Oculomotor Screening and Concussion Rehabilitation.
 **Authors:** Kontos AP, Deitrick JM, Collins MW, Mucha A  
 **Journal:** Journal of athletic training (2017)  
@@ -15959,6 +16827,13 @@
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** BACKGROUND: Blast-related mild traumatic brain injury (blast mTBI) is a signature wound of recent US military conflicts in the Middle East, but the relatedness of postconcussive symptoms (PCS) to the ...
 
+### Pediatric concussion: biomechanical differences between outcomes of transient and persistent (> 4 weeks) postconcussion symptoms.
+**Authors:** Post A, Hoshizaki TB, Zemek R, Gilchrist MD, Koncan D et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2017)  
+**PMID:** 28347202  **DOI:** 10.3171/2016.11.PEDS16383
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE Currently, little is known about the biomechanics of head impact for concussion in youths (ages 5 to 18 years). Even less is known about the biomechanical characteristics and variables relat...
+
 ### Traumatic brain injuries.
 **Authors:** Blennow K, Brody DL, Kochanek PM, Levin H, McKee A et al.  
 **Journal:** Nature reviews. Disease primers (2016)  
@@ -16085,6 +16960,34 @@
 **Entities:** mTBI  
 **Abstract:** OBJECTIVE: To determine the degree to which preinjury and acute postinjury psychosocial and injury-related variables predict symptom duration following sport-related concussion. METHODS: A total of 2,...
 
+### Postconcussive symptom overreporting in Iraq/Afghanistan Veterans with mild traumatic brain injury.
+**Authors:** Jurick SM, Twamley EW, Crocker LD, Hays CC, Orff HJ et al.  
+**Journal:** Journal of rehabilitation research and development (2016)  
+**PMID:** 27898153  **DOI:** 10.1682/JRRD.2015.05.0094
+**Entities:** mTBI, TBI  
+**Abstract:** A comprehensive evaluation, including the assessment of neurobehavioral symptoms, has been instituted at the Department of Veterans Affairs (VA) healthcare system to address the large number of Operat...
+
+### Prediction of Persistent Postconcussion Symptoms in Youth Using a Neuroimaging Decision Rule.
+**Authors:** Faris G, Byczkowski T, Ho M, Babcock L  
+**Journal:** Academic pediatrics (2016)  
+**PMID:** 26523635  **DOI:** 10.1016/j.acap.2015.10.007
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: To evaluate the ability of risk strata generated by a neuroimaging rule, developed to assess risk of clinically important traumatic brain injury (ciTBI), to predict postconcussive symptoms ...
+
+### Predictors of delayed recovery following pediatric sports-related concussion: a case-control study.
+**Authors:** Miller JH, Gill C, Kuhn EN, Rocque BG, Menendez JY et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2016)  
+**PMID:** 26684762  **DOI:** 10.3171/2015.8.PEDS14332
+**Entities:** mTBI  
+**Abstract:** OBJECT Pediatric sports-related concussions are a growing public health concern. The factors that determine injury severity and time to recovery following these concussions are poorly understood. Prev...
+
+### Is current medical education adequately preparing future physicians to manage concussion: an initial evaluation.
+**Authors:** Donaworth MA, Grandhi RK, Logan K, Gubanich PJ, Myer GD  
+**Journal:** The Physician and sportsmedicine (2016)  
+**PMID:** 26758683  **DOI:** 10.1080/00913847.2016.1135039
+**Entities:** mTBI  
+**Abstract:** OBJECTIVES: In 2010, there were 2.5 million hospitalizations, emergency room visits, or deaths associated with concussions in the United States.[1] Knowledge deficits exist among physicians regarding ...
+
 ### Physiological, vestibulo-ocular and cervicogenic post-concussion disorders: an evidence-based classification system with directions for treatment.
 **Authors:** Ellis MJ, Leddy JJ, Willer B  
 **Journal:** Brain injury (2015)  
@@ -16189,6 +17092,13 @@
 **PMID:** 25419578  **DOI:** 10.1089/neu.2014.3698
 **Entities:** tau, mTBI, TBI  
 **Abstract:** Biomarkers for diffuse axonal injury could have utilities for the acute diagnosis and clinical care of concussion, including those related to sports. The calpain-derived αII-spectrin N-terminal fragme...
+
+### Evaluation of the King-Devick test as a concussion screening tool in high school football players.
+**Authors:** Seidman DH, Burlingame J, Yousif LR, Donahue XP, Krier J et al.  
+**Journal:** Journal of the neurological sciences (2015)  
+**PMID:** 26094155  **DOI:** 10.1016/j.jns.2015.06.021
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: Concussion is the most common type of traumatic brain injury, and results from impact or impulsive forces to the head, neck or face. Due to the variability and subtlety of symptoms, concuss...
 
 ### Violence-related mild traumatic brain injury in women: identifying a triad of postinjury disorders.
 **Authors:** Davis A  
@@ -16687,6 +17597,34 @@
 **Entities:** tau, mTBI, PPCS  
 **Abstract:** OBJECTIVE: After a concussion, some patients develop persistent post-concussion symptoms, which interferes with functioning in daily life. A biopsychosocial explanation for the development and continu...
 
+### Effectiveness of a Customized Rehabilitation Program for Adults With Post-Concussion Syndrome-A Randomized Controlled Crossover Trial.
+**Authors:** Moser N, Popovic MR, Kalsi-Ryan S  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 41491995  **DOI:** 10.1097/HTR.0000000000001144
+**Entities:** mTBI, PPCS  
+**Abstract:** OBJECTIVE: Post-concussion syndrome is a challenging condition to assess and triage rehabilitation secondary to the heterogeneity of patients' presentations. The aim of the present study was to examin...
+
+### Sleep Disturbance and Postconcussive Symptoms in Pediatric Mild Traumatic Brain Injury and Orthopedic Injury.
+**Authors:** Luszawski CA, Minich NM, Bigler ED, Taylor HG, Bacevice A et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 39808542  **DOI:** 10.1097/HTR.0000000000001005
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: Sleep disturbance (SD) is common after pediatric mild traumatic brain injury (mTBI) and may predict increased postconcussive symptoms (PCS) and prolonged recovery. Our objective was to inve...
+
+### On-TRACC Pilot Study: A Novel Intervention for Persistent Post-Concussive Cognitive Symptoms.
+**Authors:** Pagulayan KF, Rau HK, Sheppard DP, Shulein OM, Onstad-Hawes E et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 39853212  **DOI:** 10.1097/HTR.0000000000001014
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: To present the results of a pilot study of On-TRACC (Tools for Recovery and Clinical Care), a novel intervention for individuals experiencing persistent cognitive difficulties after mild tr...
+
+### Efficacy of an Intensive Exposure Intervention for Individuals With Persistent Concussion Symptoms Following Concussion: A Concurrent Multiple Baseline Single-Case Experimental Design (SCED) Study.
+**Authors:** King S, Stapert SZ, Winkens I, van der Naalt J, van Heugten CM et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 38478748  **DOI:** 10.1097/HTR.0000000000000942
+**Entities:** tau, mTBI, PPCS  
+**Abstract:** OBJECTIVE: After a concussion, 1 in 3 patients report persistent symptoms and experience long-term consequences interfering with daily functioning, known as persistent concussion symptoms (PCS). Evide...
+
 
 ## Cluster: qr2_inhibitors
 
@@ -16909,6 +17847,48 @@
 **PMID:** 42019915  **DOI:** 10.1016/j.wneu.2026.124993
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: A high number of repeat cranial imaging studies are performed on mild traumatic brain injury (mTBI) patients, but their diagnostic yield is often poor. This study assesses the impact of re...
+
+### Postconcussion physical activity frequency and plasma biomarker associations among adolescents.
+**Authors:** Moseley RR, Wingerson MJ, Richardson KL, Hurlburt KD, Warren K et al.  
+**Journal:** Journal of neurosurgery. Pediatrics (2026)  
+**PMID:** 42284615  **DOI:** 10.3171/2026.2.PEDS25624
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
+**Abstract:** OBJECTIVE: Existing studies have reported the utility of plasma biomarkers for concussion diagnosis and outcome prognostication. In parallel, physical activity (PA) after concussion is associated with...
+
+### Predictors of Intracranial Hemorrhage on Initial Head Computed Tomography After Mild Traumatic Brain Injury.
+**Authors:** Lin CY, Hsieh MH, Yen TL, Liu CC, Hsieh CT  
+**Journal:** In vivo (Athens, Greece) (2026)  
+**PMID:** 42665398  **DOI:** 10.21873/invivo.14461
+**Entities:** mTBI, TBI, aging  
+**Abstract:** BACKGROUND/AIM: Traumatic intracranial hemorrhage after mild traumatic brain injury (mTBI) remains a major clinical challenge, particularly in aging societies. This study characterized the incidence, ...
+
+### Divergent recovery trajectories after mild traumatic brain injury are characterized by distinct acute profiles of neurofilament light, 4R-tau, and white matter diffusivity.
+**Authors:** Papini MG, Thorne J, Gozt AK, Avila ANC, Ellery CS et al.  
+**Journal:** Journal of neurology (2026)  
+**PMID:** 42642675  **DOI:** 10.1007/s00415-026-14060-0
+**Entities:** GFAP, NfL, tau, mTBI, TBI  
+**Abstract:** OBJECTIVES: Blood-based and diffusion MRI (dMRI) biomarkers of white matter injury after acute mild traumatic brain injury (mTBI) were examined to: (1) distinguish mTBI from healthy controls (HC); (2)...
+
+### The study of epigenetic clocks in former professional contact sports athletes with repetitive head impacts.
+**Authors:** Tang X, Sumra V, Sato C, Moreno D, Khodadadi M et al.  
+**Journal:** Journal of neurology, neurosurgery, and psychiatry (2026)  
+**PMID:** 42114983  **DOI:** 10.1136/jnnp-2025-338206
+**Entities:** NfL, aging  
+**Abstract:** BACKGROUND: Repetitive head impacts in former contact sport athletes are associated with cognitive impairment, accelerated cerebral atrophy and risk of neurodegenerative disease. Epigenetic clocks der...
+
+### Acute-on-chronic versus isolated acute subdural hematoma in complicated mild traumatic brain injury: association with radiological mass effect markers in a multicenter cohort.
+**Authors:** Crombé A, Benhamed A, Seux M, Frassin L, Matichard R et al.  
+**Journal:** European journal of trauma and emergency surgery : official publication of the European Trauma Society (2026)  
+**PMID:** 42489732  **DOI:** 10.1007/s00068-026-03275-5
+**Entities:** mTBI, TBI, Alzheimer  
+**Abstract:** PURPOSE: The clinical impact of acute-on-chronic subdural hematoma (acSDH) in mild traumatic brain injury (mTBI) remains incompletely characterized. We assessed whether acSDH, compared with isolated a...
+
+### Acute interleukin-10 predicts persistent post-concussion symptoms in children with mild traumatic brain injury: exploratory findings from the t-BIOMAP study.
+**Authors:** Chiollaz AC, Pouillard V, Seiler M, Habre C, Romano F et al.  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 42682381  **DOI:** 10.3389/fneur.2026.1893730
+**Entities:** GFAP, S100B, NfL, IL-6, neuroinflammation  
+**Abstract:** BACKGROUND: Children are a vulnerable population for mild traumatic brain injury (mTBI), accounting for a high burden of emergency department (ED) visits. A significant and unpredictable subset will d...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
@@ -19454,6 +20434,69 @@
 **Entities:** TBI  
 **Abstract:** BACKGROUND: Anisocoria following severe head injury is traditionally interpreted as an impending neurological emergency, often prompting immediate empiric interventions for presumed intracranial hyper...
 
+### Assessment of Sport-Related Brain Injuries with Rapid Objective Perimetry.
+**Authors:** Rai BB, Sabeti F, Rohan EMF, van Kleef JP, Carle CF et al.  
+**Journal:** Bioengineering (Basel, Switzerland) (2026)  
+**PMID:** 42510405  **DOI:** 10.3390/bioengineering13070738
+**Entities:** mTBI, TBI  
+**Abstract:** Sport-related mild traumatic brain injury (mTBI) or concussion is common and has long-term implications. The lack of diagnostically accurate, rapid, and easy-to-administer tests exacerbates the proble...
+
+### DYNAMIC BIOMARKERS FOR PREDICTING POST-TRAUMATIC EPILEPSY AFTER TRAUMATIC BRAIN INJURY.
+**Authors:** Kurbanov A, Abdullaeva Y, Badritdinova M, Abdullaeva V, Khalimova F et al.  
+**Journal:** Georgian medical news (2026)  
+**PMID:** 42603320  
+**Entities:** GFAP, NfL, IL-6, TNF-α, IL-1β  
+**Abstract:** BACKGROUND: Post-traumatic epilepsy (PTE) is a delayed complication of traumatic brain injury (TBI), but its biological predictors remain insufficiently defined. This study evaluated the dynamic profi...
+
+### Implementing whole blood TBI point-of-care testing in Level 1 trauma centers: protocol for emergency department implementation for TBI (EDI for TBI) hybrid type II effectiveness-implementation trial.
+**Authors:** Eagle S, McNett M, Madhok D, Bazarian J, Barton D et al.  
+**Journal:** Frontiers in health services (2026)  
+**PMID:** 42582391  **DOI:** 10.3389/frhs.2026.1891721
+**Entities:** TBI  
+**Abstract:** INTRODUCTION: Technological advances have enabled rapid screening for traumatic brain injury (TBI) at the point of care (POC), with devices approved by the United States Food and Drug Administration (...
+
+### Point-of-care biomarkers for mild traumatic brain injury: implications for Canadian emergency departments.
+**Authors:** Khorsand S, Nolan B  
+**Journal:** CJEM (2026)  
+**PMID:** 42484943  **DOI:** 10.1007/s43678-026-01224-0
+**Entities:** —  
+**Abstract:** 
+
+### Evaluating Point-of-Care Electroencephalogram for Mild Traumatic Brain Injury Triage and Referral Pathways Within the Emergency Department: A Mixed-Design Cohort Quality Improvement Study.
+**Authors:** Lesko JD, Bogdan DA, Saxman Z, Boschee M, Koch EJ  
+**Journal:** Military medicine (2026)  
+**PMID:** 42550737  **DOI:** 10.1093/milmed/usag371
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: Traumatic brain injuries, or TBIs, represent a common military health care system challenge due to the high frequency seen throughout the 21st century battlefield, workplace injuries, an...
+
+### Transient Association Between Elevated NSE and Reduced fT3 Levels Following Mild Traumatic Brain Injury: A 12-Month Prospective Pilot Study.
+**Authors:** Kałas M, Siemiński M, Stępniewska E  
+**Journal:** Journal of clinical medicine (2026)  
+**PMID:** 42513588  **DOI:** 10.3390/jcm15145676
+**Entities:** mTBI, TBI, NSE  
+**Abstract:** 
+
+### Integration of GFAP/UCH-L1 Testing into an Emergency Department Concussion Pathway and Calculator to Model TBI Biomarker Impact on Time.
+**Authors:** Wilson JW, Bailey G, Baker M, Balen C, Holbrook EA et al.  
+**Journal:** Neurotrauma reports (2026)  
+**PMID:** 42676860  **DOI:** 10.1177/2689288X261481953
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) accounts for 70-90% of all TBI cases and represents a significant burden on emergency departments (EDs) across the United States. Despite its prevalence, mTBI evalua...
+
+### Nanomaterial-enhanced biosensors for traumatic brain injury biomarker detection: a review of analytical performance, machine learning integration, clinical validation, and point-of-care translation.
+**Authors:** Wekalao J, Topisia T  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 42676354  **DOI:** 10.3389/fneur.2026.1876862
+**Entities:** GFAP, UCH-L1, S100B, NfL, TBI  
+**Abstract:** Traumatic brain injury (TBI) affects an estimated 69 million people each year and remains difficult to diagnose rapidly because conventional assessment relies heavily on neurological examination and c...
+
+### An Eye on Survival: Association Between Initial Optic Nerve Sheath Diameter and 30-Day Mortality in Patients With Traumatic Brain Injury.
+**Authors:** C A, Karmegam G, Raja M C S, R P, K S et al.  
+**Journal:** Cureus (2026)  
+**PMID:** 42699344  **DOI:** 10.7759/cureus.114013
+**Entities:** TBI  
+**Abstract:** Background Traumatic brain injury (TBI) is a major cause of morbidity and mortality worldwide, necessitating early identification of high-risk patients for timely management. Elevated intracranial pre...
+
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
 **Journal:** Journal of neurology (2025)  
@@ -21451,6 +22494,139 @@
 **PMID:** 42436517  **DOI:** 10.1186/s12967-026-08559-3
 **Entities:** ROS, neuroinflammation, oxidative stress, BBB, TBI  
 **Abstract:** BACKGROUND: Microglia-mediated neuroinflammation and oxidative stress are pivotal drivers of secondary injury following traumatic brain injury (TBI). While neddylation governs essential cellular funct...
+
+### Traumatic brain injury: Multi-omics insights into brain aging, neurodegeneration, and precision therapeutics.
+**Authors:** Shafie A, Ashour AA, Alhujaily MM, Anjum F, Akhtar F et al.  
+**Journal:** Ageing research reviews (2026)  
+**PMID:** 42660464  **DOI:** 10.1016/j.arr.2026.103339
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a major cause of mortality and persistent neurological disability and is increasingly recognized as a potential contributor to accelerated brain aging and long-term neu...
+
+### Elovanoid neuroprotection targets cell transcriptomics and proteomics to sustain synaptic integrity after brain injury.
+**Authors:** Giles BL, Bhattacharjee S, Ji JX, Mukherjee PK, Belayev L et al.  
+**Journal:** Communications biology (2026)  
+**PMID:** 41963623  **DOI:** 10.1038/s42003-026-09931-1
+**Entities:** oxidative stress, TBI, Nrf2, aging  
+**Abstract:** Traumatic brain injury (TBI), a leading cause of death and disability, is the largest non-genetic, non-aging-related contributor to cognitive impairments. Currently, there are limited effective therap...
+
+### Exploring Pericontusional Temporal Metabolomic Changes after Controlled Cortical Impact in Mice.
+**Authors:** Dave AM, Oft HC, Sinha S, Janesko-Feldman K, Vagni V et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 42581635  **DOI:** 10.1177/08977151261475262
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) is a leading cause of trauma-related morbidity and mortality, yet metabolic responses in the injured brain remain incompletely understood. Metabolomic profiling of pericon...
+
+### IL-19+ monocytes suppress neuroinflammation and promote neurological recovery in young individuals with traumatic brain injury.
+**Authors:** Lu Z, Zhao J, Zhu J, Wang C, Liao W et al.  
+**Journal:** Cell reports (2026)  
+**PMID:** 42570240  **DOI:** 10.1016/j.celrep.2026.117805
+**Entities:** neuroinflammation, TBI  
+**Abstract:** Young patients with traumatic brain injury (TBI) have a better prognosis than the aged, but the underlying mechanisms are not clear. Here, we identified a population of IL-19
+
+### Lyophilized platelet derived extracellular vesicles promote hemostasis and attenuate intracranial hemorrhage following traumatic brain injury.
+**Authors:** Trivedi A, Miyazawa B, Fields AT, Matthews M, Vivona L et al.  
+**Journal:** Journal of translational medicine (2026)  
+**PMID:** 42472813  **DOI:** 10.1186/s12967-026-08638-5
+**Entities:** neuroinflammation, BBB, TBI  
+**Abstract:** BACKGROUND: Hemorrhage is the leading cause of preventable death world-wide. Traumatic brain injury (TBI) is the primary driver of mortality and morbidity among individuals aged 1-44 years worldwide, ...
+
+### Multi-omics integration identifies VIM and LGALS3 as apoptosis-associated genes in astrocytes after traumatic brain injury.
+**Authors:** Wang B, Wang Y, Cao W, Wang P, Yang X et al.  
+**Journal:** Neuroscience (2026)  
+**PMID:** 42617790  **DOI:** 10.1016/j.neuroscience.2026.08.027
+**Entities:** GFAP, TBI  
+**Abstract:** Apoptosis contributes substantially to neurological deficits after traumatic brain injury (TBI), yet the molecular drivers and cellular regulation of astrocyte-associated apoptosis remain poorly defin...
+
+### Mesenchymal stem cell-derived secretome in traumatic brain injury: Stage-specific paracrine mechanisms and translational challenges.
+**Authors:** Huang J, Zhang W, Huang G, Lai W, Huang Q et al.  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 42480635  **DOI:** 10.1016/j.expneurol.2026.115935
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, TBI  
+**Abstract:** Traumatic brain injury (TBI) is a stage-dependent disorder that evolves from acute neuroinflammation, blood-brain barrier (BBB) disruption, oxidative stress, excitotoxicity, and apoptosis to subacute ...
+
+### Specific serum metabolites can differentiate severe and mild human traumatic brain injury.
+**Authors:** Shi L, Wang Z, Zhang J, Zheng P, Bai L  
+**Journal:** Clinica chimica acta; international journal of clinical chemistry (2026)  
+**PMID:** 42501776  **DOI:** 10.1016/j.cca.2026.121248
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Traumatic Brain Injury (TBI) is a prevalent neurological condition with significant public health implications. The heterogeneity in TBI's pathophysiology presents challenges in diagnosis ...
+
+### Proteomic Changes of Neurodegenerative and Inflammatory Plasma Biomarkers Following Traumatic Brain Injury.
+**Authors:** Abbruzzese S, Patel R, Walter AE, Lynch CE, Sandsmark DK et al.  
+**Journal:** Neurotrauma reports (2026)  
+**PMID:** 42539370  **DOI:** 10.1177/2689288X261446294
+**Entities:** TBI  
+**Abstract:** Our objective was to determine if relative concentrations of neurodegenerative and inflammatory biomarkers differed between traumatic brain injury (TBI) and age-matched controls. Among individuals wit...
+
+### Multi-omics integration reveals TIM-4 as a master regulatory hub of neuroinflammation and neuronal cell death.
+**Authors:** Chen L, Li YY, Han L, Lu S  
+**Journal:** Frontiers in cell and developmental biology (2026)  
+**PMID:** 42698755  **DOI:** 10.3389/fcell.2026.1876873
+**Entities:** neuroinflammation, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) is a leading cause of severe disability, frequently resulting in persistent cognitive dysfunction. Microglial M1/M2 polarization is critically involved in TBI ...
+
+### Brain Tissue-Derived Exosomal Proteomics Identifies Chemotaxis-Associated Protein Changes After Traumatic Brain Injury: An Exploratory Hippocampal Transcriptomic Comparison.
+**Authors:** Chen WC, Chen XL, Lin CY, Huang YZ, He HF et al.  
+**Journal:** Molecular neurobiology (2026)  
+**PMID:** 42572060  **DOI:** 10.1007/s12035-026-06123-0
+**Entities:** neuroinflammation, TBI  
+**Abstract:** Traumatic brain injury (TBI) involves both primary and secondary pathological processes, including hemorrhage, ischemia, edema, and neuroinflammation. Although tissue-derived exosomes have emerged as ...
+
+### From an Age-Stratified Perspective: Divergent Adaptive Mechanisms of the Traumatic Brain Injury Repair Network Between Pediatric and Adult Patients.
+**Authors:** Yu S, Pan L, Yang T, Chen X, Ma Y et al.  
+**Journal:** Frontiers in bioscience (Landmark edition) (2026)  
+**PMID:** 42689994  **DOI:** 10.31083/FBL45754
+**Entities:** BDNF, TBI, aging  
+**Abstract:** Traumatic brain injury (TBI) remains a leading cause of chronic neurological impairment across the lifespan, with significant disparities in clinical recovery trajectories between pediatric and adult ...
+
+### Transglutaminase 2 Deletion Enhances Astrocyte-to-Neuron Metabolic Support and Attenuates Subacute Pathology Following Repetitive Mild Traumatic Brain Injury.
+**Authors:** Delgado T, Arefin TM, Pagan I, Weekley BH, Rodwell-Bullock J et al.  
+**Journal:** bioRxiv : the preprint server for biology (2026)  
+**PMID:** 42539240  **DOI:** 10.64898/2026.07.16.738974
+**Entities:** ROS, neuroinflammation, oxidative stress, mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) is the most common form of central nervous system (CNS) injury and is often characterized by persistent neuroinflammation, metabolic dysregulation, and oxidative str...
+
+### Exploring the Metabolic Impact of Traumatic Brain Injury in CCI Mouse Models: A Focus on Early and Prolonged Injury Responses.
+**Authors:** Banoei MM, Scott BNV, Winston BW  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 42511491  **DOI:** 10.3390/ijms27146144
+**Entities:** TBI  
+**Abstract:** Traumatic brain injury (TBI) disrupts brain metabolism, which evolves over time and varies with the severity of the injury. Monitoring these metabolomic changes may reveal biomarkers indicating early ...
+
+### Evaluation of a novel high-capacity dry plasma biosampling-lateral flow device for the testing of traumatic brain injury protein biomarkers.
+**Authors:** Kobeissy F, Elbayoumi E, Arja RD, Cai G, Boukholda K et al.  
+**Journal:** Journal of advanced research (2026)  
+**PMID:** 42697480  **DOI:** 10.1016/j.jare.2026.09.003
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
+**Abstract:** BACKGROUND AND PURPOSE: Current blood-based diagnostic tests for traumatic brain injury (TBI), such as those measuring UCH-L1 and GFAP, require venous whole blood or plasma samples collection and cold...
+
+### Advanced glycomics approach for characterization of IgG glycan alterations and immune modulation in traumatic brain injury.
+**Authors:** Onigbinde S, Solomon J, Sandilya V, Daramola O, Fowowe M et al.  
+**Journal:** Analytica chimica acta (2026)  
+**PMID:** 42648802  **DOI:** 10.1016/j.aca.2026.345882
+**Entities:** neuroinflammation, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) poses significant health challenges, involving complex immune responses and neuroinflammation. In TBI, immunoglobulin G (IgG) plays a key role in modulating ne...
+
+### Artificial Intelligence-Driven Multi-Omics Analysis Reveals Hydroxytyrosol Targeting of the TXNIP-NLRP3 Inflammasome Axis in Traumatic Brain Injury.
+**Authors:** Qin Y, Zhang W, Wei Q  
+**Journal:** European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences (2026)  
+**PMID:** 42700807  **DOI:** 10.1016/j.ejps.2026.107651
+**Entities:** ROS, IL-1β, neuroinflammation, oxidative stress, TBI  
+**Abstract:** Traumatic brain injury (TBI) induces secondary neuroinflammation driven by oxidative stress, inflammasome activation, and immune remodeling, yet specific mechanism-guided pharmacological interventions...
+
+### Development of a High-Sensitivity Glycoproteomics Approach for Fc-Specific Quantification of IgG Core Fucosylation in Traumatic Brain Injury.
+**Authors:** Onigbinde S, Solomon J, Sandilya V, Daramola O, Fowowe M et al.  
+**Journal:** Journal of proteome research (2026)  
+**PMID:** 42695900  **DOI:** 10.1021/acs.jproteome.5c01154
+**Entities:** neuroinflammation, TBI  
+**Abstract:** Traumatic brain injury (TBI) triggers complex neuroinflammatory cascades that involve sustained immune activation and dysregulated antibody effector functions. Immunoglobulin G (IgG) Fc N-glycosylatio...
+
+### Seawater immersion reshapes the temporal dynamics of traumatic brain injury and reveals mitochondrial oxidative stress as a modifiable therapeutic target.
+**Authors:** Li W, He R, Xie S, Li M, Liu J et al.  
+**Journal:** Experimental neurology (2026)  
+**PMID:** 42600764  **DOI:** 10.1016/j.expneurol.2026.115979
+**Entities:** ROS, oxidative stress, TBI, MBP  
+**Abstract:** Traumatic brain injury (TBI) evolves through time-dependent secondary injury, but whether seawater (SW) immersion merely amplifies pathology or reshapes the temporal trajectory of post-traumatic biolo...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
