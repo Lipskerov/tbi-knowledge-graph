@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-07T13:28:00.543179",
-  "n_papers": 4439,
+  "generated_at": "2026-09-08T09:01:26.931674",
+  "n_papers": 4442,
   "n_entities": 115,
   "n_edges": 699,
   "cluster_stats": {
     "aging_neuro": 1050,
-    "exosomal_rna": 374,
+    "exosomal_rna": 375,
     "gfap_uchl1": 438,
     "nfl_tau": 439,
     "nqo2": 378,
-    "ppcs_prognosis": 497,
+    "ppcs_prognosis": 499,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 463,
     "tbi_panel_poc": 247,
@@ -20,14 +20,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2323,
+      "paper_count": 2325,
       "centrality": 0.4474
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1459,
+      "paper_count": 1462,
       "centrality": 0.3509
     },
     {
@@ -97,7 +97,7 @@
       "id": 40,
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 308,
+      "paper_count": 309,
       "centrality": 0.1842
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 1035.0,
-      "n_papers": 1035.0,
+      "weight": 1037.0,
+      "n_papers": 1037.0,
       "annotation": null
     },
     {
@@ -1789,8 +1789,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 300.0,
-      "n_papers": 300.0,
+      "weight": 301.0,
+      "n_papers": 301.0,
       "annotation": null
     },
     {
@@ -1914,8 +1914,8 @@
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "tau",
+      "source": "TBI",
+      "target": "PPCS",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -1924,13 +1924,13 @@
       "annotation": null
     },
     {
-      "source": "TBI",
-      "target": "PPCS",
+      "source": "GFAP",
+      "target": "tau",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 202.0,
-      "n_papers": 202.0,
+      "weight": 203.0,
+      "n_papers": 203.0,
       "annotation": null
     },
     {

@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-07*
-*Total papers: 4439*
+*Generated: 2026-09-08*
+*Total papers: 4442*
 
 
 ## Cluster: aging_neuro
@@ -9590,6 +9590,13 @@
 **PMID:** 30226895  **DOI:** 10.1371/journal.pone.0204051
 **Entities:** TBI  
 **Abstract:** Traumatic brain injury (TBI) is associated with trauma-related death. In this study, we evaluated differences in the expression of plasma microRNAs (miRNAs) in patients with different degrees of TBI, ...
+
+### Study of Concussion in Rugby Union through MicroRNAs (SCRUM): a study protocol of a prospective, observational cohort study.
+**Authors:** Yakoub KM, O'Halloran P, Davies DJ, Bentley C, Watson CN et al.  
+**Journal:** BMJ open (2018)  
+**PMID:** 30478124  **DOI:** 10.1136/bmjopen-2018-024245
+**Entities:** mTBI, TBI  
+**Abstract:** INTRODUCTION: The diagnosis of mild traumatic brain injury or sports-related concussion is a challenge for all clinicians, players, coaches and parents involved in contact sports. Currently, there is ...
 
 ### MicroRNAs in Neurodegenerative Diseases.
 **Authors:** Quinlan S, Kenny A, Medina M, Engel T, Jimenez-Mateos EM  
@@ -21475,6 +21482,13 @@
 **Entities:** mTBI, PPCS  
 **Abstract:** OBJECT Sport-related concussion (SRC) is a major public health problem. Approximately 90% of SRCs in high school athletes are transient; symptoms recover to baseline within 1 week. However, a small pe...
 
+### A novel approach to classifying postconcussion symptoms: The application of a new framework to the Post-Concussion Symptom Scale.
+**Authors:** Merritt VC, Meyer JE, Arnett PA  
+**Journal:** Journal of clinical and experimental neuropsychology (2015)  
+**PMID:** 26241079  **DOI:** 10.1080/13803395.2015.1060950
+**Entities:** mTBI  
+**Abstract:** INTRODUCTION: Self-report measures such as the Post-Concussion Symptom Scale (PCSS) are frequently used during baseline and postconcussion testing to evaluate athletes' symptom profiles. However, the ...
+
 ### Violence-related mild traumatic brain injury in women: identifying a triad of postinjury disorders.
 **Authors:** Davis A  
 **Journal:** Journal of trauma nursing : the official journal of the Society of Trauma Nurses (2014)  
@@ -21901,6 +21915,13 @@
 **PMID:** 18329647  **DOI:** 10.1016/j.injury.2007.11.008
 **Entities:** S100B, mTBI, PPCS  
 **Abstract:** INTRODUCTION: mild head trauma (MHT) is defined as a transient neurological deficit after trauma with a history of impairment or loss of consciousness lasting less than 15 min and/or posttraumatic amn...
+
+### Mild traumatic brain injury does not predict acute postconcussion syndrome.
+**Authors:** Meares S, Shores EA, Taylor AJ, Batchelor J, Bryant RA et al.  
+**Journal:** Journal of neurology, neurosurgery, and psychiatry (2008)  
+**PMID:** 17702772  
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** BACKGROUND: The aetiology of postconcussion syndrome (PCS) following mild traumatic brain injury (mTBI) remains controversial. Identifying acute PCS (within the first 14 days after injury) may optimis...
 
 ### Controversies in the sequelae of pediatric mild traumatic brain injury.
 **Authors:** Lee LK  
