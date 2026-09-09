@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-08*
-*Total papers: 4442*
+*Generated: 2026-09-09*
+*Total papers: 4443*
 
 
 ## Cluster: aging_neuro
@@ -25767,6 +25767,13 @@
 **PMID:** 42699344  **DOI:** 10.7759/cureus.114013
 **Entities:** TBI  
 **Abstract:** Background Traumatic brain injury (TBI) is a major cause of morbidity and mortality worldwide, necessitating early identification of high-risk patients for timely management. Elevated intracranial pre...
+
+### Concordance Between Bedside and Electronic Detection of Intracranial Pressure Crises: Insights From the Brain Tissue Oxygen Monitoring and Management in Severe Traumatic Brain Injury II Trial.
+**Authors:** Chesnut RM, Temkin N, Barber J, Park C, Bonow RH et al.  
+**Journal:** Critical care medicine (2026)  
+**PMID:** 42302399  **DOI:** 10.1097/CCM.0000000000007223
+**Entities:** TBI  
+**Abstract:** OBJECTIVE: Traumatic brain injury (TBI) research and intracranial pressure (ICP) management depends on bedside ICP (B-ICP) crisis identification. We analyzed background-collected electronic ICP (E-ICP...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
