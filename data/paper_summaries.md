@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-09*
-*Total papers: 4443*
+*Generated: 2026-09-10*
+*Total papers: 4444*
 
 
 ## Cluster: aging_neuro
@@ -8134,6 +8134,13 @@
 **PMID:** 39128668  **DOI:** 10.1016/j.exer.2024.110031
 **Entities:** neuroinflammation, mTBI, TBI  
 **Abstract:** Our previous studies have shown the benefit of intravitreal injection of a mesenchymal stem cell (MSC)- derived secretome to treat visual deficits in a mild traumatic brain injury (mTBI) mouse model. ...
+
+### Serum microRNA profile of rhesus macaques following ionizing radiation exposure and treatment with a medical countermeasure, Ex-Rad.
+**Authors:** Russ E, Fatanmi OO, Wise SY, Carpenter AD, Maniar M et al.  
+**Journal:** Scientific reports (2024)  
+**PMID:** 38402257  **DOI:** 10.1038/s41598-024-54997-8
+**Entities:** TBI  
+**Abstract:** Exposure to ionizing radiation (IR) presents a formidable clinical challenge. Total-body or significant partial-body exposure at a high dose and dose rate leads to acute radiation syndrome (ARS), the ...
 
 ### Liquid Biopsy in Neurological Diseases.
 **Authors:** Malhotra S, Miras MCM, Pappolla A, Montalban X, Comabella M  

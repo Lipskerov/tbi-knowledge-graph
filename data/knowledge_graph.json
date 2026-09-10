@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T12:17:37.767626",
-  "n_papers": 4443,
+  "generated_at": "2026-09-10T12:12:02.230543",
+  "n_papers": 4444,
   "n_entities": 115,
   "n_edges": 699,
   "cluster_stats": {
     "aging_neuro": 1050,
-    "exosomal_rna": 375,
+    "exosomal_rna": 376,
     "gfap_uchl1": 438,
     "nfl_tau": 439,
     "nqo2": 378,
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2326,
+      "paper_count": 2327,
       "centrality": 0.4474
     },
     {
