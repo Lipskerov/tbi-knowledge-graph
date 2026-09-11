@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-10T12:12:02.230543",
-  "n_papers": 4444,
+  "generated_at": "2026-09-11T12:10:13.081311",
+  "n_papers": 4447,
   "n_entities": 115,
   "n_edges": 699,
   "cluster_stats": {
     "aging_neuro": 1050,
     "exosomal_rna": 376,
-    "gfap_uchl1": 438,
+    "gfap_uchl1": 439,
     "nfl_tau": 439,
     "nqo2": 378,
-    "ppcs_prognosis": 499,
+    "ppcs_prognosis": 500,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 463,
     "tbi_panel_poc": 248,
-    "tbi_proteomics": 548
+    "tbi_proteomics": 549
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2327,
+      "paper_count": 2329,
       "centrality": 0.4474
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1462,
+      "paper_count": 1463,
       "centrality": 0.3509
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 604,
+      "paper_count": 605,
       "centrality": 0.3158
     },
     {
@@ -76,14 +76,14 @@
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 337,
+      "paper_count": 338,
       "centrality": 0.386
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 318,
+      "paper_count": 319,
       "centrality": 0.3684
     },
     {
@@ -97,14 +97,14 @@
       "id": 40,
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 309,
+      "paper_count": 310,
       "centrality": 0.1842
     },
     {
       "id": 10,
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 282,
+      "paper_count": 283,
       "centrality": 0.2632
     },
     {
@@ -339,6 +339,13 @@
       "centrality": 0.0965
     },
     {
+      "id": 43,
+      "name": "i-STAT TBI",
+      "type": "drug",
+      "paper_count": 9,
+      "centrality": 0.0439
+    },
+    {
       "id": 116,
       "name": "4-HNE",
       "type": "metabolite",
@@ -351,13 +358,6 @@
       "type": "protein",
       "paper_count": 9,
       "centrality": 0.0526
-    },
-    {
-      "id": 43,
-      "name": "i-STAT TBI",
-      "type": "drug",
-      "paper_count": 8,
-      "centrality": 0.0439
     },
     {
       "id": 131,
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 496.0,
-      "n_papers": 496.0,
+      "weight": 497.0,
+      "n_papers": 497.0,
       "annotation": null
     },
     {
@@ -1789,8 +1789,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 301.0,
-      "n_papers": 301.0,
+      "weight": 302.0,
+      "n_papers": 302.0,
       "annotation": null
     },
     {
@@ -1799,8 +1799,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 296.0,
-      "n_papers": 296.0,
+      "weight": 297.0,
+      "n_papers": 297.0,
       "annotation": null
     },
     {
@@ -1829,23 +1829,23 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 256.0,
-      "n_papers": 256.0,
-      "annotation": null
-    },
-    {
-      "source": "TBI",
-      "target": "Alzheimer",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 246.0,
-      "n_papers": 246.0,
+      "weight": 257.0,
+      "n_papers": 257.0,
       "annotation": null
     },
     {
       "source": "GFAP",
       "target": "UCH-L1",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 247.0,
+      "n_papers": 247.0,
+      "annotation": null
+    },
+    {
+      "source": "TBI",
+      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2179,8 +2179,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 94.0,
-      "n_papers": 94.0,
+      "weight": 95.0,
+      "n_papers": 95.0,
       "annotation": null
     },
     {
@@ -2199,8 +2199,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 91.0,
-      "n_papers": 91.0,
+      "weight": 92.0,
+      "n_papers": 92.0,
       "annotation": null
     },
     {
@@ -4304,6 +4304,16 @@
       "annotation": null
     },
     {
+      "source": "TBI",
+      "target": "i-STAT TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 9.0,
+      "n_papers": 9.0,
+      "annotation": null
+    },
+    {
       "source": "neuroinflammation",
       "target": "Nrf2",
       "relation": "co-occurs",
@@ -4484,7 +4494,17 @@
       "annotation": null
     },
     {
-      "source": "TBI",
+      "source": "GFAP",
+      "target": "i-STAT TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 8.0,
+      "n_papers": 8.0,
+      "annotation": null
+    },
+    {
+      "source": "UCH-L1",
       "target": "i-STAT TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
@@ -4766,26 +4786,6 @@
     {
       "source": "Iba1",
       "target": "mTBI",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 7.0,
-      "n_papers": 7.0,
-      "annotation": null
-    },
-    {
-      "source": "GFAP",
-      "target": "i-STAT TBI",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 7.0,
-      "n_papers": 7.0,
-      "annotation": null
-    },
-    {
-      "source": "UCH-L1",
-      "target": "i-STAT TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

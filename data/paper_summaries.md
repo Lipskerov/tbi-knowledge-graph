@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-10*
-*Total papers: 4444*
+*Generated: 2026-09-11*
+*Total papers: 4447*
 
 
 ## Cluster: aging_neuro
@@ -10349,6 +10349,13 @@
 **PMID:** 42676354  **DOI:** 10.3389/fneur.2026.1876862
 **Entities:** GFAP, UCH-L1, S100B, NfL, TBI  
 **Abstract:** Traumatic brain injury (TBI) affects an estimated 69 million people each year and remains difficult to diagnose rapidly because conventional assessment relies heavily on neurological examination and c...
+
+### Comparability of GFAP and UCH-L1 Measurements Using Handheld and Core Laboratory TBI Plasma Tests and Their Diagnostic Performance for Traumatic Intracranial Lesions.
+**Authors:** Roberts NB, Gherasim C, Li K, Xie T, Falk H et al.  
+**Journal:** The journal of applied laboratory medicine (2026)  
+**PMID:** 42720066  **DOI:** 10.1093/jalm/jfag093
+**Entities:** GFAP, UCH-L1, TBI, i-STAT TBI  
+**Abstract:** BACKGROUND: Glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) are cleared by the U.S. Food and Drug Administration (FDA) to aid computed tomography (CT) decis...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -21307,6 +21314,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** OBJECTIVE: To identify prognostic markers associated with poor recovery from mild traumatic brain injury (MTBI) in older adults. SETTING: Three Ontario emergency departments. PARTICIPANTS: Forty-nine ...
 
+### Clinical Risk Score for Persistent Postconcussion Symptoms Among Children With Acute Concussion in the ED.
+**Authors:** Zemek R, Barrowman N, Freedman SB, Gravel J, Gagnon I et al.  
+**Journal:** JAMA (2016)  
+**PMID:** 26954410  **DOI:** 10.1001/jama.2016.1203
+**Entities:** mTBI, PPCS  
+**Abstract:** IMPORTANCE: Approximately one-third of children experiencing acute concussion experience ongoing somatic, cognitive, and psychological or behavioral symptoms, referred to as persistent postconcussion ...
+
 ### Physiological, vestibulo-ocular and cervicogenic post-concussion disorders: an evidence-based classification system with directions for treatment.
 **Authors:** Ellis MJ, Leddy JJ, Willer B  
 **Journal:** Brain injury (2015)  
@@ -27933,6 +27947,13 @@
 **PMID:** 42700807  **DOI:** 10.1016/j.ejps.2026.107651
 **Entities:** ROS, IL-1β, neuroinflammation, oxidative stress, TBI  
 **Abstract:** Traumatic brain injury (TBI) induces secondary neuroinflammation driven by oxidative stress, inflammasome activation, and immune remodeling, yet specific mechanism-guided pharmacological interventions...
+
+### Pyrroloquinoline Quinone Attenuates Traumatic Brain Injury-Induced Secondary Damage by Activating PINK1/Parkin-Mediated Mitophagy and Suppressing ASS1/CPS1-Driven Arginine Biosynthesis.
+**Authors:** He Y, Yu L, Lu Y, Zhou Z, Li A et al.  
+**Journal:** CNS neuroscience & therapeutics (2026)  
+**PMID:** 42717556  **DOI:** 10.1002/cns.71146
+**Entities:** ROS, oxidative stress, TBI  
+**Abstract:** AIMS: Pyrroloquinoline quinone (PQQ) was reported to be neuroprotective after experimental traumatic brain injury (TBI), but its mechanisms remain undefined. We tested whether PQQ protects against TBI...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
