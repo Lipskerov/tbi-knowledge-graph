@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-11*
-*Total papers: 4447*
+*Generated: 2026-09-13*
+*Total papers: 4453*
 
 
 ## Cluster: aging_neuro
@@ -14378,6 +14378,20 @@
 **Entities:** NfL, mTBI  
 **Abstract:** BACKGROUND: Artificial turf fields and environmental conditions may influence sports concussion risk, but existing research is limited by uncontrolled confounding factors, limited sample size, and the...
 
+### A dominance analysis of subjective cognitive complaint comorbidities in former professional football players with and without mild cognitive impairment.
+**Authors:** Brett BL, Kerr ZY, Chandran A, Walton S, Aggarwal NT et al.  
+**Journal:** Journal of the International Neuropsychological Society : JINS (2023)  
+**PMID:** 36039970  **DOI:** 10.1017/S135561772200056X
+**Entities:** NfL, mTBI  
+**Abstract:** OBJECTIVES: Subjective cognitive difficulties (SCDs) are associated with factors commonly reported in older adults and former contact sport athletes, regardless of objective cognitive decline. We inve...
+
+### Relating American Football Age of First Exposure to Patient-Reported Outcomes and Medical Diagnoses Among Former National Football League Players: An NFL-LONG study.
+**Authors:** Lempke LB, Walton SR, Brett BL, Chandran A, DeFreese JD et al.  
+**Journal:** Sports medicine (Auckland, N.Z.) (2023)  
+**PMID:** 36479682  **DOI:** 10.1007/s40279-022-01795-9
+**Entities:** NfL, mTBI, Alzheimer  
+**Abstract:** BACKGROUND: The age of first exposure (AFE) to American football participation is a growing concern for late-life function. Mixed evidence exists surrounding AFE and may be attributed to varied method...
+
 ### Neurofilaments in neurologic disorders and beyond.
 **Authors:** Mak G, Menon S, Lu JQ  
 **Journal:** Journal of the neurological sciences (2022)  
@@ -15763,6 +15777,13 @@
 **PMID:** 27779341  **DOI:** 10.1002/nbm.3627
 **Entities:** mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) is the most common form of TBI (70-90%) with consequences of anxiety-like behavioral alterations in approximately 23% of mTBI cases. This study aimed to assess wheth...
+
+### Effect of Docosahexaenoic Acid on a Biomarker of Head Trauma in American Football.
+**Authors:** Oliver JM, Jones MT, Kirk KM, Gable DA, Repshas JT et al.  
+**Journal:** Medicine and science in sports and exercise (2016)  
+**PMID:** 26765633  **DOI:** 10.1249/MSS.0000000000000875
+**Entities:** NfL, TBI  
+**Abstract:** PURPOSE: American football athletes are exposed to subconcussive impacts over the course of the season resulting in elevations in serum neurofilament light (NFL), a biomarker of axonal injury. Docosah...
 
 ### Neurodegeneration and sport.
 **Authors:** Davis GA, Castellani RJ, McCrory P  
@@ -18982,6 +19003,13 @@
 **PMID:** 41920292  **DOI:** 10.1007/s40279-026-02421-8
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** BACKGROUND: Persistent postconcussive symptoms (PPCS) are associated with prolonged functional impairment and physiological dysregulation following mild traumatic brain injury, yet objective markers o...
+
+### Impact of IV metoclopramide + diphenhydramine on post-concussion symptoms. A secondary analysis of data from an ED-based randomized study.
+**Authors:** Cao V, Strassman E, Chertoff A, Cortijo-Brown A, McGregor M et al.  
+**Journal:** Headache (2026)  
+**PMID:** 42260920  **DOI:** 10.1111/head.70119
+**Entities:** mTBI, PPCS  
+**Abstract:** BACKGROUND: In a randomized, placebo-controlled study, intravenous metoclopramide 20 mg + diphenhydramine 25 mg (M+D) improved post-concussion symptoms 1 h later among patients seeking care in an emer...
 
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
@@ -27954,6 +27982,20 @@
 **PMID:** 42717556  **DOI:** 10.1002/cns.71146
 **Entities:** ROS, oxidative stress, TBI  
 **Abstract:** AIMS: Pyrroloquinoline quinone (PQQ) was reported to be neuroprotective after experimental traumatic brain injury (TBI), but its mechanisms remain undefined. We tested whether PQQ protects against TBI...
+
+### Post-Translational Modifications in Traumatic Brain Injury: Decoding the Proteomic Landscape and Molecular Mechanisms of Secondary Injury.
+**Authors:** Shen P, Li L, Zhang Z, Zong L  
+**Journal:** FASEB journal : official publication of the Federation of American Societies for Experimental Biology (2026)  
+**PMID:** 42731085  **DOI:** 10.1096/fj.202602218RR
+**Entities:** neuroinflammation, BBB, TBI, resveratrol  
+**Abstract:** Traumatic brain injury (TBI) initiates a complex secondary injury cascade that significantly contributes to long-term neurological deficits, with post-translational modifications (PTMs) emerging as pi...
+
+### Post-translational modifications in Neuroimmune cells during neuroinflammation: integrated regulatory networks and therapeutic opportunities.
+**Authors:** Li W, Liu Y, Zhang H, Zhang H, Shao W et al.  
+**Journal:** Biology direct (2026)  
+**PMID:** 42728596  **DOI:** 10.1186/s13062-026-00974-2
+**Entities:** neuroinflammation, BBB, TBI  
+**Abstract:** Neuroinflammation represents a common pathological mechanism underlying a wide range of central nervous system (CNS) disorders, encompassing neurodegenerative disorders (NDDs), ischemic stroke (IS), t...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  

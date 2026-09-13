@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 4447,
+  "n_papers": 4453,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -454,6 +454,14 @@
         "entities": "mTBI, PPCS"
       },
       {
+        "pmid": "42260920",
+        "title": "Impact of IV metoclopramide + diphenhydramine on post-concussion symptoms. A secondary analysis of data from an ED-based randomized study.",
+        "authors": "Cao V, Strassman E, Chertoff A, Cortijo-Brown A, McGregor M et al.",
+        "year": 2026,
+        "journal": "Headache",
+        "entities": "mTBI, PPCS"
+      },
+      {
         "pmid": "42191347",
         "title": "Multimodal symptom-targeted treatment for young people with persisting post-concussion symptoms: a randomised clinical trial.",
         "authors": "Anderson V, Davies K, Rausa VC, Anderson N, Barlow KM et al.",
@@ -492,14 +500,6 @@
         "year": 2026,
         "journal": "Brain injury",
         "entities": "mTBI, PPCS"
-      },
-      {
-        "pmid": "42003267",
-        "title": "Effects of cognitive-vocational rehabilitation on post-concussion symptoms and emotional distress: a secondary RCT analysis.",
-        "authors": "Andelic N, Lu J, Fure SCR, Brunborg C, L\u00f8vstad M et al.",
-        "year": 2026,
-        "journal": "Brain injury",
-        "entities": "tau, mTBI, TBI, PPCS"
       }
     ],
     "qr2_inhibitors": [
@@ -710,6 +710,22 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42731085",
+        "title": "Post-Translational Modifications in Traumatic Brain Injury: Decoding the Proteomic Landscape and Molecular Mechanisms of Secondary Injury.",
+        "authors": "Shen P, Li L, Zhang Z, Zong L",
+        "year": 2026,
+        "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+        "entities": "neuroinflammation, BBB, TBI, resveratrol"
+      },
+      {
+        "pmid": "42728596",
+        "title": "Post-translational modifications in Neuroimmune cells during neuroinflammation: integrated regulatory networks and therapeutic opportunities.",
+        "authors": "Li W, Liu Y, Zhang H, Zhang H, Shao W et al.",
+        "year": 2026,
+        "journal": "Biology direct",
+        "entities": "neuroinflammation, BBB, TBI"
+      },
+      {
         "pmid": "42717556",
         "title": "Pyrroloquinoline Quinone Attenuates Traumatic Brain Injury-Induced Secondary Damage by Activating PINK1/Parkin-Mediated Mitophagy and Suppressing ASS1/CPS1-Driven Arginine Biosynthesis.",
         "authors": "He Y, Yu L, Lu Y, Zhou Z, Li A et al.",
@@ -772,22 +788,6 @@
         "year": 2026,
         "journal": "Analytica chimica acta",
         "entities": "neuroinflammation, TBI"
-      },
-      {
-        "pmid": "42617790",
-        "title": "Multi-omics integration identifies VIM and LGALS3 as apoptosis-associated genes in astrocytes after traumatic brain injury.",
-        "authors": "Wang B, Wang Y, Cao W, Wang P, Yang X et al.",
-        "year": 2026,
-        "journal": "Neuroscience",
-        "entities": "GFAP, TBI"
-      },
-      {
-        "pmid": "42600764",
-        "title": "Seawater immersion reshapes the temporal dynamics of traumatic brain injury and reveals mitochondrial oxidative stress as a modifiable therapeutic target.",
-        "authors": "Li W, He R, Xie S, Li M, Liu J et al.",
-        "year": 2026,
-        "journal": "Experimental neurology",
-        "entities": "ROS, oxidative stress, TBI, MBP"
       }
     ]
   },
@@ -795,17 +795,17 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2329
+      "paper_count": 2332
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1463
+      "paper_count": 1466
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 964
+      "paper_count": 965
     },
     {
       "name": "aging",
@@ -825,12 +825,12 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 468
+      "paper_count": 470
     },
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 429
+      "paper_count": 432
     },
     {
       "name": "ROS",
@@ -850,7 +850,7 @@
     {
       "name": "PPCS",
       "type": "disease",
-      "paper_count": 310
+      "paper_count": 311
     },
     {
       "name": "UCH-L1",
@@ -865,7 +865,7 @@
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 196
+      "paper_count": 198
     },
     {
       "name": "p-tau",
@@ -962,7 +962,7 @@
     {
       "source": "mTBI",
       "target": "PPCS",
-      "weight": 302.0
+      "weight": 303.0
     },
     {
       "source": "ROS",
@@ -1002,7 +1002,7 @@
     {
       "source": "NfL",
       "target": "TBI",
-      "weight": 242.0
+      "weight": 243.0
     },
     {
       "source": "GFAP",
@@ -1012,7 +1012,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 219.0
+      "weight": 221.0
     },
     {
       "source": "NfL",
@@ -1052,7 +1052,7 @@
     {
       "source": "NfL",
       "target": "mTBI",
-      "weight": 177.0
+      "weight": 179.0
     },
     {
       "source": "ROS",
@@ -1070,6 +1070,11 @@
       "weight": 152.0
     },
     {
+      "source": "NfL",
+      "target": "Alzheimer",
+      "weight": 147.0
+    },
+    {
       "source": "tau",
       "target": "p-tau",
       "weight": 147.0
@@ -1080,11 +1085,6 @@
       "weight": 146.0
     },
     {
-      "source": "NfL",
-      "target": "Alzheimer",
-      "weight": 146.0
-    },
-    {
       "source": "UCH-L1",
       "target": "mTBI",
       "weight": 137.0
@@ -1092,7 +1092,7 @@
     {
       "source": "BBB",
       "target": "TBI",
-      "weight": 129.0
+      "weight": 131.0
     },
     {
       "source": "S100B",
@@ -1132,7 +1132,7 @@
     {
       "source": "mTBI",
       "target": "Alzheimer",
-      "weight": 103.0
+      "weight": 104.0
     },
     {
       "source": "UCH-L1",
