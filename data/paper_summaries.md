@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-13*
-*Total papers: 4453*
+*Generated: 2026-09-14*
+*Total papers: 4455*
 
 
 ## Cluster: aging_neuro
@@ -1033,6 +1033,13 @@
 **PMID:** 42564605  **DOI:** 10.1002/dad2.70437
 **Entities:** tau, Alzheimer, aging  
 **Abstract:** INTRODUCTION: Dementia prevalence is rising with population aging, disproportionately affecting females and ethnically diverse groups. Physical activity (PA) may mitigate age-related cognitive and bra...
+
+### Health-related factors and their impact on blood-based biomarkers of Alzheimer's disease.
+**Authors:** Kurz C, Taute M, Tegethoff P, Hufnagel A, Leonhardt S et al.  
+**Journal:** Aging brain (2026)  
+**PMID:** 42733904  **DOI:** 10.1016/j.nbas.2026.100166
+**Entities:** GFAP, NfL, p-tau, Alzheimer, aging  
+**Abstract:** BACKGROUND: Health-related factors may influence blood-based biomarkers (BBBM) of Alzheimer's disease (AD). In this analysis, associations between modifiable factors and plasma biomarkers of neurodege...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -7560,6 +7567,13 @@
 **PMID:** 41893300  **DOI:** 10.3390/metabo16030148
 **Entities:** BBB, TBI, Alzheimer  
 **Abstract:** Small extracellular vesicles (sEVs; commonly referred to as "exosomes" in many studies) are nanoscopic messengers released by healthy and diseased cells that mediate intercellular communication by tra...
+
+### Astragalus membranaceus-derived exosomes alleviate traumatic brain injury by inhibiting SERPINE1/HIF-1α/NLRP3-mediated pyroptosis.
+**Authors:** Lyu J, Sun P, Liao Z, Li C  
+**Journal:** Behavioural brain research (2026)  
+**PMID:** 42716132  **DOI:** 10.1016/j.bbr.2026.116467
+**Entities:** IL-1β, BBB, TBI  
+**Abstract:** OBJECTIVE: Pyroptosis is recognized as a critical contributor to the secondary injury following traumatic brain injury (TBI), and its inhibition has been shown to preserve neuronal integrity and impro...
 
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
