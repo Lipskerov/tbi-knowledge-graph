@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-14*
-*Total papers: 4455*
+*Generated: 2026-09-15*
+*Total papers: 4457*
 
 
 ## Cluster: aging_neuro
@@ -13258,6 +13258,13 @@
 **Entities:** tau, mTBI  
 **Abstract:** The aim of this study is to determine if there is a difference in tau and amyloid beta (Aβ) deposition on positron emission tomography (PET) scans between former players and controls, and if there is ...
 
+### Research Progress of Traumatic Brain Injury and Its Related Markers.
+**Authors:** Zhou Y, Lu X, Bu Z, Wang K, Yang P et al.  
+**Journal:** Clinical laboratory (2026)  
+**PMID:** 42733982  **DOI:** 10.7754/Clin.Lab.2025.250960
+**Entities:** GFAP, UCH-L1, NfL, tau, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) represents a leading global cause of mortality and disability, imposing substantial economic burdens on societies worldwide. Recent advances in molecular biolo...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -20459,6 +20466,13 @@
 **PMID:** 32926117  **DOI:** 10.1001/jamanetworkopen.2020.17337
 **Entities:** mTBI, TBI  
 **Abstract:** IMPORTANCE: Preclinical studies have shown that transcranial near-infrared low-level light therapy (LLLT) administered after traumatic brain injury (TBI) confers a neuroprotective response. OBJECTIVES...
+
+### A randomized pilot trial of topiramate for alcohol use disorder in veterans with traumatic brain injury: Effects on alcohol use, cognition, and post-concussive symptoms.
+**Authors:** Pennington DL, Bielenberg J, Lasher B, Herbst E, Abrams G et al.  
+**Journal:** Drug and alcohol dependence (2020)  
+**PMID:** 32712569  **DOI:** 10.1016/j.drugalcdep.2020.108149
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Topiramate is an effective treatment for alcohol use disorder (AUD) and has also been used in the care of mild traumatic brain injury (mTBI). This pilot study aimed to obtain a preliminary...
 
 ### Behavioral Therapies and Mind-Body Interventions for Posttraumatic Headache and Post-Concussive Symptoms: A Systematic Review.
 **Authors:** Minen M, Jinich S, Vallespir Ellett G  
