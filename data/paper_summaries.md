@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-15*
-*Total papers: 4457*
+*Generated: 2026-09-17*
+*Total papers: 4459*
 
 
 ## Cluster: aging_neuro
@@ -10370,6 +10370,13 @@
 **PMID:** 42720066  **DOI:** 10.1093/jalm/jfag093
 **Entities:** GFAP, UCH-L1, TBI, i-STAT TBI  
 **Abstract:** BACKGROUND: Glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) are cleared by the U.S. Food and Drug Administration (FDA) to aid computed tomography (CT) decis...
+
+### Whole-blood point-of-care glial fibrillary acidic protein and ubiquitin C-terminal hydrolase L1 biomarkers after traumatic brain injury in the US: a prospective diagnostic prediction of intracranial injury on head CT.
+**Authors:** Puccio AM, McCrea MA, Okonkwo DO, Pradhan-Bhatt S, Curley K et al.  
+**Journal:** Lancet regional health. Americas (2026)  
+**PMID:** 42746312  **DOI:** 10.1016/j.lana.2026.101539
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** BACKGROUND: Biomarkers like glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) are being globally recommended as a valuable component in the evaluation of acut...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -25851,6 +25858,13 @@
 **PMID:** 42302399  **DOI:** 10.1097/CCM.0000000000007223
 **Entities:** TBI  
 **Abstract:** OBJECTIVE: Traumatic brain injury (TBI) research and intracranial pressure (ICP) management depends on bedside ICP (B-ICP) crisis identification. We analyzed background-collected electronic ICP (E-ICP...
+
+### Whole-blood point of care biomarker testing following traumatic brain injury.
+**Authors:** Whitehouse DP, Richter S, Newcombe VFJ  
+**Journal:** Lancet regional health. Americas (2026)  
+**PMID:** 42746292  **DOI:** 10.1016/j.lana.2026.101554
+**Entities:** —  
+**Abstract:** 
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
