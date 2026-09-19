@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 4459,
+  "n_papers": 4461,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -340,6 +340,14 @@
     ],
     "nqo2": [
       {
+        "pmid": "42756821",
+        "title": "Integrative multi-omics analysis prioritizes compartment-specific candidate targets of gut microbiota metabolites in diabetic kidney disease.",
+        "authors": "Xie F, He X, Chen W, Li J, Lin S et al.",
+        "year": 2026,
+        "journal": "Frontiers in immunology",
+        "entities": "NQO2"
+      },
+      {
         "pmid": "42617972",
         "title": "The \u03b2-Carboline Derivative Carbacetam Attenuates Mortality and Neuroendocrine Dysfunction in a Rodent Model of Traumatic Brain Injury: A Multi-Target Pharmacological and Molecular Docking Study.",
         "authors": "Yevstifeiev DI, Ziablitsev SV, Aleksandrenko NO, Bohza SL, Bilson MY et al.",
@@ -410,14 +418,6 @@
         "year": 2026,
         "journal": "bioRxiv : the preprint server for biology",
         "entities": "NQO2"
-      },
-      {
-        "pmid": "41884841",
-        "title": "Comprehensive methylome and transcriptome profiling reveals specific biomarkers for bovine viral diarrhea virus persistent infection in calves.",
-        "authors": "Wang J, Chen S, Lai W, Feng X, Zhao Q et al.",
-        "year": 2026,
-        "journal": "Frontiers in immunology",
-        "entities": "NQO2, IL-1\u03b2"
       }
     ],
     "ppcs_prognosis": [
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42759178",
+        "title": "PDE5 inhibition restores mitochondrial function and improves neurobehavioral outcomes after repeated mild blast TBI.",
+        "authors": "Kilgore MO, Ye S, Oyelami F, Alareidi A, Gard J et al.",
+        "year": 2026,
+        "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+        "entities": "mTBI, TBI"
+      },
+      {
         "pmid": "42731085",
         "title": "Post-Translational Modifications in Traumatic Brain Injury: Decoding the Proteomic Landscape and Molecular Mechanisms of Secondary Injury.",
         "authors": "Shen P, Li L, Zhang Z, Zong L",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "Ageing research reviews",
         "entities": "ROS, neuroinflammation, oxidative stress, BBB, TBI, Alzheimer, aging"
-      },
-      {
-        "pmid": "42648802",
-        "title": "Advanced glycomics approach for characterization of IgG glycan alterations and immune modulation in traumatic brain injury.",
-        "authors": "Onigbinde S, Solomon J, Sandilya V, Daramola O, Fowowe M et al.",
-        "year": 2026,
-        "journal": "Analytica chimica acta",
-        "entities": "neuroinflammation, TBI"
       }
     ]
   },
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2336
+      "paper_count": 2337
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 1467
+      "paper_count": 1468
     },
     {
       "name": "Alzheimer",
@@ -845,7 +845,7 @@
     {
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 314
+      "paper_count": 315
     },
     {
       "name": "PPCS",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 1038.0
+      "weight": 1039.0
     },
     {
       "source": "Alzheimer",

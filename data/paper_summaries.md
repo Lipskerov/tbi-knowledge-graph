@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-17*
-*Total papers: 4459*
+*Generated: 2026-09-19*
+*Total papers: 4461*
 
 
 ## Cluster: aging_neuro
@@ -16306,6 +16306,13 @@
 **Entities:** NQO2, TBI  
 **Abstract:** Carbacetam is a synthetic β-carboline with clinical neuroprotective potential whose primary targets include quinone reductase 2 (QR2), neuronal L-type calcium channels (Cav1.2), DYRK1A kinase, and the...
 
+### Integrative multi-omics analysis prioritizes compartment-specific candidate targets of gut microbiota metabolites in diabetic kidney disease.
+**Authors:** Xie F, He X, Chen W, Li J, Lin S et al.  
+**Journal:** Frontiers in immunology (2026)  
+**PMID:** 42756821  **DOI:** 10.3389/fimmu.2026.1925910
+**Entities:** NQO2  
+**Abstract:** OBJECTIVE: The gut-kidney axis has emerged as a critical area of investigation. However, the compartment-specific regulatory mechanisms of gut microbiota metabolites within the glomerular and tubuloin...
+
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
 **Journal:** The Biochemical journal (2025)  
@@ -28038,6 +28045,13 @@
 **PMID:** 42728596  **DOI:** 10.1186/s13062-026-00974-2
 **Entities:** neuroinflammation, BBB, TBI  
 **Abstract:** Neuroinflammation represents a common pathological mechanism underlying a wide range of central nervous system (CNS) disorders, encompassing neurodegenerative disorders (NDDs), ischemic stroke (IS), t...
+
+### PDE5 inhibition restores mitochondrial function and improves neurobehavioral outcomes after repeated mild blast TBI.
+**Authors:** Kilgore MO, Ye S, Oyelami F, Alareidi A, Gard J et al.  
+**Journal:** Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics (2026)  
+**PMID:** 42759178  **DOI:** 10.1016/j.neurot.2026.e01076
+**Entities:** mTBI, TBI  
+**Abstract:** Repeated mild traumatic brain injury (rmbTBI) is associated with persistent neurological deficits in military personnel arising from secondary cerebrovascular and metabolic impairments. Critically, th...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
