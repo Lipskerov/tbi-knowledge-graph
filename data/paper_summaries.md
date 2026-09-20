@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-19*
-*Total papers: 4461*
+*Generated: 2026-09-20*
+*Total papers: 4462*
 
 
 ## Cluster: aging_neuro
@@ -10377,6 +10377,13 @@
 **PMID:** 42746312  **DOI:** 10.1016/j.lana.2026.101539
 **Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** BACKGROUND: Biomarkers like glial fibrillary acidic protein (GFAP) and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) are being globally recommended as a valuable component in the evaluation of acut...
+
+### Repeated impacts induce acute neurobehavioral and molecular deficits in a mouse model of traumatic brain injury.
+**Authors:** McDonald BZ, Gee CC, Tarudji AW, Curtis ET, Kievit FM  
+**Journal:** Experimental brain research (2026)  
+**PMID:** 42762327  **DOI:** 10.1007/s00221-026-07399-3
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** Redox stress is a significant contributor to the molecular dysfunction associated with traumatic brain injury (TBI). Each of the canonical molecular biomarkers of TBI, including GFAP and UCHL1, demons...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  

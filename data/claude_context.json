@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 4461,
+  "n_papers": 4462,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -192,6 +192,14 @@
         "entities": "TBI, dopamine"
       },
       {
+        "pmid": "42762327",
+        "title": "Repeated impacts induce acute neurobehavioral and molecular deficits in a mouse model of traumatic brain injury.",
+        "authors": "McDonald BZ, Gee CC, Tarudji AW, Curtis ET, Kievit FM",
+        "year": 2026,
+        "journal": "Experimental brain research",
+        "entities": "GFAP, UCH-L1, TBI"
+      },
+      {
         "pmid": "42746312",
         "title": "Whole-blood point-of-care glial fibrillary acidic protein and ubiquitin C-terminal hydrolase L1 biomarkers after traumatic brain injury in the US: a prospective diagnostic prediction of intracranial injury on head CT.",
         "authors": "Puccio AM, McCrea MA, Okonkwo DO, Pradhan-Bhatt S, Curley K et al.",
@@ -245,14 +253,6 @@
         "authors": "Laovanantaphun K, Musikatavorn K, Bunyaratavej K",
         "year": 2026,
         "journal": "Asian journal of neurosurgery",
-        "entities": "GFAP, UCH-L1, mTBI, TBI"
-      },
-      {
-        "pmid": "42475131",
-        "title": "[Mild Traumatic Brain Injury: National Consensus Clinical Recommendations].",
-        "authors": "Ferreira F, Lopes A, Freitas C, Domingues C, Silva H et al.",
-        "year": 2026,
-        "journal": "Acta medica portuguesa",
         "entities": "GFAP, UCH-L1, mTBI, TBI"
       }
     ],
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2337
+      "paper_count": 2338
     },
     {
       "name": "mTBI",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 608
+      "paper_count": 609
     },
     {
       "name": "tau",
@@ -855,7 +855,7 @@
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 285
+      "paper_count": 286
     },
     {
       "name": "S100B",
@@ -957,7 +957,7 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 499.0
+      "weight": 500.0
     },
     {
       "source": "mTBI",
@@ -982,12 +982,12 @@
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 259.0
+      "weight": 260.0
     },
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 249.0
+      "weight": 250.0
     },
     {
       "source": "TBI",
