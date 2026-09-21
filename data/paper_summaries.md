@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-20*
-*Total papers: 4462*
+*Generated: 2026-09-21*
+*Total papers: 4465*
 
 
 ## Cluster: aging_neuro
@@ -1040,6 +1040,13 @@
 **PMID:** 42733904  **DOI:** 10.1016/j.nbas.2026.100166
 **Entities:** GFAP, NfL, p-tau, Alzheimer, aging  
 **Abstract:** BACKGROUND: Health-related factors may influence blood-based biomarkers (BBBM) of Alzheimer's disease (AD). In this analysis, associations between modifiable factors and plasma biomarkers of neurodege...
+
+### DTI-ALPS as a Biomarker of Small Vessel Disease Progression and Amyloid-β in Normal Aging: A 3-Year Longitudinal Study.
+**Authors:** Azizi N, Borooghani H, Kiani I, Gharaylou Z, Seyedi D et al.  
+**Journal:** Human brain mapping (2026)  
+**PMID:** 42764474  **DOI:** 10.1002/hbm.70649
+**Entities:** aging  
+**Abstract:** Cerebral small vessel disease (SVD) is a leading cause of stroke, vascular cognitive impairment, and functional decline in older adults. Emerging experimental and translational data implicate glymphat...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -13002,6 +13009,13 @@
 **PMID:** 20736881  **DOI:** 10.1203/PDR.0b013e3181f85a03
 **Entities:** UCH-L1, NfH, TBI  
 **Abstract:** Severe hypoxic-ischemic encephalopathy (HIE) is a devastating condition that can lead to mortality and long-term disabilities in term newborns. No rapid and reliable laboratory test exists to assess t...
+
+### Regulated expression of pancreatic triglyceride lipase after rat traumatic brain injury.
+**Authors:** Jia J, Yan M, Lu Z, Sun M, He J et al.  
+**Journal:** Molecular and cellular biochemistry (2010)  
+**PMID:** 19760487  **DOI:** 10.1007/s11010-009-0249-4
+**Entities:** GFAP, TBI  
+**Abstract:** Pancreatic triglyceride lipase (PTL), an enzyme of digestive system, plays very important roles in the digestion and absorption of lipids. However, its distribution and function in the central nervous...
 
 ### Glial fibrillary acidic protein is highly correlated with brain injury.
 **Authors:** Lumpkins KM, Bochicchio GV, Keledjian K, Simard JM, McCunn M et al.  
@@ -25879,6 +25893,13 @@
 **PMID:** 42746292  **DOI:** 10.1016/j.lana.2026.101554
 **Entities:** —  
 **Abstract:** 
+
+### CRISPR-AMPED: A CRISPR/Cas-based immunoassay with attomolar sensitivity enabled by magnetic proximity extension and detection.
+**Authors:** Shao F, Hu J, Traylor A, Lei H, Zhang P et al.  
+**Journal:** Biosensors & bioelectronics (2026)  
+**PMID:** 42764010  **DOI:** 10.1016/j.bios.2026.119227
+**Entities:** TBI, Alzheimer, Olink  
+**Abstract:** Clustered regularly interspaced short palindromic repeats (CRISPR)/Cas-associated systems have emerged as powerful tools for next-generation molecular diagnostics, particularly for nucleic acid detect...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-20T12:13:29.123500",
-  "n_papers": 4462,
+  "generated_at": "2026-09-21T13:54:03.436548",
+  "n_papers": 4465,
   "n_entities": 115,
   "n_edges": 699,
   "cluster_stats": {
-    "aging_neuro": 1051,
+    "aging_neuro": 1052,
     "exosomal_rna": 377,
-    "gfap_uchl1": 441,
+    "gfap_uchl1": 442,
     "nfl_tau": 443,
     "nqo2": 379,
     "ppcs_prognosis": 502,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 463,
-    "tbi_panel_poc": 249,
+    "tbi_panel_poc": 250,
     "tbi_proteomics": 552
   },
   "nodes": [
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2338,
+      "paper_count": 2340,
       "centrality": 0.4474
     },
     {
@@ -34,21 +34,21 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 967,
+      "paper_count": 968,
       "centrality": 0.4123
     },
     {
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 924,
+      "paper_count": 925,
       "centrality": 0.3333
     },
     {
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 609,
+      "paper_count": 610,
       "centrality": 0.3158
     },
     {
@@ -311,18 +311,18 @@
       "centrality": 0.1316
     },
     {
+      "id": 45,
+      "name": "Olink",
+      "type": "drug",
+      "paper_count": 14,
+      "centrality": 0.1053
+    },
+    {
       "id": 104,
       "name": "cAMP",
       "type": "metabolite",
       "paper_count": 14,
       "centrality": 0.0965
-    },
-    {
-      "id": 45,
-      "name": "Olink",
-      "type": "drug",
-      "paper_count": 13,
-      "centrality": 0.1053
     },
     {
       "id": 112,
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 500.0,
-      "n_papers": 500.0,
+      "weight": 501.0,
+      "n_papers": 501.0,
       "annotation": null
     },
     {
@@ -1849,8 +1849,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 247.0,
-      "n_papers": 247.0,
+      "weight": 248.0,
+      "n_papers": 248.0,
       "annotation": null
     },
     {
@@ -4114,6 +4114,16 @@
       "annotation": null
     },
     {
+      "source": "TBI",
+      "target": "Olink",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 10.0,
+      "n_papers": 10.0,
+      "annotation": null
+    },
+    {
       "source": "UCH-L1",
       "target": "neuroinflammation",
       "relation": "co-occurs",
@@ -4266,16 +4276,6 @@
     {
       "source": "UCH-L1",
       "target": "Quanterix",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 9.0,
-      "n_papers": 9.0,
-      "annotation": null
-    },
-    {
-      "source": "TBI",
-      "target": "Olink",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
