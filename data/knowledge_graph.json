@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T13:54:03.436548",
-  "n_papers": 4465,
+  "generated_at": "2026-09-22T12:32:32.708607",
+  "n_papers": 4467,
   "n_entities": 115,
   "n_edges": 699,
   "cluster_stats": {
     "aging_neuro": 1052,
     "exosomal_rna": 377,
-    "gfap_uchl1": 442,
+    "gfap_uchl1": 444,
     "nfl_tau": 443,
     "nqo2": 379,
     "ppcs_prognosis": 502,
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 2340,
+      "paper_count": 2342,
       "centrality": 0.4474
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 610,
+      "paper_count": 612,
       "centrality": 0.3158
     },
     {
@@ -111,7 +111,7 @@
       "id": 11,
       "name": "S100B",
       "type": "protein",
-      "paper_count": 223,
+      "paper_count": 225,
       "centrality": 0.2632
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 501.0,
-      "n_papers": 501.0,
+      "weight": 503.0,
+      "n_papers": 503.0,
       "annotation": null
     },
     {
@@ -1944,8 +1944,8 @@
       "annotation": null
     },
     {
-      "source": "tau",
-      "target": "mTBI",
+      "source": "S100B",
+      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -1954,13 +1954,13 @@
       "annotation": null
     },
     {
-      "source": "S100B",
-      "target": "TBI",
+      "source": "tau",
+      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 197.0,
-      "n_papers": 197.0,
+      "weight": 199.0,
+      "n_papers": 199.0,
       "annotation": null
     },
     {
@@ -1989,8 +1989,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 153.0,
-      "n_papers": 153.0,
+      "weight": 155.0,
+      "n_papers": 155.0,
       "annotation": null
     },
     {

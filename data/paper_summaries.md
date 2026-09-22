@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-21*
-*Total papers: 4465*
+*Generated: 2026-09-22*
+*Total papers: 4467*
 
 
 ## Cluster: aging_neuro
@@ -12310,6 +12310,13 @@
 **Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** Glial fibrillary acidic protein (GFAP), ubiquitin carboxy-terminal hydrolase-L1 (UCH-L1), and matrix metalloproteinase 9 (MMP-9) are potential biomarkers of traumatic brain injury (TBI) but also of se...
 
+### A randomized controlled trial on the efficacy, safety, and pharmacokinetics of metformin in severe traumatic brain injury.
+**Authors:** Taheri A, Emami M, Asadipour E, Kasirzadeh S, Rouini MR et al.  
+**Journal:** Journal of neurology (2019)  
+**PMID:** 31093755  **DOI:** 10.1007/s00415-019-09366-1
+**Entities:** GFAP, S100B, TBI  
+**Abstract:** OBJECTIVE: Traumatic brain injury (TBI) is a leading cause of morbidity and mortality worldwide. Metformin is reported to have pleiotropic neuroprotective effects through anti-inflammatory, antioxidat...
+
 ### An update on diagnostic and prognostic biomarkers for traumatic brain injury.
 **Authors:** Wang KK, Yang Z, Zhu T, Shi Y, Rubenstein R et al.  
 **Journal:** Expert review of molecular diagnostics (2018)  
@@ -13079,6 +13086,13 @@
 **PMID:** 15217991  
 **Entities:** GFAP, S100B, mTBI, TBI, NSE  
 **Abstract:** BACKGROUND: Detection of brain injury by serum markers is not a standard procedure in clinical practice, although several proteins, such as S100B, neuron-specific enolase (NSE), myelin basic protein, ...
+
+### GFAP versus S100B in serum after traumatic brain injury: relationship to brain damage and outcome.
+**Authors:** Pelinka LE, Kroepfl A, Leixnering M, Buchinger W, Raabe A et al.  
+**Journal:** Journal of neurotrauma (2004)  
+**PMID:** 15684648  
+**Entities:** GFAP, S100B, TBI  
+**Abstract:** Research indicates that glial fibrillary acidic protein (GFAP), part of the astroglial skeleton, could be a marker of traumatic brain injury (TBI). S100B, an astroglial protein, is an acknowledged mar...
 
 ### Measurement of glial fibrillary acidic protein in blood: an analytical method.
 **Authors:** van Geel WJ, de Reus HP, Nijzing H, Verbeek MM, Vos PE et al.  
