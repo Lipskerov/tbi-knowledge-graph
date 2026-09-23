@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-22*
-*Total papers: 4467*
+*Generated: 2026-09-23*
+*Total papers: 4468*
 
 
 ## Cluster: aging_neuro
@@ -1047,6 +1047,13 @@
 **PMID:** 42764474  **DOI:** 10.1002/hbm.70649
 **Entities:** aging  
 **Abstract:** Cerebral small vessel disease (SVD) is a leading cause of stroke, vascular cognitive impairment, and functional decline in older adults. Emerging experimental and translational data implicate glymphat...
+
+### Dietary Magnolia kobus DC. Attenuates Age-Associated Hippocampal Alterations in Mice in Association with Modulation of Iron Metabolism- and Ferroptosis-Related Markers.
+**Authors:** Kim JM, Na HJ, Kim Y, Lee SH, Sung MJ  
+**Journal:** Journal of microbiology and biotechnology (2026)  
+**PMID:** 42770178  **DOI:** 10.4014/jmb.2606.06032
+**Entities:** oxidative stress, aging  
+**Abstract:** Brain aging is a major contributor to cognitive decline and neurodegenerative disorders. Ferroptosis, a regulated form of cell death driven by iron-dependent lipid peroxidation, has emerged as a key m...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  

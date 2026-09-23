@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-22T12:32:32.708607",
-  "n_papers": 4467,
+  "generated_at": "2026-09-23T12:42:43.262806",
+  "n_papers": 4468,
   "n_entities": 115,
   "n_edges": 699,
   "cluster_stats": {
-    "aging_neuro": 1052,
+    "aging_neuro": 1053,
     "exosomal_rna": 377,
     "gfap_uchl1": 444,
     "nfl_tau": 443,
@@ -41,7 +41,7 @@
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 925,
+      "paper_count": 926,
       "centrality": 0.3333
     },
     {
@@ -83,7 +83,7 @@
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 319,
+      "paper_count": 320,
       "centrality": 0.3684
     },
     {
@@ -1999,8 +1999,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 152.0,
-      "n_papers": 152.0,
+      "weight": 153.0,
+      "n_papers": 153.0,
       "annotation": null
     },
     {
