@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-23*
-*Total papers: 4468*
+*Generated: 2026-09-24*
+*Total papers: 4470*
 
 
 ## Cluster: aging_neuro
@@ -21783,6 +21783,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** BACKGROUND: This study was undertaken to identify factors that influence follow-up for patients with mild traumatic brain injury (MTBI). METHODS: One hundred and ninety-nine consecutive inpatients dia...
 
+### Elevated C-reactive protein levels may be a predictor of persistent unfavourable symptoms in patients with mild traumatic brain injury: a preliminary study.
+**Authors:** Su SH, Xu W, Li M, Zhang L, Wu YF et al.  
+**Journal:** Brain, behavior, and immunity (2014)  
+**PMID:** 24456846  **DOI:** 10.1016/j.bbi.2014.01.009
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** The pathogenesis of persistent unfavourable outcomes following mild traumatic brain injury (mTBI) are not fully understood. Low-grade systemic inflammation might contribute to the development of persi...
+
 ### Biomarkers for the diagnosis and prognosis of mild traumatic brain injury/concussion.
 **Authors:** Jeter CB, Hergenroeder GW, Hylin MJ, Redell JB, Moore AN et al.  
 **Journal:** Journal of neurotrauma (2013)  
@@ -25921,6 +25928,13 @@
 **PMID:** 42764010  **DOI:** 10.1016/j.bios.2026.119227
 **Entities:** TBI, Alzheimer, Olink  
 **Abstract:** Clustered regularly interspaced short palindromic repeats (CRISPR)/Cas-associated systems have emerged as powerful tools for next-generation molecular diagnostics, particularly for nucleic acid detect...
+
+### Serum neutrophil extracellular trap-related biomarkers for identifying cognitive impairment after mild traumatic brain injury.
+**Authors:** Zhang M, Zhang W, Su C, Xia H, Dong S et al.  
+**Journal:** Irish journal of medical science (2026)  
+**PMID:** 42776453  **DOI:** 10.1007/s11845-026-04608-4
+**Entities:** TNF-α, IL-1β, neuroinflammation, mTBI, TBI  
+**Abstract:** BACKGROUND: Cognitive impairment is a common sequela of mild traumatic brain injury (mTBI), but early blood-based predictors remain limited. Neutrophil extracellular traps (NETs) have been implicated ...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
