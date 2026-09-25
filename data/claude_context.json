@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 4470,
+  "n_papers": 4471,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -60,6 +60,14 @@
         "entities": "aging"
       },
       {
+        "pmid": "42783409",
+        "title": "The Gut-Immune-Brain Axis in Aging: Integrating Immunosenescence, Inflammaging, and Neuroinflammation for Precision Medicine.",
+        "authors": "Baji\u0107 D, Vu\u010dkovi\u0107 J, Pupovac N, Slavi\u0107 D, Stoj\u0161i\u0107 M et al.",
+        "year": 2026,
+        "journal": "Medical sciences (Basel, Switzerland)",
+        "entities": "neuroinflammation, aging"
+      },
+      {
         "pmid": "42770178",
         "title": "Dietary Magnolia kobus DC. Attenuates Age-Associated Hippocampal Alterations in Mice in Association with Modulation of Iron Metabolism- and Ferroptosis-Related Markers.",
         "authors": "Kim JM, Na HJ, Kim Y, Lee SH, Sung MJ",
@@ -82,14 +90,6 @@
         "year": 2026,
         "journal": "Aging brain",
         "entities": "GFAP, NfL, p-tau, Alzheimer, aging"
-      },
-      {
-        "pmid": "42661704",
-        "title": "Editorial: Exploring miRNA roles in neuroinflammation and brain aging: mechanisms and therapeutic potential.",
-        "authors": "Fukuchi KI, Yang J, Williams J",
-        "year": 2026,
-        "journal": "Frontiers in immunology",
-        "entities": null
       }
     ],
     "exosomal_rna": [
@@ -810,7 +810,7 @@
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 926
+      "paper_count": 927
     },
     {
       "name": "GFAP",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 471
+      "paper_count": 472
     },
     {
       "name": "NfL",
@@ -1037,7 +1037,7 @@
     {
       "source": "neuroinflammation",
       "target": "aging",
-      "weight": 201.0
+      "weight": 202.0
     },
     {
       "source": "S100B",

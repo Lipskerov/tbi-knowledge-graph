@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-24*
-*Total papers: 4470*
+*Generated: 2026-09-25*
+*Total papers: 4471*
 
 
 ## Cluster: aging_neuro
@@ -1054,6 +1054,13 @@
 **PMID:** 42770178  **DOI:** 10.4014/jmb.2606.06032
 **Entities:** oxidative stress, aging  
 **Abstract:** Brain aging is a major contributor to cognitive decline and neurodegenerative disorders. Ferroptosis, a regulated form of cell death driven by iron-dependent lipid peroxidation, has emerged as a key m...
+
+### The Gut-Immune-Brain Axis in Aging: Integrating Immunosenescence, Inflammaging, and Neuroinflammation for Precision Medicine.
+**Authors:** Bajić D, Vučković J, Pupovac N, Slavić D, Stojšić M et al.  
+**Journal:** Medical sciences (Basel, Switzerland) (2026)  
+**PMID:** 42783409  **DOI:** 10.3390/medsci14050536
+**Entities:** neuroinflammation, aging  
+**Abstract:** 
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
