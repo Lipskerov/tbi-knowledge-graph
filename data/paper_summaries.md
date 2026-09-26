@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-09-25*
-*Total papers: 4471*
+*Generated: 2026-09-26*
+*Total papers: 4473*
 
 
 ## Cluster: aging_neuro
@@ -13321,6 +13321,13 @@
 **Entities:** GFAP, UCH-L1, NfL, tau, TBI  
 **Abstract:** BACKGROUND: Traumatic brain injury (TBI) represents a leading global cause of mortality and disability, imposing substantial economic burdens on societies worldwide. Recent advances in molecular biolo...
 
+### Repetitive Mild Traumatic Brain Injury Causes Neuronal Damage in the APP/PS1 Mouse Model of Alzheimer's Disease Without an Enduring Impact on Amyloid Pathology, Sleep, or Epileptiform Activity.
+**Authors:** Yue J, Carriquiriborde V, Cheng WH, Yildirim T, Fan J et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41834411  **DOI:** 10.1177/08977151261430301
+**Entities:** Aβ42, mTBI, TBI, Alzheimer  
+**Abstract:** Traumatic brain injury (TBI) is a known risk factor for Alzheimer's disease and related neurodegenerative diseases. Sleep disturbances and epileptiform abnormalities can appear after TBI and may contr...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -22796,6 +22803,13 @@
 **PMID:** 42665398  **DOI:** 10.21873/invivo.14461
 **Entities:** mTBI, TBI, aging  
 **Abstract:** BACKGROUND/AIM: Traumatic intracranial hemorrhage after mild traumatic brain injury (mTBI) remains a major clinical challenge, particularly in aging societies. This study characterized the incidence, ...
+
+### Determining Acute-Phase Biomarkers for Mild Traumatic Brain Injury Through Exploratory Data Analysis: A Preliminary Report.
+**Authors:** de Barros JLVM, de Freitas Cardoso MG, de Souza Almeida DE, da Silva AS, Machado CA et al.  
+**Journal:** Molecular neurobiology (2026)  
+**PMID:** 42791438  **DOI:** 10.1007/s12035-026-06130-1
+**Entities:** S100B, BDNF, IL-1β, mTBI, TBI  
+**Abstract:** The purpose of this study is to identify acute-phase serum biomarkers for mild traumatic brain injury (mTBI) within 24 h of trauma and evaluate their discriminatory value versus orthopedic trauma and ...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
