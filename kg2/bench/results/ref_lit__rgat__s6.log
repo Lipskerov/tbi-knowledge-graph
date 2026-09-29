@@ -1,0 +1,11 @@
+[11:55:26] ref_lit__rgat__s6: entities 19565 relations 14 triples 170220 threads 24 features None
+[11:55:31] epoch 0 loss 0.6961
+[11:56:19] epoch 25 loss 0.2654
+[11:57:07] epoch 50 loss 0.2043
+[11:57:54] epoch 75 loss 0.1724
+[11:58:42] epoch 100 loss 0.1502
+[11:59:29] epoch 125 loss 0.1364
+[12:00:16] epoch 150 loss 0.1213
+[12:01:04] epoch 175 loss 0.1153
+[12:01:49] epoch 199 loss 0.1084
+[12:01:50] {"AUROC": 0.7833713908038189, "AUPRC": 0.09222917265492638, "P@50": 0.22, "seconds": 383.9, "max_rss_mb": 22705.0}

@@ -1,0 +1,23 @@
+{
+ "arm": "ref_lit_2020",
+ "model": "rotate",
+ "seed": 3,
+ "hp": {
+  "dim": 128,
+  "lr": 0.001,
+  "epochs": 150,
+  "batch": 4096,
+  "neg": 16
+ },
+ "threads": 24,
+ "seconds": 515.8,
+ "n_candidates": 16820,
+ "n_positives": 344,
+ "AUROC": 0.7098058769062259,
+ "AUPRC": 0.08765995153781772,
+ "prevalence": 0.020451843043995242,
+ "P@50": 0.24,
+ "P@100": 0.27,
+ "P@500": 0.124,
+ "max_rss_mb": 1074.5
+}

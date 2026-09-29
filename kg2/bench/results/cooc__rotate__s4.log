@@ -1,0 +1,3 @@
+[11:50:18] cooc__rotate__s4: entities 18878 relations 2 triples 28384 threads 24 features None
+[11:52:36] epochs 150 first loss 0.9619 last loss 0.0270
+[11:52:36] {"AUROC": 0.6196164646815382, "AUPRC": 0.11077100888268754, "P@50": 0.4, "seconds": 138.8, "max_rss_mb": 1044.7}

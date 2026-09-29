@@ -1,0 +1,23 @@
+{
+ "arm": "ref_lit_feat",
+ "model": "transe",
+ "seed": 8,
+ "hp": {
+  "dim": 128,
+  "lr": 0.001,
+  "epochs": 150,
+  "batch": 4096,
+  "neg": 16
+ },
+ "threads": 24,
+ "seconds": 465.2,
+ "n_candidates": 16820,
+ "n_positives": 344,
+ "AUROC": 0.6406493483121327,
+ "AUPRC": 0.04228403694223881,
+ "prevalence": 0.020451843043995242,
+ "P@50": 0.06,
+ "P@100": 0.1,
+ "P@500": 0.074,
+ "max_rss_mb": 840.8
+}

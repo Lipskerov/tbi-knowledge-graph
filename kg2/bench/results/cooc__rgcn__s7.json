@@ -1,0 +1,25 @@
+{
+ "arm": "cooc",
+ "model": "rgcn",
+ "seed": 7,
+ "hp": {
+  "dim": 64,
+  "layers": 2,
+  "bases": 8,
+  "lr": 0.01,
+  "epochs": 300,
+  "batch": 8192,
+  "neg": 4
+ },
+ "threads": 24,
+ "seconds": 38.5,
+ "n_candidates": 16820,
+ "n_positives": 344,
+ "AUROC": 0.484267020528803,
+ "AUPRC": 0.0233685720349621,
+ "prevalence": 0.020451843043995242,
+ "P@50": 0.06,
+ "P@100": 0.06,
+ "P@500": 0.028,
+ "max_rss_mb": 888.8
+}

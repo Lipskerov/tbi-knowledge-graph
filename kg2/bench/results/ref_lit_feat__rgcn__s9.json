@@ -1,0 +1,25 @@
+{
+ "arm": "ref_lit_feat",
+ "model": "rgcn",
+ "seed": 9,
+ "hp": {
+  "dim": 64,
+  "layers": 2,
+  "bases": 8,
+  "lr": 0.01,
+  "epochs": 300,
+  "batch": 8192,
+  "neg": 4
+ },
+ "threads": 24,
+ "seconds": 72.2,
+ "n_candidates": 16820,
+ "n_positives": 344,
+ "AUROC": 0.6429695836650351,
+ "AUPRC": 0.045681818409680115,
+ "prevalence": 0.020451843043995242,
+ "P@50": 0.1,
+ "P@100": 0.12,
+ "P@500": 0.076,
+ "max_rss_mb": 2258.9
+}

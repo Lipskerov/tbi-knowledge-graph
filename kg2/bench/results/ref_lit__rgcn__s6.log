@@ -1,0 +1,15 @@
+[11:54:35] ref_lit__rgcn__s6: entities 19565 relations 14 triples 170220 threads 24 features None
+[11:54:38] epoch 0 loss 1.0769
+[11:54:43] epoch 25 loss 0.3535
+[11:54:48] epoch 50 loss 0.2630
+[11:54:53] epoch 75 loss 0.1839
+[11:54:58] epoch 100 loss 0.1410
+[11:55:03] epoch 125 loss 0.1171
+[11:55:08] epoch 150 loss 0.1047
+[11:55:12] epoch 175 loss 0.0952
+[11:55:17] epoch 200 loss 0.0854
+[11:55:22] epoch 225 loss 0.0844
+[11:55:27] epoch 250 loss 0.0745
+[11:55:31] epoch 275 loss 0.0652
+[11:55:36] epoch 299 loss 0.0683
+[11:55:36] {"AUROC": 0.6616399752705839, "AUPRC": 0.05109883324588425, "P@50": 0.2, "seconds": 61.2, "max_rss_mb": 2645.8}

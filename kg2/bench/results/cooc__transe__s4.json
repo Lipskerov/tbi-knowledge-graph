@@ -1,0 +1,23 @@
+{
+ "arm": "cooc",
+ "model": "transe",
+ "seed": 4,
+ "hp": {
+  "dim": 128,
+  "lr": 0.001,
+  "epochs": 150,
+  "batch": 4096,
+  "neg": 16
+ },
+ "threads": 24,
+ "seconds": 97.2,
+ "n_candidates": 16820,
+ "n_positives": 344,
+ "AUROC": 0.5830572975773076,
+ "AUPRC": 0.0478824120294085,
+ "prevalence": 0.020451843043995242,
+ "P@50": 0.16,
+ "P@100": 0.14,
+ "P@500": 0.072,
+ "max_rss_mb": 911.9
+}

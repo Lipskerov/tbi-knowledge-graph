@@ -1,0 +1,25 @@
+{
+ "arm": "lit",
+ "model": "rgat",
+ "seed": 6,
+ "hp": {
+  "dim": 64,
+  "layers": 2,
+  "heads": 2,
+  "lr": 0.005,
+  "epochs": 200,
+  "batch": 8192,
+  "neg": 4
+ },
+ "threads": 24,
+ "seconds": 23.8,
+ "n_candidates": 16820,
+ "n_positives": 344,
+ "AUROC": 0.512463953911821,
+ "AUPRC": 0.04431843350538376,
+ "prevalence": 0.020451843043995242,
+ "P@50": 0.34,
+ "P@100": 0.24,
+ "P@500": 0.084,
+ "max_rss_mb": 1118.9
+}

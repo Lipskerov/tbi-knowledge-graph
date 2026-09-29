@@ -1,0 +1,23 @@
+{
+ "arm": "ref_lit_feat",
+ "model": "rotate",
+ "seed": 7,
+ "hp": {
+  "dim": 128,
+  "lr": 0.001,
+  "epochs": 150,
+  "batch": 4096,
+  "neg": 16
+ },
+ "threads": 24,
+ "seconds": 688.4,
+ "n_candidates": 16820,
+ "n_positives": 344,
+ "AUROC": 0.72700601862046,
+ "AUPRC": 0.10946437497168238,
+ "prevalence": 0.020451843043995242,
+ "P@50": 0.34,
+ "P@100": 0.31,
+ "P@500": 0.158,
+ "max_rss_mb": 1075.2
+}

@@ -1,0 +1,3 @@
+[12:02:11] ref_lit__rotate__s0: entities 19565 relations 14 triples 170220 threads 24 features None
+[12:13:34] epochs 150 first loss 0.8853 last loss 0.0051
+[12:13:34] {"AUROC": 0.7565439617597408, "AUPRC": 0.11291754353882165, "P@50": 0.32, "seconds": 684.0, "max_rss_mb": 1113.6}

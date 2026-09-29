@@ -1,0 +1,6 @@
+arm	test_positives	train_triples_gene_to_TBI*	reversed	any_relation_gene_TBI*	target_node
+cooc	344	0	0	0	TBI*
+lit	344	0	0	0	TBI*
+ref_lit	344	0	0	0	TBI*
+ref_lit_2020	344	0	0	0	TBI*
+ref_lit_feat	344	0	0	0	TBI*

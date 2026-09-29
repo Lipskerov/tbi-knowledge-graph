@@ -1,0 +1,3 @@
+[11:49:15] cooc__transe__s9: entities 18878 relations 2 triples 28384 threads 24 features None
+[11:50:50] epochs 150 first loss 1.0690 last loss 0.0087
+[11:50:50] {"AUROC": 0.5716632579029681, "AUPRC": 0.06214695698103627, "P@50": 0.32, "seconds": 95.7, "max_rss_mb": 930.4}

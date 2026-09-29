@@ -1,0 +1,3 @@
+[12:01:55] ref_lit__transe__s8: entities 19565 relations 14 triples 170220 threads 24 features None
+[12:09:53] epochs 150 first loss 1.0036 last loss 0.0033
+[12:09:53] {"AUROC": 0.6271764391616841, "AUPRC": 0.041836557525738075, "P@50": 0.12, "seconds": 478.3, "max_rss_mb": 849.8}

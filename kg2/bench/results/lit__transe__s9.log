@@ -1,0 +1,3 @@
+[11:53:19] lit__transe__s9: entities 18154 relations 6 triples 3755 threads 24 features None
+[11:53:55] epochs 150 first loss 1.1022 last loss 0.0103
+[11:53:55] {"AUROC": 0.494131880338985, "AUPRC": 0.022917521449728355, "P@50": 0.1, "seconds": 36.3, "max_rss_mb": 937.4}

@@ -1,0 +1,11 @@
+[11:47:00] cooc__rgat__s1: entities 18878 relations 2 triples 28384 threads 24 features None
+[11:47:06] epoch 0 loss 0.6934
+[11:47:17] epoch 25 loss 0.2850
+[11:47:28] epoch 50 loss 0.1661
+[11:47:39] epoch 75 loss 0.1399
+[11:47:49] epoch 100 loss 0.1349
+[11:48:00] epoch 125 loss 0.1265
+[11:48:11] epoch 150 loss 0.1124
+[11:48:22] epoch 175 loss 0.1103
+[11:48:32] epoch 199 loss 0.1167
+[11:48:33] {"AUROC": 0.5872945214180457, "AUPRC": 0.0687594161486606, "P@50": 0.3, "seconds": 93.1, "max_rss_mb": 4470.2}

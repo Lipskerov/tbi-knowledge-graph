@@ -1,0 +1,12 @@
+key	url	licence	file	bytes	downloaded
+goa_human	http://current.geneontology.org/annotations/goa_human.gaf.gz	CC BY 4.0	goa_human.gaf.gz	15041996	2026-09-29
+hgnc	https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt	CC0	hgnc_complete_set.txt	16947244	2026-09-29
+mgi_hom	https://www.informatics.jax.org/downloads/reports/HOM_MouseHumanSequence.rpt	MGI terms of use (CC BY 4.0)	HOM_MouseHumanSequence.rpt	15112222	2026-09-29
+omnipath	https://omnipathdb.org/interactions?datasets=omnipath&genesymbols=yes&fields=curation_effort,references,sources&license=academic&format=tsv	Academic subset; per-resource licences (see OmniPath)	omnipath_interactions.tsv	13377164	2026-09-29
+pubtator3	https://www.ncbi.nlm.nih.gov/research/pubtator3-api/publications/export/biocjson	Public domain (NCBI); abstract text is publisher copyright	batch_0000.json	970799	2026-09-29
+reactome_ncbi	https://reactome.org/download/current/NCBI2Reactome.txt	CC BY 4.0	NCBI2Reactome.txt	35534151	2026-09-29
+reactome_pathways	https://reactome.org/download/current/ReactomePathways.txt	CC BY 4.0	ReactomePathways.txt	1592393	2026-09-29
+string11_info	https://stringdb-downloads.org/download/stream/protein.info.v11.0/9606.protein.info.v11.0.txt.gz	CC BY 4.0	9606.protein.info.v11.0.txt.gz	1901001	2026-09-29
+string11_links	https://stringdb-downloads.org/download/stream/protein.links.detailed.v11.0/9606.protein.links.detailed.v11.0.txt.gz	CC BY 4.0	9606.protein.links.detailed.v11.0.txt.gz	117467521	2026-09-29
+string_info	https://stringdb-downloads.org/download/protein.info.v12.0/9606.protein.info.v12.0.txt.gz	CC BY 4.0	9606.protein.info.v12.0.txt.gz	1970090	2026-09-29
+string_links	https://stringdb-downloads.org/download/protein.physical.links.v12.0/9606.protein.physical.links.v12.0.txt.gz	CC BY 4.0	9606.protein.physical.links.v12.0.txt.gz	8954065	2026-09-29

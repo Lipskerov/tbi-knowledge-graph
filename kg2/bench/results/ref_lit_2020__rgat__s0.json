@@ -1,0 +1,25 @@
+{
+ "arm": "ref_lit_2020",
+ "model": "rgat",
+ "seed": 0,
+ "hp": {
+  "dim": 64,
+  "layers": 2,
+  "heads": 2,
+  "lr": 0.005,
+  "epochs": 200,
+  "batch": 8192,
+  "neg": 4
+ },
+ "threads": 24,
+ "seconds": 272.6,
+ "n_candidates": 16820,
+ "n_positives": 344,
+ "AUROC": 0.729494398476713,
+ "AUPRC": 0.07956283302182438,
+ "prevalence": 0.020451843043995242,
+ "P@50": 0.22,
+ "P@100": 0.22,
+ "P@500": 0.108,
+ "max_rss_mb": 16335.6
+}
