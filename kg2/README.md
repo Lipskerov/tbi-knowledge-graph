@@ -42,6 +42,7 @@ are not in L3 yet.
 | P5 integrate, QC, export | `p5_integrate.py` | `out/<v>/nodes.tsv, edges.tsv, edge_evidence.tsv, graph.nt, features/, QC.md, stats.json` |
 | P6a validation sheets | `p6_validation_sheets.py` | `curation/V2_*.xlsx`, `curation/V3_edge_audit.xlsx` |
 | P6b time-split benchmark | `p6_timesplit.py` | `out/<v>/benchmarks/` |
+| P6c score V1–V3 (run after annotation; read-only on `curation/`) | `p6_score.py` (tests: `test_p6_score.py`) | `out/<v>/validation/validation_scores.tsv`, `V2_disagreements_to_adjudicate.tsv` |
 
 ## Status — build 2.0.0-dev, 2026-09-29 (numbers from `stats.json`)
 
@@ -65,7 +66,8 @@ Leakage audit 0 in all arms. Table: `bench/results_summary.tsv`.
   (two annotators, blind). Visible L3 noise exists, e.g. "NQO2 associated_with Actinium".
 - Residual time-split leak: genes added to pre-2020 Reactome pathways after 2020 (archive
   releases are not downloadable).
-- LLM second extractor (72B on HIVE) prepared (`bench/llm_extract.py`), not run.
+- LLM second extractor (qwen2.5 72B, HIVE array 11874386) ran 29.09: 400/400 items, 0 errors,
+  in `bench/llm_preds/` (labels only). Not scored until both annotators finish.
 - 244 rat genes from PubTator3 have no ortholog link (MGI file is mouse–human only).
 - panel.db symbols unmapped: 16,163, almost all mouse non-coding / Gm genes without homology.
 - v1 "curated" edges are not carried: their PMIDs were co-mentions, not the establishing papers.
