@@ -42,6 +42,8 @@ are not in L3 yet.
 | P5 integrate, QC, export | `p5_integrate.py` | `out/<v>/nodes.tsv, edges.tsv, edge_evidence.tsv, graph.nt, features/, QC.md, stats.json` |
 | P6a validation sheets | `p6_validation_sheets.py` | `curation/V2_*.xlsx`, `curation/V3_edge_audit.xlsx` |
 | P6b time-split benchmark | `p6_timesplit.py` | `out/<v>/benchmarks/` |
+| P6d auto-audit of the 200 L1/L2 rows of V3 (source re-check + swap/flip controls) | `p6_v3_auto.py` | `curation/V3_auto_L1L2.tsv` |
+| P7 publishable release split by licence (CC BY main + non-commercial + CC BY-SA) | `p7_release.py` | `out/<v>/release/` |
 | P6c score V1–V3 (run after annotation; read-only on `curation/`) | `p6_score.py` (tests: `test_p6_score.py`) | `out/<v>/validation/validation_scores.tsv`, `V2_disagreements_to_adjudicate.tsv` |
 
 ## Status — build 2.0.0-dev, 2026-09-29 (numbers from `stats.json`)
@@ -62,8 +64,11 @@ Leakage audit 0 in all arms. Table: `bench/results_summary.tsv`.
 
 ## Not done yet / known limits
 
-- **V1–V3 precision is unmeasured** until the sheets in `curation/` are annotated
-  (two annotators, blind). Visible L3 noise exists, e.g. "NQO2 associated_with Actinium".
+- **V1–V2 precision and the L3 third of V3 are unmeasured** until the sheets in `curation/` are
+  annotated (two annotators, blind). The L1/L2 two-thirds of V3 is automated: 200/200 edges found in
+  their source files (`p6_v3_auto.py`).
+- **Licences**: see `LICENCES.md`. Publish `out/<v>/release/`, not the working files in `out/<v>/`
+  (those keep abstract sentences and non-commercial edges for the benchmark and the gold set). Visible L3 noise exists, e.g. "NQO2 associated_with Actinium".
 - Residual time-split leak: genes added to pre-2020 Reactome pathways after 2020 (archive
   releases are not downloadable).
 - LLM second extractor (qwen2.5 72B, HIVE array 11874386) ran 29.09: 400/400 items, 0 errors,

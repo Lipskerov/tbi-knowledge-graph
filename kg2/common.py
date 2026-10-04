@@ -43,12 +43,14 @@ SOURCES = {
                      "9606.protein.physical.links.v12.0.txt.gz", "CC BY 4.0"),
     "string_info": ("https://stringdb-downloads.org/download/protein.info.v12.0/"
                     "9606.protein.info.v12.0.txt.gz", "CC BY 4.0"),
-    "reactome_ncbi": ("https://reactome.org/download/current/NCBI2Reactome.txt", "CC BY 4.0"),
-    "reactome_pathways": ("https://reactome.org/download/current/ReactomePathways.txt", "CC BY 4.0"),
+    "reactome_ncbi": ("https://reactome.org/download/current/NCBI2Reactome.txt", "CC0"),
+    "reactome_pathways": ("https://reactome.org/download/current/ReactomePathways.txt", "CC0"),
     "goa_human": ("http://current.geneontology.org/annotations/goa_human.gaf.gz", "CC BY 4.0"),
     "omnipath": ("https://omnipathdb.org/interactions?datasets=omnipath&genesymbols=yes"
                  "&fields=curation_effort,references,sources&license=academic&format=tsv",
                  "Academic subset; per-resource licences (see OmniPath)"),
+    "omnipath_resources": ("https://omnipathdb.org/resources?format=json",
+                           "metadata: per-resource licences"),
     "pubtator3": ("https://www.ncbi.nlm.nih.gov/research/pubtator3-api/publications/export/biocjson",
                   "Public domain (NCBI); abstract text is publisher copyright"),
 }

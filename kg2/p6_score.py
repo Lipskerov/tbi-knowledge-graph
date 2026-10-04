@@ -257,6 +257,19 @@ def score(curation: Path, preds_glob: str, strata: dict) -> tuple[list[dict], li
             out.append(row(f"V3 supported (strict) by {field}", g, c["yes"], n, extra))
             out.append(row(f"V3 supported (lenient) by {field}", g, c["yes"] + c["partly"], n))
 
+    # V3 automated: L1/L2 edges re-checked against their source files by p6_v3_auto.py
+    auto_path = curation / "V3_auto_L1L2.tsv"
+    if auto_path.exists():
+        auto = read_tsv(auto_path)
+        for field in ("layer", "source"):
+            by = defaultdict(Counter)
+            for r in auto:
+                by[r[field]][r["auto_supported"]] += 1
+            for g in sorted(by):
+                c = by[g]
+                out.append(row(f"V3 auto source re-check by {field}", g, c["yes"], c["yes"] + c["no"],
+                               f"cannot_check {c['cannot_check']}"))
+
     dis = [{"item": i, "pmid": ann[0][i].get("pmid"), "sentence": ann[0][i].get("sentence"),
             "entity_a": ann[0][i].get("entity_a"), "entity_b": ann[0][i].get("entity_b"),
             "annotator_1": rel[0][i], "annotator_2": rel[1][i]} for i in disagree if i not in adj]
