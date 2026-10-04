@@ -18,6 +18,8 @@ whether it can be redistributed in a CC BY 4.0 release. Edge counts are from `ou
 | PXD035289 (PMID 36482407) | CC BY | 27 | Yes |
 | BIO-AX-TBI (PMID 39323289) | **CC BY-NC** | **60** | **No as CC BY**: facts with citation, or a separate NC file |
 | ChEMBL | **CC BY-SA 3.0** — [ChEMBL about](https://chembl.gitbook.io/chembl-interface-documentation/about) | **40** | **Share-alike**: only in a separate CC BY-SA file |
+| MONDO (MeSH→MONDO SSSOM) | CC BY 4.0 (MONDO ontology licence; the SSSOM file header says "unspecified") | 328 disease-node xrefs | Yes, with attribution |
+| RGD rat–human orthologs | CC BY 4.0 (RGD) | 238 ortholog edges (release only) | Yes, with attribution |
 | HGNC | CC0 — [genenames.org licence](https://www.genenames.org/about/license/) | IDs, names | Yes |
 | GO annotations | CC BY 4.0 — [GO citation policy](https://geneontology.org/docs/go-citation-policy/) | Node features | Yes, with attribution |
 | MeSH | NLM terms — [MeSH terms](https://www.nlm.nih.gov/databases/download/terms_and_conditions_mesh.html) | Disease node IDs, names | Yes: credit NLM, state the MeSH version, no implied endorsement |

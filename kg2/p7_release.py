@@ -17,7 +17,8 @@ import json
 import shutil
 from collections import defaultdict
 
-from common import INTERIM, OUT, RAW, VERSION, dumps, fetch, read_tsv, write_tsv
+from common import INTERIM, NODE_COLS, OUT, RAW, VERSION, dumps, fetch, read_tsv, write_tsv
+from p5_integrate import PREFIX_IRI
 
 REL = OUT / VERSION
 DST = REL / "release"
@@ -36,8 +37,9 @@ Third-party data kept under its original licence:
                         Derivatives of these files must be shared under the same licence.
 
 Attribution (required by the sources):
-  STRING (CC BY 4.0), MGI (CC BY 4.0), Gene Ontology (CC BY 4.0), OmniPath and the resources it
-  aggregates, Reactome (CC0), HGNC (CC0), PubTator3 / NCBI. MeSH: courtesy of the U.S. National
+  STRING (CC BY 4.0), MGI (CC BY 4.0), RGD rat orthologs (CC BY 4.0), MONDO disease xrefs
+  (CC BY 4.0), Gene Ontology (CC BY 4.0), OmniPath and the resources it aggregates, Reactome (CC0),
+  HGNC (CC0), PubTator3 / NCBI. The omics edges cite their source articles (PMIDs in the files). MeSH: courtesy of the U.S. National
   Library of Medicine; this release uses the MeSH version current at build time, does not reflect
   later updates, and is not endorsed by NLM. Abstract text is not redistributed; each literature
   edge cites its PMID.
@@ -76,6 +78,40 @@ def omnipath_open_refs(open_res):
         pm.update(x.split(":", 1)[1] for x in r["references"].split(";")
                   if ":" in x and open_res(x.split(":", 1)[0]))
     return out
+
+
+def rat_orthologs(nodes, used):
+    """RGD rat -> human 1:1 orthologs for the rat genes the release carries. Release-only: the
+    benchmarked working graph is left unchanged. Kept only where the human NCBI gene is an HGNC
+    gene whose own rgd_id record names the same rat gene (independent confirmation)."""
+    hgnc = {h["entrez_id"]: h for h in read_tsv(RAW / "hgnc_complete_set.txt") if h["entrez_id"]}
+    rat = {i.split(":")[1] for i in used if nodes.get(i, {}).get("taxon") == "NCBITaxon:10116"}
+    human_rows = {g["ncbigene"]: g for g in read_tsv(INTERIM / "genes_human.tsv")}
+    edges, new_nodes, added = [], [], set()
+    with open(fetch("rgd_orthologs")) as f:
+        for line in f:
+            p = line.rstrip("\n").split("\t")
+            if line.startswith(("#", "RAT_GENE_SYMBOL")) or len(p) < 8 or p[2] not in rat or not p[7]:
+                continue
+            h = hgnc.get(p[7])
+            if not h or p[1] not in {x.replace("RGD:", "") for x in h.get("rgd_id", "").split("|")}:
+                continue
+            human = "NCBIGene:" + p[7]
+            if human not in nodes and human not in added:
+                g = human_rows.get(human)
+                if not g:
+                    continue
+                added.add(human)
+                new_nodes.append({"id": human, "category": "biolink:Gene", "name": g["symbol"],
+                                  "taxon": "NCBITaxon:9606", "provided_by": "infores:hgnc",
+                                  "xrefs": g["hgnc"], "in_public_release": 1})
+            edges.append({"subject": "NCBIGene:" + p[2], "predicate": "biolink:orthologous_to",
+                          "object": human, "layer": "L1", "knowledge_level": "knowledge_assertion",
+                          "agent_type": "not_provided", "primary_knowledge_source": "infores:rgd",
+                          "n_evidence": 1})
+    for i, e in enumerate(sorted(edges, key=lambda e: e["subject"])):
+        e["id"] = f"TBIKG:r{i:06d}"
+    return sorted(edges, key=lambda e: e["id"]), new_nodes
 
 
 def main():
@@ -129,17 +165,27 @@ def main():
         dest = "nc" if r["source"] in NC_SOURCES else where[r["edge_id"]]
         ev_split[dest].append({k: r[k] for k in ev_cols})
 
-    write_tsv(DST / "edges.tsv", cols, main_e)
+    # KGX TSV convention: multivalued fields are '|'-separated CURIEs
+    for e in main_e + nc_e + sa_e:
+        e["publications"] = "|".join(f"PMID:{p}" for p in (e.get("publications") or "").split(";") if p)
     write_tsv(DST / "edge_evidence.tsv", ev_cols, ev_split["main"])
     write_tsv(DST / "noncommercial" / "edges.tsv", cols + ["licence"], nc_e)
     write_tsv(DST / "noncommercial" / "edge_evidence.tsv", ev_cols, ev_split["nc"])
     write_tsv(DST / "chembl_cc-by-sa-3.0" / "edges.tsv", cols + ["licence"], sa_e)
-    shutil.copy(REL / "nodes.tsv", DST / "nodes.tsv")
+    nodes = {n["id"]: n for n in read_tsv(REL / "nodes.tsv")}
+    used = {x for e in main_e + nc_e + sa_e for x in (e["subject"], e["object"])}
+    rat_e, rat_n = rat_orthologs(nodes, used)
+    main_e += rat_e
+    write_tsv(DST / "edges.tsv", cols, main_e)
+    write_tsv(DST / "nodes.tsv", NODE_COLS, list(nodes.values()) + rat_n)
     main_ids = {e["id"] for e in main_e}
+    iri = lambda c: f"<{PREFIX_IRI[c.split(':', 1)[0]]}{c.split(':', 1)[1]}>"
     with open(REL / "graph.nt") as fin, open(DST / "graph.nt", "w") as fout:
         for e, line in zip(edges, fin):  # graph.nt is written in edges.tsv order
             if e["id"] in main_ids:
                 fout.write(line)
+        for e in rat_e:
+            fout.write(f"{iri(e['subject'])} {iri(e['predicate'])} {iri(e['object'])} .\n")
     (DST / "LICENSE.txt").write_text(LICENSE_TXT.format(v=VERSION))
     (DST / "noncommercial" / "LICENSE.txt").write_text(
         "NON-COMMERCIAL USE ONLY. Third-party data under its original licences, listed per edge in the "
@@ -149,13 +195,14 @@ def main():
         "Share alike: derivatives must carry the same licence.\n")
 
     # checks: nothing lost, nothing duplicated, no abstract text anywhere in the release
-    assert len(main_e) + len(nc_e) + len(sa_e) == len(edges), "edge count does not add up"
+    assert len(main_e) - len(rat_e) + len(nc_e) + len(sa_e) == len(edges), "edge count does not add up"
     assert len(where) == len(edges), "an edge landed in two files"
     assert sum(len(v) for v in ev_split.values()) == len(ev), "evidence rows lost"
     for path in DST.rglob("*.tsv"):
         with open(path) as f:
             assert "sentence" not in f.readline().split("\t"), f"sentence column in {path}"
-    print(f"P7: release {VERSION}: main {len(main_e)} edges (CC BY 4.0), non-commercial {len(nc_e)}, "
+    print(f"P7: release {VERSION}: main {len(main_e)} edges (CC BY 4.0, incl. {len(rat_e)} RGD rat orthologs, "
+          f"{len(rat_n)} human nodes added), non-commercial {len(nc_e)}, "
           f"ChEMBL CC BY-SA {len(sa_e)}; evidence main {len(ev_split['main'])}, "
           f"non-commercial {len(ev_split['nc'])}; sentence text removed from {sum(1 for r in ev if r['sentence'])} rows")
 

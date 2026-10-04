@@ -1,0 +1,346 @@
+mesh_id	mesh_label	mondo_id	mondo_label	name_match	doid_confirms	mondo_obsolete	decision
+MESH:C535296	Recombinant chromosome 8 syndrome	MONDO:0008365	recombinant 8 syndrome	1.0	n/a	False	accept
+MESH:C535388	Arts syndrome	MONDO:0010533	Arts syndrome	1.0	yes	False	accept
+MESH:C535531	Intervertebral disc disease	MONDO:0044339	lumbar disk degenerative disorder	1.0	n/a	False	accept
+MESH:C535672	Acute cholinergic dysautonomia	MONDO:0021808	acute cholinergic dysautonomia	1.0	n/a	False	accept
+MESH:C536030	MASS syndrome	MONDO:0011431	MASS syndrome	1.0	n/a	False	accept
+MESH:C536122	Night blindness, congenital stationary	MONDO:0016293	congenital stationary night blindness	1.0	no	False	accept
+MESH:C536203	Elejalde Disease	MONDO:0009742	neuroectodermal melanolysosomal disease	1.0	n/a	False	accept
+MESH:C536411	Neuraminidase deficiency with beta-galactosidase deficiency	MONDO:0009737	galactosialidosis	1.0	n/a	False	accept
+MESH:C536494		MONDO:0006486	uveal melanoma	0.0	no	False	reject: MeSH ID inactive since 2024 (no current label); DOID disagrees
+MESH:C536599	Alzheimer's disease without Neurofibrillary tangles	MONDO:0011401	Alzheimer disease without neurofibrillary tangles	1.0	n/a	False	accept
+MESH:C536830	Glut1 Deficiency Syndrome	MONDO:0011724	encephalopathy due to GLUT1 deficiency	1.0	n/a	False	accept
+MESH:C537153	Hypomagnesemia primary	MONDO:0009550	renal hypomagnesemia 3	0.67	n/a	False	reject: Hypomagnesemia primary -> renal hypomagnesemia 3: one subtype
+MESH:C537425	Glutamate formiminotransferase deficiency	MONDO:0009240	formiminoglutamic aciduria	1.0	yes	False	accept
+MESH:C537475	Mitochondrial complex I deficiency	MONDO:0100133	mitochondrial complex I deficiency	1.0	yes	False	accept
+MESH:C537568	Jensen syndrome	MONDO:0000501	obsolete Jensen syndrome	0.5	n/a	True	reject: obsolete MONDO term
+MESH:C537613	Ribbing disease	MONDO:0011092	ribbing disease	1.0	n/a	False	accept
+MESH:C537728	Oculocutaneous albinism type 1	MONDO:0018135	oculocutaneous albinism type 1	1.0	n/a	False	accept
+MESH:C538139	Sucrase-isomaltase deficiency, congenital	MONDO:0009114	congenital sucrase-isomaltase deficiency	1.0	yes	False	accept
+MESH:C538175	Acquired ichthyosis	MONDO:0018683	acquired ichthyosis	1.0	n/a	False	accept
+MESH:C563277	Papillary Thyroid Microcarcinoma	MONDO:0011368	papillary thyroid Microcarcinoma	1.0	n/a	False	accept
+MESH:C564546	Goiter, Multinodular 2	MONDO:0010290	goiter, multinodular 2	1.0	n/a	False	accept
+MESH:C564653	Parkinson Disease 10	MONDO:0011737	Parkinson disease 10	1.0	n/a	False	accept
+MESH:C564973	Myopathy due to Malate-Aspartate Shuttle Defect	MONDO:0009702	myopathy due to malate-aspartate shuttle defect	1.0	n/a	False	accept
+MESH:C564974	Myopathy, Granulovacuolar Lobular, with Electrical Myotonia	MONDO:0009701	myopathy, granulovacuolar lobular, with electrical myotonia	1.0	n/a	False	accept
+MESH:C565406	Mental Retardation, Autosomal Recessive 1	MONDO:0009580	intellectual disability, autosomal recessive 1	1.0	n/a	False	accept
+MESH:C565524	Hemihyperplasia, Isolated	MONDO:0009331	isolated hemihyperplasia	1.0	n/a	False	accept
+MESH:C565728	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And Prion Pathology	MONDO:0011513	Alzheimer disease, familial early-onset, with coexisting amyloid and prion pathology	1.0	n/a	False	accept
+MESH:C565772	Spinocerebellar Ataxia 11	MONDO:0011464	spinocerebellar ataxia type 11	1.0	n/a	False	accept
+MESH:C565870	Cerebellar Ataxia and Hypogonadotropic Hypogonadism	MONDO:0008935	cerebellar ataxia-hypogonadism syndrome	0.75	yes	False	accept
+MESH:C566823	Parkinson Disease, Familial, Type 1	MONDO:0008200	autosomal dominant Parkinson disease 1	0.5	n/a	False	accept
+MESH:C566985	Microphthalmia, Syndromic 10	MONDO:0012638	microphthalmia-brain atrophy syndrome	1.0	n/a	False	accept
+MESH:C567703	Diarrhea 5, With Tufting Enteropathy, Congenital	MONDO:0013184	congenital diarrhea 5 with tufting enteropathy	1.0	n/a	False	accept
+MESH:C579969	Cap Myopathy	MONDO:0015753	cap myopathy	1.0	n/a	False	accept
+MESH:D000014	Abnormalities, Drug-Induced	MONDO:0016677	toxic or drug-related embryofetopathy	0.14	n/a	False	accept
+MESH:D000070642	Brain Injuries, Traumatic	MONDO:0858950	traumatic brain injury	1.0	n/a	False	accept: curated (MONDO lacks the MeSH xref)
+MESH:D000077277	Esophageal Squamous Cell Carcinoma	MONDO:0005580	esophageal squamous cell carcinoma	1.0	yes	False	accept
+MESH:D000080424	Cytokine Release Syndrome	MONDO:0600008	cytokine release syndrome	1.0	n/a	False	accept
+MESH:D000080874	Synucleinopathies	MONDO:0000510	synucleinopathy	1.0	n/a	False	accept
+MESH:D000081029	Pulmonary Arterial Hypertension	MONDO:0015924	pulmonary arterial hypertension	1.0	n/a	False	accept
+MESH:D000086382	COVID-19	MONDO:0100096	COVID-19	1.0	yes	False	accept
+MESH:D000094024	Post-Acute COVID-19 Syndrome	MONDO:0100233	long COVID-19	0.8	n/a	False	accept
+MESH:D000163	Acquired Immunodeficiency Syndrome	MONDO:0012268	AIDS	1.0	yes	False	accept
+MESH:D000208	Acute Disease	MONDO:0020683	acute disease	1.0	n/a	False	accept
+MESH:D000230	Adenocarcinoma	MONDO:0004970	adenocarcinoma	1.0	yes	False	accept
+MESH:D000303	Adrenal Cortex Diseases	MONDO:0002816	adrenal cortex disorder	1.0	yes	False	accept
+MESH:D000309	Adrenal Insufficiency	MONDO:0000004	adrenocortical insufficiency	1.0	n/a	False	accept
+MESH:D000380	Agranulocytosis	MONDO:0001609	agranulocytosis	1.0	yes	False	accept
+MESH:D000430	Alcohol Withdrawal Delirium	MONDO:0006642	alcohol withdrawal delirium	1.0	n/a	False	accept
+MESH:D000437	Alcoholism	MONDO:0002046	alcohol abuse	1.0	yes	False	accept
+MESH:D000544	Alzheimer Disease	MONDO:0004975	Alzheimer disease	1.0	yes	False	accept
+MESH:D000686	Amyloidosis	MONDO:0019065	amyloidosis	1.0	yes	False	accept
+MESH:D000690	Amyotrophic Lateral Sclerosis	MONDO:0004976	amyotrophic lateral sclerosis	1.0	yes	False	accept
+MESH:D000740	Anemia	MONDO:0002280	anemia	1.0	yes	False	accept
+MESH:D000848	Anodontia	MONDO:0008797	anodontia	1.0	yes	False	accept
+MESH:D000857	Olfaction Disorders	MONDO:0010528	anosmia	0.0	n/a	False	reject: Olfaction Disorders -> anosmia: narrower, not exact
+MESH:D001007	Anxiety	MONDO:0011918	anxiety	1.0	n/a	False	accept
+MESH:D001168	Arthritis	MONDO:0005578	arthritic joint disease	1.0	yes	False	accept
+MESH:D001172	Arthritis, Rheumatoid	MONDO:0008383	rheumatoid arthritis	1.0	yes	False	accept
+MESH:D001254	Astrocytoma	MONDO:0019781	astrocytoma (excluding glioblastoma)	1.0	n/a	False	accept
+MESH:D001289	Attention Deficit Disorder with Hyperactivity	MONDO:0005302	attention deficit hyperactivity disorder, inattentive type	0.5	yes	False	reject: ADHD -> ADHD, inattentive type: one subtype
+MESH:D001321	Autistic Disorder	MONDO:0005260	autism	0.0	yes	False	accept
+MESH:D001327	Autoimmune Diseases	MONDO:0007179	autoimmune disease	1.0	n/a	False	accept
+MESH:D001480	Basal Ganglia Diseases	MONDO:0003996	basal ganglia disorder	1.0	yes	False	accept
+MESH:D001523	Mental Disorders	MONDO:0002025	psychiatric disorder	1.0	yes	False	accept
+MESH:D001714	Bipolar Disorder	MONDO:0004985	bipolar disorder	1.0	yes	False	accept
+MESH:D001750	Urinary Bladder, Neurogenic	MONDO:0001445	obsolete neurogenic bladder	1.0	yes	True	reject: obsolete MONDO term
+MESH:D001778	Blood Coagulation Disorders	MONDO:0001531	blood coagulation disease	1.0	yes	False	accept
+MESH:D001791	Blood Platelet Disorders	MONDO:0002245	blood platelet disease	1.0	n/a	False	accept
+MESH:D001847	Bone Diseases	MONDO:0005381	bone disorder	1.0	yes	False	accept
+MESH:D001855	Bone Marrow Diseases	MONDO:0003225	bone marrow disorder	1.0	yes	False	accept
+MESH:D001927	Brain Diseases	MONDO:0005560	brain disorder	1.0	yes	False	accept
+MESH:D001929	Brain Edema	MONDO:0006684	brain edema	1.0	yes	False	accept
+MESH:D001930	Brain Injuries	MONDO:0043510	brain injury	1.0	n/a	False	accept
+MESH:D001932	Brain Neoplasms	MONDO:0001657	brain cancer	1.0	yes	False	accept
+MESH:D001943	Breast Neoplasms	MONDO:0021100	breast neoplasm	1.0	n/a	False	accept
+MESH:D002051	Burkitt Lymphoma	MONDO:0007243	Burkitt lymphoma	1.0	yes	False	accept
+MESH:D002280	Basal Cell Carcinoma	MONDO:0020804	basal cell carcinoma	1.0	n/a	False	accept
+MESH:D002289	Carcinoma, Non-Small-Cell Lung	MONDO:0005233	non-small cell lung carcinoma	1.0	yes	False	accept
+MESH:D002292	Carcinoma, Renal Cell	MONDO:0005086	renal cell carcinoma	1.0	yes	False	accept
+MESH:D002313	Cardiomyopathy, Restrictive	MONDO:0005201	restrictive cardiomyopathy	1.0	yes	False	accept
+MESH:D002318	Cardiovascular Diseases	MONDO:0004995	cardiovascular disorder	1.0	yes	False	accept
+MESH:D002372	Cat-Scratch Disease	MONDO:0005692	cat-scratch disease	1.0	yes	False	accept
+MESH:D002386	Cataract	MONDO:0005129	cataract	1.0	n/a	False	accept
+MESH:D002493	Central Nervous System Diseases	MONDO:0002602	central nervous system disorder	1.0	yes	False	accept
+MESH:D002494	Central Nervous System Infections	MONDO:0024619	central nervous system infectious disorder	1.0	n/a	False	accept
+MESH:D002526	Cerebellar Diseases	MONDO:0002427	cerebellar disorder	1.0	yes	False	accept
+MESH:D002539	Cerebral Arterial Diseases	MONDO:0006693	cerebral arterial disease	1.0	yes	False	accept
+MESH:D002543	Cerebral Hemorrhage	MONDO:0013792	intracerebral hemorrhage	0.33	n/a	False	accept
+MESH:D002544	Cerebral Infarction	MONDO:0002679	cerebral infarction	1.0	yes	False	accept
+MESH:D002545	Brain Ischemia	MONDO:0005299	brain ischemia	1.0	yes	False	accept
+MESH:D002561	Cerebrovascular Disorders	MONDO:0011057	cerebrovascular disorder	1.0	yes	False	accept
+MESH:D002658	Developmental Disabilities	MONDO:0005287	developmental disability	1.0	n/a	False	accept
+MESH:D002921	Cicatrix	MONDO:0005594	severe cutaneous adverse reaction	0.0	n/a	False	reject: Cicatrix (scar) -> severe cutaneous adverse reaction: different concept
+MESH:D003141	Communicable Diseases	MONDO:0005550	infectious disease	1.0	n/a	False	accept
+MESH:D003240	Connective Tissue Diseases	MONDO:0003900	connective tissue disorder	1.0	yes	False	accept
+MESH:D003291	Conversion Disorder	MONDO:0002104	conversion disorder	1.0	yes	False	accept
+MESH:D003668	Pressure Ulcer	MONDO:0004646	decubitus ulcer	1.0	yes	False	accept
+MESH:D003704	Dementia	MONDO:0001627	dementia	1.0	n/a	False	accept
+MESH:D003711	Demyelinating Diseases	MONDO:0002562	demyelinating disease	1.0	yes	False	accept
+MESH:D003731	Dental Caries	MONDO:0005276	dental caries	1.0	yes	False	accept
+MESH:D003865	Major Depressive Disorder	MONDO:0002009	major depressive disorder	1.0	n/a	False	accept
+MESH:D003866	Depressive Disorder	MONDO:0002050	depressive disorder	1.0	no	False	accept
+MESH:D003920	Diabetes Mellitus	MONDO:0005015	diabetes mellitus	1.0	yes	False	accept
+MESH:D003922	Diabetes Mellitus, Type 1	MONDO:0005147	type 1 diabetes mellitus	1.0	yes	False	accept
+MESH:D003924	Diabetes Mellitus, Type 2	MONDO:0005148	type 2 diabetes mellitus	1.0	yes	False	accept
+MESH:D003928	Diabetic Nephropathies	MONDO:0005016	diabetic kidney disease	1.0	n/a	False	accept
+MESH:D003967	Diarrhea	MONDO:0001673	diarrheal disease	1.0	no	False	accept
+MESH:D004194	Disease	MONDO:0000001	disease	0.0	yes	False	accept
+MESH:D004314	Down Syndrome	MONDO:0008608	Down syndrome	1.0	yes	False	accept
+MESH:D004342	Drug Hypersensitivity	MONDO:0000775	drug allergy	0.33	n/a	False	accept
+MESH:D004393	Dwarfism, Pituitary	MONDO:0006909	pituitary dwarfism	1.0	n/a	False	accept
+MESH:D004660	Encephalitis	MONDO:0019956	encephalitis	1.0	yes	False	accept
+MESH:D004681	Encephalomyelitis, Autoimmune, Experimental	MONDO:0005134	experimental autoimmune encephalomyelitis	1.0	n/a	False	accept
+MESH:D004696	Endocarditis	MONDO:0005025	endocarditis	1.0	yes	False	accept
+MESH:D004700	Endocrine System Diseases	MONDO:0005151	endocrine system disorder	1.0	yes	False	accept
+MESH:D004715	Endometriosis	MONDO:0005133	endometriosis	1.0	yes	False	accept
+MESH:D004819	Epidermodysplasia Verruciformis	MONDO:0009176	epidermodysplasia verruciformis	1.0	yes	False	accept
+MESH:D004827	Epilepsy	MONDO:0005027	epilepsy	1.0	yes	False	accept
+MESH:D004830	Epilepsy, Tonic-Clonic	MONDO:0005754	epilepsy with generalized tonic-clonic seizures	1.0	yes	False	accept
+MESH:D004833	Epilepsy, Temporal Lobe	MONDO:0005115	temporal lobe epilepsy	1.0	yes	False	accept
+MESH:D004834	Epilepsy, Post-Traumatic	MONDO:0043264	post-traumatic epilepsy	1.0	n/a	False	accept
+MESH:D005234	Fatty Liver	MONDO:0004790	fatty liver disease	1.0	yes	False	accept
+MESH:D005585	Influenza in Birds	MONDO:0018695	avian influenza	0.25	yes	False	accept
+MESH:D005598	Fractures, Spontaneous	MONDO:0043606	obsolete pathologic fracture	1.0	n/a	True	reject: obsolete MONDO term
+MESH:D005621	Friedreich Ataxia	MONDO:0100339	Friedreich ataxia	1.0	yes	False	accept
+MESH:D005767	Gastrointestinal Diseases	MONDO:0004335	digestive system disorder	1.0	no	False	reject: Gastrointestinal Diseases -> digestive system disorder: broader
+MESH:D005901	Glaucoma	MONDO:0005041	glaucoma	1.0	yes	False	accept
+MESH:D005909	Glioblastoma	MONDO:0018177	glioblastoma	1.0	yes	False	accept
+MESH:D005910	Glioma	MONDO:0021042	glioma	1.0	n/a	False	accept
+MESH:D006030	Glycosuria, Renal	MONDO:0009297	familial renal glucosuria	1.0	yes	False	accept
+MESH:D006073	Gout	MONDO:0005393	gout	1.0	yes	False	accept
+MESH:D006311	Hearing Disorders	MONDO:0021945	hearing disorder	1.0	n/a	False	accept
+MESH:D006323	Heart Arrest	MONDO:0000745	cardiac arrest	0.33	yes	False	accept
+MESH:D006331	Heart Diseases	MONDO:0005267	heart disorder	1.0	yes	False	accept
+MESH:D006333	Heart Failure	MONDO:0005252	heart failure	1.0	n/a	False	accept
+MESH:D006402	Hematologic Diseases	MONDO:0005570	hematologic disorder	1.0	yes	False	accept
+MESH:D006432	Hemochromatosis	MONDO:0006507	hereditary hemochromatosis	1.0	yes	False	accept
+MESH:D006528	Carcinoma, Hepatocellular	MONDO:0007256	hepatocellular carcinoma	1.0	yes	False	accept
+MESH:D006816	Huntington Disease	MONDO:0007739	Huntington disease	1.0	yes	False	accept
+MESH:D006849	Hydrocephalus	MONDO:0001150	hydrocephalus	1.0	yes	False	accept
+MESH:D006943	Hyperglycemia	MONDO:0002909	hyperglycemia	1.0	yes	False	accept
+MESH:D006949	Hyperlipidemias	MONDO:0021187	hyperlipidemia	1.0	n/a	False	accept
+MESH:D006965	Hyperplasia	MONDO:0005043	hyperplasia	1.0	n/a	False	accept
+MESH:D006973	Hypertension	MONDO:0005044	hypertensive disorder	0.0	yes	False	accept
+MESH:D007018	Hypopituitarism	MONDO:0005152	hypopituitarism	1.0	yes	False	accept
+MESH:D007022	Hypotension	MONDO:0005468	hypotensive disorder	1.0	n/a	False	accept
+MESH:D007029	Hypothalamic Neoplasms	MONDO:0006799	hypothalamic neoplasm	1.0	yes	False	accept
+MESH:D007153	Immunologic Deficiency Syndromes	MONDO:0003778	inborn error of immunity	1.0	yes	False	accept
+MESH:D007154	Immune System Diseases	MONDO:0005046	immune system disorder	1.0	n/a	False	accept
+MESH:D007246	Infertility	MONDO:0005047	infertility disorder	1.0	yes	False	accept
+MESH:D007319	Sleep Initiation and Maintenance Disorders	MONDO:0013600	insomnia	0.14	n/a	False	accept
+MESH:D007410	Intestinal Diseases	MONDO:0005020	intestinal disorder	1.0	yes	False	accept
+MESH:D007511	Ischemia	MONDO:0005053	ischemic disease	0.0	yes	False	accept
+MESH:D007625	Kearns-Sayre Syndrome	MONDO:0010787	Kearns-Sayre syndrome	1.0	yes	False	accept
+MESH:D007859	Learning Disabilities	MONDO:0004681	learning disability	1.0	yes	False	accept
+MESH:D007905	Lens Diseases	MONDO:0001176	lens disorder	1.0	yes	False	accept
+MESH:D007938	Leukemia	MONDO:0005059	leukemia	1.0	yes	False	accept
+MESH:D007951	Leukemia, Myeloid	MONDO:0004643	myeloid leukemia	1.0	yes	False	accept
+MESH:D008067	Lipoma	MONDO:0005106	lipoma	1.0	yes	False	accept
+MESH:D008107	Liver Diseases	MONDO:0005154	liver disorder	1.0	yes	False	accept
+MESH:D008171	Lung Diseases	MONDO:0005275	lung disorder	1.0	yes	False	accept
+MESH:D008175	Lung Neoplasms	MONDO:0021117	lung neoplasm	1.0	n/a	False	accept
+MESH:D008180	Lupus Erythematosus, Systemic	MONDO:0007915	systemic lupus erythematosus	1.0	yes	False	accept
+MESH:D008181	Lupus Nephritis	MONDO:0005556	lupus nephritis	1.0	yes	False	accept
+MESH:D008193	Lyme Disease	MONDO:0019632	Lyme disease	1.0	yes	False	accept
+MESH:D008223	Lymphoma	MONDO:0005062	lymphoma	1.0	yes	False	accept
+MESH:D008268	Macular Degeneration	MONDO:0003004	macular degeneration	1.0	yes	False	accept
+MESH:D008288	Malaria	MONDO:0005136	malaria	1.0	yes	False	accept
+MESH:D008545	Melanoma	MONDO:0005105	melanoma	1.0	yes	False	accept
+MESH:D008587	Meningitis, Viral	MONDO:0007015	viral meningitis	1.0	yes	False	accept
+MESH:D008659	Metabolic Diseases	MONDO:0005066	metabolic disease	1.0	yes	False	accept
+MESH:D008708	Methemoglobinemia	MONDO:0001117	methemoglobinemia	1.0	yes	False	accept
+MESH:D008881	Migraine Disorders	MONDO:0005277	migraine disorder	1.0	yes	False	accept
+MESH:D009050	Fluorosis, Dental	MONDO:0006722	dental fluorosis	1.0	yes	False	accept
+MESH:D009059	Mouth Diseases	MONDO:0006858	mouth disorder	1.0	yes	False	accept
+MESH:D009101	Multiple Myeloma	MONDO:0009693	plasma cell myeloma	1.0	yes	False	accept
+MESH:D009102	Multiple Organ Failure	MONDO:0043726	multiple organ dysfunction syndrome	1.0	n/a	False	accept
+MESH:D009103	Multiple Sclerosis	MONDO:0005301	multiple sclerosis	1.0	yes	False	accept
+MESH:D009105	Dissociative Identity Disorder	MONDO:0001159	multiple personality disorder	1.0	yes	False	accept
+MESH:D009135	Muscular Diseases	MONDO:0003939	muscle tissue disorder	1.0	n/a	False	accept
+MESH:D009140	Musculoskeletal Diseases	MONDO:0002081	musculoskeletal system disorder	1.0	yes	False	accept
+MESH:D009223	Myotonic Dystrophy	MONDO:0016107	myotonic dystrophy	1.0	no	False	accept
+MESH:D009290	Narcolepsy	MONDO:0021107	narcolepsy	1.0	yes	False	accept
+MESH:D009369	Neoplasms	MONDO:0005070	neoplasm	1.0	n/a	False	accept
+MESH:D009375	Neoplasms, Glandular and Epithelial	MONDO:0005626	epithelial neoplasm	0.67	n/a	False	accept
+MESH:D009401	Nephrosis	MONDO:0002331	nephrosis	1.0	yes	False	accept
+MESH:D009422	Nervous System Diseases	MONDO:0005071	nervous system disorder	1.0	yes	False	accept
+MESH:D009437	Neuralgia	MONDO:0021667	neuralgia	1.0	n/a	False	accept
+MESH:D009447	Neuroblastoma	MONDO:0005072	neuroblastoma	1.0	yes	False	accept
+MESH:D009468	Neuromuscular Diseases	MONDO:0019056	neuromuscular disease	1.0	yes	False	accept
+MESH:D009471	Neuromyelitis Optica	MONDO:0019100	neuromyelitis optica	1.0	yes	False	accept
+MESH:D009494	Neurosyphilis	MONDO:0004944	neurosyphilis	1.0	yes	False	accept
+MESH:D009503	Neutropenia	MONDO:0001475	neutropenia	1.0	yes	False	accept
+MESH:D009521	Newcastle Disease	MONDO:0005875	Newcastle disease	1.0	yes	False	accept
+MESH:D010003	Osteoarthritis	MONDO:0005178	osteoarthritis	1.0	n/a	False	accept
+MESH:D010024	Osteoporosis	MONDO:0005298	osteoporosis	1.0	yes	False	accept
+MESH:D010049	Ovarian Diseases	MONDO:0005558	ovarian disorder	1.0	yes	False	accept
+MESH:D010051	Ovarian Neoplasms	MONDO:0008170	ovarian cancer	1.0	yes	False	accept
+MESH:D010190	Pancreatic Neoplasms	MONDO:0021040	pancreatic neoplasm	1.0	n/a	False	accept
+MESH:D010195	Pancreatitis	MONDO:0004982	pancreatitis	1.0	yes	False	accept
+MESH:D010300	Parkinson Disease	MONDO:0005180	Parkinson disease	1.0	yes	False	accept
+MESH:D010302	Parkinson Disease, Secondary	MONDO:0006966	secondary Parkinson disease	1.0	yes	False	accept
+MESH:D010523	Peripheral Nervous System Diseases	MONDO:0003620	peripheral nervous system disorder	1.0	n/a	False	accept
+MESH:D010900	Pituitary Diseases	MONDO:0003381	pituitary gland disorder	0.5	n/a	False	accept
+MESH:D011014	Pneumonia	MONDO:0005249	pneumonia	1.0	yes	False	accept
+MESH:D011015	Pneumonia, Aspiration	MONDO:0000265	aspiration pneumonia	1.0	yes	False	accept
+MESH:D011041	Poisoning	MONDO:0029000	poisoning	1.0	n/a	False	accept
+MESH:D011115	Polyneuropathies	MONDO:0001824	polyneuropathy	1.0	yes	False	accept
+MESH:D011225	Pre-Eclampsia	MONDO:0005081	preeclampsia	1.0	yes	False	accept
+MESH:D011230	Precancerous Conditions	MONDO:0021074	precancerous condition	1.0	n/a	False	accept
+MESH:D011293	Premenstrual Syndrome	MONDO:0004169	premenstrual tension	1.0	yes	False	accept
+MESH:D011470	Prostatic Hyperplasia	MONDO:0010811	benign prostatic hyperplasia	0.67	n/a	False	accept
+MESH:D011471	Prostatic Neoplasms	MONDO:0008315	prostate cancer	1.0	yes	False	accept
+MESH:D011472	Prostatitis	MONDO:0005280	prostatitis	1.0	yes	False	accept
+MESH:D011654	Pulmonary Edema	MONDO:0006932	pulmonary edema	1.0	yes	False	accept
+MESH:D011832	Radiation Injuries	MONDO:0043458	radiation injury	1.0	n/a	False	accept
+MESH:D012128	Respiratory Distress Syndrome	MONDO:0100130	adult acute respiratory distress syndrome	0.67	yes	False	accept
+MESH:D012131	Respiratory Insufficiency	MONDO:0021113	respiratory failure	0.33	n/a	False	accept
+MESH:D012162	Retinal Degeneration	MONDO:0004580	retinal degeneration	1.0	yes	False	accept
+MESH:D012175	Retinoblastoma	MONDO:0008380	retinoblastoma	1.0	yes	False	accept
+MESH:D012409	Rubella	MONDO:0004656	rubella	1.0	yes	False	accept
+MESH:D012497	Sandhoff Disease	MONDO:0010006	Sandhoff disease	1.0	yes	False	accept
+MESH:D012595	Scleroderma, Systemic	MONDO:0005100	systemic sclerosis	1.0	yes	False	accept
+MESH:D012608	Scrapie	MONDO:0006961	scrapie	1.0	yes	False	accept
+MESH:D012640	Seizures	MONDO:0001386	visual epilepsy	0.0	yes	False	reject: Seizures -> visual epilepsy: narrower, different concept
+MESH:D012793	Sialadenitis	MONDO:0006969	sialadenitis	1.0	yes	False	accept
+MESH:D012859	Sjogren's Syndrome	MONDO:0010030	Sjogren syndrome	1.0	yes	False	accept
+MESH:D012871	Skin Diseases	MONDO:0005093	skin disorder	1.0	yes	False	accept
+MESH:D012878	Skin Neoplasms	MONDO:0002531	skin neoplasm	1.0	yes	False	accept
+MESH:D012888	Skull Neoplasms	MONDO:0024653	skull neoplasm	1.0	n/a	False	accept
+MESH:D012893	Sleep Wake Disorders	MONDO:0003406	sleep-wake disorder	1.0	n/a	False	accept
+MESH:D013001	Somatoform Disorders	MONDO:0003117	somatoform disorder	1.0	yes	False	accept
+MESH:D013118	Spinal Cord Diseases	MONDO:0002545	spinal cord disorder	1.0	yes	False	accept
+MESH:D013119	Spinal Cord Injuries	MONDO:0043797	spinal cord injury	1.0	n/a	False	accept
+MESH:D013124	Spinal Injuries	MONDO:0037747	spinal injury	1.0	n/a	False	accept
+MESH:D013226	Status Epilepticus	MONDO:0002125	obsolete status epilepticus	0.67	yes	True	reject: obsolete MONDO term
+MESH:D013272	Stomach Diseases	MONDO:0004298	stomach disorder	1.0	yes	False	accept
+MESH:D013274	Stomach Neoplasms	MONDO:0021085	gastric neoplasm	1.0	n/a	False	accept
+MESH:D013280	Stomatitis	MONDO:0004842	stomatitis	1.0	yes	False	accept
+MESH:D013313	Stress Disorders, Post-Traumatic	MONDO:0005146	post-traumatic stress disorder	1.0	yes	False	accept
+MESH:D013345	Subarachnoid Hemorrhage	MONDO:0005099	subarachnoid hemorrhage	1.0	n/a	False	accept
+MESH:D013375	Substance Withdrawal Syndrome	MONDO:0005567	substance withdrawal syndrome	1.0	n/a	False	accept
+MESH:D013494	Supranuclear Palsy, Progressive	MONDO:0019037	progressive supranuclear palsy	1.0	yes	False	accept
+MESH:D013577	Syndrome	MONDO:0002254	syndromic disease	0.0	yes	False	accept
+MESH:D013786	Thalamic Diseases	MONDO:0003081	thalamic disorder	1.0	yes	False	accept
+MESH:D013901	Thoracic Outlet Syndrome	MONDO:0005979	thoracic outlet syndrome	1.0	yes	False	accept
+MESH:D013921	Thrombocytopenia	MONDO:0002049	thrombocytopenia	1.0	yes	False	accept
+MESH:D013927	Thrombosis	MONDO:0000831	thrombotic disease	1.0	yes	False	accept
+MESH:D013959	Thyroid Diseases	MONDO:0003240	thyroid gland disorder	1.0	yes	False	accept
+MESH:D013966	Thyroiditis	MONDO:0004126	thyroiditis	1.0	yes	False	accept
+MESH:D014123	Toxoplasmosis	MONDO:0005989	toxoplasmosis	1.0	yes	False	accept
+MESH:D014277	Trigeminal Neuralgia	MONDO:0008599	trigeminal neuralgia	1.0	yes	False	accept
+MESH:D014376	Tuberculosis	MONDO:0018076	tuberculosis	1.0	no	False	accept
+MESH:D014570	Urologic Diseases	MONDO:0002118	urinary system disorder	1.0	n/a	False	accept
+MESH:D014652	Vascular Diseases	MONDO:0005385	vascular disorder	1.0	yes	False	accept
+MESH:D014693	Ventricular Fibrillation	MONDO:0000190	ventricular fibrillation	1.0	n/a	False	accept
+MESH:D014777	Virus Diseases	MONDO:0005108	viral infectious disease	0.0	yes	False	accept
+MESH:D014832	Voice Disorders	MONDO:0043862	voice disorders	1.0	n/a	False	accept
+MESH:D014947	Wounds and Injuries	MONDO:0021178	injury	0.5	n/a	False	accept
+MESH:D015140	Dementia, Vascular	MONDO:0004648	vascular dementia	1.0	yes	False	accept
+MESH:D015154	Esophageal Motility Disorders	MONDO:0004729	dyskinesia of esophagus	1.0	yes	False	accept
+MESH:D015179	Colorectal Neoplasms	MONDO:0005335	colorectal neoplasm	1.0	n/a	False	accept
+MESH:D015352	Dry Eye Syndromes	MONDO:0006733	dry eye syndrome	1.0	yes	False	accept
+MESH:D015427	Reperfusion Injury	MONDO:0005203	ischemia reperfusion injury	0.67	n/a	False	accept
+MESH:D015433	Glomerulonephritis, Membranous	MONDO:0005376	membranous glomerulonephritis	1.0	yes	False	accept
+MESH:D015441	Leprosy, Tuberculoid	MONDO:0005126	tuberculoid leprosy	1.0	yes	False	accept
+MESH:D015458	Leukemia, T-Cell	MONDO:0005525	T-cell leukemia	1.0	n/a	False	accept
+MESH:D015465	Leukemia, Myeloid, Accelerated Phase	MONDO:0021367	leukemia, myeloid, accelerated-phase	1.0	n/a	False	accept
+MESH:D015470	Leukemia, Myeloid, Acute	MONDO:0018874	acute myeloid leukemia	1.0	yes	False	accept
+MESH:D015837	Vestibular Diseases	MONDO:0002643	vestibular disorder	1.0	yes	False	accept
+MESH:D015840	Oculomotor Nerve Diseases	MONDO:0003546	third cranial nerve disorder	1.0	n/a	False	accept
+MESH:D016393	Lymphoma, B-Cell	MONDO:0004095	B-cell neoplasm	1.0	yes	False	accept
+MESH:D016464	Lysosomal Storage Diseases	MONDO:0002561	lysosomal storage disease	1.0	yes	False	accept
+MESH:D016472	Motor Neuron Disease	MONDO:0020128	motor neuron disorder	1.0	yes	False	accept
+MESH:D016511	Severe Combined Immunodeficiency	MONDO:0015974	severe combined immunodeficiency	1.0	yes	False	accept
+MESH:D016750	Stiff-Person Syndrome	MONDO:0008491	stiff-person syndrome	1.0	yes	False	accept
+MESH:D016889	Endometrial Neoplasms	MONDO:0021251	endometrium neoplasm	1.0	n/a	False	accept
+MESH:D016919	Meningitis, Cryptococcal	MONDO:0005723	Cryptococcal meningitis	1.0	yes	False	accept
+MESH:D016920	Meningitis, Bacterial	MONDO:0006670	bacterial meningitis	1.0	yes	False	accept
+MESH:D017093	Liver Failure	MONDO:0100192	liver failure	1.0	n/a	False	accept
+MESH:D017096	Prion Diseases	MONDO:0005429	prion disease	1.0	yes	False	accept
+MESH:D017237	Mitochondrial Encephalomyopathies	MONDO:0004675	mitochondrial encephalomyopathy	1.0	yes	False	accept
+MESH:D017241	MELAS Syndrome	MONDO:0010789	MELAS syndrome	1.0	yes	False	accept
+MESH:D018088	Tuberculosis, Multidrug-Resistant	MONDO:0005861	multidrug-resistant tuberculosis	1.0	yes	False	accept
+MESH:D018197	Hepatoblastoma	MONDO:0018666	hepatoblastoma	1.0	yes	False	accept
+MESH:D018358	Neuroendocrine Tumors	MONDO:0019496	neuroendocrine neoplasm	1.0	yes	False	accept
+MESH:D018923	Persian Gulf Syndrome	MONDO:0005907	persian gulf syndrome	1.0	yes	False	accept
+MESH:D019150	Neuroaxonal Dystrophies	MONDO:0002283	neuroaxonal dystrophy	1.0	yes	False	accept
+MESH:D019512	Pancreatitis, Alcoholic	MONDO:0003232	alcoholic pancreatitis	1.0	yes	False	accept
+MESH:D019578	Multiple System Atrophy	MONDO:0007803	multiple system atrophy	1.0	yes	False	accept
+MESH:D019586	Intracranial Hypertension	MONDO:0006810	intracranial hypertension	1.0	yes	False	accept
+MESH:D019588	Aging, Premature	MONDO:0019303	premature aging syndrome	1.0	n/a	False	accept
+MESH:D019636	Neurodegenerative Diseases	MONDO:0005559	neurodegenerative disease	1.0	yes	False	accept
+MESH:D019957	Motor Skills Disorders	MONDO:0004922	developmental coordination disorder	0.0	yes	False	accept
+MESH:D019958	Attention Deficit and Disruptive Behavior Disorders	MONDO:0000495	oppositional defiant disorder	0.0	n/a	False	reject: Attention Deficit and Disruptive Behavior Disorders -> oppositional defiant disorder: group vs one member
+MESH:D019964	Mood Disorders	MONDO:0005371	mood disorder	1.0	yes	False	accept
+MESH:D019965	Neurocognitive Disorders	MONDO:0002039	cognitive disorder	0.0	yes	False	accept
+MESH:D019966	Substance-Related Disorders	MONDO:0002494	substance-related disorder	1.0	yes	False	accept
+MESH:D020138	Hyperhomocysteinemia	MONDO:0004743	hyperhomocysteinemia	1.0	yes	False	accept
+MESH:D020183	Nocturnal Paroxysmal Dystonia	MONDO:0043969	nocturnal paroxysmal dystonia	1.0	n/a	False	accept
+MESH:D020196	Trauma, Nervous System	MONDO:0044745	nervous system injury	1.0	n/a	False	accept
+MESH:D020208	Brain Injury, Chronic	MONDO:0019976	dementia pugilistica	0.2	n/a	False	reject: Brain Injury, Chronic -> dementia pugilistica: narrower, not exact
+MESH:D020214	Cerebrovascular Trauma	MONDO:0005621	vascular brain injury	1.0	n/a	False	accept
+MESH:D020244	Infarction, Middle Cerebral Artery	MONDO:0006857	middle cerebral artery infarction	1.0	yes	False	accept
+MESH:D020258	Neurotoxicity Syndromes	MONDO:0005527	toxic encephalopathy	1.0	yes	False	accept
+MESH:D020271	Heredodegenerative Disorders, Nervous System	MONDO:0024237	inherited neurodegenerative disorder	0.0	n/a	False	accept
+MESH:D020275	Guillain-Barre Syndrome	MONDO:0016218	Guillain-Barre syndrome	1.0	yes	False	accept
+MESH:D020278	Demyelinating Autoimmune Diseases, CNS	MONDO:0006704	CNS demyelinating autoimmune disease	1.0	n/a	False	accept
+MESH:D020295	Brain Stem Neoplasms	MONDO:0002912	brainstem cancer	1.0	yes	False	accept
+MESH:D020300	Intracranial Hemorrhages	MONDO:0005049	obsolete intracranial hemorrhage	0.67	n/a	True	reject: obsolete MONDO term
+MESH:D020426	Sciatic Neuropathy	MONDO:0006960	sciatic neuropathy	1.0	yes	False	accept
+MESH:D020520	Brain Infarction	MONDO:0005394	brain infarction	1.0	yes	False	accept
+MESH:D020521	Stroke	MONDO:0005098	stroke disorder	1.0	n/a	False	accept
+MESH:D020529	Multiple Sclerosis, Relapsing-Remitting	MONDO:0005314	relapsing-remitting multiple sclerosis	1.0	yes	False	accept
+MESH:D020765	Intracranial Arterial Diseases	MONDO:0006808	intracranial arterial disease	1.0	yes	False	accept
+MESH:D020773	Headache Disorders	MONDO:0021146	headache disorder	1.0	n/a	False	accept
+MESH:D020774	Pick Disease of the Brain	MONDO:0008243	Pick disease	1.0	yes	False	accept
+MESH:D020821	Dystonic Disorders	MONDO:0003441	dystonic disorder	1.0	yes	False	accept
+MESH:D020914	Myopathies, Structural, Congenital	MONDO:0002921	congenital structural myopathy	1.0	yes	False	accept
+MESH:D020925	Hypoxia-Ischemia, Brain	MONDO:0006685	brain hypoxia - ischemia	1.0	n/a	False	accept
+MESH:D024801	Tauopathies	MONDO:0005574	tauopathy	1.0	yes	False	accept
+MESH:D024821	Metabolic Syndrome	MONDO:0011565	metabolic syndrome X	0.5	yes	False	accept
+MESH:D028361	Mitochondrial Diseases	MONDO:0004069	inborn mitochondrial metabolism disorder	1.0	yes	False	reject: Mitochondrial Diseases -> inborn mitochondrial metabolism disorder: narrower (inborn only)
+MESH:D030401	Cytochrome-c Oxidase Deficiency	MONDO:0033885	mitochondrial complex IV deficiency, nuclear-type	1.0	yes	False	accept
+MESH:D041781	Jaundice, Obstructive	MONDO:0006874	obstructive jaundice	1.0	yes	False	accept
+MESH:D045169	Severe Acute Respiratory Syndrome	MONDO:0005091	severe acute respiratory syndrome	1.0	yes	False	accept
+MESH:D049914	DNA Repair-Deficiency Disorders	MONDO:0021190	DNA repair disease	1.0	n/a	False	accept
+MESH:D050197	Atherosclerosis	MONDO:0005311	atherosclerosis	1.0	yes	False	accept
+MESH:D050500	Pancreatitis, Chronic	MONDO:0005003	chronic pancreatitis	1.0	n/a	False	accept
+MESH:D050723	Fractures, Bone	MONDO:0005315	bone fracture	1.0	n/a	False	accept
+MESH:D051437	Renal Insufficiency	MONDO:0001106	kidney failure	1.0	yes	False	accept
+MESH:D052016	Mucositis	MONDO:0020579	mucositis	1.0	n/a	False	accept
+MESH:D052556	Niemann-Pick Disease, Type C	MONDO:0018982	Niemann-Pick disease type C	1.0	n/a	False	accept
+MESH:D053098	Familial Hypophosphatemic Rickets	MONDO:0020720	X-linked hypophosphatemic rickets	0.4	n/a	False	reject: Familial Hypophosphatemic Rickets -> X-linked form only: narrower
+MESH:D054220	Malformations of Cortical Development	MONDO:0017094	cerebral cortical dysplasia	0.25	n/a	False	accept
+MESH:D054508	Acute Radiation Syndrome	MONDO:0033938	acute radiation syndrome	1.0	n/a	False	accept
+MESH:D054549	Takotsubo Cardiomyopathy	MONDO:0019018	Tako-tsubo cardiomyopathy	1.0	n/a	False	accept
+MESH:D055948	Sarcopenia	MONDO:0006516	obsolete sarcopenia	0.5	n/a	True	reject: obsolete MONDO term
+MESH:D056486	Chemical and Drug Induced Liver Injury	MONDO:0005359	drug-induced liver injury	0.8	n/a	False	accept
+MESH:D057165	Proteostasis Deficiencies	MONDO:0021179	proteostasis deficiencies	1.0	n/a	False	accept
+MESH:D057180	Frontotemporal Dementia	MONDO:0017276	frontotemporal dementia	1.0	no	False	accept
+MESH:D058186	Acute Kidney Injury	MONDO:0002492	acute kidney injury	1.0	yes	False	accept
+MESH:D061325	Hereditary Breast and Ovarian Cancer Syndrome	MONDO:0003582	hereditary breast ovarian cancer syndrome	1.0	yes	False	accept
+MESH:D065626	Non-alcoholic Fatty Liver Disease	MONDO:0013209	metabolic dysfunction-associated steatotic liver disease	1.0	yes	False	accept
+MESH:D065646	Thyroid Carcinoma, Anaplastic	MONDO:0006468	thyroid gland undifferentiated (anaplastic) carcinoma	1.0	n/a	False	accept

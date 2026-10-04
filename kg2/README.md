@@ -76,5 +76,16 @@ Leakage audit 0 in all arms. Table: `bench/results_summary.tsv`.
 - 244 rat genes from PubTator3 have no ortholog link (MGI file is mouse–human only).
 - panel.db symbols unmapped: 16,163, almost all mouse non-coding / Gm genes without homology.
 - v1 "curated" edges are not carried: their PMIDs were co-mentions, not the establishing papers.
-- Not yet: MONDO xrefs for MeSH diseases, KGX-validator run,
+- MONDO: 328 of 539 MeSH disease nodes carry an exact MONDO xref (327 from MONDO's SSSOM + 1 curated:
+  Brain Injuries, Traumatic → MONDO:0858950, which MONDO lists without a MeSH link; `mondo_mesh_additions.tsv`), each verified (name/synonym,
+  Disease Ontology cross-check, obsolete status; 17 rejected with reasons in `mondo_mesh_rejects.tsv`,
+  full table `mondo_mesh_check.tsv`, re-run with `check_mondo_mapping.py`).
+- Validation: `validate_release.py` = KGX 2.6.0 (Biolink 4.4.4) + own checks for what KGX 2.6 does
+  not flag (measured: dangling edges, missing primary source, bad knowledge_level/agent_type,
+  publications format). Release: 0 problems; allowed exception = the TBIKG prefix (1 node, 74 edges).
+  `--selftest` plants 7 errors and requires all to be caught. Run with `KGX_BIN=<venv>/bin/kgx`.
+- Rat genes: 238 of 244 linked to human by RGD 1:1 orthologs, each confirmed by HGNC's own rgd_id
+  record (release only, so the benchmarked working graph is unchanged). The 6 left: 3 LOC/pseudogenes,
+  Cyp2d2, RT1-CE11, and Crnde (RGD's human ID is not an HGNC gene).
+- Not yet:
   Zenodo release, licence audit.

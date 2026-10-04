@@ -49,6 +49,8 @@ SOURCES = {
     "omnipath": ("https://omnipathdb.org/interactions?datasets=omnipath&genesymbols=yes"
                  "&fields=curation_effort,references,sources&license=academic&format=tsv",
                  "Academic subset; per-resource licences (see OmniPath)"),
+    "rgd_orthologs": ("https://download.rgd.mcw.edu/data_release/RAT/ORTHOLOGS_RAT.txt", "CC BY 4.0 (RGD)"),
+    "mondo_sssom": ("http://purl.obolibrary.org/obo/mondo/mappings/mondo.sssom.tsv", "CC BY 4.0 (MONDO)"),
     "omnipath_resources": ("https://omnipathdb.org/resources?format=json",
                            "metadata: per-resource licences"),
     "pubtator3": ("https://www.ncbi.nlm.nih.gov/research/pubtator3-api/publications/export/biocjson",

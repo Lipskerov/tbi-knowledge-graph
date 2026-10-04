@@ -1,0 +1,12 @@
+mesh_id	mondo_id	reason
+MESH:C536494	MONDO:0006486	MeSH ID inactive since 2024 (no current label); DOID disagrees
+MESH:D000857	MONDO:0010528	Olfaction Disorders -> anosmia: narrower, not exact
+MESH:D002921	MONDO:0005594	Cicatrix (scar) -> severe cutaneous adverse reaction: different concept
+MESH:D012640	MONDO:0001386	Seizures -> visual epilepsy: narrower, different concept
+MESH:D019958	MONDO:0000495	Attention Deficit and Disruptive Behavior Disorders -> oppositional defiant disorder: group vs one member
+MESH:D020208	MONDO:0019976	Brain Injury, Chronic -> dementia pugilistica: narrower, not exact
+MESH:D053098	MONDO:0020720	Familial Hypophosphatemic Rickets -> X-linked form only: narrower
+MESH:C537153	MONDO:0009550	Hypomagnesemia primary -> renal hypomagnesemia 3: one subtype
+MESH:D001289	MONDO:0005302	ADHD -> ADHD, inattentive type: one subtype
+MESH:D005767	MONDO:0004335	Gastrointestinal Diseases -> digestive system disorder: broader
+MESH:D028361	MONDO:0004069	Mitochondrial Diseases -> inborn mitochondrial metabolism disorder: narrower (inborn only)

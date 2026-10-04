@@ -16,8 +16,8 @@ from collections import Counter, defaultdict
 
 import networkx as nx
 
-from common import (EDGE_COLS, EVID_COLS, INTERIM, KB_DB, NODE_COLS, OUT, PANEL_DB, RAW,
-                    VERSION, db, dumps, read_tsv, write_tsv)
+from common import (EDGE_COLS, EVID_COLS, INTERIM, KB_DB, KG2, NODE_COLS, OUT, PANEL_DB, RAW,
+                    VERSION, db, dumps, fetch, read_tsv, write_tsv)
 
 REL = OUT / VERSION
 PREFIX_IRI = {
@@ -74,6 +74,38 @@ def fill_gene_taxa(nodes):
             n["taxon"] = f"NCBITaxon:{tax}" if tax else ""
 
 
+def add_mondo_xrefs(nodes):
+    """MONDO exact matches for MeSH disease nodes, from MONDO's own SSSOM file, plus the few
+    hand-verified pairs MONDO lacks (mondo_mesh_additions.tsv). Dropped: obsolete MONDO terms,
+    any MeSH or MONDO id mapped more than once among this graph's disease nodes, and the
+    hand-reviewed rejects in mondo_mesh_rejects.tsv (see check_mondo_mapping.py)."""
+    rejects = {(r["mesh_id"], r["mondo_id"]) for r in read_tsv(KG2 / "mondo_mesh_rejects.tsv")}
+    pairs = []
+    with open(fetch("mondo_sssom")) as f:
+        for line in f:
+            p = line.rstrip("\n").split("\t")
+            if len(p) < 4 or not p[3].startswith("mesh:") or p[2] != "skos:exactMatch":
+                continue
+            if p[1].lower().startswith("obsolete"):
+                continue
+            pairs.append(("MESH:" + p[3][5:], p[0]))
+    pairs += [(r["mesh_id"], r["mondo_id"]) for r in read_tsv(KG2 / "mondo_mesh_additions.tsv")]
+    # one-to-one within this graph: a MONDO term counts as ambiguous only if two of OUR disease
+    # nodes map to it (MONDO often lists an extra MeSH supplementary id we do not carry)
+    ours = [(m, o) for m, o in pairs if nodes.get(m, {}).get("category") == "biolink:Disease"]
+    per_mesh, per_mondo = Counter(m for m, _ in ours), Counter(o for _, o in ours)
+    n = 0
+    for mesh, mondo in pairs:
+        node = nodes.get(mesh)
+        if (not node or node["category"] != "biolink:Disease" or (mesh, mondo) in rejects
+                or per_mesh[mesh] > 1 or per_mondo[mondo] > 1):
+            continue
+        node["xrefs"] = "|".join(filter(None, [node.get("xrefs", ""), mondo]))
+        n += 1
+    print(f"  MONDO: {n} candidate MeSH disease nodes given an exact MONDO xref before pruning to the "
+          f"nodes in use ({len(rejects)} hand-rejected pairs)")
+
+
 def build_nodes():
     nodes = {}
     for g in read_tsv(INTERIM / "genes_human.tsv"):
@@ -92,6 +124,7 @@ def build_nodes():
     fill_gene_taxa(nodes)
     for k, (c, name) in FIXED_NAMES.items():
         nodes.setdefault(k, {"id": k, "category": c, "name": name, "provided_by": "infores:mesh"})
+    add_mondo_xrefs(nodes)
     return nodes
 
 

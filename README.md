@@ -1,6 +1,6 @@
 # TBI Knowledge Graph
 
-A queryable knowledge base of **3,368 TBI-diagnostic papers** organised around the
+A queryable knowledge base of **4,843 TBI-diagnostic papers** organised around the
 **NQO2 (Quinone Reductase 2 / QR2) pathway** as a novel blood-biomarker entry point —
 served as a **containerised web app** with an interactive, provenance-labelled graph.
 
@@ -17,11 +17,11 @@ Built to support a research project on TBI diagnostics at the
 
 | | |
 |---|---|
-| **Papers** | **3,368** — 3,040 PubMed · 325 bioRxiv · 3 pre-loaded Rosenblum-lab papers |
+| **Papers** | **4,843** — 4,518 PubMed · 325 bioRxiv |
 | **Years** | 1975 – 2026 |
-| **Entities (graph nodes)** | **115** — 52 drug · 37 protein · 7 RNA · 7 metabolite · 7 disease · 4 pathway · 1 process |
-| **Edges** | **892** — 799 co-occurrence · 13 curated mechanism · 40 ChEMBL inhibitor · 40 OmniPath signed |
-| **Clusters** | 14 topic clusters (multi-cluster faceting) |
+| **Entities (graph nodes)** | **138** — 54 drug · 48 protein · 10 disease · 7 metabolite · 7 RNA · 6 pathway · 5 process · 1 model |
+| **Edges** | **1,346** — 1,253 co-occurrence · 13 curated mechanism · 40 ChEMBL inhibitor · 40 OmniPath signed |
+| **Clusters** | 18 topic clusters (multi-cluster faceting) |
 | **Interfaces** | FastAPI web app (`localhost:8000`) · v1 CLI (`kb/query_kb.py`) · static HTML graph |
 
 ---
@@ -192,30 +192,34 @@ PPCS patients cost **5–10× more** over 12 months than recovered patients — 
 
 ---
 
-## Paper clusters (14)
+## Paper clusters (18)
 
-A paper can belong to multiple clusters (`paper_clusters` junction table), so counts sum to more than the 3,368 unique papers.
+A paper can belong to multiple clusters (`paper_clusters` junction table), so counts sum to more than the 4,843 unique papers. Counts measured 04.10.2026.
 
 | Cluster | Papers | Description |
 |---------|--------|-------------|
-| `aging_neuro` | 703 | Brain aging / age-related neurodegeneration |
-| `tbi_mild_blood` | 533 | mTBI + blood biomarkers |
-| `tbi_proteomics` | 533 | TBI + proteomics / metabolomics |
-| `nqo2` | 379 | **All NQO2/QR2 papers** — full enzyme biology |
-| `nfl_tau` | 363 | NfL and tau in TBI blood diagnosis / prognosis |
-| `gfap_uchl1` | 339 | GFAP + UCH-L1 as TBI blood diagnostics |
-| `exosomal_rna` | 313 | Exosomal / extracellular-vesicle RNA in TBI |
-| `ppcs_prognosis` | 303 | Post-concussion syndrome biomarkers and prognosis |
-| `qr2_structure_kinetics` | 297 | QR2 enzyme structure / kinetics |
-| `tbi_panel_poc` | 290 | Multi-marker panels + point-of-care TBI tests |
-| `qr2_inhibitors` | 249 | QR2 inhibitor pharmacology |
+| `aging_neuro` | 1,053 | Brain aging / age-related neurodegeneration |
+| `tbi_mild_blood` | 710 | mTBI + blood biomarkers |
+| `nfl_tau` | 631 | NfL and tau in TBI blood diagnosis / prognosis |
+| `tbi_proteomics` | 585 | TBI + proteomics / metabolomics |
+| `ppcs_prognosis` | 524 | Post-concussion syndrome biomarkers and prognosis |
+| `gfap_uchl1` | 501 | GFAP + UCH-L1 as TBI blood diagnostics |
+| `exosomal_rna` | 404 | Exosomal / extracellular-vesicle RNA in TBI |
+| `lupus_biomarkers` | 400 | SLE / lupus nephritis blood biomarkers (added 23.09.2026) |
+| `nqo2` | 383 | **All NQO2/QR2 papers** — full enzyme biology |
+| `tbi_panel_poc` | 312 | Multi-marker panels + point-of-care TBI tests |
+| `qr2_structure_kinetics` | 302 | QR2 enzyme structure / kinetics |
+| `qr2_inhibitors` | 254 | QR2 inhibitor pharmacology |
 | `qr2_melatonin_mt3` | 68 | Melatonin / MT3 binding site |
-| `qr2_flavonoids` | 64 | Flavonoid QR2 inhibitors (quercetin, resveratrol, …) |
-| `qr2_antimalarials` | 26 | Antimalarial QR2 inhibitors (chloroquine, primaquine, …) |
+| `qr2_flavonoids` | 66 | Flavonoid QR2 inhibitors (quercetin, resveratrol, …) |
+| `qr2_autoimmune` | 31 | QR2 in autoimmunity / inflammation |
+| `qr2_antimalarials` | 27 | Antimalarial QR2 inhibitors (chloroquine, primaquine, …) |
+| `qr2_autophagy` | 21 | QR2 and autophagy / lysosome / mTOR |
+| `qr2_serotonylation` | 4 | QR2 and histone serotonylation / chromatin |
 
 ---
 
-## Knowledge graph entities (115)
+## Knowledge graph entities (138)
 
 Entities are seeded in `kb/build_graph.py` (`ENTITY_SEEDS`) and extended by the ChEMBL /
 OmniPath fetchers. Key arms of the graph:
