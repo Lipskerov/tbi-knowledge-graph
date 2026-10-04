@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-03*
-*Total papers: 7244*
+*Generated: 2026-10-04*
+*Total papers: 7247*
 
 
 ## Cluster: aging_neuro
@@ -15142,6 +15142,13 @@
 **Entities:** TBI  
 **Abstract:** It's critical for tube formation and angiogenesis to repair ischemic myocardium or stroke. This study aimed to investigate role of microRNA-126 (miR-126) in tube formation in human umbilical vein endo...
 
+### Exosomes from MiR-21-5p-Increased Neurons Play a Role in Neuroprotection by Suppressing Rab11a-Mediated Neuronal Autophagy In Vitro After Traumatic Brain Injury.
+**Authors:** Li D, Huang S, Zhu J, Hu T, Han Z et al.  
+**Journal:** Medical science monitor : international medical journal of experimental and clinical research (2019)  
+**PMID:** 30860987  **DOI:** 10.12659/MSM.915727
+**Entities:** miR-21, TBI  
+**Abstract:** BACKGROUND Traumatic brain injury (TBI) produces a series of pathological processes. Recent studies have indicated that autophagy pathway is persistently activated after TBI, which may lead to deterio...
+
 ### Traumatic brain injury: classification, models, and markers.
 **Authors:** Najem D, Rennie K, Ribecco-Lutkiewicz M, Ly D, Haukenfrers J et al.  
 **Journal:** Biochemistry and cell biology = Biochimie et biologie cellulaire (2018)  
@@ -15330,6 +15337,13 @@
 **PMID:** 30001722  **DOI:** 10.1186/s12974-018-1240-3
 **Entities:** MALAT1, neuroinflammation, TBI  
 **Abstract:** BACKGROUND: Neuroinflammation is a common therapeutic target for traumatic brain injury (TBI) due to its contribution to delayed secondary cell death and has the potential to occur for years after the...
+
+### Thymosin beta 4 induces significant changes in the plasma miRNA profile following severe traumatic brain injury in the rat lateral fluid percussion injury model.
+**Authors:** Osei J, Kelly W, Toffolo K, Donahue K, Levy B et al.  
+**Journal:** Expert opinion on biological therapy (2018)  
+**PMID:** 29873258  **DOI:** 10.1080/14712598.2018.1484102
+**Entities:** TBI  
+**Abstract:** OBJECTIVES: Thymosin beta 4 (Tβ4) has demonstrated neuroprotective potential in models of neurlogical injury. The neuroprotective potential of Tβ4 has been associated with increased miR-200a and miR-2...
 
 ### MicroRNAs in Neurodegenerative Diseases.
 **Authors:** Quinlan S, Kenny A, Medina M, Engel T, Jimenez-Mateos EM  
@@ -20394,6 +20408,13 @@
 **PMID:** 22360297  **DOI:** 10.1089/neu.2011.2149
 **Entities:** GFAP, S100B, TBI, NSE  
 **Abstract:** The management of severe traumatic brain injury (TBI) focuses on prevention and treatment of secondary insults such as cerebral hypoxia (CH). There are a number of biomarkers that are thought to play ...
+
+### The usefulness of S100B, NSE, GFAP, NF-H, secretagogin and Hsp70 as a predictive biomarker of outcome in children with traumatic brain injury.
+**Authors:** Žurek J, Fedora M  
+**Journal:** Acta neurochirurgica (2012)  
+**PMID:** 21976236  **DOI:** 10.1007/s00701-011-1175-2
+**Entities:** GFAP, S100B, NfH, TBI, NSE  
+**Abstract:** BACKGROUND: Predicting the long-term outcome after traumatic brain injury (TBI) is an important component of treatment strategy. Despite dramatically improved emergency management of TBI and apparent ...
 
 ### Factors affecting blast traumatic brain injury.
 **Authors:** Kamnaksh A, Kovesdi E, Kwon SK, Wingo D, Ahmed F et al.  
