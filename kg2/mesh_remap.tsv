@@ -1,0 +1,5 @@
+old_id	new_id	new_name	evidence
+MESH:C000726808	MESH:D000098647	Generalized Anxiety Disorder	old SCR inactive (NLM "[OBSOLETE] general anxiety disorder"); new descriptor, exact label match, NLM lookup 04.10.2026
+MESH:C016679	MESH:D000099166	Polyacrylamides	old SCR inactive ("[OBSOLETE] polyacrylamide"); new descriptor; NLM term "Polyacrylamide"
+MESH:C536494	MESH:D000098943	Uveal Melanoma	old SCR inactive since 2024 ("[OBSOLETE] Uveal melanoma"); new descriptor, exact label match
+MESH:C562393	MESH:D000096142	Cutaneous Malignant Melanoma	old SCR inactive ("[OBSOLETE] Melanoma, Cutaneous Malignant"); new descriptor, same concept

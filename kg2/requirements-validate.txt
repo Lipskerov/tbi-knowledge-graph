@@ -1,0 +1,6 @@
+# Release validation only (kg2/validate_release.py). Install in its own venv, Python 3.12:
+#   python3.12 -m venv .venv-kgx && .venv-kgx/bin/pip install -r kg2/requirements-validate.txt
+#   KGX_BIN=.venv-kgx/bin/kgx python3 kg2/validate_release.py
+kgx==2.6.0
+bmt==1.5.0
+linkml-runtime==1.11.1

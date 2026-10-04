@@ -44,6 +44,7 @@ are not in L3 yet.
 | P6b time-split benchmark | `p6_timesplit.py` | `out/<v>/benchmarks/` |
 | P6d auto-audit of the 200 L1/L2 rows of V3 (source re-check + swap/flip controls) | `p6_v3_auto.py` | `curation/V3_auto_L1L2.tsv` |
 | P7 publishable release split by licence (CC BY main + non-commercial + CC BY-SA) | `p7_release.py` | `out/<v>/release/` |
+| P6b easy annotation sheets (same items/answers; START HERE tab; edge audit = 100 L3 rows) | `p6b_easy_sheets.py` (`--install` swaps them in) | `curation/*.xlsx` |
 | P6c score V1–V3 (run after annotation; read-only on `curation/`) | `p6_score.py` (tests: `test_p6_score.py`) | `out/<v>/validation/validation_scores.tsv`, `V2_disagreements_to_adjudicate.tsv` |
 
 ## Status — build 2.0.0-dev, 2026-09-29 (numbers from `stats.json`)
@@ -87,5 +88,10 @@ Leakage audit 0 in all arms. Table: `bench/results_summary.tsv`.
 - Rat genes: 238 of 244 linked to human by RGD 1:1 orthologs, each confirmed by HGNC's own rgd_id
   record (release only, so the benchmarked working graph is unchanged). The 6 left: 3 LOC/pseudogenes,
   Cyp2d2, RT1-CE11, and Crnde (RGD's human ID is not an HGNC gene).
+- Retired MeSH IDs: all 1,240 MeSH node IDs checked against NLM; 4 inactive supplementary concepts
+  are remapped in the release to their current descriptors (`mesh_remap.tsv`, old ID kept as xref):
+  general anxiety disorder → D000098647, polyacrylamide → D000099166, uveal melanoma → D000098943,
+  cutaneous malignant melanoma → D000096142 (7 edges). Working/benchmark graph unchanged.
+- Validator dependencies pinned in `requirements-validate.txt` (kgx 2.6.0, bmt 1.5.0).
 - Not yet:
   Zenodo release, licence audit.

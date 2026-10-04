@@ -30,7 +30,8 @@ def write_sheet(path, name, cols, rows):
 @pytest.fixture(scope="module")
 def fx(tmp_path_factory):
     d = tmp_path_factory.mktemp("curation")
-    key = {r["item"]: r["pubtator3_label"] for r in S.sheet_rows(CURATION / S.KEY_FILE, "key")}
+    kp = CURATION / "_answer_key_do_not_open" / S.KEY_FILE
+    key = {r["item"]: r["pubtator3_label"] for r in S.sheet_rows(kp if kp.exists() else CURATION / S.KEY_FILE, "key")}
     write_sheet(d / S.KEY_FILE, "key", ["item", "pubtator3_label"],
                 [{"item": i, "pubtator3_label": k} for i, k in key.items()])
     pos = sorted(i for i in key if key[i] != "none")

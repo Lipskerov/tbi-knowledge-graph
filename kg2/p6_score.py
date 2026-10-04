@@ -191,7 +191,9 @@ def score_extractor(name: str, pred: dict, truth: dict, strata: dict | None = No
 
 def score(curation: Path, preds_glob: str, strata: dict) -> tuple[list[dict], list[dict], list[str]]:
     msgs = []
-    key = {r["item"]: r["pubtator3_label"] for r in sheet_rows(curation / KEY_FILE, "key")}
+    key_path = curation / "_answer_key_do_not_open" / KEY_FILE
+    key_path = key_path if key_path.exists() else curation / KEY_FILE
+    key = {r["item"]: r["pubtator3_label"] for r in sheet_rows(key_path, "key")}
     ann = [{r["item"]: r for r in sheet_rows(curation / f"V2_gold_set_annotator_{k}.xlsx", "items")}
            for k in (1, 2)]
     for k, a in enumerate(ann, 1):

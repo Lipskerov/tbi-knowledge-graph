@@ -17,7 +17,7 @@ import json
 import shutil
 from collections import defaultdict
 
-from common import INTERIM, NODE_COLS, OUT, RAW, VERSION, dumps, fetch, read_tsv, write_tsv
+from common import INTERIM, KG2, NODE_COLS, OUT, RAW, VERSION, dumps, fetch, read_tsv, write_tsv
 from p5_integrate import PREFIX_IRI
 
 REL = OUT / VERSION
@@ -173,6 +173,17 @@ def main():
     write_tsv(DST / "noncommercial" / "edge_evidence.tsv", ev_cols, ev_split["nc"])
     write_tsv(DST / "chembl_cc-by-sa-3.0" / "edges.tsv", cols + ["licence"], sa_e)
     nodes = {n["id"]: n for n in read_tsv(REL / "nodes.tsv")}
+    # retired MeSH IDs -> current descriptors (mesh_remap.tsv); the old ID stays as an xref
+    remap = {r["old_id"]: r for r in read_tsv(KG2 / "mesh_remap.tsv")}
+    for old, r in remap.items():
+        if old in nodes:
+            n = nodes.pop(old)
+            assert r["new_id"] not in nodes, f"{r['new_id']} already a node: merge needed"
+            nodes[r["new_id"]] = dict(n, id=r["new_id"], name=r["new_name"],
+                                      xrefs="|".join(filter(None, [n.get("xrefs"), old])))
+    for e in main_e + nc_e + sa_e:
+        e["subject"] = remap[e["subject"]]["new_id"] if e["subject"] in remap else e["subject"]
+        e["object"] = remap[e["object"]]["new_id"] if e["object"] in remap else e["object"]
     used = {x for e in main_e + nc_e + sa_e for x in (e["subject"], e["object"])}
     rat_e, rat_n = rat_orthologs(nodes, used)
     main_e += rat_e
@@ -180,11 +191,8 @@ def main():
     write_tsv(DST / "nodes.tsv", NODE_COLS, list(nodes.values()) + rat_n)
     main_ids = {e["id"] for e in main_e}
     iri = lambda c: f"<{PREFIX_IRI[c.split(':', 1)[0]]}{c.split(':', 1)[1]}>"
-    with open(REL / "graph.nt") as fin, open(DST / "graph.nt", "w") as fout:
-        for e, line in zip(edges, fin):  # graph.nt is written in edges.tsv order
-            if e["id"] in main_ids:
-                fout.write(line)
-        for e in rat_e:
+    with open(DST / "graph.nt", "w") as fout:  # written from the final edges, remaps included
+        for e in main_e:
             fout.write(f"{iri(e['subject'])} {iri(e['predicate'])} {iri(e['object'])} .\n")
     (DST / "LICENSE.txt").write_text(LICENSE_TXT.format(v=VERSION))
     (DST / "noncommercial" / "LICENSE.txt").write_text(
@@ -198,11 +206,13 @@ def main():
     assert len(main_e) - len(rat_e) + len(nc_e) + len(sa_e) == len(edges), "edge count does not add up"
     assert len(where) == len(edges), "an edge landed in two files"
     assert sum(len(v) for v in ev_split.values()) == len(ev), "evidence rows lost"
+    left = {x for e in main_e + nc_e + sa_e for x in (e["subject"], e["object"])} & set(remap)
+    assert not left and not set(remap) & set(nodes), f"retired MeSH IDs still present: {left}"
     for path in DST.rglob("*.tsv"):
         with open(path) as f:
             assert "sentence" not in f.readline().split("\t"), f"sentence column in {path}"
     print(f"P7: release {VERSION}: main {len(main_e)} edges (CC BY 4.0, incl. {len(rat_e)} RGD rat orthologs, "
-          f"{len(rat_n)} human nodes added), non-commercial {len(nc_e)}, "
+          f"{len(rat_n)} human nodes added; {len(remap)} retired MeSH IDs remapped), non-commercial {len(nc_e)}, "
           f"ChEMBL CC BY-SA {len(sa_e)}; evidence main {len(ev_split['main'])}, "
           f"non-commercial {len(ev_split['nc'])}; sentence text removed from {sum(1 for r in ev if r['sentence'])} rows")
 
