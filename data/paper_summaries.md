@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-04*
-*Total papers: 7247*
+*Generated: 2026-10-05*
+*Total papers: 7248*
 
 
 ## Cluster: aging_neuro
@@ -16222,6 +16222,13 @@
 **PMID:** 42820670  **DOI:** 10.1177/00045632261497264
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** BACKGROUND: Combination of glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase-L1 (UCH-L1) is useful to exclude intracranial injury after mild traumatic brain injury (mTBI). We e...
+
+### Clinical Utility of Structural Blood-Based Biomarkers in Pediatric Traumatic Brain Injury: A Focused Review of Glial Fibrillary Acidic Protein, Ubiquitin C-Terminal Hydrolase L1, and S100 Calcium-Binding Protein B.
+**Authors:** Fu AY, Elguindy MM, Tang-Tan A, Caldwell DJ, Letchuman V et al.  
+**Journal:** Pediatric neurology (2026)  
+**PMID:** 42822098  **DOI:** 10.1016/j.pediatrneurol.2026.09.002
+**Entities:** GFAP, UCH-L1, TBI  
+**Abstract:** BACKGROUND: Blood-based biomarkers are becoming increasingly relevant for the diagnosis of acute traumatic brain injury (TBI) in adults, but they remain underutilized in children. There exists the nee...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  

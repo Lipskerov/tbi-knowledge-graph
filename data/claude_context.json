@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 7247,
+  "n_papers": 7248,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -192,6 +192,14 @@
         "entities": "TBI, dopamine"
       },
       {
+        "pmid": "42822098",
+        "title": "Clinical Utility of Structural Blood-Based Biomarkers in Pediatric Traumatic Brain Injury: A Focused Review of Glial Fibrillary Acidic Protein, Ubiquitin C-Terminal Hydrolase L1, and S100 Calcium-Binding Protein B.",
+        "authors": "Fu AY, Elguindy MM, Tang-Tan A, Caldwell DJ, Letchuman V et al.",
+        "year": 2026,
+        "journal": "Pediatric neurology",
+        "entities": "GFAP, UCH-L1, TBI"
+      },
+      {
         "pmid": "42820670",
         "title": "Accuracy of the novel automated VIDAS TBI (GFAP, UCH-L1) assay for ruling out acute intracranial traumatic lesions in patients under 65 years of age with mild traumatic brain injury in an Emergency Department: an exploratory study.",
         "authors": "P\u00e9rez Fern\u00e1ndez E, Montoro Jorquera E, Noblia L, Fern\u00e1ndez Reina A, Valle Alonso J et al.",
@@ -246,14 +254,6 @@
         "year": 2026,
         "journal": "Journal of neurology",
         "entities": "GFAP, NfL, tau, mTBI, TBI"
-      },
-      {
-        "pmid": "42610888",
-        "title": "Click-Chemistry-Enhanced Dynamic Light Scattering Immunoassay for Ultrasensitive GFAP Detection in Traumatic Brain Injury.",
-        "authors": "Tong W, Fang H, Yao M, Chen Y, Zhang S et al.",
-        "year": 2026,
-        "journal": "Analytical chemistry",
-        "entities": "GFAP, TBI"
       }
     ],
     "nfl_tau": [
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3707
+      "paper_count": 3708
     },
     {
       "name": "mTBI",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 949
+      "paper_count": 950
     },
     {
       "name": "tau",
@@ -850,7 +850,7 @@
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 326
+      "paper_count": 327
     },
     {
       "name": "NQO2",
@@ -957,7 +957,7 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 790.0
+      "weight": 791.0
     },
     {
       "source": "mTBI",
@@ -1002,7 +1002,7 @@
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 296.0
+      "weight": 297.0
     },
     {
       "source": "GFAP",
@@ -1012,7 +1012,7 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 282.0
+      "weight": 283.0
     },
     {
       "source": "neuroinflammation",

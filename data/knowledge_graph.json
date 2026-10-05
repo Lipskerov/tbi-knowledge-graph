@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T13:09:17.455790",
-  "n_papers": 7247,
+  "generated_at": "2026-10-05T15:51:38.721284",
+  "n_papers": 7248,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
     "aging_neuro": 1857,
     "exosomal_rna": 394,
-    "gfap_uchl1": 783,
+    "gfap_uchl1": 784,
     "nfl_tau": 802,
     "nqo2": 379,
     "ppcs_prognosis": 1026,
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3707,
+      "paper_count": 3708,
       "centrality": 0.4825
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 949,
+      "paper_count": 950,
       "centrality": 0.3596
     },
     {
@@ -97,7 +97,7 @@
       "id": 10,
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 326,
+      "paper_count": 327,
       "centrality": 0.2719
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 790.0,
-      "n_papers": 790.0,
+      "weight": 791.0,
+      "n_papers": 791.0,
       "annotation": null
     },
     {
@@ -1869,8 +1869,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 296.0,
-      "n_papers": 296.0,
+      "weight": 297.0,
+      "n_papers": 297.0,
       "annotation": null
     },
     {
@@ -1889,8 +1889,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 282.0,
-      "n_papers": 282.0,
+      "weight": 283.0,
+      "n_papers": 283.0,
       "annotation": null
     },
     {
