@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-05*
-*Total papers: 7248*
+*Generated: 2026-10-06*
+*Total papers: 7250*
 
 
 ## Cluster: aging_neuro
@@ -14918,6 +14918,13 @@
 **Entities:** neuroinflammation, TBI  
 **Abstract:** Traumatic brain injury (TBI) dysregulates microRNAs, which are the master regulators of gene expression. Here we investigated the changes in a brain-enriched miR-124-3p, which is known to associate wi...
 
+### Early single-dose exosome treatment improves neurologic outcomes in a 7-day swine model of traumatic brain injury and hemorrhagic shock.
+**Authors:** Williams AM, Wu Z, Bhatti UF, Biesterveld BE, Kemp MT et al.  
+**Journal:** The journal of trauma and acute care surgery (2020)  
+**PMID:** 32218019  **DOI:** 10.1097/TA.0000000000002698
+**Entities:** BDNF, IL-6, BBB, TBI  
+**Abstract:** BACKGROUND: Early single-dose treatment with human mesenchymal stem cell-derived exosomes promotes neuroprotection and promotes blood-brain barrier integrity in models of traumatic brain injury (TBI) ...
+
 ### Mesenchymal stem cell-derived exosomes as a nanotherapeutic agent for amelioration of inflammation-induced astrocyte alterations in mice.
 **Authors:** Xian P, Hei Y, Wang R, Wang T, Yang J et al.  
 **Journal:** Theranostics (2019)  
@@ -15148,6 +15155,13 @@
 **PMID:** 30860987  **DOI:** 10.12659/MSM.915727
 **Entities:** miR-21, TBI  
 **Abstract:** BACKGROUND Traumatic brain injury (TBI) produces a series of pathological processes. Recent studies have indicated that autophagy pathway is persistently activated after TBI, which may lead to deterio...
+
+### Increases in miR-124-3p in Microglial Exosomes Confer Neuroprotective Effects by Targeting FIP200-Mediated Neuronal Autophagy Following Traumatic Brain Injury.
+**Authors:** Li D, Huang S, Yin Z, Zhu J, Ge X et al.  
+**Journal:** Neurochemical research (2019)  
+**PMID:** 31190315  **DOI:** 10.1007/s11064-019-02825-1
+**Entities:** TBI  
+**Abstract:** In our recent study, we observed consistent increases in miR-124-3p levels in exosomes derived from cultured BV2 microglia which was treated with repetitive traumatic brain injury (rTBI) mouse model b...
 
 ### Traumatic brain injury: classification, models, and markers.
 **Authors:** Najem D, Rennie K, Ribecco-Lutkiewicz M, Ly D, Haukenfrers J et al.  

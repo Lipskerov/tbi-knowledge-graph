@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T15:51:38.721284",
-  "n_papers": 7248,
+  "generated_at": "2026-10-06T14:08:05.164591",
+  "n_papers": 7250,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
     "aging_neuro": 1857,
-    "exosomal_rna": 394,
+    "exosomal_rna": 396,
     "gfap_uchl1": 784,
     "nfl_tau": 802,
     "nqo2": 379,
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3708,
+      "paper_count": 3710,
       "centrality": 0.4825
     },
     {
@@ -111,7 +111,7 @@
       "id": 37,
       "name": "BBB",
       "type": "process",
-      "paper_count": 305,
+      "paper_count": 306,
       "centrality": 0.307
     },
     {
@@ -139,7 +139,7 @@
       "id": 18,
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 218,
+      "paper_count": 219,
       "centrality": 0.2895
     },
     {
@@ -181,7 +181,7 @@
       "id": 16,
       "name": "BDNF",
       "type": "protein",
-      "paper_count": 113,
+      "paper_count": 114,
       "centrality": 0.2719
     },
     {
@@ -2009,8 +2009,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 212.0,
-      "n_papers": 212.0,
+      "weight": 213.0,
+      "n_papers": 213.0,
       "annotation": null
     },
     {
@@ -2169,8 +2169,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 135.0,
-      "n_papers": 135.0,
+      "weight": 136.0,
+      "n_papers": 136.0,
       "annotation": null
     },
     {
@@ -2894,6 +2894,16 @@
       "annotation": null
     },
     {
+      "source": "BDNF",
+      "target": "TBI",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 43.0,
+      "n_papers": 43.0,
+      "annotation": null
+    },
+    {
       "source": "GFAP",
       "target": "GOS-E",
       "relation": "co-occurs",
@@ -2916,16 +2926,6 @@
     {
       "source": "IL-6",
       "target": "IL-1\u03b2",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 42.0,
-      "n_papers": 42.0,
-      "annotation": null
-    },
-    {
-      "source": "BDNF",
-      "target": "TBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -3894,6 +3894,16 @@
       "annotation": null
     },
     {
+      "source": "BDNF",
+      "target": "IL-6",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 16.0,
+      "n_papers": 16.0,
+      "annotation": null
+    },
+    {
       "source": "BBB",
       "target": "CTE",
       "relation": "co-occurs",
@@ -3966,16 +3976,6 @@
     {
       "source": "Iba1",
       "target": "mTBI",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 15.0,
-      "n_papers": 15.0,
-      "annotation": null
-    },
-    {
-      "source": "BDNF",
-      "target": "IL-6",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -4394,6 +4394,16 @@
       "annotation": null
     },
     {
+      "source": "IL-6",
+      "target": "BBB",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 11.0,
+      "n_papers": 11.0,
+      "annotation": null
+    },
+    {
       "source": "Alzheimer",
       "target": "SOD",
       "relation": "co-occurs",
@@ -4506,16 +4516,6 @@
     {
       "source": "S100B",
       "target": "NfH",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 10.0,
-      "n_papers": 10.0,
-      "annotation": null
-    },
-    {
-      "source": "IL-6",
-      "target": "BBB",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -4954,6 +4954,16 @@
       "annotation": null
     },
     {
+      "source": "BDNF",
+      "target": "BBB",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 8.0,
+      "n_papers": 8.0,
+      "annotation": null
+    },
+    {
       "source": "NfL",
       "target": "BDNF",
       "relation": "co-occurs",
@@ -5186,16 +5196,6 @@
     {
       "source": "NfH",
       "target": "IL-6",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 7.0,
-      "n_papers": 7.0,
-      "annotation": null
-    },
-    {
-      "source": "BDNF",
-      "target": "BBB",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
