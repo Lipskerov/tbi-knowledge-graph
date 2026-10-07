@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T14:08:05.164591",
-  "n_papers": 7250,
+  "generated_at": "2026-10-07T14:24:23.337511",
+  "n_papers": 7251,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
-    "aging_neuro": 1857,
+    "aging_neuro": 1858,
     "exosomal_rna": 396,
     "gfap_uchl1": 784,
     "nfl_tau": 802,
@@ -34,14 +34,14 @@
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 1564,
+      "paper_count": 1565,
       "centrality": 0.3684
     },
     {
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1541,
+      "paper_count": 1542,
       "centrality": 0.4211
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 854.0,
-      "n_papers": 854.0,
+      "weight": 855.0,
+      "n_papers": 855.0,
       "annotation": null
     },
     {

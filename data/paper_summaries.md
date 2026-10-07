@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-06*
-*Total papers: 7250*
+*Generated: 2026-10-07*
+*Total papers: 7251*
 
 
 ## Cluster: aging_neuro
@@ -1558,6 +1558,13 @@
 **PMID:** 42801246  **DOI:** 10.2147/CIA.S639690
 **Entities:** tau, neuroinflammation, Alzheimer, lecanemab, donanemab  
 **Abstract:** Alzheimer's disease (AD) is the leading cause of dementia worldwide, disproportionately affecting individuals over 65 years of age and imposing a rapidly escalating burden on healthcare systems and ca...
+
+### Accelerated brain aging as a transdiagnostic biomarker: A lifespan MRI brain age study across seven disorders.
+**Authors:** Gupta Y, de la Cruz F, Geisler M, Rieger K, Schumann A et al.  
+**Journal:** Psychological medicine (2026)  
+**PMID:** 42839301  **DOI:** 10.1017/S003329172610587X
+**Entities:** Alzheimer, aging  
+**Abstract:** BACKGROUND: Accelerated brain aging has been associated with several neuropsychiatric disorders; however, findings remain inconsistent due to limited lifespan modeling and inadequate age-bias correcti...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
