@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-07*
-*Total papers: 7251*
+*Generated: 2026-10-09*
+*Total papers: 7254*
 
 
 ## Cluster: aging_neuro
@@ -29882,6 +29882,13 @@
 **Entities:** mTBI, CTE  
 **Abstract:** Neuropsychological assessment plays a critical role in sport-related concussion management, providing objective data to support diagnosis, monitor recovery, and guide return-to-learn and return-to-pla...
 
+### Treatment of Persisting Symptoms after Concussion with Repetitive Transcranial Magnetic Stimulation: A Double-Blinded, Randomized, Controlled Trial.
+**Authors:** Campbell C, Wilson AJ, Du Plessis S, Vergeer MH, Jobin K et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 41968688  **DOI:** 10.1177/08977151261440773
+**Entities:** mTBI, TBI  
+**Abstract:** Following a mild traumatic brain injury (mTBI), up to 30% of individuals will experience persisting symptoms beyond 3 months. Repetitive transcranial magnetic stimulation (rTMS) is a noninvasive neuro...
+
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
 **Journal:** Expert review of neurotherapeutics (2025)  
@@ -37531,6 +37538,13 @@
 **PMID:** 42537244  **DOI:** 10.3171/2026.2.JNS252985
 **Entities:** mTBI, TBI  
 **Abstract:** OBJECTIVE: In patients with mild traumatic brain injury (TBI; Glasgow Coma Scale scores 13-15), the presence of anticoagulant or antiplatelet therapy, collectively referred to as blood thinners (BTs),...
+
+### Neuropathological and Behavioral Effects of Mild Traumatic Brain Injury at High Altitude.
+**Authors:** Browne CA, Korotcov A, Cramer NP, Gangolli M, Xu X et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 42116682  **DOI:** 10.1177/08977151261438726
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: In lowlanders, ascent to and prolonged stay at high altitude (HA) can trigger maladaptive changes in neurovascularization, immune function, and hippocampal-dependent cognitive impairment. M...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
@@ -46000,6 +46014,13 @@
 **PMID:** 42814802  **DOI:** 10.1126/scitranslmed.aef5898
 **Entities:** NfL, neuroinflammation, TBI, aging  
 **Abstract:** Patients with chronic traumatic brain injury (cTBI) experience long-term exacerbated neurological decline, which is even more severe in older patients, yet the underlying mechanisms remain unclear. Cr...
+
+### Dendrimer Delivered shRNA Targeting the CCL20-CCR6 Axis Suppresses Complement-Mediated Microglial Synaptic Pruning and Ameliorates Chronic Neuroinflammation After Repetitive Traumatic Brain Injury.
+**Authors:** Mayilsamy K, Patel PB, Green R, Bikkasani S, Tosi K et al.  
+**Journal:** Molecular therapy : the journal of the American Society of Gene Therapy (2026)  
+**PMID:** 42850885  **DOI:** 10.1016/j.ymthe.2026.10.002
+**Entities:** BDNF, neuroinflammation, TBI, Alzheimer  
+**Abstract:** Repetitive traumatic brain injury (rTBI) induces persistent microglial activation and chronic neuroinflammation, yet the upstream signals driving long-term synaptic injury remain unclear. In this stud...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
