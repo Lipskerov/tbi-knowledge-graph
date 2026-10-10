@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-09*
-*Total papers: 7254*
+*Generated: 2026-10-10*
+*Total papers: 7255*
 
 
 ## Cluster: aging_neuro
@@ -37545,6 +37545,13 @@
 **PMID:** 42116682  **DOI:** 10.1177/08977151261438726
 **Entities:** mTBI, TBI  
 **Abstract:** OBJECTIVE: In lowlanders, ascent to and prolonged stay at high altitude (HA) can trigger maladaptive changes in neurovascularization, immune function, and hippocampal-dependent cognitive impairment. M...
+
+### Circulating oligodendrocyte-derived extracellular vesicle surface markers in athletes exposed to repetitive head impacts: an exploratory study.
+**Authors:** Mitsuhashi M, Sun H, Xing L, Hirata A, Oguma Y et al.  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 42851541  **DOI:** 10.3389/fneur.2026.1915481
+**Entities:** IL-1β, neuroinflammation, mTBI, MBP  
+**Abstract:** BACKGROUND AND OBJECTIVES: Repetitive head impacts (RHI) are increasingly recognized as potential contributors to long-term neurological consequences. Current clinical assessments rely primarily on sy...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
