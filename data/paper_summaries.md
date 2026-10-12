@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-10*
-*Total papers: 7255*
+*Generated: 2026-10-12*
+*Total papers: 7256*
 
 
 ## Cluster: aging_neuro
@@ -1565,6 +1565,13 @@
 **PMID:** 42839301  **DOI:** 10.1017/S003329172610587X
 **Entities:** Alzheimer, aging  
 **Abstract:** BACKGROUND: Accelerated brain aging has been associated with several neuropsychiatric disorders; however, findings remain inconsistent due to limited lifespan modeling and inadequate age-bias correcti...
+
+### APOE4-AGE axis is linked to mtDNA release and cGAS-STING-mediated neuroinflammation in the aging brain.
+**Authors:** Akhter F, Akhter A, Zhou J, Xi M, Zhu D  
+**Journal:** Free radical biology & medicine (2026)  
+**PMID:** 42667969  **DOI:** 10.1016/j.freeradbiomed.2026.08.054
+**Entities:** Iba1, neuroinflammation, Alzheimer, aging  
+**Abstract:** Advanced glycation end products (AGEs) accumulate with aging and have been implicated in neurodegeneration, yet their relationship with the APOE4 genotype and downstream inflammatory signaling remains...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
