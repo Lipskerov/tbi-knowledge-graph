@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-12*
-*Total papers: 7256*
+*Generated: 2026-10-13*
+*Total papers: 7262*
 
 
 ## Cluster: aging_neuro
@@ -19170,6 +19170,13 @@
 **Entities:** GFAP, TBI  
 **Abstract:** BACKGROUND AND PURPOSE: The astroglial protein GFAP is a blood biomarker indicative of intracerebral hemorrhage in patients with acute stroke. Due to its brain specificity and the necessity of brain d...
 
+### Diagnostic value of serum glial fibrillary acidic protein and S100B serum levels in emergency medicine patients with traumatic versus nontraumatic intracerebral hemorrhage.
+**Authors:** Aydin I, Algin A, Poyraz MK, Yumrutas O  
+**Journal:** Nigerian journal of clinical practice (2018)  
+**PMID:** 30560830  **DOI:** 10.4103/njcp.njcp_431_17
+**Entities:** GFAP, S100B, TBI  
+**Abstract:** BACKGROUND: Glial fibrillary acidic protein (GFAP) is a brain-specific astroglial protein that is released into the blood soon after traumatic brain injury by mature astrocytes. S100B is rapidly relea...
+
 ### Biofluid biomarkers of traumatic brain injury.
 **Authors:** Agoston DV, Shutes-David A, Peskind ER  
 **Journal:** Brain injury (2017)  
@@ -29896,6 +29903,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** Following a mild traumatic brain injury (mTBI), up to 30% of individuals will experience persisting symptoms beyond 3 months. Repetitive transcranial magnetic stimulation (rTMS) is a noninvasive neuro...
 
+### Comparative predictive validity of a psychological risk screening tool in adults after mild traumatic brain injury.
+**Authors:** Snell DL, Mikolić A, Faulkner JW, Theadom A, Silverberg ND  
+**Journal:** Brain injury (2026)  
+**PMID:** 40999565  **DOI:** 10.1080/02699052.2025.2565640
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVE: To determine the comparative predictive validity of the Subgroups for Targeted Treatment modified for concussion (STarT-C) with full-length psychological measures (legacy questionnaires) in...
+
 ### Persistent post-concussion syndrome: pathophysiology, diagnosis, current and evolving treatment strategies.
 **Authors:** Hadanny A, Efrati S  
 **Journal:** Expert review of neurotherapeutics (2025)  
@@ -34495,6 +34509,20 @@
 **Entities:** mTBI  
 **Abstract:** Parent reports of their adolescent athletes' recovery from concussion are often considered by clinicians, but limited research has explored the factors (i.e., athletes' symptoms and neurocognitive per...
 
+### Can Computerized Neuropsychological Testing in the Emergency Department Predict Recovery for Young Athletes With Concussions?
+**Authors:** Hang B, Babcock L, Hornung R, Ho M, Pomerantz WJ  
+**Journal:** Pediatric emergency care (2015)  
+**PMID:** 26430968  **DOI:** 10.1097/PEC.0000000000000438
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: The objective of this study was to determine if computerized neurocognitive testing (Immediate Post-Concussion Assessment and Cognitive Testing [ImPACT]) in the emergency department (ED) ca...
+
+### Understanding Why Patients Return to the Emergency Department after Mild Traumatic Brain Injury within 72 Hours.
+**Authors:** Ganti L, Conroy LM, Bodhit A, Daneshvar Y, Patel PS et al.  
+**Journal:** The western journal of emergency medicine (2015)  
+**PMID:** 25987933  **DOI:** 10.5811/westjem.2015.2.23546
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** INTRODUCTION: Although there are approximately 1.1 million case presentations of mild traumatic brain injury (mTBI) in the emergency department (ED) each year, little data is available to clinicians t...
+
 ### Violence-related mild traumatic brain injury in women: identifying a triad of postinjury disorders.
 **Authors:** Davis A  
 **Journal:** Journal of trauma nursing : the official journal of the Society of Trauma Nurses (2014)  
@@ -35496,6 +35524,13 @@
 **Entities:** mTBI  
 **Abstract:** BACKGROUND: There has been increasing attention and understanding of sport-related concussions. Recent studies show that neurocognitive testing and symptom clusters may predict protracted recovery in ...
 
+### Long term outcome following mild traumatic brain injury in Moroccan patients.
+**Authors:** Fourtassi M, Hajjioui A, Ouahabi AE, Benmassaoud H, Hajjaj-Hassouni N et al.  
+**Journal:** Clinical neurology and neurosurgery (2011)  
+**PMID:** 21840643  **DOI:** 10.1016/j.clineuro.2011.07.010
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** PRIMARY OBJECTIVES: To describe the symptoms of chronic post-concussion syndrome (PCS) and to investigate the relationship between the persistence of these symptoms and different aspects of social lif...
+
 ### Bomb blast, mild traumatic brain injury and psychiatric morbidity: a review.
 **Authors:** Rosenfeld JV, Ford NL  
 **Journal:** Injury (2010)  
@@ -35824,6 +35859,13 @@
 **PMID:** 19858967  **DOI:** 10.1097/HTR.0b013e3181aea51f
 **Entities:** mTBI, TBI, PPCS  
 **Abstract:** OBJECTIVE: To investigate the utility of a brief emergency department (ED) bedside screen for the prediction of postconcussive symptoms at 3 months following mild traumatic brain injury (MTBI). PARTIC...
+
+### Prevalence and structure of symptoms at 3 months after mild traumatic brain injury in a national cohort.
+**Authors:** Lannsjö M, af Geijerstam JL, Johansson U, Bring J, Borg J  
+**Journal:** Brain injury (2009)  
+**PMID:** 19205957  **DOI:** 10.1080/02699050902748356
+**Entities:** mTBI, TBI, PPCS  
+**Abstract:** OBJECTIVES: To describe symptom prevalence and structure after mild traumatic brain injury (MTBI) in a population-based cohort. METHODS: Symptoms data were collected at 3 months post-MTBI by use of th...
 
 ### Early prediction of favourable recovery 6 months after mild traumatic brain injury.
 **Authors:** Stulemeijer M, van der Werf S, Borm GF, Vos PE  
