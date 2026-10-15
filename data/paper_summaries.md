@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-13*
-*Total papers: 7262*
+*Generated: 2026-10-15*
+*Total papers: 7263*
 
 
 ## Cluster: aging_neuro
@@ -43652,6 +43652,13 @@
 **PMID:** 42776453  **DOI:** 10.1007/s11845-026-04608-4
 **Entities:** TNF-α, IL-1β, neuroinflammation, mTBI, TBI  
 **Abstract:** BACKGROUND: Cognitive impairment is a common sequela of mild traumatic brain injury (mTBI), but early blood-based predictors remain limited. Neutrophil extracellular traps (NETs) have been implicated ...
+
+### Reframing traumatic brain injury and spinal cord injury as chronic multisystem disorders: toward integrated, long-term care.
+**Authors:** Marini S, Schneider ALC, Alshaya A, Bragge P, Corrigan JD et al.  
+**Journal:** The Lancet. Neurology (2026)  
+**PMID:** 42874605  **DOI:** 10.1016/S1474-4422(26)00297-8
+**Entities:** TBI, aging  
+**Abstract:** Traumatic brain injury (TBI) and spinal cord injury (SCI) affect more than 220 million people worldwide and are associated with cardiometabolic, endocrine, neurological, and psychiatric sequelae for y...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
