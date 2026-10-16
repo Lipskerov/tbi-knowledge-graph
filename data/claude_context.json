@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 7263,
+  "n_papers": 7265,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -60,6 +60,14 @@
         "entities": "aging"
       },
       {
+        "pmid": "42883921",
+        "title": "Exercise-Induced Extracellular Vesicle-Associated miRNAs in Cognitive Aging of Older Adults: A Narrative Review.",
+        "authors": "Ma\u0142kowska P, Sochacka M, Proia P, Sawczuk M",
+        "year": 2026,
+        "journal": "International journal of molecular sciences",
+        "entities": "ROS, neuroinflammation, oxidative stress, BBB, aging"
+      },
+      {
         "pmid": "42839301",
         "title": "Accelerated brain aging as a transdiagnostic biomarker: A lifespan MRI brain age study across seven disorders.",
         "authors": "Gupta Y, de la Cruz F, Geisler M, Rieger K, Schumann A et al.",
@@ -82,14 +90,6 @@
         "year": 2026,
         "journal": "Glia",
         "entities": "aging"
-      },
-      {
-        "pmid": "42783409",
-        "title": "The Gut-Immune-Brain Axis in Aging: Integrating Immunosenescence, Inflammaging, and Neuroinflammation for Precision Medicine.",
-        "authors": "Baji\u0107 D, Vu\u010dkovi\u0107 J, Pupovac N, Slavi\u0107 D, Stoj\u0161i\u0107 M et al.",
-        "year": 2026,
-        "journal": "Medical sciences (Basel, Switzerland)",
-        "entities": "neuroinflammation, aging"
       }
     ],
     "exosomal_rna": [
@@ -805,12 +805,12 @@
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 1567
+      "paper_count": 1569
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1544
+      "paper_count": 1545
     },
     {
       "name": "GFAP",
@@ -820,12 +820,12 @@
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 902
+      "paper_count": 903
     },
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 700
+      "paper_count": 702
     },
     {
       "name": "NfL",
@@ -840,12 +840,12 @@
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 476
+      "paper_count": 478
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 450
+      "paper_count": 452
     },
     {
       "name": "UCH-L1",
@@ -860,7 +860,7 @@
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 306
+      "paper_count": 308
     },
     {
       "name": "S100B",
@@ -952,7 +952,7 @@
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 856.0
+      "weight": 857.0
     },
     {
       "source": "GFAP",
@@ -972,12 +972,12 @@
     {
       "source": "tau",
       "target": "Alzheimer",
-      "weight": 478.0
+      "weight": 479.0
     },
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 415.0
+      "weight": 417.0
     },
     {
       "source": "TBI",
@@ -1012,7 +1012,7 @@
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 283.0
+      "weight": 284.0
     },
     {
       "source": "GFAP",
@@ -1025,14 +1025,14 @@
       "weight": 273.0
     },
     {
+      "source": "neuroinflammation",
+      "target": "aging",
+      "weight": 265.0
+    },
+    {
       "source": "tau",
       "target": "p-tau",
       "weight": 264.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "aging",
-      "weight": 263.0
     },
     {
       "source": "GFAP",
@@ -1057,17 +1057,17 @@
     {
       "source": "tau",
       "target": "aging",
-      "weight": 236.0
+      "weight": 237.0
     },
     {
       "source": "ROS",
       "target": "aging",
-      "weight": 230.0
+      "weight": 232.0
     },
     {
       "source": "oxidative stress",
       "target": "aging",
-      "weight": 223.0
+      "weight": 225.0
     },
     {
       "source": "BBB",
@@ -1102,7 +1102,7 @@
     {
       "source": "ROS",
       "target": "Alzheimer",
-      "weight": 155.0
+      "weight": 156.0
     },
     {
       "source": "mTBI",
@@ -1122,7 +1122,7 @@
     {
       "source": "oxidative stress",
       "target": "Alzheimer",
-      "weight": 149.0
+      "weight": 150.0
     },
     {
       "source": "ROS",
@@ -1162,22 +1162,22 @@
     {
       "source": "tau",
       "target": "neuroinflammation",
-      "weight": 127.0
+      "weight": 128.0
+    },
+    {
+      "source": "ROS",
+      "target": "neuroinflammation",
+      "weight": 123.0
+    },
+    {
+      "source": "neuroinflammation",
+      "target": "oxidative stress",
+      "weight": 123.0
     },
     {
       "source": "p-tau",
       "target": "TBI",
       "weight": 122.0
-    },
-    {
-      "source": "ROS",
-      "target": "neuroinflammation",
-      "weight": 121.0
-    },
-    {
-      "source": "neuroinflammation",
-      "target": "oxidative stress",
-      "weight": 121.0
     },
     {
       "source": "GFAP",

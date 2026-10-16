@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-15*
-*Total papers: 7263*
+*Generated: 2026-10-16*
+*Total papers: 7265*
 
 
 ## Cluster: aging_neuro
@@ -1572,6 +1572,20 @@
 **PMID:** 42667969  **DOI:** 10.1016/j.freeradbiomed.2026.08.054
 **Entities:** Iba1, neuroinflammation, Alzheimer, aging  
 **Abstract:** Advanced glycation end products (AGEs) accumulate with aging and have been implicated in neurodegeneration, yet their relationship with the APOE4 genotype and downstream inflammatory signaling remains...
+
+### Biomarkers of the blood-brain barrier and the neurovascular unit and their relationship with cognitive decline and cognitive frailty.
+**Authors:** Rodríguez-Callejas JD, Mimenza-Alvarado AJ, Lomas-Soria C, Aguilar-Navarro SG  
+**Journal:** Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion (2026)  
+**PMID:** 42664679  **DOI:** 10.1016/j.ric.2026.100056
+**Entities:** ROS, tau, neuroinflammation, oxidative stress, BBB  
+**Abstract:** Aging is accompanied by an increasing prevalence of frailty and age-related cognitive decline (CD). Cognitive frailty (CF), characterized by physical frailty and cognitive impairment, has been associa...
+
+### Exercise-Induced Extracellular Vesicle-Associated miRNAs in Cognitive Aging of Older Adults: A Narrative Review.
+**Authors:** Małkowska P, Sochacka M, Proia P, Sawczuk M  
+**Journal:** International journal of molecular sciences (2026)  
+**PMID:** 42883921  **DOI:** 10.3390/ijms27198677
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, aging  
+**Abstract:** Cognitive aging involves chronic neuroinflammation, microglial dysregulation, vascular dysfunction, oxidative stress, and impaired neuroplasticity, and physical activity is one of the few modifiable i...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
