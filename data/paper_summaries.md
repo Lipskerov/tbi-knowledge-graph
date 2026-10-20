@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-16*
-*Total papers: 7265*
+*Generated: 2026-10-20*
+*Total papers: 7268*
 
 
 ## Cluster: aging_neuro
@@ -15660,6 +15660,13 @@
 **Entities:** —  
 **Abstract:** The present study aims to test whether Lycium barbarum L. has anti-hypertensive effect through regulating expression of lncRNA sONE in a rat model of salt-sensitive hypertension. Nine weeks old border...
 
+### Detection of hypoxia markers in the cerebellum after a traumatic frontal cortex injury: a human postmortem gene expression analysis.
+**Authors:** Schober K, Ondruschka B, Dreßler J, Abend M  
+**Journal:** International journal of legal medicine (2015)  
+**PMID:** 25432860  **DOI:** 10.1007/s00414-014-1129-3
+**Entities:** IL-6, TBI  
+**Abstract:** PURPOSE: The response to traumatic brain injury (TBI) is complex and induces various biological pathways in all brain regions that contribute to bad outcomes. The cerebellar hypoxia after a frontal co...
+
 ### Exosome platform for diagnosis and monitoring of traumatic brain injury.
 **Authors:** Taylor DD, Gercel-Taylor C  
 **Journal:** Philosophical transactions of the Royal Society of London. Series B, Biological sciences (2014)  
@@ -18406,6 +18413,13 @@
 **PMID:** 33161875  **DOI:** 10.1089/neu.2020.7177
 **Entities:** TBI  
 **Abstract:** Systemic inflammation impacts outcome after traumatic brain injury (TBI), but most TBI biomarker studies have focused on brain-specific proteins. C-reactive protein (CRP) is a widely used biomarker of...
+
+### Prognostic Value of a Combination of Circulating Biomarkers in Critically Ill Patients with Traumatic Brain Injury: Results from the European CREACTIVE Study.
+**Authors:** Gradisek P, Carrara G, Antiga L, Bottazzi B, Chieregato A et al.  
+**Journal:** Journal of neurotrauma (2021)  
+**PMID:** 34235978  **DOI:** 10.1089/neu.2021.0066
+**Entities:** GFAP, TBI, GOS-E  
+**Abstract:** Individualized patient care is essential to reduce the global burden of traumatic brain injury (TBI). This pilot study focused on TBI patients admitted to intensive care units (ICUs) and aimed at iden...
 
 ### A Biomarker for Concussion: The Good, the Bad, and the Unknown.
 **Authors:** Reece JT, Milone M, Wang P, Herman D, Petrov D et al.  
@@ -21157,6 +21171,13 @@
 **PMID:** 10943727  
 **Entities:** neuroinflammation, TBI  
 **Abstract:** In a rat model of traumatic brain injury cell activation was characterized immunohistochemically from 2 h up to 2 weeks. Reactive astrocytosis became apparent perivascularly and in the grey matter wit...
+
+### Traumatic brain injury leads to increased expression of peripheral-type benzodiazepine receptors, neuronal death, and activation of astrocytes and microglia in rat thalamus.
+**Authors:** Raghavendra Rao VL, Dogan A, Bowen KK, Dempsey RJ  
+**Journal:** Experimental neurology (2000)  
+**PMID:** 10683277  
+**Entities:** GFAP, TBI  
+**Abstract:** In mammalian CNS, the peripheral-type benzodiazepine receptor (PTBR) is localized on the outer mitochondrial membrane within the astrocytes and microglia. PTBR transports cholesterol to the site of ne...
 
 ### Sequential changes in glial fibrillary acidic protein and gene expression following parasagittal fluid-percussion brain injury in rats.
 **Authors:** Dietrich WD, Truettner J, Zhao W, Alonso OF, Busto R et al.  

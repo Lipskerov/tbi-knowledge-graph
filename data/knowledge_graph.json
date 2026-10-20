@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T12:16:10.260858",
-  "n_papers": 7265,
+  "generated_at": "2026-10-20T12:41:04.402762",
+  "n_papers": 7268,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
     "aging_neuro": 1861,
-    "exosomal_rna": 396,
-    "gfap_uchl1": 785,
+    "exosomal_rna": 397,
+    "gfap_uchl1": 787,
     "nfl_tau": 802,
     "nqo2": 379,
     "ppcs_prognosis": 1032,
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3719,
+      "paper_count": 3722,
       "centrality": 0.4825
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 951,
+      "paper_count": 953,
       "centrality": 0.3596
     },
     {
@@ -139,7 +139,7 @@
       "id": 18,
       "name": "IL-6",
       "type": "protein",
-      "paper_count": 219,
+      "paper_count": 220,
       "centrality": 0.2895
     },
     {
@@ -188,7 +188,7 @@
       "id": 1004,
       "name": "GOS-E",
       "type": "disease",
-      "paper_count": 100,
+      "paper_count": 101,
       "centrality": 0.1754
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 792.0,
-      "n_papers": 792.0,
+      "weight": 794.0,
+      "n_papers": 794.0,
       "annotation": null
     },
     {
@@ -2169,8 +2169,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 136.0,
-      "n_papers": 136.0,
+      "weight": 137.0,
+      "n_papers": 137.0,
       "annotation": null
     },
     {
@@ -2349,8 +2349,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 100.0,
-      "n_papers": 100.0,
+      "weight": 101.0,
+      "n_papers": 101.0,
       "annotation": null
     },
     {
@@ -2895,6 +2895,16 @@
     },
     {
       "source": "GFAP",
+      "target": "GOS-E",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 44.0,
+      "n_papers": 44.0,
+      "annotation": null
+    },
+    {
+      "source": "GFAP",
       "target": "TNF-\u03b1",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
@@ -2906,16 +2916,6 @@
     {
       "source": "IL-1\u03b2",
       "target": "neuroinflammation",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 43.0,
-      "n_papers": 43.0,
-      "annotation": null
-    },
-    {
-      "source": "GFAP",
-      "target": "GOS-E",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
