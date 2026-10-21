@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-20*
-*Total papers: 7268*
+*Generated: 2026-10-21*
+*Total papers: 7269*
 
 
 ## Cluster: aging_neuro
@@ -21328,6 +21328,13 @@
 
 
 ## Cluster: nfl_tau
+
+### Convergent molecular mechanisms of chronic heavy metal exposure and repetitive mild traumatic brain injury in neurodegenerative processes.
+**Authors:** Baradie Y, Bou Najm D, El-Makkawi A, Cherfane N, El Murr S et al.  
+**Journal:** Experimental neurology (2027)  
+**PMID:** 42849602  **DOI:** 10.1016/j.expneurol.2026.116056
+**Entities:** ROS, tau, neuroinflammation, oxidative stress, BBB  
+**Abstract:** Repetitive mild traumatic brain injury (rmTBI) and chronic environmental exposure to heavy metals represent widespread contributors to neurological dysfunction that are typically studied independently...
 
 ### The Pathophysiology of Concussive Brain Injury.
 **Authors:** Shane BR, Hoffman AN, Prins M, Giza CC  
