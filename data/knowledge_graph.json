@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-21T12:52:51.811775",
-  "n_papers": 7269,
+  "generated_at": "2026-10-23T12:34:11.615062",
+  "n_papers": 7273,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
-    "aging_neuro": 1861,
+    "aging_neuro": 1862,
     "exosomal_rna": 397,
-    "gfap_uchl1": 787,
+    "gfap_uchl1": 788,
     "nfl_tau": 803,
-    "nqo2": 379,
+    "nqo2": 380,
     "ppcs_prognosis": 1032,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 940,
-    "tbi_panel_poc": 252,
+    "tbi_panel_poc": 253,
     "tbi_proteomics": 813
   },
   "nodes": [
@@ -20,7 +20,7 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3723,
+      "paper_count": 3724,
       "centrality": 0.4825
     },
     {
@@ -34,42 +34,42 @@
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 1569,
+      "paper_count": 1571,
       "centrality": 0.3684
     },
     {
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1546,
+      "paper_count": 1549,
       "centrality": 0.4211
     },
     {
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 953,
+      "paper_count": 954,
       "centrality": 0.3596
     },
     {
       "id": 14,
       "name": "tau",
       "type": "protein",
-      "paper_count": 904,
+      "paper_count": 905,
       "centrality": 0.3246
     },
     {
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 703,
+      "paper_count": 704,
       "centrality": 0.386
     },
     {
       "id": 12,
       "name": "NfL",
       "type": "protein",
-      "paper_count": 548,
+      "paper_count": 549,
       "centrality": 0.2895
     },
     {
@@ -83,14 +83,14 @@
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 479,
+      "paper_count": 480,
       "centrality": 0.3947
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 453,
+      "paper_count": 454,
       "centrality": 0.3772
     },
     {
@@ -104,14 +104,14 @@
       "id": 1,
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 315,
+      "paper_count": 316,
       "centrality": 0.3421
     },
     {
       "id": 37,
       "name": "BBB",
       "type": "process",
-      "paper_count": 309,
+      "paper_count": 310,
       "centrality": 0.307
     },
     {
@@ -859,8 +859,8 @@
       "relation": "generates",
       "edge_kind": "curated",
       "directed": true,
-      "weight": 72.0,
-      "n_papers": 72.0,
+      "weight": 73.0,
+      "n_papers": 73.0,
       "annotation": null
     },
     {
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 857.0,
-      "n_papers": 857.0,
+      "weight": 859.0,
+      "n_papers": 859.0,
       "annotation": null
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 794.0,
-      "n_papers": 794.0,
+      "weight": 795.0,
+      "n_papers": 795.0,
       "annotation": null
     },
     {
@@ -1799,8 +1799,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 484.0,
-      "n_papers": 484.0,
+      "weight": 485.0,
+      "n_papers": 485.0,
       "annotation": null
     },
     {
@@ -1809,8 +1809,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 480.0,
-      "n_papers": 480.0,
+      "weight": 481.0,
+      "n_papers": 481.0,
       "annotation": null
     },
     {
@@ -1819,8 +1819,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 418.0,
-      "n_papers": 418.0,
+      "weight": 419.0,
+      "n_papers": 419.0,
       "annotation": null
     },
     {
@@ -1829,8 +1829,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 410.0,
-      "n_papers": 410.0,
+      "weight": 411.0,
+      "n_papers": 411.0,
       "annotation": null
     },
     {
@@ -1839,8 +1839,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 366.0,
-      "n_papers": 366.0,
+      "weight": 367.0,
+      "n_papers": 367.0,
       "annotation": null
     },
     {
@@ -1859,8 +1859,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 298.0,
-      "n_papers": 298.0,
+      "weight": 299.0,
+      "n_papers": 299.0,
       "annotation": null
     },
     {
@@ -1879,8 +1879,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 285.0,
-      "n_papers": 285.0,
+      "weight": 286.0,
+      "n_papers": 286.0,
       "annotation": null
     },
     {
@@ -1909,8 +1909,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 273.0,
-      "n_papers": 273.0,
+      "weight": 274.0,
+      "n_papers": 274.0,
       "annotation": null
     },
     {
@@ -1939,8 +1939,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 260.0,
-      "n_papers": 260.0,
+      "weight": 261.0,
+      "n_papers": 261.0,
       "annotation": null
     },
     {
@@ -1949,8 +1949,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 259.0,
-      "n_papers": 259.0,
+      "weight": 260.0,
+      "n_papers": 260.0,
       "annotation": null
     },
     {
@@ -1989,8 +1989,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 232.0,
-      "n_papers": 232.0,
+      "weight": 233.0,
+      "n_papers": 233.0,
       "annotation": null
     },
     {
@@ -1999,8 +1999,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 225.0,
-      "n_papers": 225.0,
+      "weight": 226.0,
+      "n_papers": 226.0,
       "annotation": null
     },
     {
@@ -2029,8 +2029,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 189.0,
-      "n_papers": 189.0,
+      "weight": 190.0,
+      "n_papers": 190.0,
       "annotation": null
     },
     {
@@ -2059,8 +2059,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 162.0,
-      "n_papers": 162.0,
+      "weight": 163.0,
+      "n_papers": 163.0,
       "annotation": null
     },
     {
@@ -2069,8 +2069,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 157.0,
-      "n_papers": 157.0,
+      "weight": 158.0,
+      "n_papers": 158.0,
       "annotation": null
     },
     {
@@ -2099,8 +2099,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 151.0,
-      "n_papers": 151.0,
+      "weight": 152.0,
+      "n_papers": 152.0,
       "annotation": null
     },
     {
@@ -2189,8 +2189,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 129.0,
-      "n_papers": 129.0,
+      "weight": 130.0,
+      "n_papers": 130.0,
       "annotation": null
     },
     {
@@ -2229,8 +2229,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 119.0,
-      "n_papers": 119.0,
+      "weight": 120.0,
+      "n_papers": 120.0,
       "annotation": null
     },
     {
@@ -2359,8 +2359,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 98.0,
-      "n_papers": 98.0,
+      "weight": 99.0,
+      "n_papers": 99.0,
       "annotation": null
     },
     {
@@ -2489,8 +2489,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 72.0,
-      "n_papers": 72.0,
+      "weight": 73.0,
+      "n_papers": 73.0,
       "annotation": null
     },
     {
@@ -2509,8 +2509,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 71.0,
-      "n_papers": 71.0,
+      "weight": 72.0,
+      "n_papers": 72.0,
       "annotation": null
     },
     {
@@ -2519,8 +2519,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 69.0,
-      "n_papers": 69.0,
+      "weight": 70.0,
+      "n_papers": 70.0,
       "annotation": null
     },
     {
@@ -2734,8 +2734,8 @@
       "annotation": null
     },
     {
-      "source": "UCH-L1",
-      "target": "NSE",
+      "source": "NQO2",
+      "target": "oxidative stress",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -2744,13 +2744,13 @@
       "annotation": null
     },
     {
-      "source": "NQO2",
-      "target": "oxidative stress",
+      "source": "UCH-L1",
+      "target": "NSE",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 54.0,
-      "n_papers": 54.0,
+      "weight": 55.0,
+      "n_papers": 55.0,
       "annotation": null
     },
     {
@@ -4204,6 +4204,16 @@
       "annotation": null
     },
     {
+      "source": "NQO2",
+      "target": "Alzheimer",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 13.0,
+      "n_papers": 13.0,
+      "annotation": null
+    },
+    {
       "source": "Iba1",
       "target": "BBB",
       "relation": "co-occurs",
@@ -4286,16 +4296,6 @@
     {
       "source": "oxidative stress",
       "target": "HO-1",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 12.0,
-      "n_papers": 12.0,
-      "annotation": null
-    },
-    {
-      "source": "NQO2",
-      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -4884,6 +4884,16 @@
       "annotation": null
     },
     {
+      "source": "NQO2",
+      "target": "aging",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 8.0,
+      "n_papers": 8.0,
+      "annotation": null
+    },
+    {
       "source": "ROS",
       "target": "S100B",
       "relation": "co-occurs",
@@ -5136,16 +5146,6 @@
     {
       "source": "Alzheimer",
       "target": "HO-1",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 7.0,
-      "n_papers": 7.0,
-      "annotation": null
-    },
-    {
-      "source": "NQO2",
-      "target": "aging",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

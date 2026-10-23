@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-21*
-*Total papers: 7269*
+*Generated: 2026-10-23*
+*Total papers: 7273*
 
 
 ## Cluster: aging_neuro
@@ -1586,6 +1586,13 @@
 **PMID:** 42883921  **DOI:** 10.3390/ijms27198677
 **Entities:** ROS, neuroinflammation, oxidative stress, BBB, aging  
 **Abstract:** Cognitive aging involves chronic neuroinflammation, microglial dysregulation, vascular dysfunction, oxidative stress, and impaired neuroplasticity, and physical activity is one of the few modifiable i...
+
+### Osteoporosis and Alzheimer's Disease: The Role of Sclerostin.
+**Authors:** Gagiano L, Chen Z, Blakeney WG, Jones C, Mastaglia F et al.  
+**Journal:** Current osteoporosis reports (2026)  
+**PMID:** 42905237  **DOI:** 10.1007/s11914-026-00993-y
+**Entities:** BBB, Alzheimer, aging  
+**Abstract:** PURPOSE OF REVIEW: Little is known about the underlying cause contributing to the association between Osteoporosis (OP) and Alzheimer's disease (AD). This review highlights the emerging role of sclero...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -16279,6 +16286,13 @@
 **Entities:** GFAP, UCH-L1, TBI  
 **Abstract:** BACKGROUND: Blood-based biomarkers are becoming increasingly relevant for the diagnosis of acute traumatic brain injury (TBI) in adults, but they remain underutilized in children. There exists the nee...
 
+### Post-traumatic cognitive decline and neurodegenerative disease: a narrative review and proposed framework for etiologic assessment.
+**Authors:** Park JJ, Chung SY, Kim SM, Yoo HD  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 42903416  **DOI:** 10.3389/fneur.2026.1844523
+**Entities:** GFAP, NfL, tau, neuroinflammation, TBI  
+**Abstract:** BACKGROUND: When a patient with a history of traumatic brain injury (TBI) develops progressive cognitive decline months to years after injury, clinicians must consider injury sequelae, an independent ...
+
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -27071,6 +27085,13 @@
 **PMID:** 42756821  **DOI:** 10.3389/fimmu.2026.1925910
 **Entities:** NQO2  
 **Abstract:** OBJECTIVE: The gut-kidney axis has emerged as a critical area of investigation. However, the compartment-specific regulatory mechanisms of gut microbiota metabolites within the glomerular and tubuloin...
+
+### Whole genome sequencing identifies genetic variants associated with senescence-accelerated phenotype of OXYS rats.
+**Authors:** Petrova VM, Protasova MS, Manakhov AD, Stefanova NA, Kolosova NG et al.  
+**Journal:** Vavilovskii zhurnal genetiki i selektsii (2026)  
+**PMID:** 42908879  **DOI:** 10.18699/vjgb-26-90
+**Entities:** NQO2, ROS, oxidative stress, Alzheimer, aging  
+**Abstract:** Age is the primary risk factor for age-related diseases, the early onset of which manifests as premature aging, whereas delayed development forms the basis for healthy aging and longevity. Adverse gen...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
@@ -43701,6 +43722,13 @@
 **PMID:** 42874605  **DOI:** 10.1016/S1474-4422(26)00297-8
 **Entities:** TBI, aging  
 **Abstract:** Traumatic brain injury (TBI) and spinal cord injury (SCI) affect more than 220 million people worldwide and are associated with cardiometabolic, endocrine, neurological, and psychiatric sequelae for y...
+
+### DTI-Associated Blood Biomarkers in a Human Perioperative Brain Perturbation Model.
+**Authors:** Liu J, Wang Y, Gao Z, Bao X, Han C et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 42908436  **DOI:** 10.1177/08977151261500365
+**Entities:** —  
+**Abstract:** Circulating biomarkers of brain perturbation are rarely evaluated against anatomically localized
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
