@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 7273,
+  "n_papers": 7275,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -340,6 +340,14 @@
     ],
     "nqo2": [
       {
+        "pmid": "42913253",
+        "title": "Near-infrared pre-irradiation is associated with a distinct transcriptional signature in rat gastric irreversible electroporation: an exploratory genome-wide analysis.",
+        "authors": "Jeon HJ, Kim HB, Choi HS, Lee JM, Kim ES et al.",
+        "year": 2026,
+        "journal": "Bioelectrochemistry (Amsterdam, Netherlands)",
+        "entities": "NQO2, Nrf2"
+      },
+      {
         "pmid": "42908879",
         "title": "Whole genome sequencing identifies genetic variants associated with senescence-accelerated phenotype of OXYS rats.",
         "authors": "Petrova VM, Protasova MS, Manakhov AD, Stefanova NA, Kolosova NG et al.",
@@ -410,14 +418,6 @@
         "year": 2026,
         "journal": "SLAS technology",
         "entities": "NQO2"
-      },
-      {
-        "pmid": "42180593",
-        "title": "Regioselective triclocarban-catalyzed synthesis of spiroindeno- and spirooxindolo-pyrrolizidines with apoptosis induction in MCF-7 cells.",
-        "authors": "Rukyanaik V, Pradhan S, Godugu C, Tothadi S, Krishna KR et al.",
-        "year": 2026,
-        "journal": "RSC medicinal chemistry",
-        "entities": null
       }
     ],
     "ppcs_prognosis": [
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42919461",
+        "title": "Precision Nanomedicine for Traumatic Neural Injury: Functional Paradigms and Translational Frameworks.",
+        "authors": "Sun M, Li S, He Z, Xie J, Luo Y et al.",
+        "year": 2026,
+        "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "entities": "ROS, neuroinflammation, oxidative stress, TBI"
+      },
+      {
         "pmid": "42850885",
         "title": "Dendrimer Delivered shRNA Targeting the CCL20-CCR6 Axis Suppresses Complement-Mediated Microglial Synaptic Pruning and Ameliorates Chronic Neuroinflammation After Repetitive Traumatic Brain Injury.",
         "authors": "Mayilsamy K, Patel PB, Green R, Bikkasani S, Tosi K et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "BMJ open",
         "entities": "neuroinflammation, TBI, Alzheimer, GOS-E"
-      },
-      {
-        "pmid": "42768215",
-        "title": "Tibial bone compression promotes recovery after brain injury through osteocyte PIEZO1.",
-        "authors": "Cai Z, Zhang Z, Wang Y, Liu S, Leng J et al.",
-        "year": 2026,
-        "journal": "Nature neuroscience",
-        "entities": "BDNF, TBI, dopamine"
       }
     ]
   },
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3724
+      "paper_count": 3725
     },
     {
       "name": "mTBI",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 704
+      "paper_count": 705
     },
     {
       "name": "NfL",
@@ -840,12 +840,12 @@
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 480
+      "paper_count": 481
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 454
+      "paper_count": 455
     },
     {
       "name": "UCH-L1",
@@ -855,7 +855,7 @@
     {
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 316
+      "paper_count": 317
     },
     {
       "name": "BBB",
@@ -977,7 +977,7 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 419.0
+      "weight": 420.0
     },
     {
       "source": "TBI",
@@ -987,7 +987,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 367.0
+      "weight": 368.0
     },
     {
       "source": "TBI",
@@ -1127,12 +1127,12 @@
     {
       "source": "ROS",
       "target": "TBI",
-      "weight": 149.0
+      "weight": 150.0
     },
     {
       "source": "oxidative stress",
       "target": "TBI",
-      "weight": 147.0
+      "weight": 148.0
     },
     {
       "source": "TBI",
@@ -1167,12 +1167,12 @@
     {
       "source": "ROS",
       "target": "neuroinflammation",
-      "weight": 124.0
+      "weight": 125.0
     },
     {
       "source": "neuroinflammation",
       "target": "oxidative stress",
-      "weight": 124.0
+      "weight": 125.0
     },
     {
       "source": "p-tau",

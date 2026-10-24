@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T12:34:11.615062",
-  "n_papers": 7273,
+  "generated_at": "2026-10-24T11:57:26.504786",
+  "n_papers": 7275,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
@@ -8,19 +8,19 @@
     "exosomal_rna": 397,
     "gfap_uchl1": 788,
     "nfl_tau": 803,
-    "nqo2": 380,
+    "nqo2": 381,
     "ppcs_prognosis": 1032,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 940,
     "tbi_panel_poc": 253,
-    "tbi_proteomics": 813
+    "tbi_proteomics": 814
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3724,
+      "paper_count": 3725,
       "centrality": 0.4825
     },
     {
@@ -62,7 +62,7 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 704,
+      "paper_count": 705,
       "centrality": 0.386
     },
     {
@@ -83,14 +83,14 @@
       "id": 4,
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 480,
+      "paper_count": 481,
       "centrality": 0.3947
     },
     {
       "id": 35,
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 454,
+      "paper_count": 455,
       "centrality": 0.3772
     },
     {
@@ -104,7 +104,7 @@
       "id": 1,
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 316,
+      "paper_count": 317,
       "centrality": 0.3421
     },
     {
@@ -258,7 +258,7 @@
       "id": 111,
       "name": "Nrf2",
       "type": "protein",
-      "paper_count": 39,
+      "paper_count": 40,
       "centrality": 0.2018
     },
     {
@@ -1819,8 +1819,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 419.0,
-      "n_papers": 419.0,
+      "weight": 420.0,
+      "n_papers": 420.0,
       "annotation": null
     },
     {
@@ -1839,8 +1839,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 367.0,
-      "n_papers": 367.0,
+      "weight": 368.0,
+      "n_papers": 368.0,
       "annotation": null
     },
     {
@@ -2119,8 +2119,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 149.0,
-      "n_papers": 149.0,
+      "weight": 150.0,
+      "n_papers": 150.0,
       "annotation": null
     },
     {
@@ -2129,8 +2129,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 147.0,
-      "n_papers": 147.0,
+      "weight": 148.0,
+      "n_papers": 148.0,
       "annotation": null
     },
     {
@@ -2199,8 +2199,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 124.0,
-      "n_papers": 124.0,
+      "weight": 125.0,
+      "n_papers": 125.0,
       "annotation": null
     },
     {
@@ -2209,8 +2209,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 124.0,
-      "n_papers": 124.0,
+      "weight": 125.0,
+      "n_papers": 125.0,
       "annotation": null
     },
     {
@@ -3935,6 +3935,16 @@
     },
     {
       "source": "NQO2",
+      "target": "Nrf2",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 15.0,
+      "n_papers": 15.0,
+      "annotation": null
+    },
+    {
+      "source": "NQO2",
       "target": "dopamine",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
@@ -4026,16 +4036,6 @@
     {
       "source": "NQO1",
       "target": "glutathione",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 14.0,
-      "n_papers": 14.0,
-      "annotation": null
-    },
-    {
-      "source": "NQO2",
-      "target": "Nrf2",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

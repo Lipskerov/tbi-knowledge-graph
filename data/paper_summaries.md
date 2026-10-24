@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-23*
-*Total papers: 7273*
+*Generated: 2026-10-24*
+*Total papers: 7275*
 
 
 ## Cluster: aging_neuro
@@ -27093,6 +27093,13 @@
 **Entities:** NQO2, ROS, oxidative stress, Alzheimer, aging  
 **Abstract:** Age is the primary risk factor for age-related diseases, the early onset of which manifests as premature aging, whereas delayed development forms the basis for healthy aging and longevity. Adverse gen...
 
+### Near-infrared pre-irradiation is associated with a distinct transcriptional signature in rat gastric irreversible electroporation: an exploratory genome-wide analysis.
+**Authors:** Jeon HJ, Kim HB, Choi HS, Lee JM, Kim ES et al.  
+**Journal:** Bioelectrochemistry (Amsterdam, Netherlands) (2026)  
+**PMID:** 42913253  **DOI:** 10.1016/j.bioelechem.2026.109479
+**Entities:** NQO2, Nrf2  
+**Abstract:** Near-infrared (NIR) pre-irradiation before irreversible electroporation (IRE), or NIRE, augments apoptosis in rat stomach, but its transcriptional correlates are unknown. We profiled rat gastric corpu...
+
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  
 **Journal:** The Biochemical journal (2025)  
@@ -46154,6 +46161,13 @@
 **PMID:** 42850885  **DOI:** 10.1016/j.ymthe.2026.10.002
 **Entities:** BDNF, neuroinflammation, TBI, Alzheimer  
 **Abstract:** Repetitive traumatic brain injury (rTBI) induces persistent microglial activation and chronic neuroinflammation, yet the upstream signals driving long-term synaptic injury remain unclear. In this stud...
+
+### Precision Nanomedicine for Traumatic Neural Injury: Functional Paradigms and Translational Frameworks.
+**Authors:** Sun M, Li S, He Z, Xie J, Luo Y et al.  
+**Journal:** Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026)  
+**PMID:** 42919461  **DOI:** 10.1002/advs.78308
+**Entities:** ROS, neuroinflammation, oxidative stress, TBI  
+**Abstract:** Traumatic neural injuries, including traumatic brain injury (TBI), spinal cord injury (SCI), and peripheral nerve injury (PNI), impose a substantial global burden. These injuries converge on oxidative...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
