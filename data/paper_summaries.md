@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-24*
-*Total papers: 7275*
+*Generated: 2026-10-26*
+*Total papers: 7276*
 
 
 ## Cluster: aging_neuro
@@ -13272,6 +13272,13 @@
 **PMID:** 42219805  **DOI:** 10.1002/em.70053
 **Entities:** TBI  
 **Abstract:** Epigenetic mechanisms regulating DNA gene expression have gained significant attention in recent years. MicroRNAs (miRNAs) play a key role in these mechanisms by modulating gene activity and relaying ...
+
+### Epigenetics in Traumatic Brain Injury.
+**Authors:** Doumit M, Liu Q, Pulliam AN, Hammamieh R, Wang KK et al.  
+**Journal:** Journal of neurotrauma (2026)  
+**PMID:** 42928551  **DOI:** 10.1177/08977151261490019
+**Entities:** TBI  
+**Abstract:** Following traumatic brain injury (TBI), changes in proteins, metabolites, and gene expression are highly dynamic and are influenced by genetic and environmental factors, circadian rhythms, and injury ...
 
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
