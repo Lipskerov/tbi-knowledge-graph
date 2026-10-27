@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T14:06:52.036568",
-  "n_papers": 7276,
+  "generated_at": "2026-10-27T13:07:35.607322",
+  "n_papers": 7277,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
@@ -8,7 +8,7 @@
     "exosomal_rna": 398,
     "gfap_uchl1": 788,
     "nfl_tau": 803,
-    "nqo2": 381,
+    "nqo2": 382,
     "ppcs_prognosis": 1032,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 940,
@@ -104,7 +104,7 @@
       "id": 1,
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 317,
+      "paper_count": 318,
       "centrality": 0.3421
     },
     {

@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-26*
-*Total papers: 7276*
+*Generated: 2026-10-27*
+*Total papers: 7277*
 
 
 ## Cluster: aging_neuro
@@ -27106,6 +27106,13 @@
 **PMID:** 42913253  **DOI:** 10.1016/j.bioelechem.2026.109479
 **Entities:** NQO2, Nrf2  
 **Abstract:** Near-infrared (NIR) pre-irradiation before irreversible electroporation (IRE), or NIRE, augments apoptosis in rat stomach, but its transcriptional correlates are unknown. We profiled rat gastric corpu...
+
+### [Screening and in vivo validation of key targets for triclosan-associated intervertebral disc degeneration].
+**Authors:** Jiang A, Qin B, Li G, Liu J, Muhammad Y et al.  
+**Journal:** Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences (2026)  
+**PMID:** 42935200  **DOI:** 10.11817/j.issn.1672-7347.2026.260413
+**Entities:** NQO2  
+**Abstract:** OBJECTIVES: Intervertebral disc degeneration (IVDD) is an important pathological basis of chronic low back pain and various degenerative spinal disorders, and exposure to environmental pollutants may ...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  

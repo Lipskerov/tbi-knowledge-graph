@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 7276,
+  "n_papers": 7277,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -340,6 +340,14 @@
     ],
     "nqo2": [
       {
+        "pmid": "42935200",
+        "title": "[Screening and in vivo validation of key targets for triclosan-associated intervertebral disc degeneration].",
+        "authors": "Jiang A, Qin B, Li G, Liu J, Muhammad Y et al.",
+        "year": 2026,
+        "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+        "entities": "NQO2"
+      },
+      {
         "pmid": "42913253",
         "title": "Near-infrared pre-irradiation is associated with a distinct transcriptional signature in rat gastric irreversible electroporation: an exploratory genome-wide analysis.",
         "authors": "Jeon HJ, Kim HB, Choi HS, Lee JM, Kim ES et al.",
@@ -410,14 +418,6 @@
         "year": 2026,
         "journal": "Molecular & cellular proteomics : MCP",
         "entities": "NQO2, NQO1, imatinib"
-      },
-      {
-        "pmid": "42285256",
-        "title": "Identification of ubiquitination-related biomarkers in osteoarthritis: combining transcriptome and Mendelian randomization analysis.",
-        "authors": "Yin H, Mei Y, Du J, Xiao L, Bian S",
-        "year": 2026,
-        "journal": "SLAS technology",
-        "entities": "NQO2"
       }
     ],
     "ppcs_prognosis": [
@@ -855,7 +855,7 @@
     {
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 317
+      "paper_count": 318
     },
     {
       "name": "BBB",
