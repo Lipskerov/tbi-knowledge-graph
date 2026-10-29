@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 7277,
+  "n_papers": 7278,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -628,6 +628,14 @@
     ],
     "tbi_panel_poc": [
       {
+        "pmid": "42950372",
+        "title": "[Mild traumatic brain injury in prehospital primary care emergency services: care pathway and the opportunity of point-of-care biomarkers].",
+        "authors": "Almenara Abell\u00e1n JL, Gragera Hidalgo M, Fern\u00e1ndez Natera A, Gracia Romero M\u00c1, Pa\u00f1os Maturana E et al.",
+        "year": 2026,
+        "journal": "Semergen",
+        "entities": "GFAP, UCH-L1, mTBI, TBI"
+      },
+      {
         "pmid": "42908436",
         "title": "DTI-Associated Blood Biomarkers in a Human Perioperative Brain Perturbation Model.",
         "authors": "Liu J, Wang Y, Gao Z, Bao X, Han C et al.",
@@ -698,14 +706,6 @@
         "year": 2026,
         "journal": "Georgian medical news",
         "entities": "GFAP, NfL, IL-6, TNF-\u03b1, IL-1\u03b2, neuroinflammation, TBI"
-      },
-      {
-        "pmid": "42582391",
-        "title": "Implementing whole blood TBI point-of-care testing in Level 1 trauma centers: protocol for emergency department implementation for TBI (EDI for TBI) hybrid type II effectiveness-implementation trial.",
-        "authors": "Eagle S, McNett M, Madhok D, Bazarian J, Barton D et al.",
-        "year": 2026,
-        "journal": "Frontiers in health services",
-        "entities": "TBI"
       }
     ],
     "tbi_proteomics": [
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3726
+      "paper_count": 3727
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 2371
+      "paper_count": 2372
     },
     {
       "name": "aging",
@@ -815,7 +815,7 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 954
+      "paper_count": 955
     },
     {
       "name": "tau",
@@ -850,7 +850,7 @@
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 327
+      "paper_count": 328
     },
     {
       "name": "NQO2",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 1596.0
+      "weight": 1597.0
     },
     {
       "source": "Alzheimer",
@@ -957,7 +957,7 @@
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 795.0
+      "weight": 796.0
     },
     {
       "source": "mTBI",
@@ -1002,7 +1002,7 @@
     {
       "source": "UCH-L1",
       "target": "TBI",
-      "weight": 297.0
+      "weight": 298.0
     },
     {
       "source": "neuroinflammation",
@@ -1012,12 +1012,12 @@
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 285.0
+      "weight": 286.0
     },
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 283.0
+      "weight": 284.0
     },
     {
       "source": "GFAP",
@@ -1122,7 +1122,7 @@
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 151.0
+      "weight": 152.0
     },
     {
       "source": "ROS",

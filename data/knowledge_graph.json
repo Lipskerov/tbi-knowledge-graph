@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T13:07:35.607322",
-  "n_papers": 7277,
+  "generated_at": "2026-10-29T14:06:10.537903",
+  "n_papers": 7278,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
@@ -12,7 +12,7 @@
     "ppcs_prognosis": 1032,
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 940,
-    "tbi_panel_poc": 253,
+    "tbi_panel_poc": 254,
     "tbi_proteomics": 814
   },
   "nodes": [
@@ -20,14 +20,14 @@
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3726,
+      "paper_count": 3727,
       "centrality": 0.4825
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 2371,
+      "paper_count": 2372,
       "centrality": 0.3684
     },
     {
@@ -48,7 +48,7 @@
       "id": 9,
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 954,
+      "paper_count": 955,
       "centrality": 0.3596
     },
     {
@@ -97,7 +97,7 @@
       "id": 10,
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 327,
+      "paper_count": 328,
       "centrality": 0.2719
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 1596.0,
-      "n_papers": 1596.0,
+      "weight": 1597.0,
+      "n_papers": 1597.0,
       "annotation": null
     },
     {
@@ -1779,8 +1779,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 795.0,
-      "n_papers": 795.0,
+      "weight": 796.0,
+      "n_papers": 796.0,
       "annotation": null
     },
     {
@@ -1869,8 +1869,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 297.0,
-      "n_papers": 297.0,
+      "weight": 298.0,
+      "n_papers": 298.0,
       "annotation": null
     },
     {
@@ -1889,8 +1889,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 285.0,
-      "n_papers": 285.0,
+      "weight": 286.0,
+      "n_papers": 286.0,
       "annotation": null
     },
     {
@@ -1899,8 +1899,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 283.0,
-      "n_papers": 283.0,
+      "weight": 284.0,
+      "n_papers": 284.0,
       "annotation": null
     },
     {
@@ -2109,8 +2109,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 151.0,
-      "n_papers": 151.0,
+      "weight": 152.0,
+      "n_papers": 152.0,
       "annotation": null
     },
     {
