@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-29*
-*Total papers: 7278*
+*Generated: 2026-10-30*
+*Total papers: 7279*
 
 
 ## Cluster: aging_neuro
@@ -36307,6 +36307,13 @@
 **PMID:** 15641125  
 **Entities:** TBI  
 **Abstract:** BACKGROUND: This study aimed to investigate the effects of methylphenidate and sertraline compared with placebo on various neuropsychiatric sequelae associated with traumatic brain injury (TBI). METHO...
+
+### Traumatic brain injury--the need for support and follow up.
+**Authors:** Olver J  
+**Journal:** Australian family physician (2005)  
+**PMID:** 15861750  
+**Entities:** mTBI, TBI  
+**Abstract:** BACKGROUND: Mild traumatic brain injury (MTBI) is the commonest type of brain injury. It is sometimes difficult to select patients who require ongoing follow up to avoid the sequelae of MTBI. OBJECTIV...
 
 ### The usefulness of quantitative EEG (QEEG) and neurotherapy in the assessment and treatment of post-concussion syndrome.
 **Authors:** Duff J  
