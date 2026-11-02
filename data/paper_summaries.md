@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-10-30*
-*Total papers: 7279*
+*Generated: 2026-11-02*
+*Total papers: 7281*
 
 
 ## Cluster: aging_neuro
@@ -16299,6 +16299,13 @@
 **PMID:** 42903416  **DOI:** 10.3389/fneur.2026.1844523
 **Entities:** GFAP, NfL, tau, neuroinflammation, TBI  
 **Abstract:** BACKGROUND: When a patient with a history of traumatic brain injury (TBI) develops progressive cognitive decline months to years after injury, clinicians must consider injury sequelae, an independent ...
+
+### Associations Between Diagnostic Blood-Based Biomarkers and Neuroimaging Findings in Mild Traumatic Brain Injury.
+**Authors:** Pandey S, Chen Y, Yue JK, Jain S, Sun X et al.  
+**Journal:** Annals of emergency medicine (2026)  
+**PMID:** 42949696  **DOI:** 10.1016/j.annemergmed.2026.08.731
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** STUDY OBJECTIVE: Mild traumatic brain injury (mTBI) is a prevalent and resource-intensive injury in the emergency department (ED). The blood-based biomarkers glial fibrillary acidic protein (GFAP) and...
 
 ### Update on traumatic brain injury in the ICU.
 **Authors:** Slot RER, Helbok R, van der Jagt M  
@@ -37692,6 +37699,13 @@
 **PMID:** 42851541  **DOI:** 10.3389/fneur.2026.1915481
 **Entities:** IL-1β, neuroinflammation, mTBI, MBP  
 **Abstract:** BACKGROUND AND OBJECTIVES: Repetitive head impacts (RHI) are increasingly recognized as potential contributors to long-term neurological consequences. Current clinical assessments rely primarily on sy...
+
+### Clinical course of mild traumatic brain injury in polytrauma patients admitted to intensive care.
+**Authors:** El Bendary Y, Hounkonnou C, Jeantrelle C, Moyer JD, Iakovlev G et al.  
+**Journal:** Journal of neurosurgery (2026)  
+**PMID:** 42628123  **DOI:** 10.3171/2026.1.JNS251936
+**Entities:** mTBI, TBI  
+**Abstract:** OBJECTIVE: Mild traumatic brain injury (mTBI) accounts for the majority of TBI cases. In polytrauma patients admitted to intensive care units (ICUs), mTBI may be associated with more severe clinical p...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
