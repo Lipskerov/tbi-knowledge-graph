@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-02*
-*Total papers: 7281*
+*Generated: 2026-11-03*
+*Total papers: 7282*
 
 
 ## Cluster: aging_neuro
@@ -1593,6 +1593,13 @@
 **PMID:** 42905237  **DOI:** 10.1007/s11914-026-00993-y
 **Entities:** BBB, Alzheimer, aging  
 **Abstract:** PURPOSE OF REVIEW: Little is known about the underlying cause contributing to the association between Osteoporosis (OP) and Alzheimer's disease (AD). This review highlights the emerging role of sclero...
+
+### Neuroinflammation in vascular cognitive impairment and dementia: Insights from clinical biomarkers and experimental models.
+**Authors:** Mizutani A, Parra-Pérez C, Shindo A, Lizasoain I, Moro MÁ et al.  
+**Journal:** Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism (2026)  
+**PMID:** 41964274  **DOI:** 10.1177/0271678X261437523
+**Entities:** neuroinflammation, Alzheimer  
+**Abstract:** Vascular cognitive impairment and dementia (VCID) encompasses a heterogeneous group of disorders in which cerebrovascular pathology contributes to cognitive decline. Accumulating evidence from both cl...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-02T16:58:59.327463",
-  "n_papers": 7281,
+  "generated_at": "2026-11-03T14:59:42.066426",
+  "n_papers": 7282,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
-    "aging_neuro": 1862,
+    "aging_neuro": 1863,
     "exosomal_rna": 398,
     "gfap_uchl1": 789,
     "nfl_tau": 803,
@@ -41,7 +41,7 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1549,
+      "paper_count": 1550,
       "centrality": 0.4211
     },
     {
@@ -62,7 +62,7 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 705,
+      "paper_count": 706,
       "centrality": 0.386
     },
     {
@@ -1874,8 +1874,8 @@
       "annotation": null
     },
     {
-      "source": "GFAP",
-      "target": "mTBI",
+      "source": "neuroinflammation",
+      "target": "Alzheimer",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
@@ -1884,13 +1884,13 @@
       "annotation": null
     },
     {
-      "source": "neuroinflammation",
-      "target": "Alzheimer",
+      "source": "GFAP",
+      "target": "mTBI",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 286.0,
-      "n_papers": 286.0,
+      "weight": 287.0,
+      "n_papers": 287.0,
       "annotation": null
     },
     {
