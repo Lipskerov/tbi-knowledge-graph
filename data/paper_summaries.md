@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-03*
-*Total papers: 7282*
+*Generated: 2026-11-04*
+*Total papers: 7287*
 
 
 ## Cluster: aging_neuro
@@ -1600,6 +1600,20 @@
 **PMID:** 41964274  **DOI:** 10.1177/0271678X261437523
 **Entities:** neuroinflammation, Alzheimer  
 **Abstract:** Vascular cognitive impairment and dementia (VCID) encompasses a heterogeneous group of disorders in which cerebrovascular pathology contributes to cognitive decline. Accumulating evidence from both cl...
+
+### Mitochondria-Associated Membranes as a Convergent Hub of Brain Aging: From Neurodegeneration to Cerebral Ischemia.
+**Authors:** Li M, Xu D, Li Y, Zhao Q  
+**Journal:** The European journal of neuroscience (2026)  
+**PMID:** 42977507  **DOI:** 10.1111/ejn.70746
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain aging is the principal risk factor for both neurodegenerative diseases (NDDs) and cerebral ischemic disorders, yet the subcellular mechanisms linking these conditions remain incompletely defined...
+
+### Immune-endothelial crosstalk at the nexus of neuroinflammation and vascular dysfunction in aging.
+**Authors:** Cui Z, Sun H, Chen Z, Li J  
+**Journal:** Frontiers in immunology (2026)  
+**PMID:** 42974162  **DOI:** 10.3389/fimmu.2026.1972284
+**Entities:** ROS, neuroinflammation, oxidative stress, BBB, aging  
+**Abstract:** Aging is the major biological risk factor for cognitive decline and neurodegenerative disease. Increasing evidence indicates that neuroinflammation and cerebrovascular dysfunction are not independent ...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -13287,6 +13301,13 @@
 **Entities:** TBI  
 **Abstract:** Following traumatic brain injury (TBI), changes in proteins, metabolites, and gene expression are highly dynamic and are influenced by genetic and environmental factors, circadian rhythms, and injury ...
 
+### Exosomes in Traumatic Brain Injury: From Secondary Injury Mechanisms to Cell-Free Neurorepair.
+**Authors:** Gu G, Tang H, Fan H  
+**Journal:** Brain and behavior (2026)  
+**PMID:** 42975241  **DOI:** 10.1002/brb3.71897
+**Entities:** neuroinflammation, BBB, TBI  
+**Abstract:** BACKGROUND: Traumatic brain injury (TBI) is a leading cause of death and long-term neurological disability worldwide. Exosomes (EXOs) have attracted increasing attention because they mediate intercell...
+
 ### Biomarkers of acute brain injury.
 **Authors:** Prus K, Sekuła M, Bilotta F  
 **Journal:** Current opinion in anaesthesiology (2025)  
@@ -19239,6 +19260,13 @@
 **PMID:** 30560830  **DOI:** 10.4103/njcp.njcp_431_17
 **Entities:** GFAP, S100B, TBI  
 **Abstract:** BACKGROUND: Glial fibrillary acidic protein (GFAP) is a brain-specific astroglial protein that is released into the blood soon after traumatic brain injury by mature astrocytes. S100B is rapidly relea...
+
+### Immunohistochemical Evaluation of Aquaporin-4 and its Correlation with CD68, IBA-1, HIF-1α, GFAP, and CD15 Expressions in Fatal Traumatic Brain Injury.
+**Authors:** Neri M, Frati A, Turillazzi E, Cantatore S, Cipolloni L et al.  
+**Journal:** International journal of molecular sciences (2018)  
+**PMID:** 30423808  **DOI:** 10.3390/ijms19113544
+**Entities:** ROS, GFAP, Iba1, neuroinflammation, oxidative stress  
+**Abstract:** Traumatic brain injury (TBI) is one of the leading causes of death and disability worldwide. Our understanding of its pathobiology has substantially increased. Following TBI, the following occur, edem...
 
 ### Biofluid biomarkers of traumatic brain injury.
 **Authors:** Agoston DV, Shutes-David A, Peskind ER  
@@ -27127,6 +27155,13 @@
 **PMID:** 42935200  **DOI:** 10.11817/j.issn.1672-7347.2026.260413
 **Entities:** NQO2  
 **Abstract:** OBJECTIVES: Intervertebral disc degeneration (IVDD) is an important pathological basis of chronic low back pain and various degenerative spinal disorders, and exposure to environmental pollutants may ...
+
+### Quinone Reductase 2 Dimerization is Dynamically Driven by Ligand Binding.
+**Authors:** Miller M, Loewenthal D, Kukura P, Gould N  
+**Journal:** Biochemistry (2026)  
+**PMID:** 42975153  **DOI:** 10.1021/acs.biochem.6c00461
+**Entities:** NQO2, FAD  
+**Abstract:** Human quinone reductase 2 is a cytosolic flavoprotein involved in cell physiology and metabolism, and implicated in several diseases. However, the mechanisms that govern its oligomeric assembly and di...
 
 ### Insights into the cellular function and mechanism of action of quinone reductase 2 (NQO2).
 **Authors:** Islam F, Shilton B  

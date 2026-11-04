@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 7282,
+  "n_papers": 7287,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -60,6 +60,22 @@
         "entities": "aging"
       },
       {
+        "pmid": "42977507",
+        "title": "Mitochondria-Associated Membranes as a Convergent Hub of Brain Aging: From Neurodegeneration to Cerebral Ischemia.",
+        "authors": "Li M, Xu D, Li Y, Zhao Q",
+        "year": 2026,
+        "journal": "The European journal of neuroscience",
+        "entities": "Alzheimer, aging"
+      },
+      {
+        "pmid": "42974162",
+        "title": "Immune-endothelial crosstalk at the nexus of neuroinflammation and vascular dysfunction in aging.",
+        "authors": "Cui Z, Sun H, Chen Z, Li J",
+        "year": 2026,
+        "journal": "Frontiers in immunology",
+        "entities": "ROS, neuroinflammation, oxidative stress, BBB, aging"
+      },
+      {
         "pmid": "42905237",
         "title": "Osteoporosis and Alzheimer's Disease: The Role of Sclerostin.",
         "authors": "Gagiano L, Chen Z, Blakeney WG, Jones C, Mastaglia F et al.",
@@ -74,22 +90,6 @@
         "year": 2026,
         "journal": "International journal of molecular sciences",
         "entities": "ROS, neuroinflammation, oxidative stress, BBB, aging"
-      },
-      {
-        "pmid": "42839301",
-        "title": "Accelerated brain aging as a transdiagnostic biomarker: A lifespan MRI brain age study across seven disorders.",
-        "authors": "Gupta Y, de la Cruz F, Geisler M, Rieger K, Schumann A et al.",
-        "year": 2026,
-        "journal": "Psychological medicine",
-        "entities": "Alzheimer, aging"
-      },
-      {
-        "pmid": "42801246",
-        "title": "Alzheimer's Disease: From Molecular Pathogenesis to Disease-Modifying Therapies and Clinical Implementation in Aging Populations.",
-        "authors": "Zrineh A, Akwan R, Darawsheh R, Nasser A, Elsharkawy MM",
-        "year": 2026,
-        "journal": "Clinical interventions in aging",
-        "entities": "tau, neuroinflammation, Alzheimer, lecanemab, donanemab, aging"
       }
     ],
     "exosomal_rna": [
@@ -100,6 +100,14 @@
         "year": 2026,
         "journal": "bioRxiv",
         "entities": null
+      },
+      {
+        "pmid": "42975241",
+        "title": "Exosomes in Traumatic Brain Injury: From Secondary Injury Mechanisms to Cell-Free Neurorepair.",
+        "authors": "Gu G, Tang H, Fan H",
+        "year": 2026,
+        "journal": "Brain and behavior",
+        "entities": "neuroinflammation, BBB, TBI"
       },
       {
         "pmid": "42928551",
@@ -164,14 +172,6 @@
         "year": 2026,
         "journal": "Frontiers in neuroscience",
         "entities": "TBI"
-      },
-      {
-        "pmid": "42530052",
-        "title": "Neurotrophic Factors in Stroke, Traumatic Brain Injury, and Neurodegeneration: A Convergent Pathophysiological and Translational Perspective.",
-        "authors": "Shcheblykina OV, Kostina DA, Pokrovskii MV, Korokin MV",
-        "year": 2026,
-        "journal": "Journal of integrative neuroscience",
-        "entities": "ROS, BDNF, neuroinflammation, oxidative stress, BBB, TBI, Alzheimer"
       }
     ],
     "gfap_uchl1": [
@@ -340,6 +340,14 @@
     ],
     "nqo2": [
       {
+        "pmid": "42975153",
+        "title": "Quinone Reductase 2 Dimerization is Dynamically Driven by Ligand Binding.",
+        "authors": "Miller M, Loewenthal D, Kukura P, Gould N",
+        "year": 2026,
+        "journal": "Biochemistry",
+        "entities": "NQO2, FAD"
+      },
+      {
         "pmid": "42935200",
         "title": "[Screening and in vivo validation of key targets for triclosan-associated intervertebral disc degeneration].",
         "authors": "Jiang A, Qin B, Li G, Liu J, Muhammad Y et al.",
@@ -410,14 +418,6 @@
         "year": 2026,
         "journal": "Frontiers in plant science",
         "entities": null
-      },
-      {
-        "pmid": "42362189",
-        "title": "Proteome profiling reveals NQO2 activity contributing to proteasome inhibitor resistance in multiple myeloma cell lines.",
-        "authors": "Lee CY, Han S, Haertle L, Munawar U, Vogt C et al.",
-        "year": 2026,
-        "journal": "Molecular & cellular proteomics : MCP",
-        "entities": "NQO2, NQO1, imatinib"
       }
     ],
     "ppcs_prognosis": [
@@ -795,7 +795,7 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3730
+      "paper_count": 3732
     },
     {
       "name": "mTBI",
@@ -805,17 +805,17 @@
     {
       "name": "aging",
       "type": "disease",
-      "paper_count": 1571
+      "paper_count": 1573
     },
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1550
+      "paper_count": 1551
     },
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 956
+      "paper_count": 957
     },
     {
       "name": "tau",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 706
+      "paper_count": 709
     },
     {
       "name": "NfL",
@@ -840,12 +840,12 @@
     {
       "name": "ROS",
       "type": "metabolite",
-      "paper_count": 481
+      "paper_count": 483
     },
     {
       "name": "oxidative stress",
       "type": "pathway",
-      "paper_count": 455
+      "paper_count": 457
     },
     {
       "name": "UCH-L1",
@@ -855,12 +855,12 @@
     {
       "name": "NQO2",
       "type": "protein",
-      "paper_count": 318
+      "paper_count": 319
     },
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 310
+      "paper_count": 312
     },
     {
       "name": "S100B",
@@ -952,12 +952,12 @@
     {
       "source": "Alzheimer",
       "target": "aging",
-      "weight": 859.0
+      "weight": 860.0
     },
     {
       "source": "GFAP",
       "target": "TBI",
-      "weight": 797.0
+      "weight": 798.0
     },
     {
       "source": "mTBI",
@@ -977,7 +977,7 @@
     {
       "source": "ROS",
       "target": "oxidative stress",
-      "weight": 420.0
+      "weight": 422.0
     },
     {
       "source": "TBI",
@@ -987,7 +987,7 @@
     {
       "source": "neuroinflammation",
       "target": "TBI",
-      "weight": 368.0
+      "weight": 370.0
     },
     {
       "source": "TBI",
@@ -1027,7 +1027,7 @@
     {
       "source": "neuroinflammation",
       "target": "aging",
-      "weight": 265.0
+      "weight": 266.0
     },
     {
       "source": "tau",
@@ -1062,17 +1062,17 @@
     {
       "source": "ROS",
       "target": "aging",
-      "weight": 233.0
+      "weight": 234.0
     },
     {
       "source": "oxidative stress",
       "target": "aging",
-      "weight": 226.0
+      "weight": 227.0
     },
     {
       "source": "BBB",
       "target": "TBI",
-      "weight": 214.0
+      "weight": 215.0
     },
     {
       "source": "NfL",
@@ -1127,12 +1127,12 @@
     {
       "source": "ROS",
       "target": "TBI",
-      "weight": 150.0
+      "weight": 151.0
     },
     {
       "source": "oxidative stress",
       "target": "TBI",
-      "weight": 148.0
+      "weight": 149.0
     },
     {
       "source": "TBI",
@@ -1167,12 +1167,12 @@
     {
       "source": "ROS",
       "target": "neuroinflammation",
-      "weight": 125.0
+      "weight": 127.0
     },
     {
       "source": "neuroinflammation",
       "target": "oxidative stress",
-      "weight": 125.0
+      "weight": 127.0
     },
     {
       "source": "p-tau",
@@ -1182,7 +1182,7 @@
     {
       "source": "GFAP",
       "target": "neuroinflammation",
-      "weight": 120.0
+      "weight": 121.0
     },
     {
       "source": "tau",
