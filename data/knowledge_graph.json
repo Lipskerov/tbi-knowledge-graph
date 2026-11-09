@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-04T15:20:14.825945",
-  "n_papers": 7287,
+  "generated_at": "2026-11-09T17:22:56.260994",
+  "n_papers": 7290,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
-    "aging_neuro": 1865,
+    "aging_neuro": 1866,
     "exosomal_rna": 399,
     "gfap_uchl1": 790,
     "nfl_tau": 803,
     "nqo2": 383,
     "ppcs_prognosis": 1033,
     "qr2_inhibitors": 5,
-    "tbi_mild_blood": 941,
+    "tbi_mild_blood": 942,
     "tbi_panel_poc": 254,
-    "tbi_proteomics": 814
+    "tbi_proteomics": 815
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3732,
+      "paper_count": 3734,
       "centrality": 0.4825
     },
     {
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 2375,
+      "paper_count": 2376,
       "centrality": 0.3684
     },
     {
@@ -41,7 +41,7 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1551,
+      "paper_count": 1552,
       "centrality": 0.4211
     },
     {
@@ -62,7 +62,7 @@
       "id": 32,
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 709,
+      "paper_count": 710,
       "centrality": 0.386
     },
     {
@@ -111,7 +111,7 @@
       "id": 37,
       "name": "BBB",
       "type": "process",
-      "paper_count": 312,
+      "paper_count": 313,
       "centrality": 0.307
     },
     {
@@ -1759,8 +1759,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 1600.0,
-      "n_papers": 1600.0,
+      "weight": 1601.0,
+      "n_papers": 1601.0,
       "annotation": null
     },
     {
@@ -1879,8 +1879,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 287.0,
-      "n_papers": 287.0,
+      "weight": 288.0,
+      "n_papers": 288.0,
       "annotation": null
     },
     {
@@ -2289,8 +2289,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 111.0,
-      "n_papers": 111.0,
+      "weight": 112.0,
+      "n_papers": 112.0,
       "annotation": null
     },
     {
@@ -2359,8 +2359,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 99.0,
-      "n_papers": 99.0,
+      "weight": 100.0,
+      "n_papers": 100.0,
       "annotation": null
     },
     {

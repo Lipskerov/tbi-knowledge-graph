@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 7287,
+  "n_papers": 7290,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -60,6 +60,14 @@
         "entities": "aging"
       },
       {
+        "pmid": "43001258",
+        "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
+        "authors": "Tao Z",
+        "year": 2026,
+        "journal": "Aging brain",
+        "entities": "neuroinflammation, BBB, Alzheimer"
+      },
+      {
         "pmid": "42977507",
         "title": "Mitochondria-Associated Membranes as a Convergent Hub of Brain Aging: From Neurodegeneration to Cerebral Ischemia.",
         "authors": "Li M, Xu D, Li Y, Zhao Q",
@@ -82,14 +90,6 @@
         "year": 2026,
         "journal": "Current osteoporosis reports",
         "entities": "BBB, Alzheimer, aging"
-      },
-      {
-        "pmid": "42883921",
-        "title": "Exercise-Induced Extracellular Vesicle-Associated miRNAs in Cognitive Aging of Older Adults: A Narrative Review.",
-        "authors": "Ma\u0142kowska P, Sochacka M, Proia P, Sawczuk M",
-        "year": 2026,
-        "journal": "International journal of molecular sciences",
-        "entities": "ROS, neuroinflammation, oxidative stress, BBB, aging"
       }
     ],
     "exosomal_rna": [
@@ -546,6 +546,14 @@
     ],
     "tbi_mild_blood": [
       {
+        "pmid": "43000583",
+        "title": "Development and validation of an adjunctive diagnostic tool for Canadian CT head rule-positive patients: a pilot study.",
+        "authors": "Lampros M, Symeou S, Vlachodimitropoulou L, Alexiou G, Voulgaris S",
+        "year": 2026,
+        "journal": "Neurosurgical review",
+        "entities": "mTBI, TBI"
+      },
+      {
         "pmid": "42851541",
         "title": "Circulating oligodendrocyte-derived extracellular vesicle surface markers in athletes exposed to repetitive head impacts: an exploratory study.",
         "authors": "Mitsuhashi M, Sun H, Xing L, Hirata A, Oguma Y et al.",
@@ -615,14 +623,6 @@
         "authors": "El Bendary Y, Hounkonnou C, Jeantrelle C, Moyer JD, Iakovlev G et al.",
         "year": 2026,
         "journal": "Journal of neurosurgery",
-        "entities": "mTBI, TBI"
-      },
-      {
-        "pmid": "42605137",
-        "title": "Hemodynamic characterization of cardiac dysfunction after traumatic brain injury using a controlled cortical impact model in male rats.",
-        "authors": "So P, Iyengar A, Weingarten N, Patel M, Dominic J et al.",
-        "year": 2026,
-        "journal": "Physiological reports",
         "entities": "mTBI, TBI"
       }
     ],
@@ -710,6 +710,14 @@
     ],
     "tbi_proteomics": [
       {
+        "pmid": "42999541",
+        "title": "Sustained delivery of 3D-bioprinted stem cell-derived small extracellular vesicles promotes neural regeneration following traumatic brain injury via the CREB1/PGC-1\u03b1/FNDC5 axis.",
+        "authors": "Ai Y, Zhang Q, Chen T, Lin L, Chen Z et al.",
+        "year": 2027,
+        "journal": "Bioactive materials",
+        "entities": "TBI"
+      },
+      {
         "pmid": "42919461",
         "title": "Precision Nanomedicine for Traumatic Neural Injury: Functional Paradigms and Translational Frameworks.",
         "authors": "Sun M, Li S, He Z, Xie J, Luo Y et al.",
@@ -780,14 +788,6 @@
         "year": 2026,
         "journal": "bioRxiv : the preprint server for biology",
         "entities": "TBI"
-      },
-      {
-        "pmid": "42778239",
-        "title": "Long-term recovery and microbiota-gut-brain axis disruption after traumatic brain injury (OVERCOME-TBI): protocol for a prospective, observational clinical study.",
-        "authors": "Artosalo M, \u00d6stberg A, Tenovuo O, Roine T, Mohammadian M et al.",
-        "year": 2026,
-        "journal": "BMJ open",
-        "entities": "neuroinflammation, TBI, Alzheimer, GOS-E"
       }
     ]
   },
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3732
+      "paper_count": 3734
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 2375
+      "paper_count": 2376
     },
     {
       "name": "aging",
@@ -810,7 +810,7 @@
     {
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1551
+      "paper_count": 1552
     },
     {
       "name": "GFAP",
@@ -825,7 +825,7 @@
     {
       "name": "neuroinflammation",
       "type": "pathway",
-      "paper_count": 709
+      "paper_count": 710
     },
     {
       "name": "NfL",
@@ -860,7 +860,7 @@
     {
       "name": "BBB",
       "type": "process",
-      "paper_count": 312
+      "paper_count": 313
     },
     {
       "name": "S100B",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 1600.0
+      "weight": 1601.0
     },
     {
       "source": "Alzheimer",
@@ -1007,7 +1007,7 @@
     {
       "source": "neuroinflammation",
       "target": "Alzheimer",
-      "weight": 287.0
+      "weight": 288.0
     },
     {
       "source": "GFAP",

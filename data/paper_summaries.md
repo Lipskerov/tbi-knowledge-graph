@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-04*
-*Total papers: 7287*
+*Generated: 2026-11-09*
+*Total papers: 7290*
 
 
 ## Cluster: aging_neuro
@@ -1614,6 +1614,13 @@
 **PMID:** 42974162  **DOI:** 10.3389/fimmu.2026.1972284
 **Entities:** ROS, neuroinflammation, oxidative stress, BBB, aging  
 **Abstract:** Aging is the major biological risk factor for cognitive decline and neurodegenerative disease. Increasing evidence indicates that neuroinflammation and cerebrovascular dysfunction are not independent ...
+
+### The hypertension-NVU-cognition Axis: Mechanisms and interventions.
+**Authors:** Tao Z  
+**Journal:** Aging brain (2026)  
+**PMID:** 43001258  **DOI:** 10.1016/j.nbas.2026.100174
+**Entities:** neuroinflammation, BBB, Alzheimer  
+**Abstract:** Midlife hypertension is a major modifiable risk factor for Alzheimer's disease, but the specific molecular pathways through which it contributes to cognitive decline-pathways that are partially indepe...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -37749,6 +37756,13 @@
 **Entities:** mTBI, TBI  
 **Abstract:** OBJECTIVE: Mild traumatic brain injury (mTBI) accounts for the majority of TBI cases. In polytrauma patients admitted to intensive care units (ICUs), mTBI may be associated with more severe clinical p...
 
+### Development and validation of an adjunctive diagnostic tool for Canadian CT head rule-positive patients: a pilot study.
+**Authors:** Lampros M, Symeou S, Vlachodimitropoulou L, Alexiou G, Voulgaris S  
+**Journal:** Neurosurgical review (2026)  
+**PMID:** 43000583  **DOI:** 10.1007/s10143-026-04572-8
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (mTBI) is among the most frequent causes of emergency department visits worldwide. Although the Canadian CT Head Rule (CCHR) and similar algorithms provide high sensitivity...
+
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
 **Journal:** Neurocritical care (2025)  
@@ -45342,6 +45356,13 @@
 
 
 ## Cluster: tbi_proteomics
+
+### Sustained delivery of 3D-bioprinted stem cell-derived small extracellular vesicles promotes neural regeneration following traumatic brain injury via the CREB1/PGC-1α/FNDC5 axis.
+**Authors:** Ai Y, Zhang Q, Chen T, Lin L, Chen Z et al.  
+**Journal:** Bioactive materials (2027)  
+**PMID:** 42999541  **DOI:** 10.1016/j.bioactmat.2026.10.030
+**Entities:** TBI  
+**Abstract:** BACKGROUND: Clinical translation of stem cell-derived small extracellular vesicles (sEVs) for traumatic brain injury (TBI) is restricted by low yield in 2D culture and rapid in vivo clearance. OBJECTI...
 
 ### Multi-omics profiling uncovers LINC00486-associated lncRNA regulation in human traumatic brain injury.
 **Authors:** Al-Rubaye T, Isa Z, Erenkol D, Tarahomi E, Erdogan NS  
