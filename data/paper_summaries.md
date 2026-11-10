@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-09*
-*Total papers: 7290*
+*Generated: 2026-11-10*
+*Total papers: 7291*
 
 
 ## Cluster: aging_neuro
@@ -37762,6 +37762,13 @@
 **PMID:** 43000583  **DOI:** 10.1007/s10143-026-04572-8
 **Entities:** mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (mTBI) is among the most frequent causes of emergency department visits worldwide. Although the Canadian CT Head Rule (CCHR) and similar algorithms provide high sensitivity...
+
+### Initial management of mild traumatic brain injury in emergency departments and walk-in clinics in Argentina. Proposal by the Emergency Council of the Argentine Medical Society (SAM) and the Argentine Scientific Society of Emergency Medicine (SCEA).
+**Authors:** Valdez P, Savia A, Aguilar L  
+**Journal:** Medicina (2026)  
+**PMID:** 43002187  
+**Entities:** mTBI, TBI  
+**Abstract:** Mild traumatic brain injury (MTBI) has traditionally been defined by a Glasgow Coma Scale (GCS) score between 13 and 15 points. It accounts for 80-90% of head injuries treated in emergency departments...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
