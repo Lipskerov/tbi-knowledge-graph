@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T15:31:41.197524",
-  "n_papers": 7291,
+  "generated_at": "2026-11-14T14:04:27.051733",
+  "n_papers": 7295,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
-    "aging_neuro": 1866,
+    "aging_neuro": 1869,
     "exosomal_rna": 399,
     "gfap_uchl1": 790,
-    "nfl_tau": 803,
+    "nfl_tau": 804,
     "nqo2": 383,
     "ppcs_prognosis": 1033,
     "qr2_inhibitors": 5,
@@ -27,21 +27,21 @@
       "id": 38,
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 2377,
+      "paper_count": 2378,
       "centrality": 0.3684
     },
     {
       "id": 710,
       "name": "aging",
       "type": "disease",
-      "paper_count": 1573,
+      "paper_count": 1576,
       "centrality": 0.3684
     },
     {
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1552,
+      "paper_count": 1554,
       "centrality": 0.4211
     },
     {
@@ -311,18 +311,18 @@
       "centrality": 0.1579
     },
     {
+      "id": 45,
+      "name": "Olink",
+      "type": "drug",
+      "paper_count": 20,
+      "centrality": 0.1228
+    },
+    {
       "id": 104,
       "name": "cAMP",
       "type": "metabolite",
       "paper_count": 20,
       "centrality": 0.1053
-    },
-    {
-      "id": 45,
-      "name": "Olink",
-      "type": "drug",
-      "paper_count": 19,
-      "centrality": 0.1228
     },
     {
       "id": 112,
@@ -1769,8 +1769,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 860.0,
-      "n_papers": 860.0,
+      "weight": 862.0,
+      "n_papers": 862.0,
       "annotation": null
     },
     {
@@ -5574,6 +5574,16 @@
       "annotation": null
     },
     {
+      "source": "Olink",
+      "target": "aging",
+      "relation": "co-occurs",
+      "edge_kind": "cooccur",
+      "directed": false,
+      "weight": 6.0,
+      "n_papers": 6.0,
+      "annotation": null
+    },
+    {
       "source": "tau",
       "target": "VILIP-1",
       "relation": "co-occurs",
@@ -5806,16 +5816,6 @@
     {
       "source": "NEAT1",
       "target": "TBI",
-      "relation": "co-occurs",
-      "edge_kind": "cooccur",
-      "directed": false,
-      "weight": 5.0,
-      "n_papers": 5.0,
-      "annotation": null
-    },
-    {
-      "source": "HO-1",
-      "target": "aging",
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,

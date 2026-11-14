@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-10*
-*Total papers: 7291*
+*Generated: 2026-11-14*
+*Total papers: 7295*
 
 
 ## Cluster: aging_neuro
@@ -1621,6 +1621,27 @@
 **PMID:** 43001258  **DOI:** 10.1016/j.nbas.2026.100174
 **Entities:** neuroinflammation, BBB, Alzheimer  
 **Abstract:** Midlife hypertension is a major modifiable risk factor for Alzheimer's disease, but the specific molecular pathways through which it contributes to cognitive decline-pathways that are partially indepe...
+
+### Blood proteomics of menopause map to brain aging and dementia risk.
+**Authors:** Wood Alexander M, Rabin JS, Caunca M, Iadipaolo A, Cornelis L et al.  
+**Journal:** Nature medicine (2026)  
+**PMID:** 42773212  **DOI:** 10.1038/s41591-026-04648-4
+**Entities:** Alzheimer, Olink, aging  
+**Abstract:** Menopause is a hallmark process in biological aging that has been implicated in later neurodegenerative risk, but the pathways underlying this connection remain unclear. Here we used blood proteomics ...
+
+### Mapping the Oral-Nutrition-Brain Axis in Aging: A Scoping Review of Evidence Linking Oral Health, Nutrition, and Cognitive Outcomes.
+**Authors:** Chamut S, Nowak H, Dadras S, Kumari R, Castrejón-Pérez RC et al.  
+**Journal:** Nutrients (2026)  
+**PMID:** 43030267  **DOI:** 10.3390/nu18213637
+**Entities:** aging  
+**Abstract:** 
+
+### Neurovascular-immune-clearance remodeling in brain aging.
+**Authors:** Liu Y, Yang R, Chang H  
+**Journal:** Frontiers in immunology (2026)  
+**PMID:** 43022635  **DOI:** 10.3389/fimmu.2026.1950144
+**Entities:** Alzheimer, aging  
+**Abstract:** Brain aging involves concurrent changes in cerebral vessels, immune regulation, and waste clearance, yet these processes are often studied separately. This fragmented approach limits understanding of ...
 
 ### Chronic social stress induces p16-mediated senescent cell accumulation in mice.
 **Authors:** Lyons CE, Pallais JP, McGonigle S, Mansk RP, Collinge CW et al.  
@@ -27019,6 +27040,13 @@
 **PMID:** 34145160  **DOI:** 10.1097/HTR.0000000000000700
 **Entities:** TBI  
 **Abstract:** OBJECTIVE: To adapt the Boston Assessment of TBI-Lifetime (BAT-L) interview specifically for female survivors of intimate partner violence (IPV), validate the adapted BAT-L/IPV, and report the prevale...
+
+### Higher Cardiovascular Risk Factor Burden Associated With Cumulative Concussion History and Age-Related Differences.
+**Authors:** Brett BL, Sullivan ME, Aggarwal NT, Kerr ZY, Chandran A et al.  
+**Journal:** The Journal of head trauma rehabilitation (—)  
+**PMID:** 41423773  **DOI:** 10.1097/HTR.0000000000001140
+**Entities:** mTBI  
+**Abstract:** OBJECTIVE: Growing evidence suggests cardiovascular dysfunction represents 1 pathway by which recurrent concussion may lead to adverse long-term outcomes, with earlier onset increasing risk. We invest...
 
 
 ## Cluster: nqo2
