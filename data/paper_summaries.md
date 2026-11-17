@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-16*
-*Total papers: 7296*
+*Generated: 2026-11-17*
+*Total papers: 7297*
 
 
 ## Cluster: aging_neuro
@@ -43610,6 +43610,13 @@
 
 
 ## Cluster: tbi_panel_poc
+
+### Concussion in the Emergency Department.
+**Authors:** Bonilla A, Legome E, Taylor S  
+**Journal:** Emergency medicine clinics of North America (2027)  
+**PMID:** 43039511  **DOI:** 10.1016/j.emc.2026.07.008
+**Entities:** mTBI, TBI  
+**Abstract:** Traumatic brain injuries (TBIs) account for a significant number of emergency department (ED) visits each year. Concussions, a type of mild TBI, represent the majority of these cases; however, there i...
 
 ### Hardware Technology for Point-of-Care EEG: A Comprehensive Review.
 **Authors:** Herman ST  
