@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T16:50:17.389445",
-  "n_papers": 7297,
+  "generated_at": "2026-11-18T16:21:47.021986",
+  "n_papers": 7298,
   "n_entities": 115,
   "n_edges": 760,
   "cluster_stats": {
@@ -13,14 +13,14 @@
     "qr2_inhibitors": 5,
     "tbi_mild_blood": 943,
     "tbi_panel_poc": 256,
-    "tbi_proteomics": 815
+    "tbi_proteomics": 816
   },
   "nodes": [
     {
       "id": 39,
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3737,
+      "paper_count": 3738,
       "centrality": 0.4825
     },
     {
@@ -41,7 +41,7 @@
       "id": 42,
       "name": "Alzheimer",
       "type": "disease",
-      "paper_count": 1554,
+      "paper_count": 1555,
       "centrality": 0.4211
     },
     {
@@ -1829,8 +1829,8 @@
       "relation": "co-occurs",
       "edge_kind": "cooccur",
       "directed": false,
-      "weight": 411.0,
-      "n_papers": 411.0,
+      "weight": 412.0,
+      "n_papers": 412.0,
       "annotation": null
     },
     {

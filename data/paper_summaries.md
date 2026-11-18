@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-17*
-*Total papers: 7297*
+*Generated: 2026-11-18*
+*Total papers: 7298*
 
 
 ## Cluster: aging_neuro
@@ -46322,6 +46322,13 @@
 **PMID:** 42919461  **DOI:** 10.1002/advs.78308
 **Entities:** ROS, neuroinflammation, oxidative stress, TBI  
 **Abstract:** Traumatic neural injuries, including traumatic brain injury (TBI), spinal cord injury (SCI), and peripheral nerve injury (PNI), impose a substantial global burden. These injuries converge on oxidative...
+
+### Metabolomics Profiling of Serum Small Extracellular Vesicle-Enriched Fractions Across Early Post-Injury Intervals Following Severe Traumatic Brain Injury.
+**Authors:** Fowowe M, Oluokun O, Daramola O, Oluokun A, Adeniyi M et al.  
+**Journal:** ACS chemical neuroscience (2026)  
+**PMID:** 43046857  **DOI:** 10.1021/acschemneuro.6c00634
+**Entities:** TBI, Alzheimer  
+**Abstract:** Severe traumatic brain injury (sTBI) induces metabolic disturbances that remain difficult to assess non-invasively. This exploratory study compared metabolomics profiles of serum small extracellular v...
 
 ### Selenized neural stem cell-derived exosomes: A neotype therapeutic agent for traumatic injuries of the central nervous system.
 **Authors:** Wang W, Lu G, Guo P, Zhang H, Wang Y et al.  
