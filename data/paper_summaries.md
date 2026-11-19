@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-18*
-*Total papers: 7298*
+*Generated: 2026-11-19*
+*Total papers: 7299*
 
 
 ## Cluster: aging_neuro
@@ -43883,6 +43883,13 @@
 **PMID:** 43036479  **DOI:** 10.1177/2689288X261477535
 **Entities:** GFAP, tau, mTBI, TBI, NSE  
 **Abstract:** Given the prevalence of mild traumatic brain injury (mTBI) and sports-related concussion, the development of efficient diagnosis methods is essential. Although magnetic resonance imaging (MRI) and com...
+
+### Readying Asia-Pacific health systems for integration of blood-based biomarkers in mild traumatic brain injury assessment: An expert opinion review.
+**Authors:** Yokobori S, Lee CC, Cordero J, Musaad SM, Liao KH et al.  
+**Journal:** Neurotrauma reports (2026)  
+**PMID:** 43048212  **DOI:** 10.1177/2689288X261494895
+**Entities:** GFAP, UCH-L1, mTBI, TBI  
+**Abstract:** Rapid screening tests incorporating brain biomarkers offer a practical solution to some persistent challenges in acute mild traumatic brain injury (mTBI) assessment by functioning as high-negative pre...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
