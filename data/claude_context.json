@@ -1,6 +1,6 @@
 {
   "description": "TBI Knowledge Base \u2014 compact context for Claude queries",
-  "n_papers": 7299,
+  "n_papers": 7301,
   "clusters": {
     "nqo2": "NQO2/QR2 pathway in brain/TBI/neurodegeneration",
     "gfap_uchl1": "GFAP and UCH-L1 as TBI diagnostic biomarkers",
@@ -282,6 +282,14 @@
         "entities": "tau, p-tau, Alzheimer"
       },
       {
+        "pmid": "43056193",
+        "title": "Sport-related concussion.",
+        "authors": "Kaluskov\u00e1 I, Hon P, Voln\u00fd O",
+        "year": 2026,
+        "journal": "Rozhledy v chirurgii : mesicnik Ceskoslovenske chirurgicke spolecnosti",
+        "entities": "GFAP, UCH-L1, NfL, tau, mTBI"
+      },
+      {
         "pmid": "42799927",
         "title": "Sunflower oil-loaded lycopene protects intestinal barrier integrity following traumatic brain injury.",
         "authors": "Lin T, Liu Q, Liu M, Chen X, Huang L et al.",
@@ -328,14 +336,6 @@
         "year": 2026,
         "journal": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
         "entities": "NfL, mTBI"
-      },
-      {
-        "pmid": "42642105",
-        "title": "Prevalence of chronic traumatic encephalopathy at death in National Football League players: retrospective population based cohort study, 2008-21.",
-        "authors": "Daneshvar DH, Nowinski CJ, Abdolmohammadi B, Luster CB, Uretsky M et al.",
-        "year": 2026,
-        "journal": "BMJ (Clinical research ed.)",
-        "entities": "NfL, CTE, Alzheimer"
       }
     ],
     "nqo2": [
@@ -546,6 +546,14 @@
     ],
     "tbi_mild_blood": [
       {
+        "pmid": "43054943",
+        "title": "Multimodal brain imaging of mild traumatic brain injuries in athletes: a systematic review with narrative synthesis.",
+        "authors": "Bergauer AE, Richlan F",
+        "year": 2026,
+        "journal": "Frontiers in neurology",
+        "entities": "mTBI, TBI"
+      },
+      {
         "pmid": "43002187",
         "title": "Initial management of mild traumatic brain injury in emergency departments and walk-in clinics in Argentina. Proposal by the Emergency Council of the Argentine Medical Society (SAM) and the Argentine Scientific Society of Emergency Medicine (SCEA).",
         "authors": "Valdez P, Savia A, Aguilar L",
@@ -616,14 +624,6 @@
         "year": 2026,
         "journal": "Frontiers in pediatrics",
         "entities": null
-      },
-      {
-        "pmid": "42665398",
-        "title": "Predictors of Intracranial Hemorrhage on Initial Head Computed Tomography After Mild Traumatic Brain Injury.",
-        "authors": "Lin CY, Hsieh MH, Yen TL, Liu CC, Hsieh CT",
-        "year": 2026,
-        "journal": "In vivo (Athens, Greece)",
-        "entities": "mTBI, TBI, aging"
       }
     ],
     "tbi_panel_poc": [
@@ -795,12 +795,12 @@
     {
       "name": "TBI",
       "type": "disease",
-      "paper_count": 3739
+      "paper_count": 3740
     },
     {
       "name": "mTBI",
       "type": "disease",
-      "paper_count": 2381
+      "paper_count": 2383
     },
     {
       "name": "aging",
@@ -815,12 +815,12 @@
     {
       "name": "GFAP",
       "type": "protein",
-      "paper_count": 959
+      "paper_count": 960
     },
     {
       "name": "tau",
       "type": "protein",
-      "paper_count": 906
+      "paper_count": 907
     },
     {
       "name": "neuroinflammation",
@@ -830,7 +830,7 @@
     {
       "name": "NfL",
       "type": "protein",
-      "paper_count": 549
+      "paper_count": 550
     },
     {
       "name": "PPCS",
@@ -850,7 +850,7 @@
     {
       "name": "UCH-L1",
       "type": "protein",
-      "paper_count": 330
+      "paper_count": 331
     },
     {
       "name": "NQO2",
@@ -947,7 +947,7 @@
     {
       "source": "mTBI",
       "target": "TBI",
-      "weight": 1605.0
+      "weight": 1606.0
     },
     {
       "source": "Alzheimer",
@@ -1007,7 +1007,7 @@
     {
       "source": "GFAP",
       "target": "mTBI",
-      "weight": 289.0
+      "weight": 290.0
     },
     {
       "source": "neuroinflammation",
@@ -1017,12 +1017,12 @@
     {
       "source": "GFAP",
       "target": "UCH-L1",
-      "weight": 286.0
+      "weight": 287.0
     },
     {
       "source": "GFAP",
       "target": "NfL",
-      "weight": 274.0
+      "weight": 275.0
     },
     {
       "source": "neuroinflammation",
@@ -1037,17 +1037,17 @@
     {
       "source": "GFAP",
       "target": "tau",
-      "weight": 262.0
+      "weight": 263.0
     },
     {
       "source": "NfL",
       "target": "tau",
-      "weight": 260.0
+      "weight": 261.0
     },
     {
       "source": "tau",
       "target": "mTBI",
-      "weight": 259.0
+      "weight": 260.0
     },
     {
       "source": "S100B",
@@ -1077,7 +1077,7 @@
     {
       "source": "NfL",
       "target": "mTBI",
-      "weight": 199.0
+      "weight": 200.0
     },
     {
       "source": "NfL",
@@ -1112,7 +1112,7 @@
     {
       "source": "UCH-L1",
       "target": "mTBI",
-      "weight": 154.0
+      "weight": 155.0
     },
     {
       "source": "tau",

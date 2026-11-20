@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-19*
-*Total papers: 7299*
+*Generated: 2026-11-20*
+*Total papers: 7301*
 
 
 ## Cluster: aging_neuro
@@ -21910,6 +21910,13 @@
 **Entities:** —  
 **Abstract:** BACKGROUND: Women's lacrosse is an increasingly popular sport. Current rules allow incidental body and stick-to-stick contact, with limited required protective equipment. Injuries to the head, face, a...
 
+### Sport-related concussion.
+**Authors:** Kalusková I, Hon P, Volný O  
+**Journal:** Rozhledy v chirurgii : mesicnik Ceskoslovenske chirurgicke spolecnosti (2026)  
+**PMID:** 43056193  **DOI:** 10.48095/ccrvch2026426
+**Entities:** GFAP, UCH-L1, NfL, tau, mTBI  
+**Abstract:** Sport-related concussion (SRC) is an issue affecting common clinical practice across medical specialties. Accurate diagnosis, therapy, and prevention are essential for acute management and the athlete...
+
 ### Post-traumatic headache phenotypes and clinical characteristics.
 **Authors:** Cortel-LeBlanc A, Cortel-LeBlanc M, Webster RJ, Chen K, Schytz HW et al.  
 **Journal:** Cephalalgia : an international journal of headache (2025)  
@@ -37797,6 +37804,13 @@
 **PMID:** 43002187  
 **Entities:** mTBI, TBI  
 **Abstract:** Mild traumatic brain injury (MTBI) has traditionally been defined by a Glasgow Coma Scale (GCS) score between 13 and 15 points. It accounts for 80-90% of head injuries treated in emergency departments...
+
+### Multimodal brain imaging of mild traumatic brain injuries in athletes: a systematic review with narrative synthesis.
+**Authors:** Bergauer AE, Richlan F  
+**Journal:** Frontiers in neurology (2026)  
+**PMID:** 43054943  **DOI:** 10.3389/fneur.2026.1929474
+**Entities:** mTBI, TBI  
+**Abstract:** UNLABELLED: Mild traumatic brain injury (mTBI) is a neurological event caused by external mechanical force to the head. Athletes in contact sports are at particular risk for repeated mTBI, which may r...
 
 ### Diagnostic Accuracy of S100B in Predicting Intracranial Abnormalities on CT Imaging Following Mild Traumatic Brain Injury: A Systematic Review and Meta-analysis.
 **Authors:** Karamian A, Farzaneh H, Khoshnoodi M, Maleki N, Karamian A et al.  
