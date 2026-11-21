@@ -1,6 +1,6 @@
 # TBI Knowledge Base — Paper Index
-*Generated: 2026-11-20*
-*Total papers: 7301*
+*Generated: 2026-11-21*
+*Total papers: 7302*
 
 
 ## Cluster: aging_neuro
@@ -43904,6 +43904,13 @@
 **PMID:** 43048212  **DOI:** 10.1177/2689288X261494895
 **Entities:** GFAP, UCH-L1, mTBI, TBI  
 **Abstract:** Rapid screening tests incorporating brain biomarkers offer a practical solution to some persistent challenges in acute mild traumatic brain injury (mTBI) assessment by functioning as high-negative pre...
+
+### Feasibility of a prehospital point-of-care bioassay in patients with mild traumatic brain injury (GFAP-TBI): a pilot simulation study.
+**Authors:** Quinlan M, Levy MJ, Vetreno KG, Meyer T, Ziai WC  
+**Journal:** Trauma surgery & acute care open (2026)  
+**PMID:** 43061366  **DOI:** 10.1136/tsaco-2026-002383
+**Entities:** GFAP, mTBI, TBI  
+**Abstract:** BACKGROUND: Rapid prehospital identification of intracranial hemorrhage (ICH) after traumatic brain injury (TBI) remains a challenge. Point-of-care (POC) bioassays of biomarkers of ICH, glial fibrilla...
 
 ### Structural and functional neuroplasticity in music and dance-based rehabilitation: a systematic review.
 **Authors:** Blasi V, Rapisarda L, Cacciatore DM, Palumbo E, Di Tella S et al.  
